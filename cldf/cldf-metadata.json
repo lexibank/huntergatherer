@@ -198,7 +198,7 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "Semantic_field"
+                        "name": "Semantic_category"
                     }
                 ],
                 "primaryKey": [

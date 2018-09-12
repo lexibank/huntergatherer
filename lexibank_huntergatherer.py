@@ -26,7 +26,7 @@ class HGLexeme(Lexeme):
 
 @attr.s
 class HGConcept(Concept):
-    Semantic_field = attr.ib(default=None)
+    Semantic_category = attr.ib(default=None)
 
 
 class Dataset(BaseDataset):
@@ -104,7 +104,7 @@ class Dataset(BaseDataset):
                                 ID=href.split('/')[-1],
                                 Name=concept,
                                 Concepticon_ID=concept_map.get(concept),
-                                Semantic_field=item['Semantic Field'])
+                                Semantic_category=item['Semantic Field'])
                             ds.add_lexemes(
                                 Language_ID=data['id'],
                                 Parameter_ID=href.split('/')[-1],
