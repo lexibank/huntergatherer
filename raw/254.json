@@ -1,0 +1,3873 @@
+{
+    "Data Sources": "Michael, Lev David. 2008. Nanti evidential practice: Language, knowledge, and social action in an Amazonian society. University of Texas at Austin. Austin: UMI. ",
+    "tables": {
+        "grammar": {
+            "header": [
+                "Category",
+                "Grammatical Feature",
+                "Grammatical Feature: Notes",
+                "Feature Status",
+                "Phonemicized Form",
+                "Orthographic Form",
+                "Grammatical Notes",
+                "Source",
+                "Created By",
+                "Etymology Notes",
+                "General Notes",
+                "Phylogenetic Code"
+            ],
+            "rows": [
+                [
+                    "Phonology - Segmental",
+                    [
+                        "/grammar/feature/1",
+                        "Pre-/post-nasalized stops"
+                    ],
+                    "Analysis posits that the stop is the most relevant underlying phoneme. Comment in notes on whether the nasal contour is understood as a phonetic (allophonic) effect, or is phonologically contrastive. ",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, Lev. 2008. Nanti Evidential Practice: Language, knowledge and social action in an Amazonian society. Austin, TX: University of Texas at Austin dissertation. p. 221",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Phonology - Segmental",
+                    [
+                        "/grammar/feature/2",
+                        "Glottalized/ejective consonants"
+                    ],
+                    "Phonemic contrast [NOT counting glottal stop/fricative]",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 221",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Phonology - Segmental",
+                    [
+                        "/grammar/feature/3",
+                        "Palatalized stops"
+                    ],
+                    "Phonemic contrast",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 221",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Phonology - Segmental",
+                    [
+                        "/grammar/feature/4",
+                        "Phonemic vowel length"
+                    ],
+                    "Does the language have long and short vowels?",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 221",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Phonology - Segmental",
+                    [
+                        "/grammar/feature/5",
+                        "Phonemic glottalization/laryngealization of vowels"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 225",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Phonology - Segmental",
+                    [
+                        "/grammar/feature/6",
+                        "Complex onsets"
+                    ],
+                    "Onset consists of more than one consonant phoneme",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 225",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Phonology - Segmental",
+                    [
+                        "/grammar/feature/7",
+                        "No codas"
+                    ],
+                    "*(C)VC [no also equals highly constrained]",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 240",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Phonology - Segmental",
+                    [
+                        "/grammar/feature/8",
+                        "Word-final coda required"
+                    ],
+                    "Do all syllables end in a consonant?",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 221",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Phonology - Suprasegmental",
+                    [
+                        "/grammar/feature/9",
+                        "Contrastive tones"
+                    ],
+                    "Note how many contrastive tones",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Phonology - Suprasegmental",
+                    [
+                        "/grammar/feature/10",
+                        "Contrastive stress"
+                    ],
+                    "Does stress occur on different syllables with meaning difference?",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 231-236",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Phonology - Suprasegmental",
+                    [
+                        "/grammar/feature/11",
+                        "Nasalization property of morpheme or syllable"
+                    ],
+                    "In contrast to nasalization as a property of segments",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 221",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Phonology - Suprasegmental",
+                    [
+                        "/grammar/feature/12",
+                        "Nasal spreading across some morpheme boundaries"
+                    ],
+                    "Do some affixes or other morphemes take the nasal/oral properties of the root they attach to?",
+                    "no",
+                    "",
+                    "",
+                    "/h/ triggers nasalization on preceding vowel.",
+                    "Michael, 2008. p. 231",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Phonology - Suprasegmental",
+                    [
+                        "/grammar/feature/13",
+                        "Vowel harmony"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Morphology - General",
+                    [
+                        "/grammar/feature/14",
+                        "Verbal fusion (2+ categories marked by portmanteau morphemes on verb)"
+                    ],
+                    "Verb combines two or more categories (tense, aspect, mood, person, number, etc.) in portmanteau morphemes{ [ignore proclitics unless they are fused with values other than person/number]",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 249",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Morphology - General",
+                    [
+                        "/grammar/feature/15",
+                        "Inflection manifested by replacement of segmental or suprasegmental phonemes"
+                    ],
+                    "Stem change, tone",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Morphology - General",
+                    [
+                        "/grammar/feature/16",
+                        "Verbal synthesis (1+ inflectional categories marked by verbal affixes)"
+                    ],
+                    "Morphological complexity in verbs - multiple inflectional affixes in a single verb word",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Morphology - General",
+                    [
+                        "/grammar/feature/17",
+                        "Prefixing/suffixing inflectional morph: strongly prefixing"
+                    ],
+                    "There are many more prefixes than suffixes",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 248",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Morphology - General",
+                    [
+                        "/grammar/feature/18",
+                        "Prefixing/suffixing inflectional morph: strongly suffixing"
+                    ],
+                    "There are many more suffixes than prefixes",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 248",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Morphology - General",
+                    [
+                        "/grammar/feature/19",
+                        "Prefixing/suffixing inflectional morph: roughly equal or one weakly preferred"
+                    ],
+                    "The numbers of suffixes and prefixes are not notably different",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 248",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Morphology - General",
+                    [
+                        "/grammar/feature/20",
+                        "Reduplication: full"
+                    ],
+                    "The full morpheme is reduplicated",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Morphology - General",
+                    [
+                        "/grammar/feature/21",
+                        "Reduplication: partial"
+                    ],
+                    "Only part of the morpheme is reduplicated",
+                    "no",
+                    "",
+                    "",
+                    "Syllables can be reduplicated in order to meet metrical restraints in kariNtaa poetry, but no indication that reduplication serves any \u201cgrammatical\u201d purpose.",
+                    "Michael, 2008",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Morphology - Compounding, auxiliaries, light verbs",
+                    [
+                        "/grammar/feature/22",
+                        "Productive NN compounding"
+                    ],
+                    "Noun compounds created from two noun phrases are common and systematically produced",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 293",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Morphology - Compounding, auxiliaries, light verbs",
+                    [
+                        "/grammar/feature/23",
+                        "Productive VV serialization (without compounding)"
+                    ],
+                    "Verb roots can be combined in a single predicate without markers of subordination (distinct from subordinating construction) or distinct inflection",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Morphology - Compounding, auxiliaries, light verbs",
+                    [
+                        "/grammar/feature/24",
+                        "Productive VV compounding"
+                    ],
+                    "Serial verb constructions involve chaining of roots together in one morphophonological word",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Morphology - Compounding, auxiliaries, light verbs",
+                    [
+                        "/grammar/feature/25",
+                        "Verb-adjunct (aka light verb) constructions"
+                    ],
+                    "There is a set of semantically weak verbs used in complex verbal constructions, e.g. 'take a nap'",
+                    "yes",
+                    "",
+                    "",
+                    "At least one light verb--kaNt 'do'",
+                    "Michael, 2008. p. 395, 436",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Morphology - Compounding, auxiliaries, light verbs",
+                    [
+                        "/grammar/feature/26",
+                        "Auxiliary verb(s)"
+                    ],
+                    "There are verbs that accompany main verbs of clauses and take grammatical marking not expressed by main verbs",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Morphology - Incorporation",
+                    [
+                        "/grammar/feature/27",
+                        "Incorporation of nouns into verbs is a productive intransitivizing process"
+                    ],
+                    "Verb contains nominal segment",
+                    "yes",
+                    "",
+                    "",
+                    "Only inalienably-possessed nouns, and, of those, only \u201cpart\u201d terms--no nouns for manufactured items (e.g., \u201cbow.\u201d). Happens with verbs, adjectives and numerals.",
+                    "Michael, 2008. p. 327",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Morphology - Incorporation",
+                    [
+                        "/grammar/feature/28",
+                        "Productive incorporation of other elements (adjectives, locatives, etc.) into verbs"
+                    ],
+                    "Like noun incorporation, but incorporated  elements are not nouns",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 327-331",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Gender and noun classification",
+                    [
+                        "/grammar/feature/29",
+                        "Noun classes/genders"
+                    ],
+                    "Nouns are organized into sets with distinct morphological treatment; usually affects all nouns and involves agreement within the NP",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 294",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Gender and noun classification",
+                    [
+                        "/grammar/feature/30",
+                        "Number of noun classes/genders"
+                    ],
+                    "Note the (approximate) total number of noun classes/genders",
+                    "2",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 294",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Gender and noun classification",
+                    [
+                        "/grammar/feature/31",
+                        "Noun classifiers (distinct from noun classes/genders)"
+                    ],
+                    "Nouns are organized into sets, but only a limited set of nouns may be implicated, with no or limited agreement marking. If only numeral classifiers exist, indicate yes but explain.",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 332",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Gender and noun classification",
+                    [
+                        "/grammar/feature/32",
+                        "Sex is a relevant category in noun class(ification) system for animates"
+                    ],
+                    "Masculine, feminine, neuter",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 294",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Gender and noun classification",
+                    [
+                        "/grammar/feature/33",
+                        "Sex is a relevant category in noun class(ification) system for inanimates"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "All animates are \u201cfeminine.\u201d",
+                    "Michael, 2008. p. 294",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Gender and noun classification",
+                    [
+                        "/grammar/feature/34",
+                        "Animacy (w/o reference to sex) is a relevant category in the noun class(ification) system"
+                    ],
+                    "Animate/inanimate, human/non-human",
+                    "yes",
+                    "",
+                    "",
+                    "Animacy agreement is marked on numerals, some adjectives, some indefinite quantifiers, and existential verb. On verbal person markers and nominal possessive markers, all inanimates belong to the \u201cfeminine\u201d class.",
+                    "Michael, 2008. p. 294-295",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Gender and noun classification",
+                    [
+                        "/grammar/feature/35",
+                        "Sex/gender distinction only in 3rd person pronouns"
+                    ],
+                    "add in notes section whether gender is present in other PNs or not in any PNs; consider with reference to pronouns and person marking only",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 295",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Gender and noun classification",
+                    [
+                        "/grammar/feature/36",
+                        "Shape is a relevant category in the noun class(ification) system for animates"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "No mention of or examples of animates using shape classifiers.",
+                    "Michael, 2008. p. 332-340",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Gender and noun classification",
+                    [
+                        "/grammar/feature/37",
+                        "Shape is a relevant category in the noun class(ification) system for inanimates"
+                    ],
+                    "",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 332",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Gender and noun classification",
+                    [
+                        "/grammar/feature/38",
+                        "\"Repeater\" classifiers"
+                    ],
+                    "Where no distinct classifier exists, a copy of the noun itself may function in the morphosyntactic classifier \"slot\"",
+                    "no",
+                    "",
+                    "",
+                    "No mention in discussion of classifier system.",
+                    "Michael, 2008. p. 332-340",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Gender and noun classification",
+                    [
+                        "/grammar/feature/39",
+                        "Numeral classifiers (specific to numerals)"
+                    ],
+                    "Special classifier forms that occur only with numerals",
+                    "no",
+                    "",
+                    "",
+                    "Numerals use classifiers, but they are the same classfiers that are used with verbs, adjectives and nouns.",
+                    "Michael, 2008. p. 332",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Gender and noun classification",
+                    [
+                        "/grammar/feature/40",
+                        "Classifiers used as derivational suffixes to derive nouns"
+                    ],
+                    "Verb + classifier = 'thing for doing V, thing that does V, etc.'",
+                    "no",
+                    "",
+                    "",
+                    "Classifiers can be used with verbs, but they classify the notional subject of an intransitive or the notional object of a transitive.",
+                    "Michael, 2008. p. 332",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Number",
+                    [
+                        "/grammar/feature/41",
+                        "Singular number may be marked on the noun"
+                    ],
+                    "Often occurs in a small subset of nouns if a single entity is referred to, e.g. insects that normally occur in groups",
+                    "no",
+                    "",
+                    "",
+                    "Two plural suffixes, no singular suffix described.",
+                    "Michael, 2008. p. 297",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Number",
+                    [
+                        "/grammar/feature/42",
+                        "Plural affix on noun"
+                    ],
+                    "",
+                    "yes",
+                    "-hegi (plural), -page (collective plural)",
+                    "-hegi (plural), -page (collective plural)",
+                    "",
+                    "Michael, 2008. p. 297",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Number",
+                    [
+                        "/grammar/feature/43",
+                        "Plural marked by stem change or tone on noun"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 297",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Number",
+                    [
+                        "/grammar/feature/44",
+                        "Plural marked by reduplication of noun"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 297",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Number",
+                    [
+                        "/grammar/feature/45",
+                        "Plural word/clitic"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 297",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Number",
+                    [
+                        "/grammar/feature/46",
+                        "Plural marked on human or animate nouns only"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "Example 6.143 shows plural marker with inanimate.",
+                    "Michael, 2008. p. 297",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Number",
+                    [
+                        "/grammar/feature/47",
+                        "Pronominal plural: stem + nominal plural affix"
+                    ],
+                    "Pronouns use a nominal plural affix not specific to pronouns",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 297",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Number",
+                    [
+                        "/grammar/feature/48",
+                        "Unique associative plural marker"
+                    ],
+                    "e.g. 'John and his associates', 'John and them'",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 297",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Definiteness and clusivity",
+                    [
+                        "/grammar/feature/49",
+                        "Definite or specific articles"
+                    ],
+                    "Definite = particular referent known to both speaker and addressee; specific = particular referent known to speaker only",
+                    "yes",
+                    "",
+                    "",
+                    "\u201cSpecific\u201d articles, use the same form as demonstratives.",
+                    "Michael, 2008. p. 306",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Definiteness and clusivity",
+                    [
+                        "/grammar/feature/50",
+                        "Marker of definiteness distinct from demonstratives"
+                    ],
+                    "Focus on articles/markers whose primary function is to mark definiteness",
+                    "no",
+                    "",
+                    "",
+                    "They use the same phonological form.",
+                    "Michael, 2008. p. 304-306",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Definiteness and clusivity",
+                    [
+                        "/grammar/feature/51",
+                        "Indefinite or non-specific article"
+                    ],
+                    "or marker",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 304-309",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Definiteness and clusivity",
+                    [
+                        "/grammar/feature/52",
+                        "Inclusive/exclusive: in free pronominals"
+                    ],
+                    "Inclusive  =us + you, exclusive = us but not you",
+                    "yes",
+                    "",
+                    "",
+                    "1st person singular and 1st person plural exclusive take same form, 1st person plural inclusive is distinct.",
+                    "Michael, 2008. p. 348",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Definiteness and clusivity",
+                    [
+                        "/grammar/feature/53",
+                        "Inclusive/exclusive: in verbal inflection (bound)"
+                    ],
+                    "",
+                    "yes",
+                    "",
+                    "",
+                    "1st person singular and 1st person plural exclusive take same form, 1st person plural inclusive is distinct.",
+                    "Michael, 2008. p. 267",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Definiteness and clusivity",
+                    [
+                        "/grammar/feature/54",
+                        "Distance contrasts in demonstratives (number)"
+                    ],
+                    "Note the number of distances in the demonstrative system",
+                    "3",
+                    "",
+                    "",
+                    "speaker and addressee proximal, speaker proximal, and speaker distal",
+                    "Michael, 2008. p. 304-305",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Definiteness and clusivity",
+                    [
+                        "/grammar/feature/55",
+                        "Other contrasts in demonstratives (visibility, elevation, etc.)"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 304-305",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Pronominal categories",
+                    [
+                        "/grammar/feature/56",
+                        "Gender in 3sg pronouns"
+                    ],
+                    "",
+                    "yes",
+                    "iriro (masc.), iroro (non-masc.)",
+                    "iriro (masc.), iroro (non-masc.)",
+                    "",
+                    "Michael 2008. p. 348",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Pronominal categories",
+                    [
+                        "/grammar/feature/57",
+                        "Gender in 3pl pronouns"
+                    ],
+                    "",
+                    "yes",
+                    "irirohegi (masc.), irorohegi (non-masc.)",
+                    "irirohegi (masc.), irorohegi (non-masc.)",
+                    "",
+                    "Michael, 2008. p. 348",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Pronominal categories",
+                    [
+                        "/grammar/feature/58",
+                        "Gender in 1st and/or 2nd person pronouns"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 348",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Pronominal categories",
+                    [
+                        "/grammar/feature/59",
+                        "Formal/informal distinction in pronouns"
+                    ],
+                    "Polite pronominal variants or differential avoidance of pronouns",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 348",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Pronominal categories",
+                    [
+                        "/grammar/feature/60",
+                        "Reflexive pronouns"
+                    ],
+                    "e.g. English 'himself', Spanish 'se'; distinct form(s) from basic (non-reflexive) pronominals; distinct from reflexive verbal affix",
+                    "yes",
+                    "",
+                    "",
+                    "The verbal person markers + -kiro are used to make reflexive pronouns. They don't have plural forms and can be in either topic or argument position. ",
+                    "Michael, 2008. p. 377",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Case and adpositions",
+                    [
+                        "/grammar/feature/61",
+                        "Adpositions mark core NPs"
+                    ],
+                    "Prepositions or postpositions mark subjects, objects, beneficiaries/recipients",
+                    "no",
+                    "",
+                    "",
+                    "Core arguments marked on verb or with free pronouns/nouns.",
+                    "Michael, 2008. p. 340-343",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Case and adpositions",
+                    [
+                        "/grammar/feature/62",
+                        "Case: number of cases"
+                    ],
+                    "Note the number of grammatical relations that may be morphologically marked on the noun",
+                    "1",
+                    "locative -k\u026fi",
+                    "locative -ku",
+                    "",
+                    "Michael, 2008. p. 354-355",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Case and adpositions",
+                    [
+                        "/grammar/feature/63",
+                        "Case: only non-core arguments morphologically marked"
+                    ],
+                    "Subjects, objects, beneficiaries/recipients NOT marked, but other grammatical relations are",
+                    "yes",
+                    "",
+                    "",
+                    "There is a locative case marker, but other semantically oblique arguments use an \u201capplicative\u201d marker on the verb.",
+                    "Michael, 2008. p. 340-355",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Case and adpositions",
+                    [
+                        "/grammar/feature/64",
+                        "Case: symmetrical"
+                    ],
+                    "All NPs marked if in appropriate syntactic relation; no distinction in marking based on semantics (type of entity)",
+                    "no",
+                    "",
+                    "",
+                    "There is only one case marker, which is a locative marker, so by default most of the marked nouns would be inanimates. It's unclear what happens with animates.",
+                    "Michael, 2008. p. 354-355",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Case and adpositions",
+                    [
+                        "/grammar/feature/65",
+                        "Case: asymmetrical "
+                    ],
+                    "Semantically defined subset of NPs marked for case, e.g. animates",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 354-355",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Case and adpositions",
+                    [
+                        "/grammar/feature/66",
+                        "Case: suffix or postpositional clitic"
+                    ],
+                    "",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 354-355",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Case and adpositions",
+                    [
+                        "/grammar/feature/67",
+                        "Case: prefix or prepositional clitic"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 354-355",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Case and adpositions",
+                    [
+                        "/grammar/feature/68",
+                        "Case: infix or inpositional clitic"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 354-355",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Case and adpositions",
+                    [
+                        "/grammar/feature/69",
+                        "Case: stem change"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 354-355",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Case and adpositions",
+                    [
+                        "/grammar/feature/70",
+                        "Case: tone"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 354-355",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Case and adpositions",
+                    [
+                        "/grammar/feature/71",
+                        "Case: comitative = instrumental"
+                    ],
+                    "Same marking for 'with a person' and 'with an instrument'",
+                    "n/a",
+                    "",
+                    "",
+                    "No comitative or instrumental case. The verbal applicative marker for instrumental does not have a comitative reading.",
+                    "Michael, 2008. p. 285, 354-355",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Numerals",
+                    [
+                        "/grammar/feature/72",
+                        "Base-2"
+                    ],
+                    "At least some part of the system involves base-2",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 311-312",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Numerals",
+                    [
+                        "/grammar/feature/73",
+                        "Base-5"
+                    ],
+                    "At least some part of the system involves base-5",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 311-312",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Numerals",
+                    [
+                        "/grammar/feature/74",
+                        "Base-10"
+                    ],
+                    "At least some part of the system involves base-10",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 311-312",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Numerals",
+                    [
+                        "/grammar/feature/75",
+                        "Other base (specify)"
+                    ],
+                    "4, 20, etc.",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 311-312",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Numerals",
+                    [
+                        "/grammar/feature/76",
+                        "Etymological transparency in any numerals under 5"
+                    ],
+                    "e.g. two = 'eye-quantity'",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 311-312",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Numerals",
+                    [
+                        "/grammar/feature/77",
+                        "Numerals do not go above 5"
+                    ],
+                    "'Many' or some other non-exact term used",
+                    "yes",
+                    "one: paniro/patiro, two: piteti, piteni",
+                    "one: paniro/patiro, two: piteti, piteni",
+                    "Numerals for \u201cone\u201d and \u201ctwo\u201d",
+                    "Michael, 2008. p. 311-312",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Numerals",
+                    [
+                        "/grammar/feature/78",
+                        "Numerals do not go above 10"
+                    ],
+                    "'Many' or some other non-exact term used",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 311-312",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Other nominal",
+                    [
+                        "/grammar/feature/79",
+                        "Tense or aspect inflection on non-verbal predicates"
+                    ],
+                    "i.e. nominal or adjectival",
+                    "no",
+                    "",
+                    "",
+                    "\u201cRoots\u201d can be either adjectival or verbal. When they are \u201cverbal,\u201d they take aspect inflection, but when they are adjectival, they don't. When adjectival predication is used, a copular form is used.",
+                    "Michael, 2008. p. 310-313",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Other nominal",
+                    [
+                        "/grammar/feature/80",
+                        "Person inflection on non-verbal predicates"
+                    ],
+                    "i.e. nominal or adjectival",
+                    "no",
+                    "",
+                    "",
+                    "\u201cRoots\u201d can be either adjectival or verbal. When they are \u201cverbal,\u201d they take person markers, but when they are adjectival, they don't. When adjectival predication is used, a copular form is used.",
+                    "Michael, 2008. p. 310-313",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Syntax - Possession",
+                    [
+                        "/grammar/feature/81",
+                        "Pronominal possessive affixes: prefix on N"
+                    ],
+                    "alienable/inalienable?",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 297-299",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Syntax - Possession",
+                    [
+                        "/grammar/feature/82",
+                        "Pronominal possessive affixes: suffix on N"
+                    ],
+                    "alienable/inalienable?",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 297-299",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Syntax - Possession",
+                    [
+                        "/grammar/feature/83",
+                        "Head/dependent marking in possessive NP: dependent"
+                    ],
+                    "e.g. 'the boy-'s dog'",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 297-299",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Syntax - Possession",
+                    [
+                        "/grammar/feature/84",
+                        "Head/dependent marking in possessive NP: head"
+                    ],
+                    "e.g. 'the boy his-dog'",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 297-299",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Syntax - Possession",
+                    [
+                        "/grammar/feature/85",
+                        "Possessive classifiers"
+                    ],
+                    "There are special classifiers that occur with possessed entities",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 332-338",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Syntax - Possession - Alienability",
+                    [
+                        "/grammar/feature/86",
+                        "Morphological marking of inalienable possession"
+                    ],
+                    "Where inalienable possession differs from alienable, the former takes a morphological marker (may include an associated free particle/pronoun)",
+                    "no",
+                    "",
+                    "",
+                    "Inalienable nouns must always occur with a possessive prefix.",
+                    "Michael, 2008. p. 298",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Syntax - Possession - Alienability",
+                    [
+                        "/grammar/feature/87",
+                        "Morphological marking of alienable possession"
+                    ],
+                    "Where inalienable possession differs from alienable, the latter takes a morphological marker (may include an associated free particle/pronoun)",
+                    "yes",
+                    "-ne, -te, -re",
+                    "-ne, -te, -re",
+                    "When possessed, alienable nouns take a possessive prefix and an \u201calienable possession suffix.\u201d",
+                    "Michael, 2008. p. 298-300",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Syntax - Possession - Alienability",
+                    [
+                        "/grammar/feature/88",
+                        "Default marker for inalienably possessed nouns if unpossessed"
+                    ],
+                    "An inalienable noun that is in an unpossessed state must have a derivational affix or associated form",
+                    "no",
+                    "",
+                    "",
+                    "The -tsi marker in other Arawak languages has been lost. The first-person plural inclusive marker /a-/ is now used to function as an impersonal possessor.",
+                    "Michael, 2008. p. 300-301",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Syntax - Possession - Alienability",
+                    [
+                        "/grammar/feature/89",
+                        "Inalienable possession of kin terms"
+                    ],
+                    "'my-father' but *father",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 299",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Syntax - Possession - Alienability",
+                    [
+                        "/grammar/feature/90",
+                        "Inalienable possession of body parts (human/animal)"
+                    ],
+                    "'my-leg' but *leg",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 299",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Syntax - Possession - Alienability",
+                    [
+                        "/grammar/feature/91",
+                        "Generic human nouns are obligatorily bound/possessed"
+                    ],
+                    "Human nouns must co-occur with another noun (e.g. Hup-man, NonIndian-woman, but *man)",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 297-301",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Syntax - Adjectives",
+                    [
+                        "/grammar/feature/92",
+                        "Underived adjectives"
+                    ],
+                    "There are underived adjectives which do not have counterparts in other word classes",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 310-311",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Syntax - Adjectives",
+                    [
+                        "/grammar/feature/93",
+                        "Gender inflection on adjectives within the NP"
+                    ],
+                    "There is gender agreement/concord (animate/inanimate or masc/fem, etc.) within the NP, e.g. la casa blanca, el perro blanco",
+                    "no",
+                    "",
+                    "",
+                    "Derived adjectives do not exhibit animacy or gender agreement. Among derived adjectives, gender and animacy agreement is rare.",
+                    "Michael, 2008. p. 311-312",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Syntax - Derivation",
+                    [
+                        "/grammar/feature/94",
+                        "Productive nominalizing morphology: action/state (arrive/arrival)"
+                    ],
+                    "There is a morpheme which derives an event from a verb",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 303-304",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Syntax - Derivation",
+                    [
+                        "/grammar/feature/95",
+                        "Productive nominalizing morphology: agentive (sing/singer)"
+                    ],
+                    "There is a morpheme which derives an agent or subject from a verb",
+                    "yes",
+                    "",
+                    "",
+                    "There is one nominalizing morpheme, -rira. This is most often an agentive nominalization, but can also be used for other types of nominalizations.",
+                    "Michael, 2008. p. 303-304",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Syntax - Derivation",
+                    [
+                        "/grammar/feature/96",
+                        "Productive nominalizing morphology: object (sing/song)"
+                    ],
+                    "There is a morpheme which derives a patient or object from a verb",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 303-304",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Syntax - Derivation",
+                    [
+                        "/grammar/feature/97",
+                        "Productive verbalizing morphology"
+                    ],
+                    "There is a morpheme which derives a verb from a noun or adjective",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 247-290",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Syntax - Other",
+                    [
+                        "/grammar/feature/98",
+                        "NP coordination and comitative phrases marked differently"
+                    ],
+                    "'John and Mary went to market' is marked differently from 'John went to market with Mary'",
+                    "no",
+                    "",
+                    "",
+                    "Nanti has both NP coordination but no overt comitative morphology (although there is an influential causative, -akag).",
+                    "Michael, 2008. p. 280-284, 371",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Aspect and tense",
+                    [
+                        "/grammar/feature/99",
+                        "Dedicated past marker(s)"
+                    ],
+                    "Past tense is regularly morphologically marked on the verb or elsewhere",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 249",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Aspect and tense",
+                    [
+                        "/grammar/feature/100",
+                        "Multiple past tenses, distinguishing distance from time of reference"
+                    ],
+                    "e.g. distant vs. recent past",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 249",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Aspect and tense",
+                    [
+                        "/grammar/feature/101",
+                        "Multiple future tenses, distinguishing distance from time of reference"
+                    ],
+                    "e.g. imminent vs. distant future",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 249",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Aspect and tense",
+                    [
+                        "/grammar/feature/102",
+                        "Dedicated future or non-past marker(s)"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 249",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Aspect and tense",
+                    [
+                        "/grammar/feature/103",
+                        "Tense-aspect affixes: prefix"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 249",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Aspect and tense",
+                    [
+                        "/grammar/feature/104",
+                        "Tense-aspect affixes: suffix"
+                    ],
+                    "",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 249",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Aspect and tense",
+                    [
+                        "/grammar/feature/105",
+                        "Tense-aspect affixes: tone or ablaut"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 249",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Aspect and tense",
+                    [
+                        "/grammar/feature/106",
+                        "Tense-aspect suppletion"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 249",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Mood",
+                    [
+                        "/grammar/feature/107",
+                        "Dedicated imperative morpheme or verb form"
+                    ],
+                    "There is a special morpheme (or morphemes, or a bare verb root where inflection is normally expected) used to signal imperative (command) mood",
+                    "no",
+                    "",
+                    "",
+                    "Imperatives are formed using irrealis markers and omitting the subject person marker or free pronoun.",
+                    "Michael, 2008. p. 399",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Mood",
+                    [
+                        "/grammar/feature/108",
+                        "Polite imperative morpheme"
+                    ],
+                    "There is a distinct morpheme for polite imperative constructions (specify if it has other functions in the language)",
+                    "yes",
+                    "",
+                    "",
+                    "The polite imperative is differentiated from regular imperatives by the use of a person marker.",
+                    "Michael, 2008. p. 400-401",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Mood",
+                    [
+                        "/grammar/feature/109",
+                        "Difference between negation in imperative (prohibitive) and declarative clauses"
+                    ],
+                    "There are different strategies for marking negation in imperative and declarative clauses",
+                    "yes",
+                    "",
+                    "",
+                    "Positive polarity imperatives can use either regular or polite imperative, negative polarity must use polite imperative form, without irrealis marking.",
+                    "Michael, 2008. p. 400-401",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Mood",
+                    [
+                        "/grammar/feature/110",
+                        "Dedicated hortative morpheme or verb form (1pl or 3rd person imperative)"
+                    ],
+                    "as opposed to imperative; the person in control of desired state of affairs is not the addressee; ex: 'Let's sing' / 'Let him sing'",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 399-401",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Mood",
+                    [
+                        "/grammar/feature/111",
+                        "Situational possibility: affix on verb"
+                    ],
+                    "Inflectional marking of capacity to do something",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 247-289",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Mood",
+                    [
+                        "/grammar/feature/112",
+                        "Situational possibility: verbal construction"
+                    ],
+                    "",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Mood",
+                    [
+                        "/grammar/feature/113",
+                        "Situational possibility: other marking"
+                    ],
+                    "",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Mood",
+                    [
+                        "/grammar/feature/114",
+                        "Epistemic possibility: affix on verb"
+                    ],
+                    "Modal expressing hypothesis",
+                    "yes",
+                    "-rika",
+                    "-rika",
+                    "",
+                    "Michael, 2008. p. 273-274",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Mood",
+                    [
+                        "/grammar/feature/115",
+                        "Epistemic possibility: verbal construction"
+                    ],
+                    "",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Mood",
+                    [
+                        "/grammar/feature/116",
+                        "Epistemic possibility: other marking"
+                    ],
+                    "",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Mood",
+                    [
+                        "/grammar/feature/117",
+                        "Marking of expected/unexpected action or result"
+                    ],
+                    "There is inflectional marking of expected/unexpected",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 247-289",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Mood",
+                    [
+                        "/grammar/feature/118",
+                        "Verbal frustrative"
+                    ],
+                    "Modal expressing frustration (\"in vain\")",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 275",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Mood",
+                    [
+                        "/grammar/feature/119",
+                        "Verbal habitual"
+                    ],
+                    "Modal expressing habituality",
+                    "yes",
+                    "",
+                    "",
+                    "In a section on \u201crare\u201d morphemes, looks like it's either being lost or in the first stages of being borrowed.",
+                    "Michael, 2008. p. 266",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Mood",
+                    [
+                        "/grammar/feature/120",
+                        "Apprehensive construction"
+                    ],
+                    "There is a single morpheme or verb form to mean '(be careful lest) X happens'",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 247-289",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Mood",
+                    [
+                        "/grammar/feature/121",
+                        "Reality status marking on verbs"
+                    ],
+                    "There are dedicated morpheme(s) for realis/irrealis 'actualized/unactualized events'",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 249",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Mood",
+                    [
+                        "/grammar/feature/122",
+                        "Affect markers (positive/negative)"
+                    ],
+                    "Note whether these inflectional markers are positive or negative",
+                    "yes",
+                    "-uma (neg.), -asano (pos.)",
+                    "-\u026fima (neg.), -asano (pos.)",
+                    "There are desirable and undesirable extremals. Both of these mean that the action or state to which the morpheme is affixed is realized to an extreme degree, but the \u201cundesirable extremal\u201d -uma has the idea that the speaker has a negative attitude toward ",
+                    "Michael, 2008. p. 263-265",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Directionals",
+                    [
+                        "/grammar/feature/123",
+                        "Directional elements affixed to the verb"
+                    ],
+                    "There are grammaticalized elements indicating movement away, toward, there and back, etc.",
+                    "yes",
+                    "ablative -an and allative -apah",
+                    "ablative -an and allative -apah",
+                    "",
+                    "Michael, 2008. p. 249",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Evidentiality",
+                    [
+                        "/grammar/feature/124",
+                        "Grammaticalized visual"
+                    ],
+                    "Indicates information has been witnessed visually - indicate only if an overt marker",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 323-326",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Evidentiality",
+                    [
+                        "/grammar/feature/125",
+                        "Grammaticalized nonvisual"
+                    ],
+                    "Indicates information has been sensed firsthand but not visually (usually heard; also smelled, tasted, felt)",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 323-326",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Evidentiality",
+                    [
+                        "/grammar/feature/126",
+                        "Grammaticalized inferential"
+                    ],
+                    "Indicates information has not been experienced firsthand, but inferred from some kind of evidence - indicate only if an overt marker.",
+                    "yes",
+                    " =ka",
+                    " =ka",
+                    "Second-position clitic.",
+                    "Michael, 2008. p. 325",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Evidentiality",
+                    [
+                        "/grammar/feature/127",
+                        "Grammaticalized reportive"
+                    ],
+                    "Indicates speaker is not responsible for veracity of statement, merely reporting; 'allegedly'",
+                    "yes",
+                    " =ke",
+                    " =ke",
+                    "Not a verbal morpheme but a clitic that is inflected for person (but not aspect/reality status). It's historically derived from the root for 'hear,' kem.",
+                    "Michael, 2008. p. 324",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Evidentiality",
+                    [
+                        "/grammar/feature/128",
+                        "Grammaticalized quotative"
+                    ],
+                    "Indicate presence of adjacent representation of repeated discourse",
+                    "yes",
+                    " =ka",
+                    " =ka",
+                    "A clitic that is inflected for person (but not aspect/reality status), that is historically derived from the root for 'say,' kaNt. It's homophonous with the inferential clitic, but structurally distinct.",
+                    "Michael, 2008. p. 323-324",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Evidentiality",
+                    [
+                        "/grammar/feature/129",
+                        "Other evidential"
+                    ],
+                    "Any other evidential values not represented above",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 323-326",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Evidentiality",
+                    [
+                        "/grammar/feature/130",
+                        "Evidentiality: verb affix or clitic"
+                    ],
+                    "",
+                    "yes",
+                    "",
+                    "",
+                    "The reportive and quotative are clitics that take their own person marking. The inferential evidential is a second-position clitic.",
+                    "Michael, 2008. p. 323-326",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Evidentiality",
+                    [
+                        "/grammar/feature/131",
+                        "Evidentiality: part of tense system"
+                    ],
+                    "Includes portmanteau morphs",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 323-326",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Evidentiality",
+                    [
+                        "/grammar/feature/132",
+                        "Evidentiality: separate particle"
+                    ],
+                    "",
+                    "yes",
+                    "",
+                    "",
+                    "The reportive and quotative are clitics that take their own person marking. The inferential evidential is a second-position clitic.",
+                    "Michael, 2008. p. 323-326",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Evidentiality",
+                    [
+                        "/grammar/feature/133",
+                        "Evidentiality: modal morpheme"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 323-326",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Verbal number",
+                    [
+                        "/grammar/feature/134",
+                        "Verbal number suppletion"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Other",
+                    [
+                        "/grammar/feature/135",
+                        "Social interaction markers"
+                    ],
+                    "Note the type of interaction",
+                    "no",
+                    "",
+                    "",
+                    "There are several different types of causative that make this type of distinction, but no morphemes that indicate solely social interaction?",
+                    "Michael, 2008.",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/136",
+                        "No fixed basic constituent order"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 345",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/137",
+                        "VS in intransitive clauses"
+                    ],
+                    "Verb precedes subject",
+                    "no",
+                    "",
+                    "",
+                    "Non-focused, referential NPs are found before the verb when they are subjects and after the verb when they are objects, but these are uncommon. There are no examples of a transitive clause with two free referential NPs.",
+                    "Michael, 2008. p. 345",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/138",
+                        "VS in transitive clauses"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "Non-focused, referential NPs are found before the verb when they are subjects and after the verb when they are objects, but these are uncommon. There are no examples of a transitive clause with two free referential NPs.",
+                    "Michael, 2008. p. 345",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/139",
+                        "VO in transitive clauses"
+                    ],
+                    "Verb precedes object",
+                    "yes",
+                    "",
+                    "",
+                    "Non-focused, referential NPs are found before the verb when they are subjects and after the verb when they are objects, but these are uncommon. There are no examples of a transitive clause with two free referential NPs.",
+                    "Michael, 2008. p. 345",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/140",
+                        "OS in transitive clauses"
+                    ],
+                    "Object precedes subject",
+                    "no",
+                    "",
+                    "",
+                    "Non-focused, referential NPs are found before the verb when they are subjects and after the verb when they are objects, but these are uncommon. There are no examples of a transitive clause with two free referential NPs.",
+                    "Michael, 2008. p. 345",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/141",
+                        "Preposition-Noun"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "No prepositions or postpositions.",
+                    "Michael, 2008. p. 369",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/142",
+                        "Noun-Postposition or case suffix"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "No prepositions or postpositions.",
+                    "Michael, 2008. p. 369",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/143",
+                        "Gen-Noun"
+                    ],
+                    "Possessive phrase composed of a free possessor and its possessum has possessor first (e.g. John's book)",
+                    "yes",
+                    "",
+                    "",
+                    "Nanti noun phrases are \u201cright-headed,\u201d although a genitive isn't specifically mentioned as a possible modifer in an NP.",
+                    "Michael, 2008. p. 369",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/144",
+                        "Noun-Gen"
+                    ],
+                    "Possessive phrase composed of a free possessor and its possessum has possessum first (e.g. 'book of John')",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 369",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/145",
+                        "Adj-Noun"
+                    ],
+                    "Adjective precedes the noun",
+                    "yes",
+                    "",
+                    "",
+                    "Nanti noun phrases are \u201cright-headed.\u201d",
+                    "Michael, 2008. p. 369",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/146",
+                        "Noun-Adj"
+                    ],
+                    "Adjective follows the noun",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 369",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/147",
+                        "Dem-Noun"
+                    ],
+                    "",
+                    "yes",
+                    "",
+                    "",
+                    "Nanti noun phrases are \u201cright-headed.\u201d",
+                    "Michael, 2008. p. 369",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/148",
+                        "Noun-Dem"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 369",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/149",
+                        "Num-Noun"
+                    ],
+                    "",
+                    "yes",
+                    "",
+                    "",
+                    "Nanti noun phrases are \u201cright-headed.\u201d",
+                    "Michael, 2008. p. 369",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/150",
+                        "Noun-Num"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 369",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/151",
+                        "Noun-Rel"
+                    ],
+                    "Relative clause follows noun that it modifies",
+                    "yes",
+                    "",
+                    "",
+                    "There are several types and several types of relative clauses. It looks like it is most common for relative clauses to appear postnominally, and there are some subtypes that can only appear postnominally. Internally-headed relative clauses occur, but it l",
+                    "Michael, 2008. p. 402-414",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/152",
+                        "Rel-Noun"
+                    ],
+                    "Relative clause precedes noun that it modifies",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 402-414",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/153",
+                        "Re<Noun>l (internally headed relative)"
+                    ],
+                    "e.g. 'the dog cat chased-NMZR got away' ('the cat that the dog chased got away')",
+                    "no",
+                    "",
+                    "",
+                    "There are several types and several types of relative clauses. It looks like it is most common for relative clauses to appear postnominally, and there are some subtypes that can only appear postnominally. Internally-headed relative clauses occur, but it l",
+                    "Michael, 2008. p. 402-414",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/154",
+                        "Relative clause is correlative or adjoined"
+                    ],
+                    "e.g. 'what is running, the dog chased that cat'",
+                    "yes",
+                    "",
+                    "",
+                    "There are correlative subtypes of each of the three types of relative clauses.",
+                    "Michael, 2008. p. 402-414",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/155",
+                        "Question word is clause initial"
+                    ],
+                    "'what', 'who', etc. come first in interrogative clause",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 391",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Alignment",
+                    [
+                        "/grammar/feature/156",
+                        "Alignment of case marking in full NPs: nominative-accusative w/ marked accusative"
+                    ],
+                    "Objects of transitive clauses ('P') have a unique marker, while subjects of transitive ('A') and intransitive ('S') clauses are unmarked or share a different marker from that occurring on objects",
+                    "n/a",
+                    "",
+                    "",
+                    "Grammatical relations between nouns are marked on verbs, and not on nouns themselves. Only one (locative) case marker.",
+                    "Michael, 2008. p. 340",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Alignment",
+                    [
+                        "/grammar/feature/157",
+                        "Alignment of case marking in full NPs: nominative-accusative w/ marked nominative"
+                    ],
+                    "Subjects of transitive and intransitive clauses share a marker, while objects of transitives are unmarked",
+                    "n/a",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 340",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Alignment",
+                    [
+                        "/grammar/feature/158",
+                        "Alignment of case marking in full NPs: ergative-absolutive"
+                    ],
+                    "Subjects of intransitive clauses and objects of transitives share a unique marker, while subjects of transitive clauses are unmarked or have a different marker",
+                    "n/a",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 340",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Alignment",
+                    [
+                        "/grammar/feature/159",
+                        "Alignment of case marking in full NPs: tripartite"
+                    ],
+                    "Intransitive subjects, transitive subjects, and transitive objects all receive distinct case markers",
+                    "n/a",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 340",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Alignment",
+                    [
+                        "/grammar/feature/160",
+                        "Alignment of case marking in full NPs: active-inactive"
+                    ],
+                    "Subjects of intransitive clauses are treated two different ways: like subjects of transitives if they are more agent-like (e.g. he jumped), and like objects of transitives if they are more patient-like (e.g. he fell asleep)",
+                    "n/a",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 340",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Alignment",
+                    [
+                        "/grammar/feature/161",
+                        "Alignment of case marking of pronouns: marked accusative"
+                    ],
+                    "",
+                    "n/a",
+                    "",
+                    "",
+                    "Only one case marker (locative), so no marking of core arguments on pronouns. Grammatical relations are marked on the verb.",
+                    "Michael, 2008. p. 340",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Alignment",
+                    [
+                        "/grammar/feature/162",
+                        "Alignment of case marking of pronouns: marked nominative"
+                    ],
+                    "",
+                    "n/a",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 340",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Alignment",
+                    [
+                        "/grammar/feature/163",
+                        "Alignment of case marking of pronouns: ergative-absolutive"
+                    ],
+                    "yes, no, mixed, other",
+                    "n/a",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 340",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Alignment",
+                    [
+                        "/grammar/feature/164",
+                        "Alignment of case marking of pronouns: tripartite"
+                    ],
+                    "",
+                    "n/a",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 340",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Alignment",
+                    [
+                        "/grammar/feature/165",
+                        "Alignment of case marking of pronouns: active-inactive"
+                    ],
+                    "",
+                    "n/a",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 340",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Alignment",
+                    [
+                        "/grammar/feature/166",
+                        "Alignment of verbal person-marking: nominative-accusative"
+                    ],
+                    "Same as above, for pronominal affixes/clitics on verbs",
+                    "yes",
+                    "",
+                    "",
+                    "Nanti is primarily nominative-accusative, although there are traces of fluid-S marking.",
+                    "Michael, 2008. p. 343",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Alignment",
+                    [
+                        "/grammar/feature/167",
+                        "Alignment of verbal person-marking: ergative-absolutive"
+                    ],
+                    "yes, no, mixed, other",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 343",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Alignment",
+                    [
+                        "/grammar/feature/168",
+                        "Alignment of verbal person-marking: active-inactive"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 343",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Alignment",
+                    [
+                        "/grammar/feature/169",
+                        "Alignment of verbal person-marking: hierarchical"
+                    ],
+                    "Marking of A and P depends on their relative ranking on a hierarchy (usually 1>2>3 or 2>1>3)",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 343",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Alignment",
+                    [
+                        "/grammar/feature/170",
+                        "Alignment of verbal person-marking: split"
+                    ],
+                    "More than one of the above systems is represented in person marking, depending on e.g. person (e.g. 1/2 vs. 3), tense-aspect value, main vs. subordinate clause type, etc.",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 343",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Pronouns and person marking",
+                    [
+                        "/grammar/feature/171",
+                        "Pronominal subjects: pronouns in subject position"
+                    ],
+                    "Pronominal subjects are free pronouns that occur in the same position as full NP subjects",
+                    "no",
+                    "",
+                    "",
+                    "There are free pronouns that can be used, but these are focused pronouns that occur along with a verbal person-marking proclitic, whereas non-focused referential NPs and person-marking on the verb are in complementary distribution.",
+                    "Michael, 2008. p. 345",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Pronouns and person marking",
+                    [
+                        "/grammar/feature/172",
+                        "Pronominal subjects: prefixes on verb"
+                    ],
+                    "Pronominal subjects are marked as verbal prefixes (free pronouns may be another option)",
+                    "yes",
+                    "",
+                    "",
+                    "Proclitic, in complementary distribution with non-focused referential NPs.",
+                    "Michael, 2008. p. 345",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Pronouns and person marking",
+                    [
+                        "/grammar/feature/173",
+                        "Pronominal subjects: suffixes on verb"
+                    ],
+                    "Pronominal subjects are marked as verbal suffixes (free pronouns may be another option)",
+                    "no",
+                    "",
+                    "",
+                    "Person markers are pro-clitics.",
+                    "Michael, 2008. p. 345",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Pronouns and person marking",
+                    [
+                        "/grammar/feature/174",
+                        "Pronominal subjects: clitics on variable host"
+                    ],
+                    "Pronominal subjects are clitics that can attach to verbs, nominal constituents, etc.",
+                    "no",
+                    "",
+                    "",
+                    "Person markers are clitics, but always attach to verb.",
+                    "Michael, 2008. p. 342-344",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Pronouns and person marking",
+                    [
+                        "/grammar/feature/175",
+                        "Pronominal subjects: pronouns in non-subject position"
+                    ],
+                    "Pronominal subjects are free pronouns but do not normally occur in the position expected for full NP subjects",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 342-344",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Pronouns and person marking",
+                    [
+                        "/grammar/feature/176",
+                        "Person marking on intransitive verbs"
+                    ],
+                    "Intransitive verbs take person-marking clitics/affixes",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 267",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Pronouns and person marking",
+                    [
+                        "/grammar/feature/177",
+                        "Person marking (of agents) on transitive verbs"
+                    ],
+                    "Transitive verbs take subject (A) markers",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 267",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Pronouns and person marking",
+                    [
+                        "/grammar/feature/178",
+                        "Person-marking (of objects) on transitive verbs"
+                    ],
+                    "Transitive verbs take object (P) markers",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 267",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Pronouns and person marking",
+                    [
+                        "/grammar/feature/179",
+                        "3rd person zero in verbal person marking: subjects"
+                    ],
+                    "3rd person subjects are not overtly marked within the verbal person-marking system",
+                    "no",
+                    "i= (masculine), o= (non-masculine)",
+                    "i= (masculine), o= (non-masculine)",
+                    "",
+                    "Michael, 2008. p. 267",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Pronouns and person marking",
+                    [
+                        "/grammar/feature/180",
+                        "3rd person zero in verbal person marking: objects"
+                    ],
+                    "3rd person objects are not overtly marked within the verbal person-marking system",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 267",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Pronouns and person marking",
+                    [
+                        "/grammar/feature/181",
+                        "Number can be marked separately from person on the verb"
+                    ],
+                    "Verbal person marking exists, but number is (or can) be marked separately",
+                    "yes",
+                    "-hig (plural)",
+                    "-hig (plural)",
+                    "",
+                    "Michael, 2008. p. 267-268",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Pronouns and person marking",
+                    [
+                        "/grammar/feature/182",
+                        "Possessive affixes/clitics on nouns are same as verbal person markers"
+                    ],
+                    "Where nouns take possessive affixes, these are the same as the person-marking affixes ",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 267, 299",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Pronouns and person marking",
+                    [
+                        "/grammar/feature/183",
+                        "Gender distinguished in verbal person markers"
+                    ],
+                    "For any person, verbal person markers exhibit different forms depending on the gender (masc/fem, animate/inanimate, etc.) of the referent",
+                    "yes",
+                    "",
+                    "",
+                    "Third-person subject and object markers distinguish masculine and non-masculine.",
+                    "Michael, 2008. p. 267",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Valence and voice",
+                    [
+                        "/grammar/feature/184",
+                        "Ditransitive constructions: indirect object"
+                    ],
+                    "In ditransitives (e.g. 'John gives a book to Bill'), the theme (book) is treated in the same way as are objects of transitives, while the recipient/beneficiary (Bill) is treated differently",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 267",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Valence and voice",
+                    [
+                        "/grammar/feature/185",
+                        "Ditransitive constructions: double object"
+                    ],
+                    "In ditransitives (e.g. 'John gives Bill a book'), both the theme (book) and the recipient/beneficiary (Bill) is treated in the same way as are objects of transitives",
+                    "no",
+                    "",
+                    "",
+                    "Normally, only one object is marked on the verb. There's no discussion of whether it's normally the theme or recipient. However, in cases of \u201cpragmatic obliques,\u201d the theme/patient gets the marker '=ni,' while the pragmatic oblique gets that regular third",
+                    "Michael, 2008. p. 267",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Valence and voice",
+                    [
+                        "/grammar/feature/186",
+                        "Ditransitive constructions: secondary object"
+                    ],
+                    "In ditransitives, the recipient/beneficiary is treated in the same way as are objects of transitives, while the theme (book) is treated differently",
+                    "yes",
+                    "",
+                    "",
+                    "With ditransitives, only one non-subject argument is marked on the verb--the recipient or beneficiary. If both the recipient and the beneficiary are third-person, then both can be marked on the verb, but the theme/patient gets a different marker and the r",
+                    "Michael, 2008. p. 367-368",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Valence and voice - Decreasing",
+                    [
+                        "/grammar/feature/187",
+                        "Reciprocal: dedicated morpheme"
+                    ],
+                    "Verb becomes reciprocal through use of reciprocal morpheme associated with the verb (may be attached to the verb root). This morpheme is only used to mean reciprocal.",
+                    "yes",
+                    "-abakag",
+                    "-abakag",
+                    "Requires obligatory plural number marking.",
+                    "Michael, 2008. p. 278",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Valence and voice - Decreasing",
+                    [
+                        "/grammar/feature/188",
+                        "Reflexive: dedicated morpheme"
+                    ],
+                    "Verb becomes reflexive through use of reflexive morpheme associated with the verb (may be attached to the verb root). This morpheme is used only to mean reflexive. ",
+                    "no",
+                    "",
+                    "",
+                    "Reflexives are formed with a reflexive pronoun.",
+                    "Michael, 2008. p. 278",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Valence and voice - Decreasing",
+                    [
+                        "/grammar/feature/189",
+                        "Reciprocal/reflexive: same morpheme"
+                    ],
+                    "Verb becomes reciprocal or reflexive through use of a morpheme that means either reciprocal or reflexive which attaches to the root of the verb",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 278",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Valence and voice - Decreasing",
+                    [
+                        "/grammar/feature/190",
+                        "Passive"
+                    ],
+                    "Passive voice usually involves a change to the verb, while the object of the active voice verb is promoted to subject in the passive voice, and the former subject is deleted/demoted",
+                    "yes",
+                    "-agani (realis), -eNkani (irrealis)",
+                    "-agani (realis), -eNkani (irrealis)",
+                    "",
+                    "Michael, 2008. p. 276",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Valence and voice - Decreasing",
+                    [
+                        "/grammar/feature/191",
+                        "Antipassive"
+                    ],
+                    "Like passive, but deletes or demotes the object of a transitive verb; usually found in ergative languages",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 276-279",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Valence and voice - Decreasing",
+                    [
+                        "/grammar/feature/192",
+                        "Other intransitivizing morphology"
+                    ],
+                    "There is/are some other mechanism(s) for reducing valency",
+                    "yes",
+                    "-aNt",
+                    "-aNt",
+                    "There is a \u201ccharacteristic\u201d suffix that reduces the valency of transitives, but not intransitives. It carries the meaning that the action is habitual or characteristic of the subject.",
+                    "Michael, 2008. p. 277-278",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Valence and voice - Increasing",
+                    [
+                        "/grammar/feature/193",
+                        "Applicative: benefactive"
+                    ],
+                    "Applicative adds a beneficiary/maleficiary object argument to the verb ",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 285-289",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Valence and voice - Increasing",
+                    [
+                        "/grammar/feature/194",
+                        "Applicative: other"
+                    ],
+                    "Applicative adds some other object argument to the verb ",
+                    "yes",
+                    "-ako (indirective), -apitsa (separative), -imo (presencial), -aNt (instrumental)",
+                    "-ako (indirective), -apitsa (separative), -imo (presencial), -aNt (instrumental)",
+                    "There are four other applicative constructions in Nanti: ",
+                    "Michael, 2008. p. 285-289",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Valence and voice - Increasing",
+                    [
+                        "/grammar/feature/195",
+                        "Causative: prefix"
+                    ],
+                    "Causative is morphological and is attached before the root of the verb",
+                    "yes",
+                    "ogi-, o[+voice], otiN-, omiN-",
+                    "ogi-, o[+voice], otiN-, omiN-",
+                    "There are four causative prefixes.",
+                    "Michael, 2008. p. 279",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Valence and voice - Increasing",
+                    [
+                        "/grammar/feature/196",
+                        "Causative: suffix"
+                    ],
+                    "Causative is morphological and is attached after the root of the verb",
+                    "yes",
+                    "-akag",
+                    "-akag",
+                    "There is also a causative suffix in Nanti.",
+                    "Michael, 2008. p. 279",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Valence and voice - Increasing",
+                    [
+                        "/grammar/feature/197",
+                        "Causative marked by circumfix, stem change, or tone"
+                    ],
+                    "Morphological causative other than simple prefix/suffix",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 279",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Valence and voice - Increasing",
+                    [
+                        "/grammar/feature/198",
+                        "Causative: serial verb or analytical construction"
+                    ],
+                    "Causative construction that involves periphrasis or serialization",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 279",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Valence and voice - Increasing",
+                    [
+                        "/grammar/feature/199",
+                        "Causative: dedicated 'make do by proxy'"
+                    ],
+                    "Indicates that the causer does not directly cause the action of the verb to be realized, but does so by inducing someone else to carry out the action, e.g. 'John had the house painted.'",
+                    "yes",
+                    "",
+                    "",
+                    "There is an \u201cinfluential\u201d causative, which has the meaning that the causer made the causee carry out the action by indirect or distinctly non-coercive actions.",
+                    "Michael, 2008. p. 284",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Valence and voice - Increasing",
+                    [
+                        "/grammar/feature/200",
+                        "Causative: dedicated sociative"
+                    ],
+                    "Indicates that causer participates in event",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 279",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Valence and voice - Increasing",
+                    [
+                        "/grammar/feature/201",
+                        "Other transitivizing morphology (adds valence)"
+                    ],
+                    "There is/are some other mechanism(s) for increasing valency",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 279-289",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Negation",
+                    [
+                        "/grammar/feature/202",
+                        "Clausal negator is a preposed element"
+                    ],
+                    "Clausal negator is a preposed element",
+                    "yes",
+                    "",
+                    "",
+                    "Clausal negators are preposed, but show up to the left of the focus position (they are the first element), and to the right of the topic position (they are the second element).",
+                    "Michael, 2008. p. 379-380",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Negation",
+                    [
+                        "/grammar/feature/203",
+                        "Clausal negator is a postposed element"
+                    ],
+                    "Clausal negator is a postposed element",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 379-380",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Negation",
+                    [
+                        "/grammar/feature/204",
+                        "Negatives: affix"
+                    ],
+                    "Negatives: affix",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Negation",
+                    [
+                        "/grammar/feature/205",
+                        "Negatives: particle"
+                    ],
+                    "Negatives: particle",
+                    "yes",
+                    "",
+                    "",
+                    "A clitic that attaches phonologically to whatever is to the right.",
+                    "Michael, 2008. p. 379-380",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Negation",
+                    [
+                        "/grammar/feature/206",
+                        "Negatives: auxiliary verb"
+                    ],
+                    "Negatives: auxiliary verb",
+                    "no",
+                    "",
+                    "",
+                    "There is a negative existential verb, but this isn't a general negation strategy.",
+                    "Michael, 2008. p. 378-385",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Negation",
+                    [
+                        "/grammar/feature/207",
+                        "Negatives: double"
+                    ],
+                    "Standard (non-emphatic) negation typically requires two morphemes, e.g. French 'ne V pas'",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 378-385",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Negation",
+                    [
+                        "/grammar/feature/208",
+                        "Distinct negative form for 'NP does not exist'"
+                    ],
+                    "",
+                    "yes",
+                    "mameri, mame",
+                    "mameri, mame",
+                    "Negative existential, can also be used with a clausal complement to indicate negation of the complement in a specific location.",
+                    "Michael, 2008. p. 382-383",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Negation",
+                    [
+                        "/grammar/feature/209",
+                        "Distinct negative expression 'I don't know'"
+                    ],
+                    "Lexical expression or highly idiomatic phrase",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 378-385",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Interrogatives",
+                    [
+                        "/grammar/feature/210",
+                        "Polar questions: interrogative particle"
+                    ],
+                    "Yes/no questions distinguished from declaratives by interrogative particle",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 389-390",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Interrogatives",
+                    [
+                        "/grammar/feature/211",
+                        "Polar questions: verb morphology"
+                    ],
+                    "Yes/no questions distinguished from declaratives by interrogative verb morphology ",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 389-390",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Interrogatives",
+                    [
+                        "/grammar/feature/212",
+                        "Polar questions: word order"
+                    ],
+                    "Yes/no questions distinguished from declaratives by word order (esp. subject-verb inversion) ",
+                    "no",
+                    "",
+                    "",
+                    "NP distribution in polar interrogatives is reduced, but not to the extent that they unambiguously identify an interrogative.",
+                    "Michael, 2008. p. 389-390",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Interrogatives",
+                    [
+                        "/grammar/feature/213",
+                        "Polar questions: intonation only"
+                    ],
+                    "Yes/no questions distinguished from declaratives by intonation only",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 389-390",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Interrogatives",
+                    [
+                        "/grammar/feature/214",
+                        "Content questions: word order differs from declaratives"
+                    ],
+                    "Content questions distinguished from declaratives by word order (esp. subject-verb inversion) as well as by presence of Q-word (who, what, etc.)",
+                    "yes",
+                    "",
+                    "",
+                    "The content word is preposed.",
+                    "Michael, 2008. p. 391",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Predication",
+                    [
+                        "/grammar/feature/215",
+                        "Predicate adjectives: verbal"
+                    ],
+                    "Adjectives act like verbs in predicative position",
+                    "no",
+                    "",
+                    "",
+                    "Many adjective roots are also verbal roots, so the same concept can be expressed with a verb or an adjective. However, when an adjective is used predicatively, a copular verb is used.",
+                    "Michael, 2008. p. 312-313",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Predication",
+                    [
+                        "/grammar/feature/216",
+                        "Predicate adjectives: nominal"
+                    ],
+                    "Adjectives act like nouns in predicative position",
+                    "yes",
+                    "",
+                    "",
+                    "Many adjective roots are also verbal roots, so the same concept can be expressed with a verb or an adjective. However, when an adjective is used predicatively, a copular verb is used. The copula is also used with nouns in predicative position.",
+                    "Michael, 2008. p. 292, 312-313",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Predication",
+                    [
+                        "/grammar/feature/217",
+                        "Zero copula for predicate nominals is possible"
+                    ],
+                    "Predicate nominals may occur without a copula (i.e. grammatical in some circumstances, if not all)",
+                    "no",
+                    "",
+                    "",
+                    "Not indication of this among discussion of copular verb.",
+                    "Michael, 2008. p. 292, 312-313",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Predication",
+                    [
+                        "/grammar/feature/218",
+                        "Headless relative clauses"
+                    ],
+                    "Compare Eng 'the one that fell' (but in Eng 'one' could be considered a head)",
+                    "yes",
+                    "",
+                    "",
+                    "There is a subtype of ranked relative clauses that can be headless.",
+                    "Michael, 2008. p. 410",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Predication",
+                    [
+                        "/grammar/feature/219",
+                        "Headless relative clauses are the dominant or only form of relative clause"
+                    ],
+                    "Relative clauses that form a constituent with a head noun (in a single noun phrase) are rare or nonexistent; some descriptions may refer to adjoined or correlative clauses.",
+                    "no",
+                    "",
+                    "",
+                    "Although headless clauses do exist, they only pop up as a subtype of ranked relative clauses, and only when the referent is easily recoverable.",
+                    "Michael, 2008. p. 410",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Predication",
+                    [
+                        "/grammar/feature/220",
+                        "Relative clause may occur with a noun classifier/class marker "
+                    ],
+                    "It may be unclear whether the classifier is the nominal head of the construction or is an agreement marker on the relative clause",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 402-414",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Predication",
+                    [
+                        "/grammar/feature/221",
+                        "Relativizer is a verbal affix"
+                    ],
+                    "",
+                    "yes",
+                    "-aNkicha, -tsi",
+                    "-aNkicha, -tsi",
+                    "There are three types of relative clauses. One of the three subtypes, unranked relative clauses, uses a verbal morpheme as a relativizer.",
+                    "Michael, 2008. p. 402",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Predication",
+                    [
+                        "/grammar/feature/222",
+                        "Morphological relativizer is homophonous with nominalizer"
+                    ],
+                    "The same morpheme marks a relative clause and is a nominalizer on verbs (and/or other word classes)",
+                    "yes",
+                    "-rira",
+                    "-rira",
+                    "Ranked relative clauses use the second position clitic =rira, this is also a nominalization strategy.",
+                    "Michael, 2008. p. 303, 402",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Desiderative expressions",
+                    [
+                        "/grammar/feature/223",
+                        "Grammaticalized verbal desiderative"
+                    ],
+                    "Indicates that the subject desires to carry out the action denoted by the verb (distinct from verb 'want', but may be grammaticalized from it)",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 247-290",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Other",
+                    [
+                        "/grammar/feature/224",
+                        "Clause chaining"
+                    ],
+                    "Clauses can be grouped such that only one bears most of the verb morphology, and the others are marked as to whether they share a subject with this reference clause.",
+                    "no",
+                    "",
+                    "",
+                    "There are clause linking strategies, but verbs in both clauses have required morphology.",
+                    "Michael, 2008. p. 427-440",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Other",
+                    [
+                        "/grammar/feature/225",
+                        "Morphologically marked switch-reference system"
+                    ],
+                    "There are special markers to indicate same vs. different subject when two clauses are combined",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Michael, 2008. p. 427-440",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Other",
+                    [
+                        "/grammar/feature/226",
+                        "Morphologically marked distinction between simultaneous and sequential clauses"
+                    ],
+                    "Morphology (usually on verb) distinguishes between clauses denoting events that occur at the same time or in sequence",
+                    "yes",
+                    "",
+                    "",
+                    "Temporal succession is marked with the particle iNpogini or iNpo. Brief overlap is indicated with the subordinator =ra, and prolonged overlap with a particle tyara, `when.'",
+                    "Michael, 2008. p. 429-432",
+                    "Aimee Lawrence",
+                    "",
+                    "",
+                    ""
+                ]
+            ]
+        }
+    },
+    "Features": "\nGrammatical Data\n",
+    "Family": "Arawakan",
+    "name": "Nanti",
+    "Region": "South America",
+    "Location": "\n\t\t\t\t\t-12.10\u00b0,\n\t\t\t\t\t-72.35\u00b0\n\t\t\t\t",
+    "ISO 639-3": "cox",
+    "id": "254",
+    "Notes": ""
+}

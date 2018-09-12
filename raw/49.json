@@ -1,0 +1,3873 @@
+{
+    "Data Sources": "Duff-Tripp, Martha. 1997. Gram\u00e1tica del idioma yanesha\u02bc (amuesha). Peru: ILV.\n\nFast, Peter W. 1953. Amuesha (Arawak) phonemes. International Journal of American Linguistics 19: 191-94.",
+    "tables": {
+        "grammar": {
+            "header": [
+                "Category",
+                "Grammatical Feature",
+                "Grammatical Feature: Notes",
+                "Feature Status",
+                "Phonemicized Form",
+                "Orthographic Form",
+                "Grammatical Notes",
+                "Source",
+                "Created By",
+                "Etymology Notes",
+                "General Notes",
+                "Phylogenetic Code"
+            ],
+            "rows": [
+                [
+                    "Phonology - Segmental",
+                    [
+                        "/grammar/feature/1",
+                        "Pre-/post-nasalized stops"
+                    ],
+                    "Analysis posits that the stop is the most relevant underlying phoneme. Comment in notes on whether the nasal contour is understood as a phonetic (allophonic) effect, or is phonologically contrastive. ",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Fast 1953:191-4",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Phonology - Segmental",
+                    [
+                        "/grammar/feature/2",
+                        "Glottalized/ejective consonants"
+                    ],
+                    "Phonemic contrast [NOT counting glottal stop/fricative]",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Fast 1953:191-4",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Phonology - Segmental",
+                    [
+                        "/grammar/feature/3",
+                        "Palatalized stops"
+                    ],
+                    "Phonemic contrast",
+                    "yes",
+                    "",
+                    "",
+                    "This is only restricted to the bilabial voiceless stop and the alveolar voiceless affricate",
+                    "Fast 1953:192",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Phonology - Segmental",
+                    [
+                        "/grammar/feature/4",
+                        "Phonemic vowel length"
+                    ],
+                    "Does the language have long and short vowels?",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Fast 1953:191",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Phonology - Segmental",
+                    [
+                        "/grammar/feature/5",
+                        "Phonemic glottalization/laryngealization of vowels"
+                    ],
+                    "",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Fast 1953:191",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Phonology - Segmental",
+                    [
+                        "/grammar/feature/6",
+                        "Complex onsets"
+                    ],
+                    "Onset consists of more than one consonant phoneme",
+                    "yes",
+                    "",
+                    "",
+                    "This is limited to a maximum of two consonants",
+                    "Fast 1953:193",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Phonology - Segmental",
+                    [
+                        "/grammar/feature/7",
+                        "No codas"
+                    ],
+                    "*(C)VC [no also equals highly constrained]",
+                    "no",
+                    "",
+                    "",
+                    "Codas are allowed",
+                    "Fast 1953:191-4",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Phonology - Segmental",
+                    [
+                        "/grammar/feature/8",
+                        "Word-final coda required"
+                    ],
+                    "Do all syllables end in a consonant?",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Fast 1953:191-4",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Phonology - Suprasegmental",
+                    [
+                        "/grammar/feature/9",
+                        "Contrastive tones"
+                    ],
+                    "Note how many contrastive tones",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Fast 1953:191-4",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Phonology - Suprasegmental",
+                    [
+                        "/grammar/feature/10",
+                        "Contrastive stress"
+                    ],
+                    "Does stress occur on different syllables with meaning difference?",
+                    "yes",
+                    "",
+                    "",
+                    "However, the author acknowledges not having found any minimal pair differantiated by stress",
+                    "Fast 1953:194",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Phonology - Suprasegmental",
+                    [
+                        "/grammar/feature/11",
+                        "Nasalization property of morpheme or syllable"
+                    ],
+                    "In contrast to nasalization as a property of segments",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Fast 1953:191-4",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Phonology - Suprasegmental",
+                    [
+                        "/grammar/feature/12",
+                        "Nasal spreading across some morpheme boundaries"
+                    ],
+                    "Do some affixes or other morphemes take the nasal/oral properties of the root they attach to?",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Fast 1953:191-4",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Phonology - Suprasegmental",
+                    [
+                        "/grammar/feature/13",
+                        "Vowel harmony"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Fast 1953:191-4",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Morphology - General",
+                    [
+                        "/grammar/feature/14",
+                        "Verbal fusion (2+ categories marked by portmanteau morphemes on verb)"
+                    ],
+                    "Verb combines two or more categories (tense, aspect, mood, person, number, etc.) in portmanteau morphemes{ [ignore proclitics unless they are fused with values other than person/number]",
+                    "yes",
+                    "",
+                    "",
+                    "person and number are combined in verbal affixes",
+                    "Duff-Tripp 1997:71-9",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Morphology - General",
+                    [
+                        "/grammar/feature/15",
+                        "Inflection manifested by replacement of segmental or suprasegmental phonemes"
+                    ],
+                    "Stem change, tone",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:23-124",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Morphology - General",
+                    [
+                        "/grammar/feature/16",
+                        "Verbal synthesis (1+ inflectional categories marked by verbal affixes)"
+                    ],
+                    "Morphological complexity in verbs - multiple inflectional affixes in a single verb word",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:69-124",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Morphology - General",
+                    [
+                        "/grammar/feature/17",
+                        "Prefixing/suffixing inflectional morph: strongly prefixing"
+                    ],
+                    "There are many more prefixes than suffixes",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:22-124",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Morphology - General",
+                    [
+                        "/grammar/feature/18",
+                        "Prefixing/suffixing inflectional morph: strongly suffixing"
+                    ],
+                    "There are many more suffixes than prefixes",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:22-124",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Morphology - General",
+                    [
+                        "/grammar/feature/19",
+                        "Prefixing/suffixing inflectional morph: roughly equal or one weakly preferred"
+                    ],
+                    "The numbers of suffixes and prefixes are not notably different",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:22-124",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Morphology - General",
+                    [
+                        "/grammar/feature/20",
+                        "Reduplication: full"
+                    ],
+                    "The full morpheme is reduplicated",
+                    "yes",
+                    "",
+                    "",
+                    "This occurs with verbs to express iterative meaning",
+                    "Duff-Tripp 1997:164",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Morphology - General",
+                    [
+                        "/grammar/feature/21",
+                        "Reduplication: partial"
+                    ],
+                    "Only part of the morpheme is reduplicated",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:164",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Morphology - Compounding, auxiliaries, light verbs",
+                    [
+                        "/grammar/feature/22",
+                        "Productive NN compounding"
+                    ],
+                    "Noun compounds created from two noun phrases are common and systematically produced",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:38",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Morphology - Compounding, auxiliaries, light verbs",
+                    [
+                        "/grammar/feature/23",
+                        "Productive VV serialization (without compounding)"
+                    ],
+                    "Verb roots can be combined in a single predicate without markers of subordination (distinct from subordinating construction) or distinct inflection",
+                    "no info",
+                    "",
+                    "",
+                    "more likely not",
+                    "Duff-Tripp",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Morphology - Compounding, auxiliaries, light verbs",
+                    [
+                        "/grammar/feature/24",
+                        "Productive VV compounding"
+                    ],
+                    "Serial verb constructions involve chaining of roots together in one morphophonological word",
+                    "no info",
+                    "",
+                    "",
+                    "more likely not",
+                    "Duff-Tripp",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Morphology - Compounding, auxiliaries, light verbs",
+                    [
+                        "/grammar/feature/25",
+                        "Verb-adjunct (aka light verb) constructions"
+                    ],
+                    "There is a set of semantically weak verbs used in complex verbal constructions, e.g. 'take a nap'",
+                    "no info",
+                    "",
+                    "",
+                    "more likely not",
+                    "Duff-Tripp",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Morphology - Compounding, auxiliaries, light verbs",
+                    [
+                        "/grammar/feature/26",
+                        "Auxiliary verb(s)"
+                    ],
+                    "There are verbs that accompany main verbs of clauses and take grammatical marking not expressed by main verbs",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:120-4",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Morphology - Incorporation",
+                    [
+                        "/grammar/feature/27",
+                        "Incorporation of nouns into verbs is a productive intransitivizing process"
+                    ],
+                    "Verb contains nominal segment",
+                    "yes",
+                    "",
+                    "",
+                    "But this is restricted to body-parts and nominal classifiers",
+                    "Duff-Tripp 1997:171",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Morphology - Incorporation",
+                    [
+                        "/grammar/feature/28",
+                        "Productive incorporation of other elements (adjectives, locatives, etc.) into verbs"
+                    ],
+                    "Like noun incorporation, but incorporated  elements are not nouns",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:171",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Gender and noun classification",
+                    [
+                        "/grammar/feature/29",
+                        "Noun classes/genders"
+                    ],
+                    "Nouns are organized into sets with distinct morphological treatment; usually affects all nouns and involves agreement within the NP",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:23-51",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Gender and noun classification",
+                    [
+                        "/grammar/feature/30",
+                        "Number of noun classes/genders"
+                    ],
+                    "Note the (approximate) total number of noun classes/genders",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:23-51",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Gender and noun classification",
+                    [
+                        "/grammar/feature/31",
+                        "Noun classifiers (distinct from noun classes/genders)"
+                    ],
+                    "Nouns are organized into sets, but only a limited set of nouns may be implicated, with no or limited agreement marking. If only numeral classifiers exist, indicate yes but explain.",
+                    "yes",
+                    "",
+                    "",
+                    "There are more than 100 classifiers",
+                    "Duff-Tripp 1997:113",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Gender and noun classification",
+                    [
+                        "/grammar/feature/32",
+                        "Sex is a relevant category in noun class(ification) system for animates"
+                    ],
+                    "Masculine, feminine, neuter",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:253-66",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Gender and noun classification",
+                    [
+                        "/grammar/feature/33",
+                        "Sex is a relevant category in noun class(ification) system for inanimates"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:253-66",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Gender and noun classification",
+                    [
+                        "/grammar/feature/34",
+                        "Animacy (w/o reference to sex) is a relevant category in the noun class(ification) system"
+                    ],
+                    "Animate/inanimate, human/non-human",
+                    "yes",
+                    "",
+                    "",
+                    "There is a classifier which means \"person\"",
+                    "Duff-Tripp 1997:263",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Gender and noun classification",
+                    [
+                        "/grammar/feature/35",
+                        "Sex/gender distinction only in 3rd person pronouns"
+                    ],
+                    "add in notes section whether gender is present in other PNs or not in any PNs; consider with reference to pronouns and person marking only",
+                    "no",
+                    "",
+                    "",
+                    "It seems that gender is not distinguished in nouns either",
+                    "Duff-Tripp 1997:61",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Gender and noun classification",
+                    [
+                        "/grammar/feature/36",
+                        "Shape is a relevant category in the noun class(ification) system for animates"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:253-66",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Gender and noun classification",
+                    [
+                        "/grammar/feature/37",
+                        "Shape is a relevant category in the noun class(ification) system for inanimates"
+                    ],
+                    "",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:55",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Gender and noun classification",
+                    [
+                        "/grammar/feature/38",
+                        "\"Repeater\" classifiers"
+                    ],
+                    "Where no distinct classifier exists, a copy of the noun itself may function in the morphosyntactic classifier \"slot\"",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:253-66",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Gender and noun classification",
+                    [
+                        "/grammar/feature/39",
+                        "Numeral classifiers (specific to numerals)"
+                    ],
+                    "Special classifier forms that occur only with numerals",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:253-66",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Gender and noun classification",
+                    [
+                        "/grammar/feature/40",
+                        "Classifiers used as derivational suffixes to derive nouns"
+                    ],
+                    "Verb + classifier = 'thing for doing V, thing that does V, etc.'",
+                    "yes",
+                    "",
+                    "",
+                    "Classifiers are used as nouns in NN compounding",
+                    "Duff-Tripp 1997:38, 253-66",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Number",
+                    [
+                        "/grammar/feature/41",
+                        "Singular number may be marked on the noun"
+                    ],
+                    "Often occurs in a small subset of nouns if a single entity is referred to, e.g. insects that normally occur in groups",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:26-8",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Number",
+                    [
+                        "/grammar/feature/42",
+                        "Plural affix on noun"
+                    ],
+                    "",
+                    "yes",
+                    "",
+                    "",
+                    "The suffix orthographically is -esha\u00b4 but there is not a phonological key to go from orthography to phonology. There is another plural suffix -are\u00b4.",
+                    "Duff-Tripp 1997:26",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Number",
+                    [
+                        "/grammar/feature/43",
+                        "Plural marked by stem change or tone on noun"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:26",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Number",
+                    [
+                        "/grammar/feature/44",
+                        "Plural marked by reduplication of noun"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:26",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Number",
+                    [
+                        "/grammar/feature/45",
+                        "Plural word/clitic"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:26",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Number",
+                    [
+                        "/grammar/feature/46",
+                        "Plural marked on human or animate nouns only"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:26-8",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Number",
+                    [
+                        "/grammar/feature/47",
+                        "Pronominal plural: stem + nominal plural affix"
+                    ],
+                    "Pronouns use a nominal plural affix not specific to pronouns",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:61",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Number",
+                    [
+                        "/grammar/feature/48",
+                        "Unique associative plural marker"
+                    ],
+                    "e.g. 'John and his associates', 'John and them'",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:26-8",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Definiteness and clusivity",
+                    [
+                        "/grammar/feature/49",
+                        "Definite or specific articles"
+                    ],
+                    "Definite = particular referent known to both speaker and addressee; specific = particular referent known to speaker only",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:23-68",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Definiteness and clusivity",
+                    [
+                        "/grammar/feature/50",
+                        "Marker of definiteness distinct from demonstratives"
+                    ],
+                    "Focus on articles/markers whose primary function is to mark definiteness",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:53",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Definiteness and clusivity",
+                    [
+                        "/grammar/feature/51",
+                        "Indefinite or non-specific article"
+                    ],
+                    "or marker",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:23-68",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Definiteness and clusivity",
+                    [
+                        "/grammar/feature/52",
+                        "Inclusive/exclusive: in free pronominals"
+                    ],
+                    "Inclusive  =us + you, exclusive = us but not you",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:61",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Definiteness and clusivity",
+                    [
+                        "/grammar/feature/53",
+                        "Inclusive/exclusive: in verbal inflection (bound)"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:71-5",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Definiteness and clusivity",
+                    [
+                        "/grammar/feature/54",
+                        "Distance contrasts in demonstratives (number)"
+                    ],
+                    "Note the number of distances in the demonstrative system",
+                    "3",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:53",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Definiteness and clusivity",
+                    [
+                        "/grammar/feature/55",
+                        "Other contrasts in demonstratives (visibility, elevation, etc.)"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:53",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Pronominal categories",
+                    [
+                        "/grammar/feature/56",
+                        "Gender in 3sg pronouns"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:61",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Pronominal categories",
+                    [
+                        "/grammar/feature/57",
+                        "Gender in 3pl pronouns"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:61",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Pronominal categories",
+                    [
+                        "/grammar/feature/58",
+                        "Gender in 1st and/or 2nd person pronouns"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:61",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Pronominal categories",
+                    [
+                        "/grammar/feature/59",
+                        "Formal/informal distinction in pronouns"
+                    ],
+                    "Polite pronominal variants or differential avoidance of pronouns",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:61-8",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Pronominal categories",
+                    [
+                        "/grammar/feature/60",
+                        "Reflexive pronouns"
+                    ],
+                    "e.g. English 'himself', Spanish 'se'; distinct form(s) from basic (non-reflexive) pronominals; distinct from reflexive verbal affix",
+                    "no",
+                    "",
+                    "",
+                    "Regular object pronouns are used",
+                    "Duff-Tripp 199781, :61-8",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Case and adpositions",
+                    [
+                        "/grammar/feature/61",
+                        "Adpositions mark core NPs"
+                    ],
+                    "Prepositions or postpositions mark subjects, objects, beneficiaries/recipients",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:35",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Case and adpositions",
+                    [
+                        "/grammar/feature/62",
+                        "Case: number of cases"
+                    ],
+                    "Note the number of grammatical relations that may be morphologically marked on the noun",
+                    "4",
+                    "",
+                    "",
+                    "locative, referential, vocative and genitive",
+                    "Duff-Tripp 1997:35",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Case and adpositions",
+                    [
+                        "/grammar/feature/63",
+                        "Case: only non-core arguments morphologically marked"
+                    ],
+                    "Subjects, objects, beneficiaries/recipients NOT marked, but other grammatical relations are",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:35",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Case and adpositions",
+                    [
+                        "/grammar/feature/64",
+                        "Case: symmetrical"
+                    ],
+                    "All NPs marked if in appropriate syntactic relation; no distinction in marking based on semantics (type of entity)",
+                    "no",
+                    "",
+                    "",
+                    "Case does not occur in core arguments. Thus, this questions is not applicable to the Yanesha case",
+                    "Duff-Tripp 1997:36",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Case and adpositions",
+                    [
+                        "/grammar/feature/65",
+                        "Case: asymmetrical "
+                    ],
+                    "Semantically defined subset of NPs marked for case, e.g. animates",
+                    "no",
+                    "",
+                    "",
+                    "Case does not occur in core arguments. Thus, this questions is not applicable to the Yanesha case",
+                    "Duff-Tripp 1997:36",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Case and adpositions",
+                    [
+                        "/grammar/feature/66",
+                        "Case: suffix or postpositional clitic"
+                    ],
+                    "",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:35",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Case and adpositions",
+                    [
+                        "/grammar/feature/67",
+                        "Case: prefix or prepositional clitic"
+                    ],
+                    "",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:29",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Case and adpositions",
+                    [
+                        "/grammar/feature/68",
+                        "Case: infix or inpositional clitic"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:29, 35",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Case and adpositions",
+                    [
+                        "/grammar/feature/69",
+                        "Case: stem change"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:29, 35",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Case and adpositions",
+                    [
+                        "/grammar/feature/70",
+                        "Case: tone"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:29, 35",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Case and adpositions",
+                    [
+                        "/grammar/feature/71",
+                        "Case: comitative = instrumental"
+                    ],
+                    "Same marking for 'with a person' and 'with an instrument'",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:47, 66-7",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Numerals",
+                    [
+                        "/grammar/feature/72",
+                        "Base-2"
+                    ],
+                    "At least some part of the system involves base-2",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Numerals",
+                    [
+                        "/grammar/feature/73",
+                        "Base-5"
+                    ],
+                    "At least some part of the system involves base-5",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Numerals",
+                    [
+                        "/grammar/feature/74",
+                        "Base-10"
+                    ],
+                    "At least some part of the system involves base-10",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Numerals",
+                    [
+                        "/grammar/feature/75",
+                        "Other base (specify)"
+                    ],
+                    "4, 20, etc.",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Numerals",
+                    [
+                        "/grammar/feature/76",
+                        "Etymological transparency in any numerals under 5"
+                    ],
+                    "e.g. two = 'eye-quantity'",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Numerals",
+                    [
+                        "/grammar/feature/77",
+                        "Numerals do not go above 5"
+                    ],
+                    "'Many' or some other non-exact term used",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Numerals",
+                    [
+                        "/grammar/feature/78",
+                        "Numerals do not go above 10"
+                    ],
+                    "'Many' or some other non-exact term used",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Other nominal",
+                    [
+                        "/grammar/feature/79",
+                        "Tense or aspect inflection on non-verbal predicates"
+                    ],
+                    "i.e. nominal or adjectival",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:69-124",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Categories - Other nominal",
+                    [
+                        "/grammar/feature/80",
+                        "Person inflection on non-verbal predicates"
+                    ],
+                    "i.e. nominal or adjectival",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:69-124",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Syntax - Possession",
+                    [
+                        "/grammar/feature/81",
+                        "Pronominal possessive affixes: prefix on N"
+                    ],
+                    "alienable/inalienable?",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:29",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Syntax - Possession",
+                    [
+                        "/grammar/feature/82",
+                        "Pronominal possessive affixes: suffix on N"
+                    ],
+                    "alienable/inalienable?",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:30-3",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Syntax - Possession",
+                    [
+                        "/grammar/feature/83",
+                        "Head/dependent marking in possessive NP: dependent"
+                    ],
+                    "e.g. 'the boy-'s dog'",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:29",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Syntax - Possession",
+                    [
+                        "/grammar/feature/84",
+                        "Head/dependent marking in possessive NP: head"
+                    ],
+                    "e.g. 'the boy his-dog'",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:29",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Syntax - Possession",
+                    [
+                        "/grammar/feature/85",
+                        "Possessive classifiers"
+                    ],
+                    "There are special classifiers that occur with possessed entities",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:253-67",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Syntax - Possession - Alienability",
+                    [
+                        "/grammar/feature/86",
+                        "Morphological marking of inalienable possession"
+                    ],
+                    "Where inalienable possession differs from alienable, the former takes a morphological marker (may include an associated free particle/pronoun)",
+                    "no",
+                    "",
+                    "",
+                    "Inalienabl and alienable possession are marked but they may differ in the strategy used",
+                    "Duff-Tripp 1997:33-4",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Syntax - Possession - Alienability",
+                    [
+                        "/grammar/feature/87",
+                        "Morphological marking of alienable possession"
+                    ],
+                    "Where inalienable possession differs from alienable, the latter takes a morphological marker (may include an associated free particle/pronoun)",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:33-4",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Syntax - Possession - Alienability",
+                    [
+                        "/grammar/feature/88",
+                        "Default marker for inalienably possessed nouns if unpossessed"
+                    ],
+                    "An inalienable noun that is in an unpossessed state must have a derivational affix or associated form",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:30-1",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Syntax - Possession - Alienability",
+                    [
+                        "/grammar/feature/89",
+                        "Inalienable possession of kin terms"
+                    ],
+                    "'my-father' but *father",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:30-1",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Syntax - Possession - Alienability",
+                    [
+                        "/grammar/feature/90",
+                        "Inalienable possession of body parts (human/animal)"
+                    ],
+                    "'my-leg' but *leg",
+                    "no",
+                    "",
+                    "",
+                    "Body parts are usually possessed but they need not be",
+                    "Duff-Tripp 1997:31",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Syntax - Possession - Alienability",
+                    [
+                        "/grammar/feature/91",
+                        "Generic human nouns are obligatorily bound/possessed"
+                    ],
+                    "Human nouns must co-occur with another noun (e.g. Hup-man, NonIndian-woman, but *man)",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Syntax - Adjectives",
+                    [
+                        "/grammar/feature/92",
+                        "Underived adjectives"
+                    ],
+                    "There are underived adjectives which do not have counterparts in other word classes",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:52-60",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Syntax - Adjectives",
+                    [
+                        "/grammar/feature/93",
+                        "Gender inflection on adjectives within the NP"
+                    ],
+                    "There is gender agreement/concord (animate/inanimate or masc/fem, etc.) within the NP, e.g. la casa blanca, el perro blanco",
+                    "yes",
+                    "",
+                    "",
+                    "This is restricted to the classifier the adjective may take; the adjective do not agree with the head noun in number or person",
+                    "Duff-Tripp 1997:52",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Syntax - Derivation",
+                    [
+                        "/grammar/feature/94",
+                        "Productive nominalizing morphology: action/state (arrive/arrival)"
+                    ],
+                    "There is a morpheme which derives an event from a verb",
+                    "yes",
+                    "",
+                    "",
+                    "The orthographic form of the morpheme is -a\u00f1/-\u00f1 but no key for a phonological form is given",
+                    "Duff-Tripp 1997:38",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Syntax - Derivation",
+                    [
+                        "/grammar/feature/95",
+                        "Productive nominalizing morphology: agentive (sing/singer)"
+                    ],
+                    "There is a morpheme which derives an agent or subject from a verb",
+                    "yes",
+                    "",
+                    "",
+                    "The orthographic form is -a\u00f1/-\u00f1/-a\u00f1a/-\u00f1a",
+                    "Duff-Tripp 1997:39",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Syntax - Derivation",
+                    [
+                        "/grammar/feature/96",
+                        "Productive nominalizing morphology: object (sing/song)"
+                    ],
+                    "There is a morpheme which derives a patient or object from a verb",
+                    "yes",
+                    "",
+                    "",
+                    "The orthographic form is -aret\u0334/-et\u0334",
+                    "Duff-Tripp 1997:40",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Syntax - Derivation",
+                    [
+                        "/grammar/feature/97",
+                        "Productive verbalizing morphology"
+                    ],
+                    "There is a morpheme which derives a verb from a noun or adjective",
+                    "yes",
+                    "",
+                    "",
+                    "The orthographic form is -V\u00b4t/-Vt/-t where V stands for a vowel",
+                    "Duff-Tripp 1997:42",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Nominal Syntax - Other",
+                    [
+                        "/grammar/feature/98",
+                        "NP coordination and comitative phrases marked differently"
+                    ],
+                    "'John and Mary went to market' is marked differently from 'John went to market with Mary'",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:160",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Aspect and tense",
+                    [
+                        "/grammar/feature/99",
+                        "Dedicated past marker(s)"
+                    ],
+                    "Past tense is regularly morphologically marked on the verb or elsewhere",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:118",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Aspect and tense",
+                    [
+                        "/grammar/feature/100",
+                        "Multiple past tenses, distinguishing distance from time of reference"
+                    ],
+                    "e.g. distant vs. recent past",
+                    "yes",
+                    "",
+                    "",
+                    "But this is distinguished by temporal adverbs",
+                    "Duff-Tripp 1997:118",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Aspect and tense",
+                    [
+                        "/grammar/feature/101",
+                        "Multiple future tenses, distinguishing distance from time of reference"
+                    ],
+                    "e.g. imminent vs. distant future",
+                    "yes",
+                    "",
+                    "",
+                    "But this is done only by the use of auxiliaries and/or clitics but not a dedicated affix",
+                    "Duff-Tripp 1997:117",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Aspect and tense",
+                    [
+                        "/grammar/feature/102",
+                        "Dedicated future or non-past marker(s)"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:117",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Aspect and tense",
+                    [
+                        "/grammar/feature/103",
+                        "Tense-aspect affixes: prefix"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:87-90",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Aspect and tense",
+                    [
+                        "/grammar/feature/104",
+                        "Tense-aspect affixes: suffix"
+                    ],
+                    "",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:87-90",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Aspect and tense",
+                    [
+                        "/grammar/feature/105",
+                        "Tense-aspect affixes: tone or ablaut"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:87-90",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Aspect and tense",
+                    [
+                        "/grammar/feature/106",
+                        "Tense-aspect suppletion"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:87-90",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Mood",
+                    [
+                        "/grammar/feature/107",
+                        "Dedicated imperative morpheme or verb form"
+                    ],
+                    "There is a special morpheme (or morphemes, or a bare verb root where inflection is normally expected) used to signal imperative (command) mood",
+                    "no",
+                    "",
+                    "",
+                    "The same form used for second person indicative is used for imperatives. However, the negative imperative is marked by {=ats} ",
+                    "Duff-Tripp 1997:114",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Mood",
+                    [
+                        "/grammar/feature/108",
+                        "Polite imperative morpheme"
+                    ],
+                    "There is a distinct morpheme for polite imperative constructions (specify if it has other functions in the language)",
+                    "no",
+                    "",
+                    "",
+                    "It seems that the subjunctive mood marker has this meaning since it is used for \"un deseo o una petici\u00f3n cort\u00e9s\" (polite wish or request)",
+                    "Duff-Tripp 1997:115",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Mood",
+                    [
+                        "/grammar/feature/109",
+                        "Difference between negation in imperative (prohibitive) and declarative clauses"
+                    ],
+                    "There are different strategies for marking negation in imperative and declarative clauses",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:179-181",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Mood",
+                    [
+                        "/grammar/feature/110",
+                        "Dedicated hortative morpheme or verb form (1pl or 3rd person imperative)"
+                    ],
+                    "as opposed to imperative; the person in control of desired state of affairs is not the addressee; ex: 'Let's sing' / 'Let him sing'",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:113-5",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Mood",
+                    [
+                        "/grammar/feature/111",
+                        "Situational possibility: affix on verb"
+                    ],
+                    "Inflectional marking of capacity to do something",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Mood",
+                    [
+                        "/grammar/feature/112",
+                        "Situational possibility: verbal construction"
+                    ],
+                    "",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Mood",
+                    [
+                        "/grammar/feature/113",
+                        "Situational possibility: other marking"
+                    ],
+                    "",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Mood",
+                    [
+                        "/grammar/feature/114",
+                        "Epistemic possibility: affix on verb"
+                    ],
+                    "Modal expressing hypothesis",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Mood",
+                    [
+                        "/grammar/feature/115",
+                        "Epistemic possibility: verbal construction"
+                    ],
+                    "",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Mood",
+                    [
+                        "/grammar/feature/116",
+                        "Epistemic possibility: other marking"
+                    ],
+                    "",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Mood",
+                    [
+                        "/grammar/feature/117",
+                        "Marking of expected/unexpected action or result"
+                    ],
+                    "There is inflectional marking of expected/unexpected",
+                    "no",
+                    "",
+                    "",
+                    "There is a particle which conveys \"surprise\" meaning but it is not marking (un)expected information",
+                    "Duff-Tripp 1997:69-124",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Mood",
+                    [
+                        "/grammar/feature/118",
+                        "Verbal frustrative"
+                    ],
+                    "Modal expressing frustration (\"in vain\")",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:69-124",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Mood",
+                    [
+                        "/grammar/feature/119",
+                        "Verbal habitual"
+                    ],
+                    "Modal expressing habituality",
+                    "no",
+                    "{-e\u00b4t\u0303}",
+                    "",
+                    "There is a verbal suffix which encodes habitual meaning. The form shown is the graphemic form.",
+                    "Duff-Tripp 1997:116",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Mood",
+                    [
+                        "/grammar/feature/120",
+                        "Apprehensive construction"
+                    ],
+                    "There is a single morpheme or verb form to mean '(be careful lest) X happens'",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Mood",
+                    [
+                        "/grammar/feature/121",
+                        "Reality status marking on verbs"
+                    ],
+                    "There are dedicated morpheme(s) for realis/irrealis 'actualized/unactualized events'",
+                    "no",
+                    "",
+                    "",
+                    "Irrealis meaning is marked by an auxiliary verb",
+                    "Duff-Tripp 1997:121",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Mood",
+                    [
+                        "/grammar/feature/122",
+                        "Affect markers (positive/negative)"
+                    ],
+                    "Note whether these inflectional markers are positive or negative",
+                    "yes",
+                    "{-ats}",
+                    "",
+                    "It conveys that the action expressed by the verb is thoguht as been performed badly.",
+                    "Duff-Tripp 1997:106",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Directionals",
+                    [
+                        "/grammar/feature/123",
+                        "Directional elements affixed to the verb"
+                    ],
+                    "There are grammaticalized elements indicating movement away, toward, there and back, etc.",
+                    "yes",
+                    "",
+                    "",
+                    "These are verbal suffixes",
+                    "Duff-Tripp 1997:91",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Evidentiality",
+                    [
+                        "/grammar/feature/124",
+                        "Grammaticalized visual"
+                    ],
+                    "Indicates information has been witnessed visually - indicate only if an overt marker",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:120-4",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Evidentiality",
+                    [
+                        "/grammar/feature/125",
+                        "Grammaticalized nonvisual"
+                    ],
+                    "Indicates information has been sensed firsthand but not visually (usually heard; also smelled, tasted, felt)",
+                    "yes",
+                    "",
+                    "",
+                    "This is done by an auxiliary verb",
+                    "Duff-Tripp 1997:122",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Evidentiality",
+                    [
+                        "/grammar/feature/126",
+                        "Grammaticalized inferential"
+                    ],
+                    "Indicates information has not been experienced firsthand, but inferred from some kind of evidence - indicate only if an overt marker.",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:120-4",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Evidentiality",
+                    [
+                        "/grammar/feature/127",
+                        "Grammaticalized reportive"
+                    ],
+                    "Indicates speaker is not responsible for veracity of statement, merely reporting; 'allegedly'",
+                    "yes",
+                    "",
+                    "",
+                    "This is done by an auxiliary verb",
+                    "Duff-Tripp 1997:122",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Evidentiality",
+                    [
+                        "/grammar/feature/128",
+                        "Grammaticalized quotative"
+                    ],
+                    "Indicate presence of adjacent representation of repeated discourse",
+                    "no",
+                    "",
+                    "",
+                    "The same auxilary used for first-hand information is used",
+                    "Duff-Tripp 1997:122",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Evidentiality",
+                    [
+                        "/grammar/feature/129",
+                        "Other evidential"
+                    ],
+                    "Any other evidential values not represented above",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:120-4",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Evidentiality",
+                    [
+                        "/grammar/feature/130",
+                        "Evidentiality: verb affix or clitic"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:120-4",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Evidentiality",
+                    [
+                        "/grammar/feature/131",
+                        "Evidentiality: part of tense system"
+                    ],
+                    "Includes portmanteau morphs",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:120-4",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Evidentiality",
+                    [
+                        "/grammar/feature/132",
+                        "Evidentiality: separate particle"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:120-4",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Evidentiality",
+                    [
+                        "/grammar/feature/133",
+                        "Evidentiality: modal morpheme"
+                    ],
+                    "",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:122",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Verbal number",
+                    [
+                        "/grammar/feature/134",
+                        "Verbal number suppletion"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:71-9",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Verbal Categories - Other",
+                    [
+                        "/grammar/feature/135",
+                        "Social interaction markers"
+                    ],
+                    "Note the type of interaction",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:69-124",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/136",
+                        "No fixed basic constituent order"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "Basic constituent order seems to be VSO",
+                    "Duff-Tripp 1997:168",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/137",
+                        "VS in intransitive clauses"
+                    ],
+                    "Verb precedes subject",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:158",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/138",
+                        "VS in transitive clauses"
+                    ],
+                    "",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:158",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/139",
+                        "VO in transitive clauses"
+                    ],
+                    "Verb precedes object",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:168",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/140",
+                        "OS in transitive clauses"
+                    ],
+                    "Object precedes subject",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:168",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/141",
+                        "Preposition-Noun"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "There is no mention of either preposition or postposition. However, locative or possessice expresions are encoded by suffixes.",
+                    "Duff-Tripp 1997:23-122",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/142",
+                        "Noun-Postposition or case suffix"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "There is no mention of either preposition or postposition. However, locative or possessice expresions are encoded by suffixes.",
+                    "Duff-Tripp 1997:23-122",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/143",
+                        "Gen-Noun"
+                    ],
+                    "Possessive phrase composed of a free possessor and its possessum has possessor first (e.g. John's book)",
+                    "yes",
+                    "",
+                    "",
+                    "But the possessive marker is in the head noun",
+                    "Duff-Tripp 1997:29",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/144",
+                        "Noun-Gen"
+                    ],
+                    "Possessive phrase composed of a free possessor and its possessum has possessum first (e.g. 'book of John')",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:29-30",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/145",
+                        "Adj-Noun"
+                    ],
+                    "Adjective precedes the noun",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:158",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/146",
+                        "Noun-Adj"
+                    ],
+                    "Adjective follows the noun",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:158",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/147",
+                        "Dem-Noun"
+                    ],
+                    "",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:158",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/148",
+                        "Noun-Dem"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:158",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/149",
+                        "Num-Noun"
+                    ],
+                    "",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/150",
+                        "Noun-Num"
+                    ],
+                    "",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/151",
+                        "Noun-Rel"
+                    ],
+                    "Relative clause follows noun that it modifies",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:206",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/152",
+                        "Rel-Noun"
+                    ],
+                    "Relative clause precedes noun that it modifies",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:206",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/153",
+                        "Re<Noun>l (internally headed relative)"
+                    ],
+                    "e.g. 'the dog cat chased-NMZR got away' ('the cat that the dog chased got away')",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:206-17",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/154",
+                        "Relative clause is correlative or adjoined"
+                    ],
+                    "e.g. 'what is running, the dog chased that cat'",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:206-17",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/155",
+                        "Question word is clause initial"
+                    ],
+                    "'what', 'who', etc. come first in interrogative clause",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:184",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Alignment",
+                    [
+                        "/grammar/feature/156",
+                        "Alignment of case marking in full NPs: nominative-accusative w/ marked accusative"
+                    ],
+                    "Objects of transitive clauses ('P') have a unique marker, while subjects of transitive ('A') and intransitive ('S') clauses are unmarked or share a different marker from that occurring on objects",
+                    "no",
+                    "",
+                    "",
+                    "sbujects and objects do not get case",
+                    "Duff-Tripp 1997:35",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Alignment",
+                    [
+                        "/grammar/feature/157",
+                        "Alignment of case marking in full NPs: nominative-accusative w/ marked nominative"
+                    ],
+                    "Subjects of transitive and intransitive clauses share a marker, while objects of transitives are unmarked",
+                    "no",
+                    "",
+                    "",
+                    "subjects and objects do not get case",
+                    "Duff-Tripp 1997:35",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Alignment",
+                    [
+                        "/grammar/feature/158",
+                        "Alignment of case marking in full NPs: ergative-absolutive"
+                    ],
+                    "Subjects of intransitive clauses and objects of transitives share a unique marker, while subjects of transitive clauses are unmarked or have a different marker",
+                    "no",
+                    "",
+                    "",
+                    "subjects and objects do not get case",
+                    "Duff-Tripp 1997:35",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Alignment",
+                    [
+                        "/grammar/feature/159",
+                        "Alignment of case marking in full NPs: tripartite"
+                    ],
+                    "Intransitive subjects, transitive subjects, and transitive objects all receive distinct case markers",
+                    "no",
+                    "",
+                    "",
+                    "subjects and objects do not get case",
+                    "Duff-Tripp 1997:35",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Alignment",
+                    [
+                        "/grammar/feature/160",
+                        "Alignment of case marking in full NPs: active-inactive"
+                    ],
+                    "Subjects of intransitive clauses are treated two different ways: like subjects of transitives if they are more agent-like (e.g. he jumped), and like objects of transitives if they are more patient-like (e.g. he fell asleep)",
+                    "no",
+                    "",
+                    "",
+                    "subjects and objects do not get case",
+                    "Duff-Tripp 1997:35",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Alignment",
+                    [
+                        "/grammar/feature/161",
+                        "Alignment of case marking of pronouns: marked accusative"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "subjects and objects do not get case",
+                    "Duff-Tripp 1997:67",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Alignment",
+                    [
+                        "/grammar/feature/162",
+                        "Alignment of case marking of pronouns: marked nominative"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "subjects and objects do not get case",
+                    "Duff-Tripp 1997:67",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Alignment",
+                    [
+                        "/grammar/feature/163",
+                        "Alignment of case marking of pronouns: ergative-absolutive"
+                    ],
+                    "yes, no, mixed, other",
+                    "no",
+                    "",
+                    "",
+                    "subjects and objects do not get case",
+                    "Duff-Tripp 1997:67",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Alignment",
+                    [
+                        "/grammar/feature/164",
+                        "Alignment of case marking of pronouns: tripartite"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "subjects and objects do not get case",
+                    "Duff-Tripp 1997:67",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Alignment",
+                    [
+                        "/grammar/feature/165",
+                        "Alignment of case marking of pronouns: active-inactive"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "subjects and objects do not get case",
+                    "Duff-Tripp 1997:67",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Alignment",
+                    [
+                        "/grammar/feature/166",
+                        "Alignment of verbal person-marking: nominative-accusative"
+                    ],
+                    "Same as above, for pronominal affixes/clitics on verbs",
+                    "yes",
+                    "",
+                    "",
+                    "Subjects and objects are cross-referenced on the verb",
+                    "Duff-Tripp 1997:72",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Alignment",
+                    [
+                        "/grammar/feature/167",
+                        "Alignment of verbal person-marking: ergative-absolutive"
+                    ],
+                    "yes, no, mixed, other",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:78-9",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Alignment",
+                    [
+                        "/grammar/feature/168",
+                        "Alignment of verbal person-marking: active-inactive"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:78-9",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Alignment",
+                    [
+                        "/grammar/feature/169",
+                        "Alignment of verbal person-marking: hierarchical"
+                    ],
+                    "Marking of A and P depends on their relative ranking on a hierarchy (usually 1>2>3 or 2>1>3)",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:78-9",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Alignment",
+                    [
+                        "/grammar/feature/170",
+                        "Alignment of verbal person-marking: split"
+                    ],
+                    "More than one of the above systems is represented in person marking, depending on e.g. person (e.g. 1/2 vs. 3), tense-aspect value, main vs. subordinate clause type, etc.",
+                    "yes",
+                    "",
+                    "",
+                    "The subject or a relative clause does not tirgger verbal cross-referencing. ",
+                    "Duff-Tripp 1997:72",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Pronouns and person marking",
+                    [
+                        "/grammar/feature/171",
+                        "Pronominal subjects: pronouns in subject position"
+                    ],
+                    "Pronominal subjects are free pronouns that occur in the same position as full NP subjects",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:61",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Pronouns and person marking",
+                    [
+                        "/grammar/feature/172",
+                        "Pronominal subjects: prefixes on verb"
+                    ],
+                    "Pronominal subjects are marked as verbal prefixes (free pronouns may be another option)",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:72",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Pronouns and person marking",
+                    [
+                        "/grammar/feature/173",
+                        "Pronominal subjects: suffixes on verb"
+                    ],
+                    "Pronominal subjects are marked as verbal suffixes (free pronouns may be another option)",
+                    "yes",
+                    "",
+                    "",
+                    "Only for third person plural",
+                    "Duff-Tripp 1997:72",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Pronouns and person marking",
+                    [
+                        "/grammar/feature/174",
+                        "Pronominal subjects: clitics on variable host"
+                    ],
+                    "Pronominal subjects are clitics that can attach to verbs, nominal constituents, etc.",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:41, 58",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Pronouns and person marking",
+                    [
+                        "/grammar/feature/175",
+                        "Pronominal subjects: pronouns in non-subject position"
+                    ],
+                    "Pronominal subjects are free pronouns but do not normally occur in the position expected for full NP subjects",
+                    "yes",
+                    "",
+                    "",
+                    "Pronouns usually occur before the verb whereas nouns occur after the verb",
+                    "Duff-Tripp 1997:158",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Pronouns and person marking",
+                    [
+                        "/grammar/feature/176",
+                        "Person marking on intransitive verbs"
+                    ],
+                    "Intransitive verbs take person-marking clitics/affixes",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:72",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Pronouns and person marking",
+                    [
+                        "/grammar/feature/177",
+                        "Person marking (of agents) on transitive verbs"
+                    ],
+                    "Transitive verbs take subject (A) markers",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:72",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Pronouns and person marking",
+                    [
+                        "/grammar/feature/178",
+                        "Person-marking (of objects) on transitive verbs"
+                    ],
+                    "Transitive verbs take object (P) markers",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:75",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Pronouns and person marking",
+                    [
+                        "/grammar/feature/179",
+                        "3rd person zero in verbal person marking: subjects"
+                    ],
+                    "3rd person subjects are not overtly marked within the verbal person-marking system",
+                    "yes",
+                    "",
+                    "",
+                    "Third person singular is zero case-marked; third person plural is marked by a verbal suffix",
+                    "Duff-Tripp 1997:72",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Pronouns and person marking",
+                    [
+                        "/grammar/feature/180",
+                        "3rd person zero in verbal person marking: objects"
+                    ],
+                    "3rd person objects are not overtly marked within the verbal person-marking system",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:77",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Pronouns and person marking",
+                    [
+                        "/grammar/feature/181",
+                        "Number can be marked separately from person on the verb"
+                    ],
+                    "Verbal person marking exists, but number is (or can) be marked separately",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:71-9",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Pronouns and person marking",
+                    [
+                        "/grammar/feature/182",
+                        "Possessive affixes/clitics on nouns are same as verbal person markers"
+                    ],
+                    "Where nouns take possessive affixes, these are the same as the person-marking affixes ",
+                    "yes",
+                    "",
+                    "",
+                    "This is true only for first and second person",
+                    "Duff-Tripp 1997:72",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Pronouns and person marking",
+                    [
+                        "/grammar/feature/183",
+                        "Gender distinguished in verbal person markers"
+                    ],
+                    "For any person, verbal person markers exhibit different forms depending on the gender (masc/fem, animate/inanimate, etc.) of the referent",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:71-87",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Valence and voice",
+                    [
+                        "/grammar/feature/184",
+                        "Ditransitive constructions: indirect object"
+                    ],
+                    "In ditransitives (e.g. 'John gives a book to Bill'), the theme (book) is treated in the same way as are objects of transitives, while the recipient/beneficiary (Bill) is treated differently",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Valence and voice",
+                    [
+                        "/grammar/feature/185",
+                        "Ditransitive constructions: double object"
+                    ],
+                    "In ditransitives (e.g. 'John gives Bill a book'), both the theme (book) and the recipient/beneficiary (Bill) is treated in the same way as are objects of transitives",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Valence and voice",
+                    [
+                        "/grammar/feature/186",
+                        "Ditransitive constructions: secondary object"
+                    ],
+                    "In ditransitives, the recipient/beneficiary is treated in the same way as are objects of transitives, while the theme (book) is treated differently",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Valence and voice - Decreasing",
+                    [
+                        "/grammar/feature/187",
+                        "Reciprocal: dedicated morpheme"
+                    ],
+                    "Verb becomes reciprocal through use of reciprocal morpheme associated with the verb (may be attached to the verb root). This morpheme is only used to mean reciprocal.",
+                    "yes",
+                    "{-ann}",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:97",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Valence and voice - Decreasing",
+                    [
+                        "/grammar/feature/188",
+                        "Reflexive: dedicated morpheme"
+                    ],
+                    "Verb becomes reflexive through use of reflexive morpheme associated with the verb (may be attached to the verb root). This morpheme is used only to mean reflexive. ",
+                    "yes",
+                    "{-a}",
+                    "",
+                    "However, it seems that this is not always a valence change suffix; instead, it is required with the so called reflexive verbs",
+                    "Duff-Tripp 1997:70",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Valence and voice - Decreasing",
+                    [
+                        "/grammar/feature/189",
+                        "Reciprocal/reflexive: same morpheme"
+                    ],
+                    "Verb becomes reciprocal or reflexive through use of a morpheme that means either reciprocal or reflexive which attaches to the root of the verb",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:70, 97",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Valence and voice - Decreasing",
+                    [
+                        "/grammar/feature/190",
+                        "Passive"
+                    ],
+                    "Passive voice usually involves a change to the verb, while the object of the active voice verb is promoted to subject in the passive voice, and the former subject is deleted/demoted",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:119",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Valence and voice - Decreasing",
+                    [
+                        "/grammar/feature/191",
+                        "Antipassive"
+                    ],
+                    "Like passive, but deletes or demotes the object of a transitive verb; usually found in ergative languages",
+                    "no ",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:69-124",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Valence and voice - Decreasing",
+                    [
+                        "/grammar/feature/192",
+                        "Other intransitivizing morphology"
+                    ],
+                    "There is/are some other mechanism(s) for reducing valency",
+                    "yes",
+                    "",
+                    "",
+                    "object incorporation",
+                    "Duff-Tripp 1997:171",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Valence and voice - Increasing",
+                    [
+                        "/grammar/feature/193",
+                        "Applicative: benefactive"
+                    ],
+                    "Applicative adds a beneficiary/maleficiary object argument to the verb ",
+                    "yes",
+                    "{-on/-n}",
+                    "",
+                    "It is a verbal suffix",
+                    "Duff-Tripp 1997:79",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Valence and voice - Increasing",
+                    [
+                        "/grammar/feature/194",
+                        "Applicative: other"
+                    ],
+                    "Applicative adds some other object argument to the verb ",
+                    "yes",
+                    "{-amp, -a\u00b4p}",
+                    "",
+                    "Notice that the consonants have a tilde on them",
+                    "Duff-Tripp 1997:97",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Valence and voice - Increasing",
+                    [
+                        "/grammar/feature/195",
+                        "Causative: prefix"
+                    ],
+                    "Causative is morphological and is attached before the root of the verb",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:97",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Valence and voice - Increasing",
+                    [
+                        "/grammar/feature/196",
+                        "Causative: suffix"
+                    ],
+                    "Causative is morphological and is attached after the root of the verb",
+                    "yes",
+                    "{-at}",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:97",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Valence and voice - Increasing",
+                    [
+                        "/grammar/feature/197",
+                        "Causative marked by circumfix, stem change, or tone"
+                    ],
+                    "Morphological causative other than simple prefix/suffix",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:97",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Valence and voice - Increasing",
+                    [
+                        "/grammar/feature/198",
+                        "Causative: serial verb or analytical construction"
+                    ],
+                    "Causative construction that involves periphrasis or serialization",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:100-1",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Valence and voice - Increasing",
+                    [
+                        "/grammar/feature/199",
+                        "Causative: dedicated 'make do by proxy'"
+                    ],
+                    "Indicates that the causer does not directly cause the action of the verb to be realized, but does so by inducing someone else to carry out the action, e.g. 'John had the house painted.'",
+                    "yes",
+                    "",
+                    "",
+                    "It is marked by the reduplication of the regular causative suffix",
+                    "Duff-Tripp 1997:101",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Valence and voice - Increasing",
+                    [
+                        "/grammar/feature/200",
+                        "Causative: dedicated sociative"
+                    ],
+                    "Indicates that causer participates in event",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:100-1",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Valence and voice - Increasing",
+                    [
+                        "/grammar/feature/201",
+                        "Other transitivizing morphology (adds valence)"
+                    ],
+                    "There is/are some other mechanism(s) for increasing valency",
+                    "yes",
+                    "",
+                    "",
+                    "The applicative and dtive verbal suffixes increase verbal valency",
+                    "Duff-Tripp 1997:99",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Negation",
+                    [
+                        "/grammar/feature/202",
+                        "Clausal negator is a preposed element"
+                    ],
+                    "Clausal negator is a preposed element",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:179-81",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Negation",
+                    [
+                        "/grammar/feature/203",
+                        "Clausal negator is a postposed element"
+                    ],
+                    "Clausal negator is a postposed element",
+                    "yes",
+                    "{-e/-o}",
+                    "",
+                    "The word ama \"not\" is together with the verbal negation suffix",
+                    "Duff-Tripp 1997:179",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Negation",
+                    [
+                        "/grammar/feature/204",
+                        "Negatives: affix"
+                    ],
+                    "Negatives: affix",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:179-81",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Negation",
+                    [
+                        "/grammar/feature/205",
+                        "Negatives: particle"
+                    ],
+                    "Negatives: particle",
+                    "yes",
+                    "",
+                    "",
+                    "The word ama \"not\"",
+                    "Duff-Tripp 1997:179",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Negation",
+                    [
+                        "/grammar/feature/206",
+                        "Negatives: auxiliary verb"
+                    ],
+                    "Negatives: auxiliary verb",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:179-81",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Negation",
+                    [
+                        "/grammar/feature/207",
+                        "Negatives: double"
+                    ],
+                    "Standard (non-emphatic) negation typically requires two morphemes, e.g. French 'ne V pas'",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:179",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Negation",
+                    [
+                        "/grammar/feature/208",
+                        "Distinct negative form for 'NP does not exist'"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:179-81",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Negation",
+                    [
+                        "/grammar/feature/209",
+                        "Distinct negative expression 'I don't know'"
+                    ],
+                    "Lexical expression or highly idiomatic phrase",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:179-81",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Interrogatives",
+                    [
+                        "/grammar/feature/210",
+                        "Polar questions: interrogative particle"
+                    ],
+                    "Yes/no questions distinguished from declaratives by interrogative particle",
+                    "yes",
+                    "{-V\u00b4t}",
+                    "",
+                    "Based on example. The form is the graphemic form which as it occurs in the source",
+                    "Duff-Tripp 1997:116",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Interrogatives",
+                    [
+                        "/grammar/feature/211",
+                        "Polar questions: verb morphology"
+                    ],
+                    "Yes/no questions distinguished from declaratives by interrogative verb morphology ",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:183-4",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Interrogatives",
+                    [
+                        "/grammar/feature/212",
+                        "Polar questions: word order"
+                    ],
+                    "Yes/no questions distinguished from declaratives by word order (esp. subject-verb inversion) ",
+                    "no",
+                    "",
+                    "",
+                    "However, yes-no questions usually occur as negative sentences",
+                    "Duff-Tripp 1997:183-4",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Interrogatives",
+                    [
+                        "/grammar/feature/213",
+                        "Polar questions: intonation only"
+                    ],
+                    "Yes/no questions distinguished from declaratives by intonation only",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:183-4",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Interrogatives",
+                    [
+                        "/grammar/feature/214",
+                        "Content questions: word order differs from declaratives"
+                    ],
+                    "Content questions distinguished from declaratives by word order (esp. subject-verb inversion) as well as by presence of Q-word (who, what, etc.)",
+                    "no",
+                    "",
+                    "",
+                    "The contet question word occurs sentence-initially but the other constituens remain as in declarative sentences",
+                    "Duff-Tripp 1997:184-6",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Predication",
+                    [
+                        "/grammar/feature/215",
+                        "Predicate adjectives: verbal"
+                    ],
+                    "Adjectives act like verbs in predicative position",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:58-9",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Predication",
+                    [
+                        "/grammar/feature/216",
+                        "Predicate adjectives: nominal"
+                    ],
+                    "Adjectives act like nouns in predicative position",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:58-9",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Predication",
+                    [
+                        "/grammar/feature/217",
+                        "Zero copula for predicate nominals is possible"
+                    ],
+                    "Predicate nominals may occur without a copula (i.e. grammatical in some circumstances, if not all)",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:42",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Predication",
+                    [
+                        "/grammar/feature/218",
+                        "Headless relative clauses"
+                    ],
+                    "Compare Eng 'the one that fell' (but in Eng 'one' could be considered a head)",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:206",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Predication",
+                    [
+                        "/grammar/feature/219",
+                        "Headless relative clauses are the dominant or only form of relative clause"
+                    ],
+                    "Relative clauses that form a constituent with a head noun (in a single noun phrase) are rare or nonexistent; some descriptions may refer to adjoined or correlative clauses.",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:206-17",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Predication",
+                    [
+                        "/grammar/feature/220",
+                        "Relative clause may occur with a noun classifier/class marker "
+                    ],
+                    "It may be unclear whether the classifier is the nominal head of the construction or is an agreement marker on the relative clause",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:206-17",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Predication",
+                    [
+                        "/grammar/feature/221",
+                        "Relativizer is a verbal affix"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:206",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Predication",
+                    [
+                        "/grammar/feature/222",
+                        "Morphological relativizer is homophonous with nominalizer"
+                    ],
+                    "The same morpheme marks a relative clause and is a nominalizer on verbs (and/or other word classes)",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:38-40, 65, 79",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Desiderative expressions",
+                    [
+                        "/grammar/feature/223",
+                        "Grammaticalized verbal desiderative"
+                    ],
+                    "Indicates that the subject desires to carry out the action denoted by the verb (distinct from verb 'want', but may be grammaticalized from it)",
+                    "yes",
+                    "{-V\u00f1}",
+                    "",
+                    "This is the orthographic form. The grapheme \"\u00f1\" probably stands for a palatal nasal.",
+                    "Duff-Tripp 1997:107",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Other",
+                    [
+                        "/grammar/feature/224",
+                        "Clause chaining"
+                    ],
+                    "Clauses can be grouped such that only one bears most of the verb morphology, and the others are marked as to whether they share a subject with this reference clause.",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:188",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Other",
+                    [
+                        "/grammar/feature/225",
+                        "Morphologically marked switch-reference system"
+                    ],
+                    "There are special markers to indicate same vs. different subject when two clauses are combined",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:189",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Simple Clauses - Other",
+                    [
+                        "/grammar/feature/226",
+                        "Morphologically marked distinction between simultaneous and sequential clauses"
+                    ],
+                    "Morphology (usually on verb) distinguishes between clauses denoting events that occur at the same time or in sequence",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "Duff-Tripp 1997:188",
+                    "Daniel Valle",
+                    "",
+                    "",
+                    ""
+                ]
+            ]
+        }
+    },
+    "Features": "\nGrammatical Data\n",
+    "Family": "Arawakan",
+    "name": "Yanesha'",
+    "Region": "South America",
+    "Location": "\n\t\t\t\t\t-10.55\u00b0,\n\t\t\t\t\t-75.31\u00b0\n\t\t\t\t",
+    "ISO 639-3": "ame",
+    "id": "49",
+    "Notes": ""
+}

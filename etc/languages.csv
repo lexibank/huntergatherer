@@ -1,0 +1,383 @@
+ID,Name,Glottocode,Glottolog_Name
+1,Cupeño,cupe1243,Cupeño
+2,Cahuilla,cahu1264,Cahuilla
+3,Luiseño,luis1253,Luiseno
+4,Serrano,serr1255,Serrano
+5,Kawaiisu,kawa1283,Kawaiisu
+6,Western Mono,mono1275,Mono (USA)
+7,Chemehuevi,chem1251,Chemehuevi
+8,Southern Paiute,sout2969,Southern Paiute
+9,Southern Ute,utee1244,Ute
+10,Comanche,coma1245,Comanche
+11,Northern Paiute,nort2954,Northern Paiute
+12,Yuma,quec1382,Quechan
+13,Tümpisa Shoshone,pana1305,Panamint
+14,Yokuts Palewyami,pale1254,Palewyami Yokuts
+15,Central Sierra Miwok,cent2140,Central Sierra Miwok
+16,Esselen,esse1238,Esselen
+17,Gabrielino,tong1329,Tongva
+18,Kitanemuk,serr1255,Serrano
+19,Maidu,nort2952,Northeast Maidu
+20,Mutsun,muts1243,Mutsun
+21,Nisenan,nise1244,Nisenan
+22,Northern Sierra Miwok,nort2968,Northern Sierra Miwok
+23,Plains Miwok,plai1259,Plains Miwok
+24,Salinan M,sali1253,Salinan
+25,Southern Sierra Miwok,sout2985,Southern Sierra Miwok
+26,Tübatulabal,tuba1278,Tübatulabal
+27,Washo,wash1253,Washo
+28,Wintu,wint1259,Wintu
+29,Yokuts Yawdanchi,yoku1256,Yokuts
+30,Yuki,yuki1243,Yuki
+31,Yavapai,hava1248,Havasupai-Walapai-Yavapai
+32,Iipay 'Aa,kumi1248,Kumiai
+33,Cocopa,coco1261,Cocopa
+34,Kiliwa,kili1268,Kiliwa
+35,Mojave,moha1256,Mohave
+36,Wappo,wapp1239,Wappo
+37,Seri (Comcaac),seri1257,Seri
+38,Lake Miwok,lake1258,Lake Miwok
+39,Chumash Barbareno,barb1263,Barbareño
+40,Chumash Ventureno,vent1242,Ventureño
+41,Chumash Obispeno,obis1242,Obispeño
+42,Chumash Cruzeno,cruz1243,Cruzeño
+43,Chumash Ineseno,ines1240,Ineseño
+44,Bankalachi Toloim,tuba1278,Tübatulabal
+45,Yokuts Yowlumne,yoku1256,Yokuts
+46,Big Smokey Valley Shoshone,shos1248,Shoshoni
+47,Salinan A,sali1253,Salinan
+48,Achagua,acha1250,Achagua
+49,Yanesha',yane1238,Yanesha'
+50,Apurinã,apur1254,Apurinã
+51,Asheninka Apurucayali,ajyi1238,Ajyíninka Apurucayali
+52,Baniwa,bani1255,Baniwa
+53,Bare,bare1276,Baré
+54,Kabiyari ,cabi1241,Cabiyarí
+55,"Maipure [--], Arawakan",maip1246,
+56,Mandawaka,mand1448,Mandahuaca
+57,Paresi ,pare1272,Parecís
+58,Piapoco ,piap1246,Piapoco
+59,Resígaro,resi1247,Resígaro
+60,Tariana,tari1256,Tariana
+61,Wapishana,wapi1253,Wapishana
+62,Warekena ,guar1293,Guarequena
+63,Wayuu,wayu1243,Wayuu
+64,Yavitero,yavi1244,Yavitero
+65,Yukuna ,yucu1253,Yucuna
+66,Arutani,arut1244,Arutani
+67,Sape,sape1238,Sapé
+68,Bora,bora1263,Bora
+69,Muinane ,muin1242,Muinane
+70,Akawaio,akaw1239,Akawaio
+71,Akawaio/Ingariko dialect,akaw1239,Akawaio
+72,Carijona,cari1279,Carijona
+73,Eñepa,enap1235,E'napa Woromaipu
+75,Makushi ,macu1259,Macushi
+76,Mapoyo,mapo1246,Mapoyo
+77,Pemon,pemo1248,Pemon
+78,Wai Wai,waiw1244,Waiwai
+79,Waimiri Atroari,waim1253,Waimiri-Atroari
+80,Yabarana,yaba1248,Yabarana
+81,Yukpa,yukp1241,Yukpa
+82,Muisca,chib1270,Chibcha
+83,Cabecar,cabe1245,Cabécar
+84,Damana,mala1522,Malayo
+85,Ika,arhu1242,Arhuaco
+86,Kogi,cogu1240,Cogui
+87,Waunana,woun1238,Woun Meu
+88,Guaymí,ngab1239,Ngäbere
+90,Northern Emberá,nort2972,Northern Emberá
+91,Kaingang,kain1272,Kaingang
+92,Cuiva,cuib1242,Cuiba
+93,Guayabero,guay1257,Guayabero
+94,Macaguan,maca1259,Macaguán
+95,Playero,play1240,Playero
+96,Sikuani,guah1255,Guahibo
+97,Andoke,ando1256,Andoque
+98,Central Aymara,cent2142,Central Aymara
+99,Camsa,cams1241,Camsá
+100,Candoshi-Shapra,cand1248,Candoshi-Shapra
+101,Cofán,cofa1242,Cofán
+102,Hodï,yuwa1244,Yuwana
+103,Waorani,waor1240,Waorani
+104,"Máku [xxx], Isolate (SAM)",maku1246,
+106,Páez,paez1247,Páez
+107,Puinave,puin1248,Puinave
+108,Pumé,pume1238,Pumé
+109,Taushiro,taus1253,Taushiro
+110,Tikuna,ticu1245,Ticuna
+111,Tinigua,tini1245,Tinigua
+112,Urarina,urar1246,Urarina
+113,Warao,wara1303,Warao
+114,Aguaruna,agua1253,Aguaruna
+115,Ashuar,achu1248,Achuar-Shiwiar
+116,Huambisa,huam1247,Huambisa
+117,Kakua,cacu1241,Kakua
+118,Nukak,nuka1242,Nukak Makú
+119,Dâw,daww1239,Dâw
+120,Hup,hupd1244,Hupdë
+121,Nadëb/Rio Negro dialect,nade1244,Nadëb
+122,Nadëb/Roçado dialect,nade1244,Nadëb
+123,Yuhup,yuhu1238,Yuhup
+124,Matses,mats1244,Matsés
+125,Yagua,yagu1244,Yagua
+126,Ingá,inga1252,Inga
+127,Napo Lowland Quichua,napo1242,Napo Lowland Quechua
+128,Quechua Ayacuchano,ayac1239,Ayacucho Quechua
+129,Southern Pastaza Quechua,sout2990,Southern Pastaza Quechua
+130,Piaroa,piar1243,Piaroa
+131,Bará,poka1242,Pokangá
+132,Barasano,bara1380,Barasana-Eduria
+133,Carapana,cara1272,Carapana
+134,Cubeo,cube1242,Cubeo
+135,Desano,desa1247,Desano
+136,Makuna,macu1260,Macuna
+137,Waikhana,pira1254,Wa'ikhana
+138,Siriano,siri1274,Siriano
+139,Tanimuca,tani1257,Tanimuca-Retuarã
+140,Tatuyo,tatu1247,Tatuyo
+141,Tukano,tuca1252,Tucano
+142,Tuyuka,tuyu1244,Tuyuca
+143,Waimaja,waim1255,Waimaha
+144,Kotiria,guan1269,Kotiria
+145,Yuruti,yuru1263,Yurutí
+146,Koreguaje,kore1283,Koreguaje
+147,Maihiki,orej1242,Maihiki
+148,Secoya,seco1241,Secoya
+149,Siona,sion1247,Siona
+150,Surui,suru1262,Suruí
+151,Karitiana,kari1311,Karitiâna
+152,Nheengatu,nhen1239,Nhengatu
+154,Aché,ache1246,Aché
+156,Murui Witoto,muru1274,Murui Huitoto
+157,Nɨpode Witoto,nupo1240,Nüpode Huitoto
+158,Ocaina,ocai1244,Ocaina
+159,Ninam,nina1238,Ninam
+160,Sanumá,sanu1240,Sanumá
+161,Yanomam,yano1261,Yanomamö
+162,Yanomami,yano1262,Yanomámi
+163,Iquito,iqui1243,Iquito
+164,Bardi,bard1255,Bardi
+165,Nyulnyul,nyul1247,Nyulnyul
+166,Nimanburru,nima1245,Nimanbur
+167,Yawuru,yawu1244,Yawuru
+168,Jabirr-Jabirr,dyab1238,Dyaberdyaber
+169,Wardaman,ward1246,Wardaman
+170,Bunuba,buna1275,Bunaba
+171,Gooniyandi,goon1238,Gooniyandi
+172,Kija,kitj1240,Kitja
+173,Miriwung,miri1266,Miriwung
+174,Jaminjung,djam1255,Jaminjung
+175,Jingulu,djin1251,Djingili
+176,"Ngumbarl [XXX], Nyulnyulan",ngum1253,
+177,Nyikina,nyig1240,Nyigina
+178,Warrwa,warr1258,Warrwa
+179,Jawi,djaw1238,Djawi
+180,Diyari,dier1241,Dieri
+181,Mithaka,mith1236,Mithaka
+182,Ngamini,ngam1265,Ngamini
+183,"Nhirrpi [hrp], Pama-Nyungan",nhir1234,
+184,"Pirriya [xpa], Pama-Nyungan",pirr1240,
+185,Pitta-Pitta,pitt1247,Pitta Pitta
+186,"Wangkayutyuru [wky], Pama-Nyungan",,
+187,Yandruwandha,yand1253,Yandruwandha
+188,"Yarluyandi [yry], Pama-Nyungan",ngam1265,
+189,Yawarrawarrka,yawa1258,Yawarawarga
+190,Karajarri,kara1476,Karadjeri
+191,Mangala,mang1383,Mangala
+192,Northern Nyangumarta,nort2754,Northern Coastal Nyangumarta
+193,Nyangumarta,nyan1301,Nyangumarta
+194,Ngarluma,ngar1287,Ngarluma
+195,Gurindji,guri1247,Gurinji
+196,Jaru,jaru1254,Jaru
+197,Mudburra,mudb1240,Mudbura
+198,Walmajarri,walm1241,Walmajarri
+199,Warlpiri,warl1254,Warlpiri
+200,Paakantyi,darl1243,Paakantyi
+201,Kuuk Thaayorre,thay1249,Thayore
+202,Yidiny,yidi1250,Yidiny
+203,"Malyangapa [yga], Pama-Nyungan",yarl1236,
+204,Dhangu,dhan1270,Dhangu
+205,Djinang,djin1253,Djinang
+206,Gupapuyngu,gupa1247,Gupapuyngu
+207,Ritharrngu,rita1239,Ritarungo
+208,Gunin,kwin1241,Kwini
+209,Ngarinyin,ngar1284,Ngarinyin
+210,Unggumi,ungg1243,Unggumi
+211,Worrorra,woro1255,Worora
+212,Wunambal,wuna1249,Wunambal
+213,Northern Mangarla,mang1383,Mangala
+214,Gajirrabeng,gadj1243,Gadjerawang
+215,Djapu,djap1238,Djapu
+216,Yan-nhangu,yann1237,Yan-nhangu
+217,Burarra,bura1267,Burarra
+218,Rembarrnga,remb1249,Rembarunga
+219,Ngandi,ngan1295,Ngandi
+220,Wubuy,nung1290,Nunggubuyu
+221,Yir-Yoront,yiry1245,Yir Yoront
+222,Kurtjar,gurd1238,Gurdjar
+223,Wik Ngathan,wika1238,Wikalkan
+224,"Uw-Olkol [olk], Pama-Nyungan",olko1234,
+225,Uw-Oykangand,kunj1245,Kunjen
+226,Pakanh,paka1251,Pakanha
+227,Kuku-Thaypan,thay1248,Thaypan
+228,Kuku-Yalanji,kuku1273,Kuku-Yalanji
+229,Mbabaram,mbab1239,Mbabaram
+230,Tjaapukay,dyaa1242,Dyaabugay
+231,Guugu-Yimidhirr,gugu1255,Guugu Yimidhirr
+232,Arabana,arab1267,Arabana
+233,Dhuwal,dhuw1249,Dhuwal
+234,Dhuwala,gupa1247,Gupapuyngu
+235,DiyariREU,dier1241,Dieri
+236,Djambarrpuyngu,djam1256,Djambarrpuyngu
+237,Rirratjingu,rirr1238,Rirratjingu
+238,Gumatj,gupa1247,Gupapuyngu
+239,Dhay’yi,dayi1244,Dayi
+240,Koko-Bera,gugu1254,Gugubera
+243,Guugu Yimidhirr,gugu1255,Guugu Yimidhirr
+244,Yokuts Yawelmani,yoku1256,Yokuts
+245,"7eqenem'u [], Unknown North America",,
+246,Yulparija,yulp1239,Yulparija
+247,"Mayi-Yapi [], Unknown Australia",mayk1239,
+248,"Timbisha [], Unknown North America",pana1305,
+249,"Shoshone [], Unknown North America",shos1248,
+250,"Idaho Shoshone [], Unknown North America",shos1248,
+252,Kinikinau,guan1270,Guana (Brazil)
+253,Baure,baur1253,Baure
+254,Nanti,nant1250,Nanti
+255,Palikur,pali1279,Palikúr
+257,Añun,para1316,Paraujano
+258,Makiritare,maqu1238,Maquiritari
+262,Guna,sanb1242,San Blas Kuna
+263,Naso,teri1250,Teribe
+265,Mapudungun,mapu1245,Mapudungun
+266,Minica Witoto,mini1256,Minica Huitoto
+267,Paraguayan Guaraní,para1311,Paraguayan Guaraní
+268,Kokama,coca1259,Cocama-Cocamilla
+269,"Wambaya [], Unknown Australia",wamb1258,
+270,"Garrwa [], Unknown Australia",,
+271,"Yugambeh [], Unknown Australia",yuga1244,
+272,"Yorta Yorta [], Unknown Australia",yort1237,
+273,"Yir Yoront [], Unknown Australia",yiry1247,
+274,"Yindjibarndi [], Unknown Australia",yind1247,
+275,"Yanyuwa [], Unknown Australia",yany1243,
+276,"Yalarnnga [], Unknown Australia",yala1262,
+277,"Woiwurrung [], Unknown Australia",woiw1237,
+278,"Wirangu [], Unknown Australia",wira1265,
+279,"Wemba-Wemba [], Unknown Australia",wemb1241,
+280,"Warumungu [], Unknown Australia",waru1265,
+281,"Wangkumara [], Unknown Australia",ngur1261,
+282,"Uradhi [], Unknown Australia",urad1238,
+283,"Pintupi [], Unknown Australia",pint1250,
+284,"Nyungar [], Unknown Australia",nyun1247,
+285,"Nhanta [], Unknown Australia",nhan1238,
+286,"Ngiyambaa [], Unknown Australia",ngiy1239,
+287,"Ngayawang [], Unknown Australia",,
+288,"Muruwari [], Unknown Australia",muru1266,
+289,"Mpakwithi [], Unknown Australia",,
+290,"Martuthunira [], Unknown Australia",mart1255,
+291,"Marrgany [], Unknown Australia",marg1253,
+293,"Kuku Yalanji [], Unknown Australia",kuku1273,
+294,"Kugu-Nganhcara [], Unknown Australia",kuku1280,
+295,"Kaurna [], Unknown Australia",kaur1267,
+296,"Kalkatungu [], Unknown Australia",kalk1246,
+297,"Gureng Gureng [], Unknown Australia",gure1255,
+298,"Gumbaynggirr [], Unknown Australia",kumb1268,
+299,"Gugu-Badhun [], Unknown Australia",gugu1253,
+300,"Yuwaalaraay [], Unknown Australia",yuwa1242,
+301,"Dyirbal [], Unknown Australia",dyir1250,
+302,"Duungidjawu [], Unknown Australia",duun1241,
+303,"Djabugay [], Unknown Australia",dyaa1242,
+304,"Dharuk [], Unknown Australia",,
+305,"Dharawal [], Unknown Australia",thur1254,
+306,"Darkinyung [], Unknown Australia",,
+307,"Bularnu [], Unknown Australia",bula1255,
+308,"Biri [], Unknown Australia",biri1256,
+309,"Bidjara-Gungabula [], Unknown Australia",gung1248,
+310,"Batyala [], Unknown Australia",,
+311,"Alyawarr [], Unknown Australia",alya1239,
+312,"Wathawurrung [], Unknown Australia",wath1238,
+313,"Mathi-Mathi [], Unknown Australia",madh1244,
+314,"Hunter River and Lake Macquarie [], Unknown Australia",awab1243,
+315,"Thanggati [], Unknown Australia",,
+316,"Katthang [], Unknown Australia",,
+317,"Panyjima [], Unknown Australia",pany1241,
+318,"Ngarinyeri [], Unknown Australia",narr1259,
+319,"Kurrama [], Unknown Australia",kurr1243,
+320,"Yingkarta [], Unknown Australia",ying1247,
+321,"Githabul [], Unknown Australia",,
+322,"Gunya [], Unknown Australia",guny1241,
+323,"Kunjen [], Unknown Australia",kunj1245,
+324,"WesternTorres [], Unknown Australia",,
+325,"Wakaya [], Unknown Australia",waga1260,
+326,"Yindjilindji [], Unknown Australia",yind1248,
+327,"Bandjalang [], Unknown Australia",band1339,
+328,"Ngaatjatjara [], Unknown Australia",ngaa1240,
+329,"Arrernte [], Unknown Australia",east2379,
+330,"Kokatha [], Unknown Australia",koka1244,
+331,"Pitjantjatjara [], Unknown Australia",pitj1243,
+332,"Warrgamay [], Unknown Australia",warr1255,
+333,"Warluwarra [], Unknown Australia",warl1256,
+334,"Warnman [], Unknown Australia",wanm1242,
+335,"Bilinarra [], Unknown Australia",bili1250,
+336,"Wiradjuri [], Unknown Australia",wira1262,
+337,"Aghu-Tharnggala [], Unknown Australia",aghu1254,
+338,"Narungga [], Unknown Australia",naru1238,
+339,"Tharrkari [], Unknown Australia",dhar1247,
+340,"Wajarri [], Unknown Australia",waja1257,
+341,"Warungu [], Unknown Australia",waru1264,
+342,"Adnyamathanha [], Unknown Australia",adny1235,
+343,Ignaciano,igna1246,Ignaciano
+344,Trinitario,trin1274,Trinitario
+349,Waurá,waur1244,Waurá
+350,Cha'palaa,chac1249,Chachi
+351,Apalai,apal1257,Apalaí
+352,Wayana,waya1269,Wayana
+353,Tiriyó,trio1238,Trió
+354,Kalapalo,kuik1246,Kuikúro-Kalapálo
+355,Barí,bari1297,Bari (Chibchan)
+356,Epena,epen1239,Epena
+357,Kakataibo,cash1251,Cashibo-Cacataibo
+358,Katukina,pano1254,Panoan Katukína
+359,Pacahuara,paca1246,Pacahuara
+360,Shipibo-Konibo,ship1254,Shipibo-Conibo
+361,Yaminahua,yami1256,Yaminahua
+362,Chácobo,chac1251,Chácobo
+363,Sáliva,sali1298,Saliba (Colombia)
+364,Wayampi,waya1270,Wayampi
+365,Chiriguano,east2555,Eastern Bolivian Guaraní
+368,Sirionó,siri1273,Sirionó
+369,Kamayurá,kama1373,Kamayurá
+370,Záparo,zapa1253,Záparo
+371,Wari,wari1268,Wari'
+372,Araona,arao1248,Araona
+373,Ese Ejja,esee1248,Ese Ejja
+374,Tacana,taca1256,Tacana
+375,Cavineña,cavi1250,Cavineña
+377,Cayuvava,cayu1262,Cayubaba
+378,Itonama,iton1250,Itonama
+379,Kwazá,kwaz1243,Kwaza
+380,Mosetén-Chimané,mose1249,Mosetén-Chimané
+381,Movima,movi1243,Movima
+382,Trumai,trum1247,Trumai
+384,Suyá,suya1243,Suyá
+385,Canela,cane1242,Canela
+386,Karajá,kara1500,Karajá
+387,Djeoromitxi,djeo1235,Djeoromitxí
+388,"Chipaya [], Uru-Chipayan",chip1262,
+389,Mocoví,moco1246,Mocoví
+390,Pilagá,pila1245,Pilagá
+391,Toba,toba1269,Toba
+392,Lengua,leng1262,Lengua
+393,Sanapaná/Dialect Angaité,sana1281,Sanapaná
+394,Sanapaná/Dialect Enlhet,sana1281,Sanapaná
+395,Wichí Lhamtés Güisnay,wich1264,Wichí Lhamtés Güisnay
+396,"Chorote, Iyojwa'ja ",iyoj1235,Iyojwa'ja Chorote
+397,Maca,maca1260,Maca
+398,Nivaclé,niva1238,Nivaclé
+399,Ayoreo,ayor1240,Ayoreo
+400,Qawasqar,qawa1238,Qawasqar
+401,Selknam,onaa1245,Selk'nam
+402,Tehuelche,tehu1242,Tehuelche
+403,Ese Ejja/Huarayo,esee1248,Ese Ejja
+404,Yine,yine1238,Yine

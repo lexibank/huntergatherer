@@ -4,7 +4,7 @@ import re
 
 import attr
 from clldutils import jsonlib
-from clldutils.path import read_text
+from clldutils.path import read_text, Path
 from clldutils.text import split_text_with_context
 from bs4 import BeautifulSoup
 
@@ -13,7 +13,7 @@ from pylexibank.dataset import Metadata, Lexeme, Concept
 from pylexibank.dataset import Dataset as BaseDataset
 from lingpy import ipa2tokens
 
-from .util import parse, itersources
+from hgutil import parse, itersources
 
 URL = 'https://huntergatherer.la.utexas.edu'
 
@@ -31,6 +31,7 @@ class HGConcept(Concept):
 
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
+    id = 'huntergatherer'
     lexeme_class = HGLexeme
     concept_class = HGConcept
 
@@ -53,7 +54,7 @@ class Dataset(BaseDataset):
                 for form in split_text_with_context(value, separators=',;')]
 
     def clean_form(self, row, form):
-        form = Dataset.clean_form(self, row, form)
+        form = BaseDataset.clean_form(self, row, form)
         if form not in [
             '?',
             '[missing]',
@@ -73,20 +74,26 @@ class Dataset(BaseDataset):
             for c in self.conceptlist.concepts.values()}
         for c in self.concepts:
             concept_map[(c['ID'], c['GLOSS'])] = c['CONCEPTICON_ID'] or None
-        language_map = {l['ID']: l['GLOTTOCODE'] or None for l in self.languages}
+        language_map = {l['ID']: l['Glottocode'] or None for l in self.languages}
 
         sources = {}
         with self.cldf as ds:
-            for path in self.raw.glob('*.json'):
+            for path in sorted(self.raw.glob('*.json'), key=lambda _p: int(_p.stem)):
                 data = jsonlib.load(path)
+                iso = data.get('ISO 639-3')
+                if iso:
+                    iso = iso.strip()
                 ds.add_language(
                     ID=data['id'],
-                    name=data['name'],
-                    iso=data['ISO 639-3'],
-                    glottocode=language_map[data['id']])
+                    Name=data['name'],
+                    ISO639P3code=iso if iso not in {'no', 'XXX'} else None,
+                    Glottocode=language_map[data['id']])
 
                 for table in ['basic', 'flora', 'cult']:
-                    for item in data['tables'].get(table, []):
+                    if table not in data['tables']:
+                        continue
+                    for item in data['tables'][table]['rows']:
+                        item = dict(zip(data['tables'][table]['header'], item))
                         form = item['Orthographic Form'].strip()
                         if form:
                             refs = [
@@ -95,8 +102,8 @@ class Dataset(BaseDataset):
                             href, concept = item['English']
                             ds.add_concept(
                                 ID=href.split('/')[-1],
-                                gloss=concept,
-                                conceptset=concept_map.get(concept),
+                                Name=concept,
+                                Concepticon_ID=concept_map.get(concept),
                                 Semantic_field=item['Semantic Field'])
                             ds.add_lexemes(
                                 Language_ID=data['id'],

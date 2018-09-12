@@ -57,8 +57,9 @@ def parse_dl(dl):
                 yield key, tag.get_text()
 
 
-def iterrows(table):
+def rows(table):
     keys = [th.get_text() for th in table.find('thead').find_all('th')]
+    rows = []
     for tr in table.find('tbody').find_all('tr'):
         tds = list(tr.find_all('td'))
         assert len(tds) == len(keys)
@@ -66,7 +67,8 @@ def iterrows(table):
         for td in tds:
             link, text = td.find('a'), td.get_text()
             values.append((link['href'], text) if link else text)
-        yield OrderedDict(list(zip(keys, values)))
+        rows.append(values)
+    return dict(header=keys, rows=rows)
 
 
 def parse(soup, id_, outdir):
@@ -79,7 +81,7 @@ def parse(soup, id_, outdir):
     ]:
         div = soup.find('div', id=frame)
         if div:
-            props['tables'][frame.split('_')[0]] = list(iterrows(div.find('table')))
+            props['tables'][frame.split('_')[0]] = rows(div.find('table'))
     jsonlib.dump(props, outdir.joinpath('{0}.json'.format(id_)), indent=4)
 
 

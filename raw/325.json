@@ -1,0 +1,5046 @@
+{
+    "Data Sources": "none",
+    "tables": {
+        "grammar": {
+            "header": [
+                "Category",
+                "Grammatical Feature",
+                "Grammatical Feature: Notes",
+                "Feature Status",
+                "Phonemicized Form",
+                "Orthographic Form",
+                "Grammatical Notes",
+                "Source",
+                "Created By",
+                "Etymology Notes",
+                "General Notes",
+                "Phylogenetic Code"
+            ],
+            "rows": [
+                [
+                    "Phonology - Segmental",
+                    [
+                        "/grammar/feature/1",
+                        "Pre-/post-nasalized stops"
+                    ],
+                    "Analysis posits that the stop is the most relevant underlying phoneme. Comment in notes on whether the nasal contour is understood as a phonetic (allophonic) effect, or is phonologically contrastive. ",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Phonology - Segmental",
+                    [
+                        "/grammar/feature/2",
+                        "Glottalized/ejective consonants"
+                    ],
+                    "Phonemic contrast [NOT counting glottal stop/fricative]",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Phonology - Segmental",
+                    [
+                        "/grammar/feature/3",
+                        "Palatalized stops"
+                    ],
+                    "Phonemic contrast",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Phonology - Segmental",
+                    [
+                        "/grammar/feature/4",
+                        "Phonemic vowel length"
+                    ],
+                    "Does the language have long and short vowels?",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "ch 2",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Phonology - Segmental",
+                    [
+                        "/grammar/feature/5",
+                        "Phonemic glottalization/laryngealization of vowels"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Phonology - Segmental",
+                    [
+                        "/grammar/feature/6",
+                        "Complex onsets"
+                    ],
+                    "Onset consists of more than one consonant phoneme",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "ch 4",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Phonology - Segmental",
+                    [
+                        "/grammar/feature/7",
+                        "No codas"
+                    ],
+                    "*(C)VC [no also equals highly constrained]",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "ch 4",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Phonology - Segmental",
+                    [
+                        "/grammar/feature/8",
+                        "Word-final coda required"
+                    ],
+                    "Do all syllables end in a consonant?",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Phonology - Suprasegmental",
+                    [
+                        "/grammar/feature/9",
+                        "Contrastive tones"
+                    ],
+                    "Note how many contrastive tones",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Phonology - Suprasegmental",
+                    [
+                        "/grammar/feature/10",
+                        "Contrastive stress"
+                    ],
+                    "Does stress occur on different syllables with meaning difference?",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Phonology - Suprasegmental",
+                    [
+                        "/grammar/feature/11",
+                        "Nasalization property of morpheme or syllable"
+                    ],
+                    "In contrast to nasalization as a property of segments",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Phonology - Suprasegmental",
+                    [
+                        "/grammar/feature/12",
+                        "Nasal spreading across some morpheme boundaries"
+                    ],
+                    "Do some affixes or other morphemes take the nasal/oral properties of the root they attach to?",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Phonology - Suprasegmental",
+                    [
+                        "/grammar/feature/13",
+                        "Vowel harmony"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Morphology - General",
+                    [
+                        "/grammar/feature/14",
+                        "Verbal fusion (2+ categories marked by portmanteau morphemes on verb)"
+                    ],
+                    "Verb combines two or more categories (tense, aspect, mood, person, number, etc.) in portmanteau morphemes{ [ignore proclitics unless they are fused with values other than person/number]",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Morphology - General",
+                    [
+                        "/grammar/feature/15",
+                        "Inflection manifested by replacement of segmental or suprasegmental phonemes"
+                    ],
+                    "Stem change, tone",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Morphology - General",
+                    [
+                        "/grammar/feature/16",
+                        "Verbal synthesis (1+ inflectional categories marked by verbal affixes)"
+                    ],
+                    "Morphological complexity in verbs - multiple inflectional affixes in a single verb word",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Morphology - General",
+                    [
+                        "/grammar/feature/17",
+                        "Prefixing/suffixing inflectional morph: strongly prefixing"
+                    ],
+                    "There are many more prefixes than suffixes",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "97",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Morphology - General",
+                    [
+                        "/grammar/feature/18",
+                        "Prefixing/suffixing inflectional morph: strongly suffixing"
+                    ],
+                    "There are many more suffixes than prefixes",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "97",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Morphology - General",
+                    [
+                        "/grammar/feature/19",
+                        "Prefixing/suffixing inflectional morph: roughly equal or one weakly preferred"
+                    ],
+                    "The numbers of suffixes and prefixes are not notably different",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "97",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Morphology - General",
+                    [
+                        "/grammar/feature/20",
+                        "Reduplication: full"
+                    ],
+                    "The full morpheme is reduplicated",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "10.1.1",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Morphology - General",
+                    [
+                        "/grammar/feature/21",
+                        "Reduplication: partial"
+                    ],
+                    "Only part of the morpheme is reduplicated",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "10.1.1",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Morphology - Compounding, auxiliaries, light verbs",
+                    [
+                        "/grammar/feature/22",
+                        "Productive NN compounding"
+                    ],
+                    "Noun compounds created from two noun phrases are common and systematically produced",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "10.1.2",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Morphology - Compounding, auxiliaries, light verbs",
+                    [
+                        "/grammar/feature/23",
+                        "Productive VV serialization (without compounding)"
+                    ],
+                    "Verb roots can be combined in a single predicate without markers of subordination (distinct from subordinating construction) or distinct inflection",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Morphology - Compounding, auxiliaries, light verbs",
+                    [
+                        "/grammar/feature/24",
+                        "Productive VV compounding"
+                    ],
+                    "Serial verb constructions involve chaining of roots together in one morphophonological word",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "10.2.2",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Morphology - Compounding, auxiliaries, light verbs",
+                    [
+                        "/grammar/feature/25",
+                        "Verb-adjunct (aka light verb) constructions"
+                    ],
+                    "There is a set of semantically weak verbs used in complex verbal constructions, e.g. 'take a nap'",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Morphology - Compounding, auxiliaries, light verbs",
+                    [
+                        "/grammar/feature/26",
+                        "Auxiliary verb(s)"
+                    ],
+                    "There are verbs that accompany main verbs of clauses and take grammatical marking not expressed by main verbs",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Morphology - Incorporation",
+                    [
+                        "/grammar/feature/27",
+                        "Incorporation of nouns into verbs is a productive intransitivizing process"
+                    ],
+                    "Verb contains nominal segment",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "10.2.3.2",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Morphology - Incorporation",
+                    [
+                        "/grammar/feature/28",
+                        "Productive incorporation of other elements (adjectives, locatives, etc.) into verbs"
+                    ],
+                    "Like noun incorporation, but incorporated  elements are not nouns",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "10.2.1",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Nominal Categories - Gender and noun classification",
+                    [
+                        "/grammar/feature/29",
+                        "Noun classes/genders"
+                    ],
+                    "Nouns are organized into sets with distinct morphological treatment; usually affects all nouns and involves agreement within the NP",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "145",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Nominal Categories - Gender and noun classification",
+                    [
+                        "/grammar/feature/30",
+                        "Number of noun classes/genders"
+                    ],
+                    "Note the (approximate) total number of noun classes/genders",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Nominal Categories - Gender and noun classification",
+                    [
+                        "/grammar/feature/31",
+                        "Noun classifiers (distinct from noun classes/genders)"
+                    ],
+                    "Nouns are organized into sets, but only a limited set of nouns may be implicated, with no or limited agreement marking. If only numeral classifiers exist, indicate yes but explain.",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Nominal Categories - Gender and noun classification",
+                    [
+                        "/grammar/feature/32",
+                        "Sex is a relevant category in noun class(ification) system for animates"
+                    ],
+                    "Masculine, feminine, neuter",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "145",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Nominal Categories - Gender and noun classification",
+                    [
+                        "/grammar/feature/33",
+                        "Sex is a relevant category in noun class(ification) system for inanimates"
+                    ],
+                    "",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "145",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Nominal Categories - Gender and noun classification",
+                    [
+                        "/grammar/feature/34",
+                        "Animacy (w/o reference to sex) is a relevant category in the noun class(ification) system"
+                    ],
+                    "Animate/inanimate, human/non-human",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Nominal Categories - Gender and noun classification",
+                    [
+                        "/grammar/feature/35",
+                        "Sex/gender distinction only in 3rd person pronouns"
+                    ],
+                    "add in notes section whether gender is present in other PNs or not in any PNs; consider with reference to pronouns and person marking only",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Nominal Categories - Gender and noun classification",
+                    [
+                        "/grammar/feature/36",
+                        "Shape is a relevant category in the noun class(ification) system for animates"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Nominal Categories - Gender and noun classification",
+                    [
+                        "/grammar/feature/37",
+                        "Shape is a relevant category in the noun class(ification) system for inanimates"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Nominal Categories - Gender and noun classification",
+                    [
+                        "/grammar/feature/38",
+                        "\"Repeater\" classifiers"
+                    ],
+                    "Where no distinct classifier exists, a copy of the noun itself may function in the morphosyntactic classifier \"slot\"",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Nominal Categories - Gender and noun classification",
+                    [
+                        "/grammar/feature/39",
+                        "Numeral classifiers (specific to numerals)"
+                    ],
+                    "Special classifier forms that occur only with numerals",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Nominal Categories - Gender and noun classification",
+                    [
+                        "/grammar/feature/40",
+                        "Classifiers used as derivational suffixes to derive nouns"
+                    ],
+                    "Verb + classifier = 'thing for doing V, thing that does V, etc.'",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Nominal Categories - Number",
+                    [
+                        "/grammar/feature/41",
+                        "Singular number may be marked on the noun"
+                    ],
+                    "Often occurs in a small subset of nouns if a single entity is referred to, e.g. insects that normally occur in groups",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Nominal Categories - Number",
+                    [
+                        "/grammar/feature/42",
+                        "Plural affix on noun"
+                    ],
+                    "",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "10.1.3.2",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Nominal Categories - Number",
+                    [
+                        "/grammar/feature/43",
+                        "Plural marked by stem change or tone on noun"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Nominal Categories - Number",
+                    [
+                        "/grammar/feature/44",
+                        "Plural marked by reduplication of noun"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Nominal Categories - Number",
+                    [
+                        "/grammar/feature/45",
+                        "Plural word/clitic"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Nominal Categories - Number",
+                    [
+                        "/grammar/feature/46",
+                        "Plural marked on human or animate nouns only"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Nominal Categories - Number",
+                    [
+                        "/grammar/feature/47",
+                        "Pronominal plural: stem + nominal plural affix"
+                    ],
+                    "Pronouns use a nominal plural affix not specific to pronouns",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "151",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Nominal Categories - Number",
+                    [
+                        "/grammar/feature/48",
+                        "Unique associative plural marker"
+                    ],
+                    "e.g. 'John and his associates', 'John and them'",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Nominal Categories - Definiteness and clusivity",
+                    [
+                        "/grammar/feature/49",
+                        "Definite or specific articles"
+                    ],
+                    "Definite = particular referent known to both speaker and addressee; specific = particular referent known to speaker only",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Nominal Categories - Definiteness and clusivity",
+                    [
+                        "/grammar/feature/50",
+                        "Marker of definiteness distinct from demonstratives"
+                    ],
+                    "Focus on articles/markers whose primary function is to mark definiteness",
+                    "n/a",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Nominal Categories - Definiteness and clusivity",
+                    [
+                        "/grammar/feature/51",
+                        "Indefinite or non-specific article"
+                    ],
+                    "or marker",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Nominal Categories - Definiteness and clusivity",
+                    [
+                        "/grammar/feature/52",
+                        "Inclusive/exclusive: in free pronominals"
+                    ],
+                    "Inclusive  =us + you, exclusive = us but not you",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "143",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Nominal Categories - Definiteness and clusivity",
+                    [
+                        "/grammar/feature/53",
+                        "Inclusive/exclusive: in verbal inflection (bound)"
+                    ],
+                    "",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "143",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Nominal Categories - Definiteness and clusivity",
+                    [
+                        "/grammar/feature/54",
+                        "Distance contrasts in demonstratives (number)"
+                    ],
+                    "Note the number of distances in the demonstrative system",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "155",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Nominal Categories - Definiteness and clusivity",
+                    [
+                        "/grammar/feature/55",
+                        "Other contrasts in demonstratives (visibility, elevation, etc.)"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Nominal Categories - Pronominal categories",
+                    [
+                        "/grammar/feature/56",
+                        "Gender in 3sg pronouns"
+                    ],
+                    "",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "143",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Nominal Categories - Pronominal categories",
+                    [
+                        "/grammar/feature/57",
+                        "Gender in 3pl pronouns"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Nominal Categories - Pronominal categories",
+                    [
+                        "/grammar/feature/58",
+                        "Gender in 1st and/or 2nd person pronouns"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Nominal Categories - Pronominal categories",
+                    [
+                        "/grammar/feature/59",
+                        "Formal/informal distinction in pronouns"
+                    ],
+                    "Polite pronominal variants or differential avoidance of pronouns",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Nominal Categories - Pronominal categories",
+                    [
+                        "/grammar/feature/60",
+                        "Reflexive pronouns"
+                    ],
+                    "e.g. English 'himself', Spanish 'se'; distinct form(s) from basic (non-reflexive) pronominals; distinct from reflexive verbal affix",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "103",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Nominal Categories - Case and adpositions",
+                    [
+                        "/grammar/feature/61",
+                        "Adpositions mark core NPs"
+                    ],
+                    "Prepositions or postpositions mark subjects, objects, beneficiaries/recipients",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Nominal Categories - Case and adpositions",
+                    [
+                        "/grammar/feature/62",
+                        "Case: number of cases"
+                    ],
+                    "Note the number of grammatical relations that may be morphologically marked on the noun",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Nominal Categories - Case and adpositions",
+                    [
+                        "/grammar/feature/63",
+                        "Case: only non-core arguments morphologically marked"
+                    ],
+                    "Subjects, objects, beneficiaries/recipients NOT marked, but other grammatical relations are",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Nominal Categories - Case and adpositions",
+                    [
+                        "/grammar/feature/64",
+                        "Case: symmetrical"
+                    ],
+                    "All NPs marked if in appropriate syntactic relation; no distinction in marking based on semantics (type of entity)",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Nominal Categories - Case and adpositions",
+                    [
+                        "/grammar/feature/65",
+                        "Case: asymmetrical "
+                    ],
+                    "Semantically defined subset of NPs marked for case, e.g. animates",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Nominal Categories - Case and adpositions",
+                    [
+                        "/grammar/feature/66",
+                        "Case: suffix or postpositional clitic"
+                    ],
+                    "",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Nominal Categories - Case and adpositions",
+                    [
+                        "/grammar/feature/67",
+                        "Case: prefix or prepositional clitic"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Nominal Categories - Case and adpositions",
+                    [
+                        "/grammar/feature/68",
+                        "Case: infix or inpositional clitic"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Nominal Categories - Case and adpositions",
+                    [
+                        "/grammar/feature/69",
+                        "Case: stem change"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Nominal Categories - Case and adpositions",
+                    [
+                        "/grammar/feature/70",
+                        "Case: tone"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Nominal Categories - Case and adpositions",
+                    [
+                        "/grammar/feature/71",
+                        "Case: comitative = instrumental"
+                    ],
+                    "Same marking for 'with a person' and 'with an instrument'",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "169",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Nominal Categories - Numerals",
+                    [
+                        "/grammar/feature/72",
+                        "Base-2"
+                    ],
+                    "At least some part of the system involves base-2",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Nominal Categories - Numerals",
+                    [
+                        "/grammar/feature/73",
+                        "Base-5"
+                    ],
+                    "At least some part of the system involves base-5",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Nominal Categories - Numerals",
+                    [
+                        "/grammar/feature/74",
+                        "Base-10"
+                    ],
+                    "At least some part of the system involves base-10",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Nominal Categories - Numerals",
+                    [
+                        "/grammar/feature/75",
+                        "Other base (specify)"
+                    ],
+                    "4, 20, etc.",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Nominal Categories - Numerals",
+                    [
+                        "/grammar/feature/76",
+                        "Etymological transparency in any numerals under 5"
+                    ],
+                    "e.g. two = 'eye-quantity'",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Nominal Categories - Numerals",
+                    [
+                        "/grammar/feature/77",
+                        "Numerals do not go above 5"
+                    ],
+                    "'Many' or some other non-exact term used",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Nominal Categories - Numerals",
+                    [
+                        "/grammar/feature/78",
+                        "Numerals do not go above 10"
+                    ],
+                    "'Many' or some other non-exact term used",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Nominal Categories - Other nominal",
+                    [
+                        "/grammar/feature/79",
+                        "Tense or aspect inflection on non-verbal predicates"
+                    ],
+                    "i.e. nominal or adjectival",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Nominal Categories - Other nominal",
+                    [
+                        "/grammar/feature/80",
+                        "Person inflection on non-verbal predicates"
+                    ],
+                    "i.e. nominal or adjectival",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Nominal Syntax - Possession",
+                    [
+                        "/grammar/feature/81",
+                        "Pronominal possessive affixes: prefix on N"
+                    ],
+                    "alienable/inalienable?",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Nominal Syntax - Possession",
+                    [
+                        "/grammar/feature/82",
+                        "Pronominal possessive affixes: suffix on N"
+                    ],
+                    "alienable/inalienable?",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "325",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Nominal Syntax - Possession",
+                    [
+                        "/grammar/feature/83",
+                        "Head/dependent marking in possessive NP: dependent"
+                    ],
+                    "e.g. 'the boy-'s dog'",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Nominal Syntax - Possession",
+                    [
+                        "/grammar/feature/84",
+                        "Head/dependent marking in possessive NP: head"
+                    ],
+                    "e.g. 'the boy his-dog'",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "10.1.3.8",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Nominal Syntax - Possession",
+                    [
+                        "/grammar/feature/85",
+                        "Possessive classifiers"
+                    ],
+                    "There are special classifiers that occur with possessed entities",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Nominal Syntax - Possession - Alienability",
+                    [
+                        "/grammar/feature/86",
+                        "Morphological marking of inalienable possession"
+                    ],
+                    "Where inalienable possession differs from alienable, the former takes a morphological marker (may include an associated free particle/pronoun)",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Nominal Syntax - Possession - Alienability",
+                    [
+                        "/grammar/feature/87",
+                        "Morphological marking of alienable possession"
+                    ],
+                    "Where inalienable possession differs from alienable, the latter takes a morphological marker (may include an associated free particle/pronoun)",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Nominal Syntax - Possession - Alienability",
+                    [
+                        "/grammar/feature/88",
+                        "Default marker for inalienably possessed nouns if unpossessed"
+                    ],
+                    "An inalienable noun that is in an unpossessed state must have a derivational affix or associated form",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Nominal Syntax - Possession - Alienability",
+                    [
+                        "/grammar/feature/89",
+                        "Inalienable possession of kin terms"
+                    ],
+                    "'my-father' but *father",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "325",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Nominal Syntax - Possession - Alienability",
+                    [
+                        "/grammar/feature/90",
+                        "Inalienable possession of body parts (human/animal)"
+                    ],
+                    "'my-leg' but *leg",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Nominal Syntax - Possession - Alienability",
+                    [
+                        "/grammar/feature/91",
+                        "Generic human nouns are obligatorily bound/possessed"
+                    ],
+                    "Human nouns must co-occur with another noun (e.g. Hup-man, NonIndian-woman, but *man)",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Nominal Syntax - Adjectives",
+                    [
+                        "/grammar/feature/92",
+                        "Underived adjectives"
+                    ],
+                    "There are underived adjectives which do not have counterparts in other word classes",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Nominal Syntax - Adjectives",
+                    [
+                        "/grammar/feature/93",
+                        "Gender inflection on adjectives within the NP"
+                    ],
+                    "There is gender agreement/concord (animate/inanimate or masc/fem, etc.) within the NP, e.g. la casa blanca, el perro blanco",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Nominal Syntax - Derivation",
+                    [
+                        "/grammar/feature/94",
+                        "Productive nominalizing morphology: action/state (arrive/arrival)"
+                    ],
+                    "There is a morpheme which derives an event from a verb",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "10.1.4.1",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Nominal Syntax - Derivation",
+                    [
+                        "/grammar/feature/95",
+                        "Productive nominalizing morphology: agentive (sing/singer)"
+                    ],
+                    "There is a morpheme which derives an agent or subject from a verb",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "10.1.4.2",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Nominal Syntax - Derivation",
+                    [
+                        "/grammar/feature/96",
+                        "Productive nominalizing morphology: object (sing/song)"
+                    ],
+                    "There is a morpheme which derives a patient or object from a verb",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Nominal Syntax - Derivation",
+                    [
+                        "/grammar/feature/97",
+                        "Productive verbalizing morphology"
+                    ],
+                    "There is a morpheme which derives a verb from a noun or adjective",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "10.2.3.2",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Nominal Syntax - Other",
+                    [
+                        "/grammar/feature/98",
+                        "NP coordination and comitative phrases marked differently"
+                    ],
+                    "'John and Mary went to market' is marked differently from 'John went to market with Mary'",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Verbal Categories - Aspect and tense",
+                    [
+                        "/grammar/feature/99",
+                        "Dedicated past marker(s)"
+                    ],
+                    "Past tense is regularly morphologically marked on the verb or elsewhere",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "209",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Verbal Categories - Aspect and tense",
+                    [
+                        "/grammar/feature/100",
+                        "Multiple past tenses, distinguishing distance from time of reference"
+                    ],
+                    "e.g. distant vs. recent past",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "209",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Verbal Categories - Aspect and tense",
+                    [
+                        "/grammar/feature/101",
+                        "Multiple future tenses, distinguishing distance from time of reference"
+                    ],
+                    "e.g. imminent vs. distant future",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Verbal Categories - Aspect and tense",
+                    [
+                        "/grammar/feature/102",
+                        "Dedicated future or non-past marker(s)"
+                    ],
+                    "",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "212",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Verbal Categories - Aspect and tense",
+                    [
+                        "/grammar/feature/103",
+                        "Tense-aspect affixes: prefix"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "97",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Verbal Categories - Aspect and tense",
+                    [
+                        "/grammar/feature/104",
+                        "Tense-aspect affixes: suffix"
+                    ],
+                    "",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "97",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Verbal Categories - Aspect and tense",
+                    [
+                        "/grammar/feature/105",
+                        "Tense-aspect affixes: tone or ablaut"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Verbal Categories - Aspect and tense",
+                    [
+                        "/grammar/feature/106",
+                        "Tense-aspect suppletion"
+                    ],
+                    "",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Verbal Categories - Mood",
+                    [
+                        "/grammar/feature/107",
+                        "Dedicated imperative morpheme or verb form"
+                    ],
+                    "There is a special morpheme (or morphemes, or a bare verb root where inflection is normally expected) used to signal imperative (command) mood",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "206",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Verbal Categories - Mood",
+                    [
+                        "/grammar/feature/108",
+                        "Polite imperative morpheme"
+                    ],
+                    "There is a distinct morpheme for polite imperative constructions (specify if it has other functions in the language)",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Verbal Categories - Mood",
+                    [
+                        "/grammar/feature/109",
+                        "Difference between negation in imperative (prohibitive) and declarative clauses"
+                    ],
+                    "There are different strategies for marking negation in imperative and declarative clauses",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "207",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Verbal Categories - Mood",
+                    [
+                        "/grammar/feature/110",
+                        "Dedicated hortative morpheme or verb form (1pl or 3rd person imperative)"
+                    ],
+                    "as opposed to imperative; the person in control of desired state of affairs is not the addressee; ex: 'Let's sing' / 'Let him sing'",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "208",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Verbal Categories - Mood",
+                    [
+                        "/grammar/feature/111",
+                        "Situational possibility: affix on verb"
+                    ],
+                    "Inflectional marking of capacity to do something",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "208",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Verbal Categories - Mood",
+                    [
+                        "/grammar/feature/112",
+                        "Situational possibility: verbal construction"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Verbal Categories - Mood",
+                    [
+                        "/grammar/feature/113",
+                        "Situational possibility: other marking"
+                    ],
+                    "",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Verbal Categories - Mood",
+                    [
+                        "/grammar/feature/114",
+                        "Epistemic possibility: affix on verb"
+                    ],
+                    "Modal expressing hypothesis",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Verbal Categories - Mood",
+                    [
+                        "/grammar/feature/115",
+                        "Epistemic possibility: verbal construction"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Verbal Categories - Mood",
+                    [
+                        "/grammar/feature/116",
+                        "Epistemic possibility: other marking"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Verbal Categories - Mood",
+                    [
+                        "/grammar/feature/117",
+                        "Marking of expected/unexpected action or result"
+                    ],
+                    "There is inflectional marking of expected/unexpected",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Verbal Categories - Mood",
+                    [
+                        "/grammar/feature/118",
+                        "Verbal frustrative"
+                    ],
+                    "Modal expressing frustration (\"in vain\")",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Verbal Categories - Mood",
+                    [
+                        "/grammar/feature/119",
+                        "Verbal habitual"
+                    ],
+                    "Modal expressing habituality",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Verbal Categories - Mood",
+                    [
+                        "/grammar/feature/120",
+                        "Apprehensive construction"
+                    ],
+                    "There is a single morpheme or verb form to mean '(be careful lest) X happens'",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Verbal Categories - Mood",
+                    [
+                        "/grammar/feature/121",
+                        "Reality status marking on verbs"
+                    ],
+                    "There are dedicated morpheme(s) for realis/irrealis 'actualized/unactualized events'",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "212",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Verbal Categories - Mood",
+                    [
+                        "/grammar/feature/122",
+                        "Affect markers (positive/negative)"
+                    ],
+                    "Note whether these inflectional markers are positive or negative",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Verbal Categories - Directionals",
+                    [
+                        "/grammar/feature/123",
+                        "Directional elements affixed to the verb"
+                    ],
+                    "There are grammaticalized elements indicating movement away, toward, there and back, etc.",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "218",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Verbal Categories - Evidentiality",
+                    [
+                        "/grammar/feature/124",
+                        "Grammaticalized visual"
+                    ],
+                    "Indicates information has been witnessed visually - indicate only if an overt marker",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Verbal Categories - Evidentiality",
+                    [
+                        "/grammar/feature/125",
+                        "Grammaticalized nonvisual"
+                    ],
+                    "Indicates information has been sensed firsthand but not visually (usually heard; also smelled, tasted, felt)",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Verbal Categories - Evidentiality",
+                    [
+                        "/grammar/feature/126",
+                        "Grammaticalized inferential"
+                    ],
+                    "Indicates information has not been experienced firsthand, but inferred from some kind of evidence - indicate only if an overt marker.",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Verbal Categories - Evidentiality",
+                    [
+                        "/grammar/feature/127",
+                        "Grammaticalized reportive"
+                    ],
+                    "Indicates speaker is not responsible for veracity of statement, merely reporting; 'allegedly'",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Verbal Categories - Evidentiality",
+                    [
+                        "/grammar/feature/128",
+                        "Grammaticalized quotative"
+                    ],
+                    "Indicate presence of adjacent representation of repeated discourse",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Verbal Categories - Evidentiality",
+                    [
+                        "/grammar/feature/129",
+                        "Other evidential"
+                    ],
+                    "Any other evidential values not represented above",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Verbal Categories - Evidentiality",
+                    [
+                        "/grammar/feature/130",
+                        "Evidentiality: verb affix or clitic"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Verbal Categories - Evidentiality",
+                    [
+                        "/grammar/feature/131",
+                        "Evidentiality: part of tense system"
+                    ],
+                    "Includes portmanteau morphs",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Verbal Categories - Evidentiality",
+                    [
+                        "/grammar/feature/132",
+                        "Evidentiality: separate particle"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Verbal Categories - Evidentiality",
+                    [
+                        "/grammar/feature/133",
+                        "Evidentiality: modal morpheme"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Verbal Categories - Verbal number",
+                    [
+                        "/grammar/feature/134",
+                        "Verbal number suppletion"
+                    ],
+                    "",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Verbal Categories - Other",
+                    [
+                        "/grammar/feature/135",
+                        "Social interaction markers"
+                    ],
+                    "Note the type of interaction",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/136",
+                        "No fixed basic constituent order"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "97",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/137",
+                        "VS in intransitive clauses"
+                    ],
+                    "Verb precedes subject",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "101",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/138",
+                        "VS in transitive clauses"
+                    ],
+                    "",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "102",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/139",
+                        "VO in transitive clauses"
+                    ],
+                    "Verb precedes object",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "97",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/140",
+                        "OS in transitive clauses"
+                    ],
+                    "Object precedes subject",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "102",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/141",
+                        "Preposition-Noun"
+                    ],
+                    "",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/142",
+                        "Noun-Postposition or case suffix"
+                    ],
+                    "",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/143",
+                        "Gen-Noun"
+                    ],
+                    "Possessive phrase composed of a free possessor and its possessum has possessor first (e.g. John's book)",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "133",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/144",
+                        "Noun-Gen"
+                    ],
+                    "Possessive phrase composed of a free possessor and its possessum has possessum first (e.g. 'book of John')",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "126",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/145",
+                        "Adj-Noun"
+                    ],
+                    "Adjective precedes the noun",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "125",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/146",
+                        "Noun-Adj"
+                    ],
+                    "Adjective follows the noun",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "133",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/147",
+                        "Dem-Noun"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "97",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/148",
+                        "Noun-Dem"
+                    ],
+                    "",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "97",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/149",
+                        "Num-Noun"
+                    ],
+                    "",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "126",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/150",
+                        "Noun-Num"
+                    ],
+                    "",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/151",
+                        "Noun-Rel"
+                    ],
+                    "Relative clause follows noun that it modifies",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "241",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/152",
+                        "Rel-Noun"
+                    ],
+                    "Relative clause precedes noun that it modifies",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/153",
+                        "Re<Noun>l (internally headed relative)"
+                    ],
+                    "e.g. 'the dog cat chased-NMZR got away' ('the cat that the dog chased got away')",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/154",
+                        "Relative clause is correlative or adjoined"
+                    ],
+                    "e.g. 'what is running, the dog chased that cat'",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/155",
+                        "Question word is clause initial"
+                    ],
+                    "'what', 'who', etc. come first in interrogative clause",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "106",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Simple Clauses - Alignment",
+                    [
+                        "/grammar/feature/156",
+                        "Alignment of case marking in full NPs: nominative-accusative w/ marked accusative"
+                    ],
+                    "Objects of transitive clauses ('P') have a unique marker, while subjects of transitive ('A') and intransitive ('S') clauses are unmarked or share a different marker from that occurring on objects",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Simple Clauses - Alignment",
+                    [
+                        "/grammar/feature/157",
+                        "Alignment of case marking in full NPs: nominative-accusative w/ marked nominative"
+                    ],
+                    "Subjects of transitive and intransitive clauses share a marker, while objects of transitives are unmarked",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Simple Clauses - Alignment",
+                    [
+                        "/grammar/feature/158",
+                        "Alignment of case marking in full NPs: ergative-absolutive"
+                    ],
+                    "Subjects of intransitive clauses and objects of transitives share a unique marker, while subjects of transitive clauses are unmarked or have a different marker",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Simple Clauses - Alignment",
+                    [
+                        "/grammar/feature/159",
+                        "Alignment of case marking in full NPs: tripartite"
+                    ],
+                    "Intransitive subjects, transitive subjects, and transitive objects all receive distinct case markers",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Simple Clauses - Alignment",
+                    [
+                        "/grammar/feature/160",
+                        "Alignment of case marking in full NPs: active-inactive"
+                    ],
+                    "Subjects of intransitive clauses are treated two different ways: like subjects of transitives if they are more agent-like (e.g. he jumped), and like objects of transitives if they are more patient-like (e.g. he fell asleep)",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Simple Clauses - Alignment",
+                    [
+                        "/grammar/feature/161",
+                        "Alignment of case marking of pronouns: marked accusative"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "150",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Simple Clauses - Alignment",
+                    [
+                        "/grammar/feature/162",
+                        "Alignment of case marking of pronouns: marked nominative"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "150",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Simple Clauses - Alignment",
+                    [
+                        "/grammar/feature/163",
+                        "Alignment of case marking of pronouns: ergative-absolutive"
+                    ],
+                    "yes, no, mixed, other",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "150",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Simple Clauses - Alignment",
+                    [
+                        "/grammar/feature/164",
+                        "Alignment of case marking of pronouns: tripartite"
+                    ],
+                    "",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "150",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Simple Clauses - Alignment",
+                    [
+                        "/grammar/feature/165",
+                        "Alignment of case marking of pronouns: active-inactive"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "150",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Simple Clauses - Alignment",
+                    [
+                        "/grammar/feature/166",
+                        "Alignment of verbal person-marking: nominative-accusative"
+                    ],
+                    "Same as above, for pronominal affixes/clitics on verbs",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Simple Clauses - Alignment",
+                    [
+                        "/grammar/feature/167",
+                        "Alignment of verbal person-marking: ergative-absolutive"
+                    ],
+                    "yes, no, mixed, other",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Simple Clauses - Alignment",
+                    [
+                        "/grammar/feature/168",
+                        "Alignment of verbal person-marking: active-inactive"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Simple Clauses - Alignment",
+                    [
+                        "/grammar/feature/169",
+                        "Alignment of verbal person-marking: hierarchical"
+                    ],
+                    "Marking of A and P depends on their relative ranking on a hierarchy (usually 1>2>3 or 2>1>3)",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Simple Clauses - Alignment",
+                    [
+                        "/grammar/feature/170",
+                        "Alignment of verbal person-marking: split"
+                    ],
+                    "More than one of the above systems is represented in person marking, depending on e.g. person (e.g. 1/2 vs. 3), tense-aspect value, main vs. subordinate clause type, etc.",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Simple Clauses - Pronouns and person marking",
+                    [
+                        "/grammar/feature/171",
+                        "Pronominal subjects: pronouns in subject position"
+                    ],
+                    "Pronominal subjects are free pronouns that occur in the same position as full NP subjects",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Simple Clauses - Pronouns and person marking",
+                    [
+                        "/grammar/feature/172",
+                        "Pronominal subjects: prefixes on verb"
+                    ],
+                    "Pronominal subjects are marked as verbal prefixes (free pronouns may be another option)",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Simple Clauses - Pronouns and person marking",
+                    [
+                        "/grammar/feature/173",
+                        "Pronominal subjects: suffixes on verb"
+                    ],
+                    "Pronominal subjects are marked as verbal suffixes (free pronouns may be another option)",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Simple Clauses - Pronouns and person marking",
+                    [
+                        "/grammar/feature/174",
+                        "Pronominal subjects: clitics on variable host"
+                    ],
+                    "Pronominal subjects are clitics that can attach to verbs, nominal constituents, etc.",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Simple Clauses - Pronouns and person marking",
+                    [
+                        "/grammar/feature/175",
+                        "Pronominal subjects: pronouns in non-subject position"
+                    ],
+                    "Pronominal subjects are free pronouns but do not normally occur in the position expected for full NP subjects",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Simple Clauses - Pronouns and person marking",
+                    [
+                        "/grammar/feature/176",
+                        "Person marking on intransitive verbs"
+                    ],
+                    "Intransitive verbs take person-marking clitics/affixes",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Simple Clauses - Pronouns and person marking",
+                    [
+                        "/grammar/feature/177",
+                        "Person marking (of agents) on transitive verbs"
+                    ],
+                    "Transitive verbs take subject (A) markers",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Simple Clauses - Pronouns and person marking",
+                    [
+                        "/grammar/feature/178",
+                        "Person-marking (of objects) on transitive verbs"
+                    ],
+                    "Transitive verbs take object (P) markers",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Simple Clauses - Pronouns and person marking",
+                    [
+                        "/grammar/feature/179",
+                        "3rd person zero in verbal person marking: subjects"
+                    ],
+                    "3rd person subjects are not overtly marked within the verbal person-marking system",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Simple Clauses - Pronouns and person marking",
+                    [
+                        "/grammar/feature/180",
+                        "3rd person zero in verbal person marking: objects"
+                    ],
+                    "3rd person objects are not overtly marked within the verbal person-marking system",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Simple Clauses - Pronouns and person marking",
+                    [
+                        "/grammar/feature/181",
+                        "Number can be marked separately from person on the verb"
+                    ],
+                    "Verbal person marking exists, but number is (or can) be marked separately",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "153",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Simple Clauses - Pronouns and person marking",
+                    [
+                        "/grammar/feature/182",
+                        "Possessive affixes/clitics on nouns are same as verbal person markers"
+                    ],
+                    "Where nouns take possessive affixes, these are the same as the person-marking affixes ",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "153",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Simple Clauses - Pronouns and person marking",
+                    [
+                        "/grammar/feature/183",
+                        "Gender distinguished in verbal person markers"
+                    ],
+                    "For any person, verbal person markers exhibit different forms depending on the gender (masc/fem, animate/inanimate, etc.) of the referent",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "153",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Simple Clauses - Valence and voice",
+                    [
+                        "/grammar/feature/184",
+                        "Ditransitive constructions: indirect object"
+                    ],
+                    "In ditransitives (e.g. 'John gives a book to Bill'), the theme (book) is treated in the same way as are objects of transitives, while the recipient/beneficiary (Bill) is treated differently",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Simple Clauses - Valence and voice",
+                    [
+                        "/grammar/feature/185",
+                        "Ditransitive constructions: double object"
+                    ],
+                    "In ditransitives (e.g. 'John gives Bill a book'), both the theme (book) and the recipient/beneficiary (Bill) is treated in the same way as are objects of transitives",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Simple Clauses - Valence and voice",
+                    [
+                        "/grammar/feature/186",
+                        "Ditransitive constructions: secondary object"
+                    ],
+                    "In ditransitives, the recipient/beneficiary is treated in the same way as are objects of transitives, while the theme (book) is treated differently",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Simple Clauses - Valence and voice - Decreasing",
+                    [
+                        "/grammar/feature/187",
+                        "Reciprocal: dedicated morpheme"
+                    ],
+                    "Verb becomes reciprocal through use of reciprocal morpheme associated with the verb (may be attached to the verb root). This morpheme is only used to mean reciprocal.",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Simple Clauses - Valence and voice - Decreasing",
+                    [
+                        "/grammar/feature/188",
+                        "Reflexive: dedicated morpheme"
+                    ],
+                    "Verb becomes reflexive through use of reflexive morpheme associated with the verb (may be attached to the verb root). This morpheme is used only to mean reflexive. ",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Simple Clauses - Valence and voice - Decreasing",
+                    [
+                        "/grammar/feature/189",
+                        "Reciprocal/reflexive: same morpheme"
+                    ],
+                    "Verb becomes reciprocal or reflexive through use of a morpheme that means either reciprocal or reflexive which attaches to the root of the verb",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "103",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Simple Clauses - Valence and voice - Decreasing",
+                    [
+                        "/grammar/feature/190",
+                        "Passive"
+                    ],
+                    "Passive voice usually involves a change to the verb, while the object of the active voice verb is promoted to subject in the passive voice, and the former subject is deleted/demoted",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Simple Clauses - Valence and voice - Decreasing",
+                    [
+                        "/grammar/feature/191",
+                        "Antipassive"
+                    ],
+                    "Like passive, but deletes or demotes the object of a transitive verb; usually found in ergative languages",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Simple Clauses - Valence and voice - Decreasing",
+                    [
+                        "/grammar/feature/192",
+                        "Other intransitivizing morphology"
+                    ],
+                    "There is/are some other mechanism(s) for reducing valency",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Simple Clauses - Valence and voice - Increasing",
+                    [
+                        "/grammar/feature/193",
+                        "Applicative: benefactive"
+                    ],
+                    "Applicative adds a beneficiary/maleficiary object argument to the verb ",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Simple Clauses - Valence and voice - Increasing",
+                    [
+                        "/grammar/feature/194",
+                        "Applicative: other"
+                    ],
+                    "Applicative adds some other object argument to the verb ",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Simple Clauses - Valence and voice - Increasing",
+                    [
+                        "/grammar/feature/195",
+                        "Causative: prefix"
+                    ],
+                    "Causative is morphological and is attached before the root of the verb",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Simple Clauses - Valence and voice - Increasing",
+                    [
+                        "/grammar/feature/196",
+                        "Causative: suffix"
+                    ],
+                    "Causative is morphological and is attached after the root of the verb",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "10.2.3.1",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Simple Clauses - Valence and voice - Increasing",
+                    [
+                        "/grammar/feature/197",
+                        "Causative marked by circumfix, stem change, or tone"
+                    ],
+                    "Morphological causative other than simple prefix/suffix",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Simple Clauses - Valence and voice - Increasing",
+                    [
+                        "/grammar/feature/198",
+                        "Causative: serial verb or analytical construction"
+                    ],
+                    "Causative construction that involves periphrasis or serialization",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Simple Clauses - Valence and voice - Increasing",
+                    [
+                        "/grammar/feature/199",
+                        "Causative: dedicated 'make do by proxy'"
+                    ],
+                    "Indicates that the causer does not directly cause the action of the verb to be realized, but does so by inducing someone else to carry out the action, e.g. 'John had the house painted.'",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Simple Clauses - Valence and voice - Increasing",
+                    [
+                        "/grammar/feature/200",
+                        "Causative: dedicated sociative"
+                    ],
+                    "Indicates that causer participates in event",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Simple Clauses - Valence and voice - Increasing",
+                    [
+                        "/grammar/feature/201",
+                        "Other transitivizing morphology (adds valence)"
+                    ],
+                    "There is/are some other mechanism(s) for increasing valency",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Simple Clauses - Negation",
+                    [
+                        "/grammar/feature/202",
+                        "Clausal negator is a preposed element"
+                    ],
+                    "Clausal negator is a preposed element",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "109",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Simple Clauses - Negation",
+                    [
+                        "/grammar/feature/203",
+                        "Clausal negator is a postposed element"
+                    ],
+                    "Clausal negator is a postposed element",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "109",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Simple Clauses - Negation",
+                    [
+                        "/grammar/feature/204",
+                        "Negatives: affix"
+                    ],
+                    "Negatives: affix",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "109",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Simple Clauses - Negation",
+                    [
+                        "/grammar/feature/205",
+                        "Negatives: particle"
+                    ],
+                    "Negatives: particle",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "109",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Simple Clauses - Negation",
+                    [
+                        "/grammar/feature/206",
+                        "Negatives: auxiliary verb"
+                    ],
+                    "Negatives: auxiliary verb",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "109",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Simple Clauses - Negation",
+                    [
+                        "/grammar/feature/207",
+                        "Negatives: double"
+                    ],
+                    "Standard (non-emphatic) negation typically requires two morphemes, e.g. French 'ne V pas'",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "109",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Simple Clauses - Negation",
+                    [
+                        "/grammar/feature/208",
+                        "Distinct negative form for 'NP does not exist'"
+                    ],
+                    "",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Simple Clauses - Negation",
+                    [
+                        "/grammar/feature/209",
+                        "Distinct negative expression 'I don't know'"
+                    ],
+                    "Lexical expression or highly idiomatic phrase",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Simple Clauses - Interrogatives",
+                    [
+                        "/grammar/feature/210",
+                        "Polar questions: interrogative particle"
+                    ],
+                    "Yes/no questions distinguished from declaratives by interrogative particle",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "108",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Simple Clauses - Interrogatives",
+                    [
+                        "/grammar/feature/211",
+                        "Polar questions: verb morphology"
+                    ],
+                    "Yes/no questions distinguished from declaratives by interrogative verb morphology ",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Simple Clauses - Interrogatives",
+                    [
+                        "/grammar/feature/212",
+                        "Polar questions: word order"
+                    ],
+                    "Yes/no questions distinguished from declaratives by word order (esp. subject-verb inversion) ",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Simple Clauses - Interrogatives",
+                    [
+                        "/grammar/feature/213",
+                        "Polar questions: intonation only"
+                    ],
+                    "Yes/no questions distinguished from declaratives by intonation only",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "108",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Simple Clauses - Interrogatives",
+                    [
+                        "/grammar/feature/214",
+                        "Content questions: word order differs from declaratives"
+                    ],
+                    "Content questions distinguished from declaratives by word order (esp. subject-verb inversion) as well as by presence of Q-word (who, what, etc.)",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Simple Clauses - Predication",
+                    [
+                        "/grammar/feature/215",
+                        "Predicate adjectives: verbal"
+                    ],
+                    "Adjectives act like verbs in predicative position",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "99",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Simple Clauses - Predication",
+                    [
+                        "/grammar/feature/216",
+                        "Predicate adjectives: nominal"
+                    ],
+                    "Adjectives act like nouns in predicative position",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "99",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Simple Clauses - Predication",
+                    [
+                        "/grammar/feature/217",
+                        "Zero copula for predicate nominals is possible"
+                    ],
+                    "Predicate nominals may occur without a copula (i.e. grammatical in some circumstances, if not all)",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "99",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Simple Clauses - Predication",
+                    [
+                        "/grammar/feature/218",
+                        "Headless relative clauses"
+                    ],
+                    "Compare Eng 'the one that fell' (but in Eng 'one' could be considered a head)",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "240",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Simple Clauses - Predication",
+                    [
+                        "/grammar/feature/219",
+                        "Headless relative clauses are the dominant or only form of relative clause"
+                    ],
+                    "Relative clauses that form a constituent with a head noun (in a single noun phrase) are rare or nonexistent; some descriptions may refer to adjoined or correlative clauses.",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "240",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Simple Clauses - Predication",
+                    [
+                        "/grammar/feature/220",
+                        "Relative clause may occur with a noun classifier/class marker "
+                    ],
+                    "It may be unclear whether the classifier is the nominal head of the construction or is an agreement marker on the relative clause",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Simple Clauses - Predication",
+                    [
+                        "/grammar/feature/221",
+                        "Relativizer is a verbal affix"
+                    ],
+                    "",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "239",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Simple Clauses - Predication",
+                    [
+                        "/grammar/feature/222",
+                        "Morphological relativizer is homophonous with nominalizer"
+                    ],
+                    "The same morpheme marks a relative clause and is a nominalizer on verbs (and/or other word classes)",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Simple Clauses - Desiderative expressions",
+                    [
+                        "/grammar/feature/223",
+                        "Grammaticalized verbal desiderative"
+                    ],
+                    "Indicates that the subject desires to carry out the action denoted by the verb (distinct from verb 'want', but may be grammaticalized from it)",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "208",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Simple Clauses - Other",
+                    [
+                        "/grammar/feature/224",
+                        "Clause chaining"
+                    ],
+                    "Clauses can be grouped such that only one bears most of the verb morphology, and the others are marked as to whether they share a subject with this reference clause.",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Simple Clauses - Other",
+                    [
+                        "/grammar/feature/225",
+                        "Morphologically marked switch-reference system"
+                    ],
+                    "There are special markers to indicate same vs. different subject when two clauses are combined",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "235",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Simple Clauses - Other",
+                    [
+                        "/grammar/feature/226",
+                        "Morphologically marked distinction between simultaneous and sequential clauses"
+                    ],
+                    "Morphology (usually on verb) distinguishes between clauses denoting events that occur at the same time or in sequence",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Morphology - General",
+                    [
+                        "/grammar/feature/236",
+                        "Does verb root reduplication have an iterative function?"
+                    ],
+                    "",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Morphology - General",
+                    [
+                        "/grammar/feature/237",
+                        "Does noun root reduplication have a plural/pluractional function?"
+                    ],
+                    "",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Morphology - General",
+                    [
+                        "/grammar/feature/238",
+                        "Does adjective root reduplication mean \u2018real\u2019 X?"
+                    ],
+                    "",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Morphology - General",
+                    [
+                        "/grammar/feature/239",
+                        "Does verb root reduplication have a distributive function?"
+                    ],
+                    "",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Morphology - General",
+                    [
+                        "/grammar/feature/240",
+                        "Does verb root reduplication have a pluractional function?"
+                    ],
+                    "",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Morphology - General",
+                    [
+                        "/grammar/feature/241",
+                        "Does noun root reduplication have an iterative function?"
+                    ],
+                    "",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Morphology - General",
+                    [
+                        "/grammar/feature/242",
+                        "Does adjective root reduplication mean \u2018fake\u2019 X?"
+                    ],
+                    "",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Morphology - General",
+                    [
+                        "/grammar/feature/243",
+                        "Does adjective root reduplication mean \u2018very\u2019 X?"
+                    ],
+                    "",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Nominal Categories - Case and adpositions",
+                    [
+                        "/grammar/feature/244",
+                        "Does the language have ergative and instrumental syncretism?"
+                    ],
+                    "",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "161",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Nominal Categories - Case and adpositions",
+                    [
+                        "/grammar/feature/245",
+                        "Does the language have a distinct genitive case?"
+                    ],
+                    "",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "172",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Nominal Categories - Case and adpositions",
+                    [
+                        "/grammar/feature/246",
+                        "Is the locative related to the ergative with vowel change?"
+                    ],
+                    "",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "161",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Nominal Categories - Case and adpositions",
+                    [
+                        "/grammar/feature/247",
+                        "Is case marked on just one word in an NP?"
+                    ],
+                    "",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Nominal Categories - Case and adpositions",
+                    [
+                        "/grammar/feature/248",
+                        "Is case marked on all (non-pronominal) words in an NP?"
+                    ],
+                    "",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Nominal Categories - Case and adpositions",
+                    [
+                        "/grammar/feature/249",
+                        "Are any subordinate verbs (or whole clauses) marked with case to indicate their function?"
+                    ],
+                    "",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "236",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Nominal Categories - Case and adpositions",
+                    [
+                        "/grammar/feature/250",
+                        "Does ergative mark discourse functions of focus/unexpectedness?"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Nominal Categories - Derivation",
+                    [
+                        "/grammar/feature/251",
+                        "Is there a evidence for derivational morphology being distinct from inflectional on nouns?"
+                    ],
+                    "yes to any of HG 95-97 entails yes to this; yep; this is more general but not just about derivation (would also include proprietive, for example, not necessarily derivation that changes word class) ",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Nominal Categories - Number",
+                    [
+                        "/grammar/feature/252",
+                        "Does the language have a minimal/augment system?"
+                    ],
+                    "",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Nominal Categories - Number",
+                    [
+                        "/grammar/feature/253",
+                        "Does the language have a unit augment system?"
+                    ],
+                    "",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Nominal Categories - Number",
+                    [
+                        "/grammar/feature/254",
+                        "Does the language mark dual on nouns?"
+                    ],
+                    "",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "10.1.3.1",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Nominal Categories - Number",
+                    [
+                        "/grammar/feature/255",
+                        "Does the language mark plural on nouns?"
+                    ],
+                    "",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "10.1.3.2",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Nominal Categories - Number",
+                    [
+                        "/grammar/feature/256",
+                        "Does the language have group/collective nominal suffixes?"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Nominal Categories - Number",
+                    [
+                        "/grammar/feature/257",
+                        "Does the language have suppletive plural verbs?"
+                    ],
+                    "",
+                    "n/a",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Nominal Categories - Number",
+                    [
+                        "/grammar/feature/258",
+                        "Does the language have suppletive plural adjectives?"
+                    ],
+                    "",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Nominal Categories - Pronominal categories",
+                    [
+                        "/grammar/feature/259",
+                        "Does the language have bound pronouns?"
+                    ],
+                    "yes to any of HG 173-175 entails yes to this; not necessarily? - CB",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "143",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Nominal Categories - Pronominal categories",
+                    [
+                        "/grammar/feature/260",
+                        "Are the bound pronouns distinct from the free pronouns?"
+                    ],
+                    "",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "143",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Nominal Categories - Pronominal categories",
+                    [
+                        "/grammar/feature/261",
+                        "Does the language mark moiety distinctions in pronouns?"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Nominal Categories - Pronominal categories",
+                    [
+                        "/grammar/feature/262",
+                        "Does the language mark generational distinctions in pronouns?"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Nominal Categories - Pronominal categories",
+                    [
+                        "/grammar/feature/263",
+                        "Are 'who' and 'what' distinct words?"
+                    ],
+                    "",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "105",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Nominal Categories - Pronominal categories",
+                    [
+                        "/grammar/feature/264",
+                        "Is there an inclusive/exclusive distinction in the dual?"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "143",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Nominal Categories - Pronominal categories",
+                    [
+                        "/grammar/feature/265",
+                        "Is there an inclusive/exclusive distinction in the plural?"
+                    ],
+                    "",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "143",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Nominal Categories - Pronominal categories",
+                    [
+                        "/grammar/feature/266",
+                        "Is there a gender distinction in third person dual pronouns?"
+                    ],
+                    "",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "143",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Nominal Categories - Pronominal categories",
+                    [
+                        "/grammar/feature/267",
+                        "Are there clitic pronouns?"
+                    ],
+                    "",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Nominal Categories - Pronominal categories",
+                    [
+                        "/grammar/feature/268",
+                        "Are there object clitic pronouns?"
+                    ],
+                    "",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Nominal Categories - Pronominal categories",
+                    [
+                        "/grammar/feature/269",
+                        "Are there distinct possessive and IO pronouns?"
+                    ],
+                    "",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "150",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Nominal Categories - Pronominal categories",
+                    [
+                        "/grammar/feature/270",
+                        "When there are both object and subject clitic pronouns, does the object pronoun follow the subject one?"
+                    ],
+                    "",
+                    "n/a",
+                    "",
+                    "",
+                    "",
+                    "98",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Simple Clauses - Discourse",
+                    [
+                        "/grammar/feature/271",
+                        "Is there a focus position?"
+                    ],
+                    "include the position in the \u2018form\u2019 notes",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Simple Clauses - Discourse",
+                    [
+                        "/grammar/feature/272",
+                        "Is there a topic position?"
+                    ],
+                    "include the position in the \u2018form\u2019 notes",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Simple Clauses - Negation",
+                    [
+                        "/grammar/feature/273",
+                        "Is verbal negation a separate word?"
+                    ],
+                    "related to, and maybe equivalent to, HG 206-207 (not equivalent if verbal negation is being treated separately from clausal negation)",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "109",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Simple Clauses - Negation",
+                    [
+                        "/grammar/feature/274",
+                        "Does the negative marker precede the verb?"
+                    ],
+                    "related to, and maybe equivalent to, HG 203 (not equivalent if verbal negation is being treated separately from clausal negation)",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "109",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Simple Clauses - Pronouns and person marking",
+                    [
+                        "/grammar/feature/275",
+                        "Are there second position clausal clitics?"
+                    ],
+                    "",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Simple Clauses - Pronouns and person marking",
+                    [
+                        "/grammar/feature/276",
+                        "Is tense marked on pronouns?"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Simple Clauses - Pronouns and person marking",
+                    [
+                        "/grammar/feature/277",
+                        "Are there predicative clitics (e.g. Darkinyung grammar p35)"
+                    ],
+                    "",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Simple Clauses - Tense",
+                    [
+                        "/grammar/feature/278",
+                        "Does the language have tense/mood/etc particles (free words)?"
+                    ],
+                    "",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Simple Clauses - Valence and voice - Decreasing",
+                    [
+                        "/grammar/feature/279",
+                        "Is reflexive/reciprocal marked on the verb?"
+                    ],
+                    "=yes to any of HG 188-190; not necessarily; e.g. YN has a reflexive marker but it doesn\u2019t go on the verb.",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "103",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Simple Clauses - Valence and voice - Decreasing",
+                    [
+                        "/grammar/feature/280",
+                        "Does reflexive/reciprocal change the conjugation class?"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Simple Clauses - Valence and voice - Decreasing",
+                    [
+                        "/grammar/feature/281",
+                        "Is there a reflexive/reciprocal particle?"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "103",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Simple Clauses - Valence and voice - Decreasing",
+                    [
+                        "/grammar/feature/282",
+                        "Is the passive typically used only with adversative semantics?"
+                    ],
+                    "",
+                    "n/a",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Verbal Categories - Aspect and tense",
+                    [
+                        "/grammar/feature/283",
+                        "Is there an inchoative suffix?"
+                    ],
+                    "",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "10.2.3.2",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Verbal Categories - Aspect and tense",
+                    [
+                        "/grammar/feature/284",
+                        "Is there a distinct present tense verbal suffix?"
+                    ],
+                    "",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "211",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Verbal Categories - Aspect and tense",
+                    [
+                        "/grammar/feature/285",
+                        "Is there a continuous aspect suffix?"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Verbal Categories - Aspect and tense",
+                    [
+                        "/grammar/feature/286",
+                        "Is there a punctual aspect suffix?"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Verbal Categories - Aspect and tense",
+                    [
+                        "/grammar/feature/287",
+                        "Can tense and aspect cooccur?"
+                    ],
+                    "",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "210",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Verbal Categories - Aspect and tense",
+                    [
+                        "/grammar/feature/288",
+                        "Is tense marked on nouns?"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Verbal Categories - Mood",
+                    [
+                        "/grammar/feature/289",
+                        "Do positive commands take the same morphology as negative commands?"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "207",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Verbal Categories - Mood",
+                    [
+                        "/grammar/feature/290",
+                        "Is a negative command formed from a nominalised verb (eg. \"no talking!\")?"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "207",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Verbal Categories - Other",
+                    [
+                        "/grammar/feature/291",
+                        "Is the verb \u2018say\u2019 the same as the verb \u2018do\u2019?"
+                    ],
+                    "",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Verbal Categories - Other",
+                    [
+                        "/grammar/feature/292",
+                        "Does the language have body part compound verbs?"
+                    ],
+                    "",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Verbal Categories - Other",
+                    [
+                        "/grammar/feature/293",
+                        "Are there verbal agreement clitics?"
+                    ],
+                    "",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Verbal Categories - Other",
+                    [
+                        "/grammar/feature/294",
+                        "Is there a verb 'be'?"
+                    ],
+                    "",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Verbal Categories - Other",
+                    [
+                        "/grammar/feature/295",
+                        "Are there verb conjugation classes?"
+                    ],
+                    "",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "205",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Verbal Categories - Other",
+                    [
+                        "/grammar/feature/296",
+                        "Is there a conjugation for uninflecting verbs?"
+                    ],
+                    "",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "205",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Verbal Categories - Other",
+                    [
+                        "/grammar/feature/297",
+                        "Is there a grammatical category of associated motion?"
+                    ],
+                    "",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "216",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Verbal Categories - Other",
+                    [
+                        "/grammar/feature/298",
+                        "Does the language have kinship verbs?"
+                    ],
+                    "That is, are the words which designate kinship relations such as \u2018mother\u2019 and \u2018father\u2019 verbs in the language?",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ],
+                [
+                    "Verbal Categories - VerbalNumber",
+                    [
+                        "/grammar/feature/299",
+                        "Does the language have suppletive plural nouns?"
+                    ],
+                    "",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/302",
+                        "Are there discontinuous NP constituents?"
+                    ],
+                    "",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/300",
+                        "Is word order fixed in noun phrases?"
+                    ],
+                    "",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Word Order",
+                    [
+                        "/grammar/feature/301",
+                        "Is word order fixed in verb phrases?"
+                    ],
+                    "",
+                    "no info",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "x"
+                ],
+                [
+                    "Simple Clauses - Pronouns and person marking",
+                    [
+                        "/grammar/feature/303",
+                        "Pronominal subjects: second position clitics"
+                    ],
+                    "Pronominal subjects are clitics that can attach to verbs, nominal constituents, etc.",
+                    "yes",
+                    "",
+                    "",
+                    "",
+                    "97",
+                    "done",
+                    "",
+                    "",
+                    "1"
+                ],
+                [
+                    "Phonology - Segmental",
+                    [
+                        "/grammar/feature/304",
+                        "Prestopped segments"
+                    ],
+                    "list which segments in the \u2018form\u2019 column",
+                    "no",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "done",
+                    "",
+                    "",
+                    "0"
+                ]
+            ]
+        }
+    },
+    "Features": "\nGrammatical Data\n",
+    "Family": "Unknown Australia",
+    "name": "Wakaya",
+    "Region": "Australia",
+    "Location": "\n\t\t\t\t\t0.00\u00b0,\n\t\t\t\t\t0.00\u00b0\n\t\t\t\t",
+    "ISO 639-3": "",
+    "id": "325",
+    "Notes": ""
+}
