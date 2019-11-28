@@ -71,7 +71,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Semantic_category
 429,hear,1408,HEAR,mental
 430,heavy,1210,HEAVY,quality
 431,hide,2486,HIDE,motion
-432,hit,1433,HIT,impact
+432,hit,353,STRIKE,impact
 433,hold,1448,HOLD,other
 435,how?,1239,HOW,grammar
 558,1sg,,,grammar
@@ -104,7 +104,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Semantic_category
 465,neck,1333,NECK,body
 466,new,1231,NEW,quality
 467,night,1233,NIGHT,time
-468,no/not,1240,NOT,grammar
+468,no/not,2279,NO OR NOT,grammar
 469,nose,1221,NOSE,body
 470,old,1229,OLD,quality
 471,one,1493,ONE,number
@@ -112,7 +112,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Semantic_category
 473,other,197,OTHER,grammar
 474,pain/painful/sick,,,body
 475,person/human being,683,PERSON,human
-476,pound/beat,1665,BEAT,impact
+476,pound/beat,2133,STRIKE OR BEAT,impact
 477,rain,2108,RAINING OR RAIN,environment
 478,red,156,RED,colour
 479,right/right hand,,,location/body

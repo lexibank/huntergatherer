@@ -6,25 +6,21 @@ Cite the source dataset as
 
 Available online at https://huntergatherer.la.utexas.edu
 
-Conceptlist in Concepticon: [Bowern-2011-204](http://concepticon.clld.org/contributions/Bowern-2011-204)
 
+Conceptlists in Concepticon:
+- [Bowern-2011-204](https://concepticon.clld.org/contributions/Bowern-2011-204)
 ## Statistics
 
 
-
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
-![Source: 70%](https://img.shields.io/badge/Source-70%25-orange.svg "Source: 70%")
+![Concepticon: 53%](https://img.shields.io/badge/Concepticon-53%25-red.svg "Concepticon: 53%")
+![Source: 69%](https://img.shields.io/badge/Source-69%25-orange.svg "Source: 69%")
 
 - **Varieties:** 240
 - **Concepts:** 745
-- **Lexemes:** 75,850
-- **Synonymy:** 1.20
-- **Cognacy:** 0 cognates in 0 cognate sets
-- **Invalid lexemes:** 0
-- **Tokens:** 0
-- **Segments:** 0 (0 BIPA errors, 0 CTLS sound class errors, 0 CLTS modified)
-- **Inventory size (avg):** 0.00
+- **Lexemes:** 78,033
+- **Sources:** 2,934
+- **Synonymy:** 1.23
 
 ## Possible Improvements:
 
@@ -32,4 +28,4 @@ Conceptlist in Concepticon: [Bowern-2011-204](http://concepticon.clld.org/contri
   - Uw-Olkol [olko1234](http://glottolog.org/resource/languoid/id/olko1234)
 
 
-- Entries missing sources: 23094/75850 (30.45%)
+- Entries missing sources: 24515/78033 (31.42%)
