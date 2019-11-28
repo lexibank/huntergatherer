@@ -1,5 +1,4 @@
 {
-    "Data Sources": "Bontkes, Willem and Robert Dooley. 1984. Verification particles in Surui. Ms. \n\nBontkes, Willem and Carolyn Bontkes. 2009. Phonemic Analysis of Suru\u00ed. SIL, Brasilia.\n\nMeer, Tine H. van der. 1985. Case marking in Surui. Porto Velho Workpapers: 208-230. Bras\u00edlia: SIL.",
     "tables": {
         "flora": {
             "header": [
@@ -3961,12 +3960,13 @@
             ]
         }
     },
-    "Features": "\nFlora Fauna Vocabulary\nGrammatical Data\n",
-    "Family": "Tupian",
-    "name": "Surui",
-    "Region": "South America",
     "Location": "\n\t\t\t\t\t-11.10\u00b0,\n\t\t\t\t\t-61.28\u00b0\n\t\t\t\t",
-    "ISO 639-3": "sru",
+    "Notes": "",
     "id": "150",
-    "Notes": ""
+    "Family": "Tupian",
+    "Region": "South America",
+    "ISO 639-3": "sru",
+    "name": "Surui",
+    "Data Sources": "Bontkes, Willem and Robert Dooley. 1984. Verification particles in Surui. Ms. \n\nBontkes, Willem and Carolyn Bontkes. 2009. Phonemic Analysis of Suru\u00ed. SIL, Brasilia.\n\nMeer, Tine H. van der. 1985. Case marking in Surui. Porto Velho Workpapers: 208-230. Bras\u00edlia: SIL.",
+    "Features": "\nFlora Fauna Vocabulary\nGrammatical Data\n"
 }

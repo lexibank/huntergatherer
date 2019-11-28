@@ -1,5 +1,4 @@
 {
-    "Data Sources": "Quesada, J. Diego. 2000. A Grammar of Teribe. (LINCOM Studies in Native American Linguistics, 36.) M\u00fcnchen: Lincom. ",
     "tables": {
         "grammar": {
             "header": [
@@ -3862,12 +3861,13 @@
             ]
         }
     },
-    "Features": "\nGrammatical Data\n",
-    "Family": "Chibchan",
-    "name": "Naso",
-    "Region": "South America",
     "Location": "\n\t\t\t\t\t9.07\u00b0,\n\t\t\t\t\t-82.96\u00b0\n\t\t\t\t",
-    "ISO 639-3": "tfr",
+    "Notes": "",
     "id": "263",
-    "Notes": ""
+    "Family": "Chibchan",
+    "Region": "South America",
+    "ISO 639-3": "tfr",
+    "name": "Naso",
+    "Data Sources": "Quesada, J. Diego. 2000. A Grammar of Teribe. (LINCOM Studies in Native American Linguistics, 36.) M\u00fcnchen: Lincom. ",
+    "Features": "\nGrammatical Data\n"
 }

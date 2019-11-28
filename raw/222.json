@@ -1,6 +1,43 @@
 {
-    "Data Sources": "none",
     "tables": {
+        "ethno": {
+            "header": [
+                "Current population (ethnicity)",
+                "Current population (speakers)",
+                "Former population estimate",
+                "Subsistence preference",
+                "Subsistence notes",
+                "Density",
+                "Sedentism",
+                "Ecotome (riverine/interfluvial/coastal/desert/savannah/etc.)",
+                "Social hierarchies",
+                "Multilingualism (rare/occasional/common)",
+                "Contact languages",
+                "Marriage pattern",
+                "Notes",
+                "Source",
+                "Created By"
+            ],
+            "rows": [
+                [
+                    "",
+                    "",
+                    "medium",
+                    "HG",
+                    "",
+                    "low",
+                    "mobile",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            ]
+        },
         "flora": {
             "header": [
                 "English",
@@ -6322,52 +6359,15 @@
                     ""
                 ]
             ]
-        },
-        "ethno": {
-            "header": [
-                "Current population (ethnicity)",
-                "Current population (speakers)",
-                "Former population estimate",
-                "Subsistence preference",
-                "Subsistence notes",
-                "Density",
-                "Sedentism",
-                "Ecotome (riverine/interfluvial/coastal/desert/savannah/etc.)",
-                "Social hierarchies",
-                "Multilingualism (rare/occasional/common)",
-                "Contact languages",
-                "Marriage pattern",
-                "Notes",
-                "Source",
-                "Created By"
-            ],
-            "rows": [
-                [
-                    "",
-                    "",
-                    "medium",
-                    "HG",
-                    "",
-                    "low",
-                    "mobile",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ]
-            ]
         }
     },
-    "Features": "\nFlora Fauna Vocabulary\nEthnographic Information\n",
-    "Family": "Pama-Nyungan",
-    "name": "Kurtjar",
-    "Region": "Australia",
     "Location": "\n\t\t\t\t\t-17.31\u00b0,\n\t\t\t\t\t141.65\u00b0\n\t\t\t\t",
-    "ISO 639-3": "gdj",
+    "Notes": "",
     "id": "222",
-    "Notes": ""
+    "Family": "Pama-Nyungan",
+    "Region": "Australia",
+    "ISO 639-3": "gdj",
+    "name": "Kurtjar",
+    "Data Sources": "none",
+    "Features": "\nFlora Fauna Vocabulary\nEthnographic Information\n"
 }

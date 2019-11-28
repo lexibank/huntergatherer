@@ -1,6 +1,43 @@
 {
-    "Data Sources": "none",
     "tables": {
+        "ethno": {
+            "header": [
+                "Current population (ethnicity)",
+                "Current population (speakers)",
+                "Former population estimate",
+                "Subsistence preference",
+                "Subsistence notes",
+                "Density",
+                "Sedentism",
+                "Ecotome (riverine/interfluvial/coastal/desert/savannah/etc.)",
+                "Social hierarchies",
+                "Multilingualism (rare/occasional/common)",
+                "Contact languages",
+                "Marriage pattern",
+                "Notes",
+                "Source",
+                "Created By"
+            ],
+            "rows": [
+                [
+                    "",
+                    "",
+                    "large",
+                    "HG",
+                    "",
+                    "medium",
+                    "mobile",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            ]
+        },
         "flora": {
             "header": [
                 "English",
@@ -6372,44 +6409,6 @@
                 ]
             ]
         },
-        "ethno": {
-            "header": [
-                "Current population (ethnicity)",
-                "Current population (speakers)",
-                "Former population estimate",
-                "Subsistence preference",
-                "Subsistence notes",
-                "Density",
-                "Sedentism",
-                "Ecotome (riverine/interfluvial/coastal/desert/savannah/etc.)",
-                "Social hierarchies",
-                "Multilingualism (rare/occasional/common)",
-                "Contact languages",
-                "Marriage pattern",
-                "Notes",
-                "Source",
-                "Created By"
-            ],
-            "rows": [
-                [
-                    "",
-                    "",
-                    "large",
-                    "HG",
-                    "",
-                    "medium",
-                    "mobile",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ]
-            ]
-        },
         "cult": {
             "header": [
                 "English",
@@ -8612,12 +8611,13 @@
             ]
         }
     },
-    "Features": "\nFlora Fauna Vocabulary\nCultural Vocabulary\nEthnographic Information\n",
-    "Family": "Pama-Nyungan",
-    "name": "Yir-Yoront",
-    "Region": "Australia",
     "Location": "\n\t\t\t\t\t-15.15\u00b0,\n\t\t\t\t\t141.80\u00b0\n\t\t\t\t",
-    "ISO 639-3": "yiy",
+    "Notes": "",
     "id": "221",
-    "Notes": ""
+    "Family": "Pama-Nyungan",
+    "Region": "Australia",
+    "ISO 639-3": "yiy",
+    "name": "Yir-Yoront",
+    "Data Sources": "none",
+    "Features": "\nFlora Fauna Vocabulary\nCultural Vocabulary\nEthnographic Information\n"
 }

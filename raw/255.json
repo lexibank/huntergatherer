@@ -1,5 +1,4 @@
 {
-    "Data Sources": "Green, Harold and Diana Green. 1972. Surface structure of Palikur grammar. SIL, Brazil.",
     "tables": {
         "grammar": {
             "header": [
@@ -3862,12 +3861,13 @@
             ]
         }
     },
-    "Features": "\nGrammatical Data\n",
-    "Family": "Arawakan",
-    "name": "Palikur",
-    "Region": "South America",
     "Location": "\n\t\t\t\t\t3.64\u00b0,\n\t\t\t\t\t-51.62\u00b0\n\t\t\t\t",
-    "ISO 639-3": "plu",
+    "Notes": "",
     "id": "255",
-    "Notes": ""
+    "Family": "Arawakan",
+    "Region": "South America",
+    "ISO 639-3": "plu",
+    "name": "Palikur",
+    "Data Sources": "Green, Harold and Diana Green. 1972. Surface structure of Palikur grammar. SIL, Brazil.",
+    "Features": "\nGrammatical Data\n"
 }

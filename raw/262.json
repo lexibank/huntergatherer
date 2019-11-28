@@ -1,5 +1,4 @@
 {
-    "Data Sources": "Smith, Wikaliler Daniel 2014. A grammar of Guna: A community-centered approach. University of Texas at Austin (doctoral dissertation.\n\nSmith, Wikaliler. Grammar notes.",
     "tables": {
         "grammar": {
             "header": [
@@ -3862,12 +3861,13 @@
             ]
         }
     },
-    "Features": "\nGrammatical Data\n",
-    "Family": "Chibchan",
-    "name": "Guna",
-    "Region": "South America",
     "Location": "\n\t\t\t\t\t9.16\u00b0,\n\t\t\t\t\t-78.31\u00b0\n\t\t\t\t",
-    "ISO 639-3": "cuk",
+    "Notes": "",
     "id": "262",
-    "Notes": ""
+    "Family": "Chibchan",
+    "Region": "South America",
+    "ISO 639-3": "cuk",
+    "name": "Guna",
+    "Data Sources": "Smith, Wikaliler Daniel 2014. A grammar of Guna: A community-centered approach. University of Texas at Austin (doctoral dissertation.\n\nSmith, Wikaliler. Grammar notes.",
+    "Features": "\nGrammatical Data\n"
 }

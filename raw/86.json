@@ -1,5 +1,4 @@
 {
-    "Data Sources": "Celed\u00f3n, Rafael. 1886. Gram\u00e1tica de la lengua koggaba. Maisonneuve freres and leclerc, editeurs, Paris.\n\nOrtiz, Carolina. 1994. Clases y tipos de predicados en la lengua Kogi. In Amerindia 23:3, 377-399.   \n\nStendal, Chadwick. 1976. Puntos b\u00e1sicos de la gram\u00e1tica cogui. SIL, Bogot\u00e1.",
     "tables": {
         "grammar": {
             "header": [
@@ -3862,12 +3861,13 @@
             ]
         }
     },
-    "Features": "\nGrammatical Data\n",
-    "Family": "Chibchan",
-    "name": "Kogi",
-    "Region": "South America",
     "Location": "\n\t\t\t\t\t10.95\u00b0,\n\t\t\t\t\t-73.80\u00b0\n\t\t\t\t",
-    "ISO 639-3": "kog",
+    "Notes": "",
     "id": "86",
-    "Notes": ""
+    "Family": "Chibchan",
+    "Region": "South America",
+    "ISO 639-3": "kog",
+    "name": "Kogi",
+    "Data Sources": "Celed\u00f3n, Rafael. 1886. Gram\u00e1tica de la lengua koggaba. Maisonneuve freres and leclerc, editeurs, Paris.\n\nOrtiz, Carolina. 1994. Clases y tipos de predicados en la lengua Kogi. In Amerindia 23:3, 377-399.   \n\nStendal, Chadwick. 1976. Puntos b\u00e1sicos de la gram\u00e1tica cogui. SIL, Bogot\u00e1.",
+    "Features": "\nGrammatical Data\n"
 }

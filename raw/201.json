@@ -1,6 +1,43 @@
 {
-    "Data Sources": "none",
     "tables": {
+        "ethno": {
+            "header": [
+                "Current population (ethnicity)",
+                "Current population (speakers)",
+                "Former population estimate",
+                "Subsistence preference",
+                "Subsistence notes",
+                "Density",
+                "Sedentism",
+                "Ecotome (riverine/interfluvial/coastal/desert/savannah/etc.)",
+                "Social hierarchies",
+                "Multilingualism (rare/occasional/common)",
+                "Contact languages",
+                "Marriage pattern",
+                "Notes",
+                "Source",
+                "Created By"
+            ],
+            "rows": [
+                [
+                    "",
+                    "",
+                    "large",
+                    "HG",
+                    "",
+                    "medium",
+                    "mobile",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            ]
+        },
         "flora": {
             "header": [
                 "English",
@@ -11404,52 +11441,15 @@
                     "0"
                 ]
             ]
-        },
-        "ethno": {
-            "header": [
-                "Current population (ethnicity)",
-                "Current population (speakers)",
-                "Former population estimate",
-                "Subsistence preference",
-                "Subsistence notes",
-                "Density",
-                "Sedentism",
-                "Ecotome (riverine/interfluvial/coastal/desert/savannah/etc.)",
-                "Social hierarchies",
-                "Multilingualism (rare/occasional/common)",
-                "Contact languages",
-                "Marriage pattern",
-                "Notes",
-                "Source",
-                "Created By"
-            ],
-            "rows": [
-                [
-                    "",
-                    "",
-                    "large",
-                    "HG",
-                    "",
-                    "medium",
-                    "mobile",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ]
-            ]
         }
     },
-    "Features": "\nFlora Fauna Vocabulary\nGrammatical Data\nEthnographic Information\n",
-    "Family": "Pama-Nyungan",
-    "name": "Kuuk Thaayorre",
-    "Region": "Australia",
     "Location": "\n\t\t\t\t\t-14.82\u00b0,\n\t\t\t\t\t141.85\u00b0\n\t\t\t\t",
-    "ISO 639-3": "thd",
+    "Notes": "",
     "id": "201",
-    "Notes": ""
+    "Family": "Pama-Nyungan",
+    "Region": "Australia",
+    "ISO 639-3": "thd",
+    "name": "Kuuk Thaayorre",
+    "Data Sources": "none",
+    "Features": "\nFlora Fauna Vocabulary\nGrammatical Data\nEthnographic Information\n"
 }

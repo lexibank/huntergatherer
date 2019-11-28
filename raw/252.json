@@ -1,5 +1,4 @@
 {
-    "Data Sources": "Couto, Val\u00e9ria Guimar\u00e3es de Carvalho. 2005. A L\u00edngua Kinikinau: Estudo do Vocabul\u00e1rio e conceitos Gramaticais. Tr\u00eas Lagoas: Universidade Federal de Mato Grosso do Sul, C\u00e2mpus de Tr\u00eas Lagoas. (MA thesis.)\n\nDe Souza, Ilda. 2008. A l\u00edngua dos \u00efndios Kinikinau. Tese de Doutorado. UNICAMP.",
     "tables": {
         "grammar": {
             "header": [
@@ -3862,12 +3861,13 @@
             ]
         }
     },
-    "Features": "\nGrammatical Data\n",
-    "Family": "Arawakan",
-    "name": "Kinikinau",
-    "Region": "South America",
     "Location": "\n\t\t\t\t\t-19.17\u00b0,\n\t\t\t\t\t-54.03\u00b0\n\t\t\t\t",
-    "ISO 639-3": "gqn",
+    "Notes": "",
     "id": "252",
-    "Notes": ""
+    "Family": "Arawakan",
+    "Region": "South America",
+    "ISO 639-3": "gqn",
+    "name": "Kinikinau",
+    "Data Sources": "Couto, Val\u00e9ria Guimar\u00e3es de Carvalho. 2005. A L\u00edngua Kinikinau: Estudo do Vocabul\u00e1rio e conceitos Gramaticais. Tr\u00eas Lagoas: Universidade Federal de Mato Grosso do Sul, C\u00e2mpus de Tr\u00eas Lagoas. (MA thesis.)\n\nDe Souza, Ilda. 2008. A l\u00edngua dos \u00efndios Kinikinau. Tese de Doutorado. UNICAMP.",
+    "Features": "\nGrammatical Data\n"
 }

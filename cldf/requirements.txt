@@ -31,14 +31,13 @@ pyclts==2.0.0
 pyconcepticon==2.5.1
 pycountry==18.12.8
 pyglottolog==3.0.0
--e git+https://github.com/lexibank/pylexibank.git@434fa0890ba15e3f1a3ceb446edee0456b020bd2#egg=pylexibank
--e git+https://github.com/xrotwang/lexirumah-data.git@5d4362e9d041ce6c732e9c10be7454dcf3875375#egg=pylexirumah
+pylexibank==2.1.0
 pytest==3.6.1
 regex==2018.2.21
 requests==2.22.0
 rfc3986==1.1.0
 segments==2.1.3
-six==1.11.0
+six==1.13.0
 soupsieve==1.7.3
 SQLAlchemy==1.3.11
 tabulate==0.8.2

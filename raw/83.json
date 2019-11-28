@@ -1,5 +1,4 @@
 {
-    "Data Sources": "Bertoglia, Mafalda. 1983. Clasificadores nominales en los dialectos cab\u00e9cares de Ujarr\u00e1s y Chirrip\u00f3. Estudios de Ling\u00fc\u00edstica Chibcha, 2:3-13.\n\nBourland, David. 1976. Una gram\u00e1tica generativo transfromacional del cabecar. In Revista de Filolog\u00eda y Ling\u00fc\u00edstica de la Universidad de Costa Rica 2:2, 49-112.\n\nMargery Pe\u00f1a, Enrique. 1982. Descripci\u00f3n del sistema fonol\u00f3gico de un idiolecto del cab\u00e9car de Ujarr\u00e1s. Estudios de Ling\u00fc\u00edstica Chibcha, 1:33-44.\n\nMargery Pe\u00f1a, Enrique. 1985. Morfolog\u00eda flexiva del verbo cab\u00e9car. Estudios de Ling\u00fc\u00edstica Chibcha, 4:101-54.",
     "tables": {
         "grammar": {
             "header": [
@@ -3862,12 +3861,13 @@
             ]
         }
     },
-    "Features": "\nGrammatical Data\n",
-    "Family": "Chibchan",
-    "name": "Cabecar",
-    "Region": "South America",
     "Location": "\n\t\t\t\t\t9.67\u00b0,\n\t\t\t\t\t-83.41\u00b0\n\t\t\t\t",
-    "ISO 639-3": "cjp",
+    "Notes": "",
     "id": "83",
-    "Notes": ""
+    "Family": "Chibchan",
+    "Region": "South America",
+    "ISO 639-3": "cjp",
+    "name": "Cabecar",
+    "Data Sources": "Bertoglia, Mafalda. 1983. Clasificadores nominales en los dialectos cab\u00e9cares de Ujarr\u00e1s y Chirrip\u00f3. Estudios de Ling\u00fc\u00edstica Chibcha, 2:3-13.\n\nBourland, David. 1976. Una gram\u00e1tica generativo transfromacional del cabecar. In Revista de Filolog\u00eda y Ling\u00fc\u00edstica de la Universidad de Costa Rica 2:2, 49-112.\n\nMargery Pe\u00f1a, Enrique. 1982. Descripci\u00f3n del sistema fonol\u00f3gico de un idiolecto del cab\u00e9car de Ujarr\u00e1s. Estudios de Ling\u00fc\u00edstica Chibcha, 1:33-44.\n\nMargery Pe\u00f1a, Enrique. 1985. Morfolog\u00eda flexiva del verbo cab\u00e9car. Estudios de Ling\u00fc\u00edstica Chibcha, 4:101-54.",
+    "Features": "\nGrammatical Data\n"
 }

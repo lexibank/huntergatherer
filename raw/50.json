@@ -1,5 +1,4 @@
 {
-    "Data Sources": "Facundes, Sidney da Silva. 2000. The language of the Apurin\u00e3 people of Brazil (Maipure/Arawak). PhD. Diss: SUNY Albany",
     "tables": {
         "grammar": {
             "header": [
@@ -3862,12 +3861,13 @@
             ]
         }
     },
-    "Features": "\nGrammatical Data\n",
-    "Family": "Arawakan",
-    "name": "Apurin\u00e3",
-    "Region": "South America",
     "Location": "\n\t\t\t\t\t-8.22\u00b0,\n\t\t\t\t\t-66.77\u00b0\n\t\t\t\t",
-    "ISO 639-3": "apu",
+    "Notes": "",
     "id": "50",
-    "Notes": ""
+    "Family": "Arawakan",
+    "Region": "South America",
+    "ISO 639-3": "apu",
+    "name": "Apurin\u00e3",
+    "Data Sources": "Facundes, Sidney da Silva. 2000. The language of the Apurin\u00e3 people of Brazil (Maipure/Arawak). PhD. Diss: SUNY Albany",
+    "Features": "\nGrammatical Data\n"
 }

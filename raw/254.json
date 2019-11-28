@@ -1,5 +1,4 @@
 {
-    "Data Sources": "Michael, Lev David. 2008. Nanti evidential practice: Language, knowledge, and social action in an Amazonian society. University of Texas at Austin. Austin: UMI. ",
     "tables": {
         "grammar": {
             "header": [
@@ -3862,12 +3861,13 @@
             ]
         }
     },
-    "Features": "\nGrammatical Data\n",
-    "Family": "Arawakan",
-    "name": "Nanti",
-    "Region": "South America",
     "Location": "\n\t\t\t\t\t-12.10\u00b0,\n\t\t\t\t\t-72.35\u00b0\n\t\t\t\t",
-    "ISO 639-3": "cox",
+    "Notes": "",
     "id": "254",
-    "Notes": ""
+    "Family": "Arawakan",
+    "Region": "South America",
+    "ISO 639-3": "cox",
+    "name": "Nanti",
+    "Data Sources": "Michael, Lev David. 2008. Nanti evidential practice: Language, knowledge, and social action in an Amazonian society. University of Texas at Austin. Austin: UMI. ",
+    "Features": "\nGrammatical Data\n"
 }

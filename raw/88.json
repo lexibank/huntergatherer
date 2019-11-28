@@ -1,5 +1,4 @@
 {
-    "Data Sources": "Alphonse, Ephraim. 1956. Guaymi grammar and dictionary. Washington, U.S. Govt. Print.",
     "tables": {
         "grammar": {
             "header": [
@@ -3862,12 +3861,13 @@
             ]
         }
     },
-    "Features": "\nGrammatical Data\n",
-    "Family": "Chibchan",
-    "name": "Guaym\u00ed",
-    "Region": "South America",
     "Location": "\n\t\t\t\t\t8.83\u00b0,\n\t\t\t\t\t-82.39\u00b0\n\t\t\t\t",
-    "ISO 639-3": "gym",
+    "Notes": "",
     "id": "88",
-    "Notes": ""
+    "Family": "Chibchan",
+    "Region": "South America",
+    "ISO 639-3": "gym",
+    "name": "Guaym\u00ed",
+    "Data Sources": "Alphonse, Ephraim. 1956. Guaymi grammar and dictionary. Washington, U.S. Govt. Print.",
+    "Features": "\nGrammatical Data\n"
 }

@@ -1,5 +1,4 @@
 {
-    "Data Sources": "Frank, Paul. 1985. A grammar of Ika. PhD Dissertation. University of Pennsylvania.\n\nFrank, Paul. 1989. The verb phrase in Ika I. Notes on Linguistics 45. 14-29. Dallas: SIL.\n\nFrank, Paul S. 1989. The verb phrase in Ika (part two). Notes on Linguistics 46. 12-29.\n\nFrank, Paul. 1990. Ika syntax. Dallas, SIL and University of Texas at Arlington. ",
     "tables": {
         "grammar": {
             "header": [
@@ -3862,12 +3861,13 @@
             ]
         }
     },
-    "Features": "\nGrammatical Data\n",
-    "Family": "Chibchan",
-    "name": "Ika",
-    "Region": "South America",
     "Location": "\n\t\t\t\t\t10.70\u00b0,\n\t\t\t\t\t-73.64\u00b0\n\t\t\t\t",
-    "ISO 639-3": "arh",
+    "Notes": "",
     "id": "85",
-    "Notes": ""
+    "Family": "Chibchan",
+    "Region": "South America",
+    "ISO 639-3": "arh",
+    "name": "Ika",
+    "Data Sources": "Frank, Paul. 1985. A grammar of Ika. PhD Dissertation. University of Pennsylvania.\n\nFrank, Paul. 1989. The verb phrase in Ika I. Notes on Linguistics 45. 14-29. Dallas: SIL.\n\nFrank, Paul S. 1989. The verb phrase in Ika (part two). Notes on Linguistics 46. 12-29.\n\nFrank, Paul. 1990. Ika syntax. Dallas, SIL and University of Texas at Arlington. ",
+    "Features": "\nGrammatical Data\n"
 }

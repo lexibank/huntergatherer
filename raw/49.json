@@ -1,5 +1,4 @@
 {
-    "Data Sources": "Duff-Tripp, Martha. 1997. Gram\u00e1tica del idioma yanesha\u02bc (amuesha). Peru: ILV.\n\nFast, Peter W. 1953. Amuesha (Arawak) phonemes. International Journal of American Linguistics 19: 191-94.",
     "tables": {
         "grammar": {
             "header": [
@@ -3862,12 +3861,13 @@
             ]
         }
     },
-    "Features": "\nGrammatical Data\n",
-    "Family": "Arawakan",
-    "name": "Yanesha'",
-    "Region": "South America",
     "Location": "\n\t\t\t\t\t-10.55\u00b0,\n\t\t\t\t\t-75.31\u00b0\n\t\t\t\t",
-    "ISO 639-3": "ame",
+    "Notes": "",
     "id": "49",
-    "Notes": ""
+    "Family": "Arawakan",
+    "Region": "South America",
+    "ISO 639-3": "ame",
+    "name": "Yanesha'",
+    "Data Sources": "Duff-Tripp, Martha. 1997. Gram\u00e1tica del idioma yanesha\u02bc (amuesha). Peru: ILV.\n\nFast, Peter W. 1953. Amuesha (Arawak) phonemes. International Journal of American Linguistics 19: 191-94.",
+    "Features": "\nGrammatical Data\n"
 }

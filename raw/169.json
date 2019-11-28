@@ -1,6 +1,43 @@
 {
-    "Data Sources": "none",
     "tables": {
+        "ethno": {
+            "header": [
+                "Current population (ethnicity)",
+                "Current population (speakers)",
+                "Former population estimate",
+                "Subsistence preference",
+                "Subsistence notes",
+                "Density",
+                "Sedentism",
+                "Ecotome (riverine/interfluvial/coastal/desert/savannah/etc.)",
+                "Social hierarchies",
+                "Multilingualism (rare/occasional/common)",
+                "Contact languages",
+                "Marriage pattern",
+                "Notes",
+                "Source",
+                "Created By"
+            ],
+            "rows": [
+                [
+                    "",
+                    "",
+                    "large",
+                    "HG",
+                    "",
+                    "low",
+                    "mobile",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            ]
+        },
         "flora": {
             "header": [
                 "English",
@@ -6274,44 +6311,6 @@
                 ]
             ]
         },
-        "ethno": {
-            "header": [
-                "Current population (ethnicity)",
-                "Current population (speakers)",
-                "Former population estimate",
-                "Subsistence preference",
-                "Subsistence notes",
-                "Density",
-                "Sedentism",
-                "Ecotome (riverine/interfluvial/coastal/desert/savannah/etc.)",
-                "Social hierarchies",
-                "Multilingualism (rare/occasional/common)",
-                "Contact languages",
-                "Marriage pattern",
-                "Notes",
-                "Source",
-                "Created By"
-            ],
-            "rows": [
-                [
-                    "",
-                    "",
-                    "large",
-                    "HG",
-                    "",
-                    "low",
-                    "mobile",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ]
-            ]
-        },
         "cult": {
             "header": [
                 "English",
@@ -8914,12 +8913,13 @@
             ]
         }
     },
-    "Features": "\nFlora Fauna Vocabulary\nCultural Vocabulary\nEthnographic Information\n",
-    "Family": "Isolate (AUS)",
-    "name": "Wardaman",
-    "Region": "Australia",
     "Location": "\n\t\t\t\t\t-15.53\u00b0,\n\t\t\t\t\t131.88\u00b0\n\t\t\t\t",
-    "ISO 639-3": "wrr",
+    "Notes": "",
     "id": "169",
-    "Notes": ""
+    "Family": "Isolate (AUS)",
+    "Region": "Australia",
+    "ISO 639-3": "wrr",
+    "name": "Wardaman",
+    "Data Sources": "none",
+    "Features": "\nFlora Fauna Vocabulary\nCultural Vocabulary\nEthnographic Information\n"
 }

@@ -1,6 +1,43 @@
 {
-    "Data Sources": "none",
     "tables": {
+        "ethno": {
+            "header": [
+                "Current population (ethnicity)",
+                "Current population (speakers)",
+                "Former population estimate",
+                "Subsistence preference",
+                "Subsistence notes",
+                "Density",
+                "Sedentism",
+                "Ecotome (riverine/interfluvial/coastal/desert/savannah/etc.)",
+                "Social hierarchies",
+                "Multilingualism (rare/occasional/common)",
+                "Contact languages",
+                "Marriage pattern",
+                "Notes",
+                "Source",
+                "Created By"
+            ],
+            "rows": [
+                [
+                    "",
+                    "",
+                    "large",
+                    "HG",
+                    "",
+                    "dense",
+                    "mobile",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            ]
+        },
         "flora": {
             "header": [
                 "English",
@@ -11306,52 +11343,15 @@
                     "0"
                 ]
             ]
-        },
-        "ethno": {
-            "header": [
-                "Current population (ethnicity)",
-                "Current population (speakers)",
-                "Former population estimate",
-                "Subsistence preference",
-                "Subsistence notes",
-                "Density",
-                "Sedentism",
-                "Ecotome (riverine/interfluvial/coastal/desert/savannah/etc.)",
-                "Social hierarchies",
-                "Multilingualism (rare/occasional/common)",
-                "Contact languages",
-                "Marriage pattern",
-                "Notes",
-                "Source",
-                "Created By"
-            ],
-            "rows": [
-                [
-                    "",
-                    "",
-                    "large",
-                    "HG",
-                    "",
-                    "dense",
-                    "mobile",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ]
-            ]
         }
     },
-    "Features": "\nFlora Fauna Vocabulary\nGrammatical Data\nEthnographic Information\n",
-    "Family": "Pama-Nyungan",
-    "name": "Yidiny",
-    "Region": "Australia",
     "Location": "\n\t\t\t\t\t-17.12\u00b0,\n\t\t\t\t\t145.77\u00b0\n\t\t\t\t",
-    "ISO 639-3": "yii",
+    "Notes": "",
     "id": "202",
-    "Notes": ""
+    "Family": "Pama-Nyungan",
+    "Region": "Australia",
+    "ISO 639-3": "yii",
+    "name": "Yidiny",
+    "Data Sources": "none",
+    "Features": "\nFlora Fauna Vocabulary\nGrammatical Data\nEthnographic Information\n"
 }

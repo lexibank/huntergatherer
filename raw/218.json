@@ -1,6 +1,43 @@
 {
-    "Data Sources": "none",
     "tables": {
+        "ethno": {
+            "header": [
+                "Current population (ethnicity)",
+                "Current population (speakers)",
+                "Former population estimate",
+                "Subsistence preference",
+                "Subsistence notes",
+                "Density",
+                "Sedentism",
+                "Ecotome (riverine/interfluvial/coastal/desert/savannah/etc.)",
+                "Social hierarchies",
+                "Multilingualism (rare/occasional/common)",
+                "Contact languages",
+                "Marriage pattern",
+                "Notes",
+                "Source",
+                "Created By"
+            ],
+            "rows": [
+                [
+                    "",
+                    "",
+                    "medium",
+                    "HG",
+                    "",
+                    "medium",
+                    "mobile",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            ]
+        },
         "flora": {
             "header": [
                 "English",
@@ -6421,44 +6458,6 @@
                 ]
             ]
         },
-        "ethno": {
-            "header": [
-                "Current population (ethnicity)",
-                "Current population (speakers)",
-                "Former population estimate",
-                "Subsistence preference",
-                "Subsistence notes",
-                "Density",
-                "Sedentism",
-                "Ecotome (riverine/interfluvial/coastal/desert/savannah/etc.)",
-                "Social hierarchies",
-                "Multilingualism (rare/occasional/common)",
-                "Contact languages",
-                "Marriage pattern",
-                "Notes",
-                "Source",
-                "Created By"
-            ],
-            "rows": [
-                [
-                    "",
-                    "",
-                    "medium",
-                    "HG",
-                    "",
-                    "medium",
-                    "mobile",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ]
-            ]
-        },
         "cult": {
             "header": [
                 "English",
@@ -9061,12 +9060,13 @@
             ]
         }
     },
-    "Features": "\nFlora Fauna Vocabulary\nCultural Vocabulary\nEthnographic Information\n",
-    "Family": "Gunwinyguan",
-    "name": "Rembarrnga",
-    "Region": "Australia",
     "Location": "\n\t\t\t\t\t-13.15\u00b0,\n\t\t\t\t\t134.39\u00b0\n\t\t\t\t",
-    "ISO 639-3": "rmb",
+    "Notes": "",
     "id": "218",
-    "Notes": ""
+    "Family": "Gunwinyguan",
+    "Region": "Australia",
+    "ISO 639-3": "rmb",
+    "name": "Rembarrnga",
+    "Data Sources": "none",
+    "Features": "\nFlora Fauna Vocabulary\nCultural Vocabulary\nEthnographic Information\n"
 }

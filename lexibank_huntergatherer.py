@@ -45,8 +45,7 @@ class Dataset(BaseDataset):
     )
 
     def _get(self, path, log):
-        with self.raw_dir.temp_download(
-                self.metadata.url + path, self.raw_dir.joinpath('.html'), log) as fname:
+        with self.raw_dir.temp_download(self.metadata.url + path, '.html', log) as fname:
             return BeautifulSoup(fname.read_text(encoding='utf8'), 'html.parser')
 
     def cmd_download(self, args):

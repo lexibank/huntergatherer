@@ -1,5 +1,4 @@
 {
-    "Data Sources": "Patte, Marie-France. 1989. Estudio descriptivo de la lengua A\u00f1un (o \"Paraujano\"). San Crist\u00f3bal: Universidad Cat\u00f3lica del T\u00e1chira. ",
     "tables": {
         "grammar": {
             "header": [
@@ -3862,12 +3861,13 @@
             ]
         }
     },
-    "Features": "\nGrammatical Data\n",
-    "Family": "Arawakan",
-    "name": "A\u00f1un",
-    "Region": "South America",
     "Location": "\n\t\t\t\t\t10.84\u00b0,\n\t\t\t\t\t-71.84\u00b0\n\t\t\t\t",
-    "ISO 639-3": "pbg",
+    "Notes": "",
     "id": "257",
-    "Notes": ""
+    "Family": "Arawakan",
+    "Region": "South America",
+    "ISO 639-3": "pbg",
+    "name": "A\u00f1un",
+    "Data Sources": "Patte, Marie-France. 1989. Estudio descriptivo de la lengua A\u00f1un (o \"Paraujano\"). San Crist\u00f3bal: Universidad Cat\u00f3lica del T\u00e1chira. ",
+    "Features": "\nGrammatical Data\n"
 }

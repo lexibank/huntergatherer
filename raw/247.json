@@ -1,6 +1,81 @@
 {
-    "Data Sources": "none",
     "tables": {
+        "cult": {
+            "header": [
+                "English",
+                "Spanish",
+                "Portuguese",
+                "Semantic Field",
+                "Part of Speech",
+                "Orthographic Form",
+                "Phonemicized Form",
+                "Gloss as in Source",
+                "Etymology Code",
+                "Proto-Form",
+                "Proto-Language",
+                "Loan Source",
+                "Etymology Notes",
+                "Wanderwort Status",
+                "Etyma Set",
+                "Word Structure",
+                "Word Structure Notes",
+                "General Notes",
+                "Source",
+                "Created By"
+            ],
+            "rows": [
+                [
+                    [
+                        "/lexical/feature/766",
+                        "bag (string)"
+                    ],
+                    "",
+                    "",
+                    "culture-material",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "missing",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "Claire Bowern"
+                ],
+                [
+                    [
+                        "/lexical/feature/660",
+                        "knife"
+                    ],
+                    "cuchillo",
+                    "faca",
+                    "culture-material",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "missing",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "Claire Bowern"
+                ]
+            ]
+        },
         "grammar": {
             "header": [
                 "Category",
@@ -5033,90 +5108,15 @@
                     "0"
                 ]
             ]
-        },
-        "cult": {
-            "header": [
-                "English",
-                "Spanish",
-                "Portuguese",
-                "Semantic Field",
-                "Part of Speech",
-                "Orthographic Form",
-                "Phonemicized Form",
-                "Gloss as in Source",
-                "Etymology Code",
-                "Proto-Form",
-                "Proto-Language",
-                "Loan Source",
-                "Etymology Notes",
-                "Wanderwort Status",
-                "Etyma Set",
-                "Word Structure",
-                "Word Structure Notes",
-                "General Notes",
-                "Source",
-                "Created By"
-            ],
-            "rows": [
-                [
-                    [
-                        "/lexical/feature/766",
-                        "bag (string)"
-                    ],
-                    "",
-                    "",
-                    "culture-material",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "missing",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "Claire Bowern"
-                ],
-                [
-                    [
-                        "/lexical/feature/660",
-                        "knife"
-                    ],
-                    "cuchillo",
-                    "faca",
-                    "culture-material",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "missing",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "Claire Bowern"
-                ]
-            ]
         }
     },
-    "Features": "\nCultural Vocabulary\nGrammatical Data\n",
-    "Family": "Unknown Australia",
-    "name": "Mayi-Yapi",
-    "Region": "Australia",
     "Location": "\n\t\t\t\t\t0.00\u00b0,\n\t\t\t\t\t0.00\u00b0\n\t\t\t\t",
-    "ISO 639-3": "",
+    "Notes": "",
     "id": "247",
-    "Notes": ""
+    "Family": "Unknown Australia",
+    "Region": "Australia",
+    "ISO 639-3": "",
+    "name": "Mayi-Yapi",
+    "Data Sources": "none",
+    "Features": "\nCultural Vocabulary\nGrammatical Data\n"
 }

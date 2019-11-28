@@ -1,5 +1,4 @@
 {
-    "Data Sources": "Mihas, Elena. 2010. Essentials of Ash\u00e9ninka Peren\u00e9 grammar. The University of Wisconsin-Milwaukee. (Doctoral disseration).\n\nPayne, David. 1981. The Phonology and Morphology of Axininca Campa. Summer Institute of Linguistics, University of Texas - Arlington.\n\nPayne, David. 1983. Estudios Linguisticos de Textos Asheninco (Campa, Arawak Preandino). Instituto Ling\u00fc\u00edstico de Verano. Yarinacocha, Pucallpa, Per\u00fa.",
     "tables": {
         "grammar": {
             "header": [
@@ -3862,12 +3861,13 @@
             ]
         }
     },
-    "Features": "\nGrammatical Data\n",
-    "Family": "Arawakan",
-    "name": "Asheninka Apurucayali",
-    "Region": "South America",
     "Location": "\n\t\t\t\t\t-9.82\u00b0,\n\t\t\t\t\t-74.62\u00b0\n\t\t\t\t",
-    "ISO 639-3": "cpc",
+    "Notes": "Grammar data also includes some information on closely related variety Asheninka Perene (prq).",
     "id": "51",
-    "Notes": "Grammar data also includes some information on closely related variety Asheninka Perene (prq)."
+    "Family": "Arawakan",
+    "Region": "South America",
+    "ISO 639-3": "cpc",
+    "name": "Asheninka Apurucayali",
+    "Data Sources": "Mihas, Elena. 2010. Essentials of Ash\u00e9ninka Peren\u00e9 grammar. The University of Wisconsin-Milwaukee. (Doctoral disseration).\n\nPayne, David. 1981. The Phonology and Morphology of Axininca Campa. Summer Institute of Linguistics, University of Texas - Arlington.\n\nPayne, David. 1983. Estudios Linguisticos de Textos Asheninco (Campa, Arawak Preandino). Instituto Ling\u00fc\u00edstico de Verano. Yarinacocha, Pucallpa, Per\u00fa.",
+    "Features": "\nGrammatical Data\n"
 }
