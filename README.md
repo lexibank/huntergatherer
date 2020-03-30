@@ -12,6 +12,7 @@ Conceptlists in Concepticon:
 ## Statistics
 
 
+[![Build Status](https://travis-ci.org/lexibank/huntergatherer.svg?branch=master)](https://travis-ci.org/lexibank/huntergatherer)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 53%](https://img.shields.io/badge/Concepticon-53%25-red.svg "Concepticon: 53%")
 ![Source: 69%](https://img.shields.io/badge/Source-69%25-orange.svg "Source: 69%")
@@ -29,3 +30,10 @@ Conceptlists in Concepticon:
 
 
 - Entries missing sources: 24515/78033 (31.42%)
+
+# Contributors
+
+Name | GitHub user | Role
+ --- | --- | --- 
+Robert Forkel | @xrotwang | maintainer
+

@@ -1,7 +1,7 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family
 1,Cupeño,cupe1243,Cupeño,cup,North America,33.3148,-116.515,Uto-Aztecan
 2,Cahuilla,cahu1264,Cahuilla,chl,North America,33.5324,-116.691,Uto-Aztecan
-3,Luiseño,luis1253,Luiseno,lui,North America,33.3184,-116.939,Uto-Aztecan
+3,Luiseño,luis1253,Luiseno-Juaneño,lui,North America,33.3184,-116.939,Uto-Aztecan
 4,Serrano,serr1255,Serrano,ser,North America,33.9479,-116.772,Uto-Aztecan
 5,Kawaiisu,kawa1283,Kawaiisu,xaw,North America,36.0538,-118.679,Uto-Aztecan
 6,Western Mono,mono1275,Mono (USA),mnr,North America,37.1935,-119.347,Uto-Aztecan
@@ -28,7 +28,7 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 27,Washo,wash1253,Washo,was,North America,38.8184,-119.64,Washo
 28,Wintu,wint1259,Wintu,wit,North America,39.7176,-122.445,Wintuan
 29,Yokuts Yawdanchi,yoku1256,Northern Yokuts,yok,North America,36.3167,-119.721,Yokutsan
-30,Yuki,yuki1243,Yuki,yuk,North America,39.8389,-123.296,Yuki-Wappo
+30,Yuki,yuki1243,Northern Yukian,yuk,North America,39.8389,-123.296,Yuki-Wappo
 31,Yavapai,hava1248,Havasupai-Walapai-Yavapai,yuf,North America,35.6302,-113.385,Cochimi-Yuman
 32,Iipay 'Aa,kumi1248,Tipai,dih,North America,32.331,-116.604,Cochimi-Yuman
 33,Cocopa,coco1261,Cocopa,coc,North America,32.376,-114.848,Cochimi-Yuman
@@ -86,7 +86,7 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 102,Hodï,yuwa1244,Hoti,yau,South America,5.63879,-65.4267,Jodi-Saliban
 103,Waorani,waor1240,Waorani,auc,South America,-1.12312,-76.683,Waorani
 104,Máku,maku1246,Máku,xxx,South America,3.969231,-64.235892,Máku
-106,Páez,paez1247,Páez,pbb,South America,2.61516,-76.3125,Páez
+106,Páez,paez1247,Páez,pbb,South America,2.61516,-76.31254,Páez
 107,Puinave,puin1248,Puinave,pui,South America,3.92974,-67.6886,Puinave
 108,Pumé,pume1238,Pumé,yae,South America,7.10677,-67.5996,Pumé
 109,Taushiro,taus1253,Taushiro,trr,South America,-3.22497,-75.5603,Taushiro
@@ -104,7 +104,7 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 123,Yuhup,yuhu1238,Yuhup,yab,South America,0.2485,-69.8079,Naduhup
 124,Matses,mats1244,Matsés,mcf,South America,-5.73914,-72.6281,Pano-Tacanan
 125,Yagua,yagu1244,Yagua,yad,South America,-3.42913,-72.2186,Peba-Yagua
-126,Ingá,inga1252,Inga,inb,South America,1.00313,-76.8606,Quechuan
+126,Ingá,inga1252,Colombian Inga,inb,South America,1.00313,-76.8606,Quechuan
 127,Napo Lowland Quichua,napo1242,Napo Lowland Quechua,qvo,South America,-0.072525,-76.3889,Quechuan
 128,Quechua Ayacuchano,ayac1239,Ayacucho Quechua,quy,South America,-13.84714,-74.32246,Quechuan
 129,Southern Pastaza Quechua,sout2990,Southern Pastaza Quechua,qup,South America,-3.32733,-76.527,Quechuan
@@ -133,9 +133,9 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 157,Nɨpode Witoto,nupo1240,Nüpode Huitoto,hux,South America,-2.34495,-70.9559,Huitotoan
 158,Ocaina,ocai1244,Ocaina,oca,South America,-2.159,-72.1422,Huitotoan
 159,Ninam,nina1238,Ninam,shb,South America,4.03894,-62.7801,Yanomamic
-160,Sanumá,sanu1240,Sanumá,xsu,South America,4.0,-64.0,Yanomamic
+160,Sanumá,sanu1240,Sanumá,xsu,South America,4.5,-64.5,Yanomamic
 161,Yanomam,yano1261,Yanomamö,guu,South America,1.67967,-64.8781,Yanomamic
-162,Yanomami,yano1262,Yanomámi,wca,South America,2.48999,-62.8522,Yanomamic
+162,Yanomami,yano1262,Yanomám,wca,South America,2.48999,-62.8522,Yanomamic
 163,Iquito,iqui1243,Iquito,iqu,South America,-3.31233,-73.97046,Zaparoan
 164,Bardi,bard1255,Bardi,bcj,Australia,-16.6274,122.906,Nyulnyulan
 165,Nyulnyul,nyul1247,Nyulnyul,nyv,Australia,-16.9129,122.851,Nyulnyulan
