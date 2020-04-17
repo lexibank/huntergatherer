@@ -1,8 +1,8 @@
-# Hunter - Gatherer Language Database
+# CLDF dataset derived from Bowern et al.'s "Hunter - Gatherer Language Database" from 2019
 
 Cite the source dataset as
 
-> Bowern, Claire, Patience Epps, Jane Hill, and Patrick McConvell. Hunter - Gatherer Language Database. https://huntergatherer.la.utexas.edu/ Accessed[date].
+> Bowern, Claire, Patience Epps, Jane Hill, and Patrick McConvell. Hunter - Gatherer Language Database. https://huntergatherer.la.utexas.edu/ Accessed 2019-11-28.
 
 Available online at https://huntergatherer.la.utexas.edu
 
@@ -25,15 +25,15 @@ Conceptlists in Concepticon:
 
 ## Possible Improvements:
 
-- Languages linked to [bookkeeping languoids in Glottolog](http://glottolog.org/glottolog/glottologinformation#bookkeepinglanguoids):
-  - Uw-Olkol [olko1234](http://glottolog.org/resource/languoid/id/olko1234)
 
 
 - Entries missing sources: 24515/78033 (31.42%)
 
 # Contributors
 
-Name | GitHub user | Role
- --- | --- | --- 
-Robert Forkel | @xrotwang | maintainer
+Name | GitHub user | Description | Role
+--- | --- | --- | ---
+Robert Forkel | @xrotwang | code | Author
+Christoph Rzymski | @chrzyki | patron | Author
+
 
