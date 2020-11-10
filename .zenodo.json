@@ -1,0 +1,29 @@
+{
+    "title": "CLDF dataset derived from Bowern et al.'s \"Hunter - Gatherer Language Database\" from 2019",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [],
+    "contributors": [
+        {
+            "name": "Robert Forkel",
+            "type": "Other"
+        },
+        {
+            "name": "Christoph Rzymski",
+            "type": "Other"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Bowern, Claire, Patience Epps, Jane Hill, and Patrick McConvell. Hunter - Gatherer Language Database. https://huntergatherer.la.utexas.edu/ Accessed 2019-11-28.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}

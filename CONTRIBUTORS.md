@@ -2,5 +2,5 @@
 
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
-Robert Forkel | @xrotwang | code | Author
-Christoph Rzymski | @chrzyki | patron | Author
+Robert Forkel | @xrotwang | code | Other
+Christoph Rzymski | @chrzyki | patron | Other

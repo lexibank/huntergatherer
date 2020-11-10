@@ -1,6 +1,7 @@
 {
     "url": "https://huntergatherer.la.utexas.edu",
     "conceptlist": "Bowern-2011-204",
+    "license": "CC-BY-4.0",
     "citation": "Bowern, Claire, Patience Epps, Jane Hill, and Patrick McConvell. Hunter - Gatherer Language Database. https://huntergatherer.la.utexas.edu/ Accessed 2019-11-28.",
     "title": "CLDF dataset derived from Bowern et al.'s \"Hunter - Gatherer Language Database\" from 2019"
 }

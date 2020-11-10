@@ -4,6 +4,8 @@ Cite the source dataset as
 
 > Bowern, Claire, Patience Epps, Jane Hill, and Patrick McConvell. Hunter - Gatherer Language Database. https://huntergatherer.la.utexas.edu/ Accessed 2019-11-28.
 
+This dataset is licensed under a CC-BY-4.0 license
+
 Available online at https://huntergatherer.la.utexas.edu
 
 
@@ -33,7 +35,7 @@ Conceptlists in Concepticon:
 
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
-Robert Forkel | @xrotwang | code | Author
-Christoph Rzymski | @chrzyki | patron | Author
+Robert Forkel | @xrotwang | code | Other
+Christoph Rzymski | @chrzyki | patron | Other
 
 

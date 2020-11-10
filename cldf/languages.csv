@@ -48,14 +48,14 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 52,Baniwa,bani1255,Baniwa do Icana,bwi,South America,2.17859,-67.7704,Arawakan
 53,Bare,bare1276,Baré,bae,South America,1.91649,-66.828,Arawakan
 54,Kabiyari ,cabi1241,Cabiyarí,cbb,South America,0.16101,-71.0622,Arawakan
-56,Mandawaka,mand1448,Mandahuaca,mht,South America,1.06636,-66.7231,Arawakan
+56,Mandawaka,mand1448,Mandahuaca,mht,South America,1.48,-66.52,Arawakan
 57,Paresi ,pare1272,Parecís,pab,South America,-14.5929,-57.4059,Arawakan
 58,Piapoco ,piap1246,Piapoco,pio,South America,4.37718,-68.5953,Arawakan
-59,Resígaro,resi1247,Resígaro,rgr,South America,-2.48139,-71.3578,Arawakan
+59,Resígaro,resi1247,Resígaro,rgr,South America,-1.169535,-71.60524,Arawakan
 60,Tariana,tari1256,Tariana,tae,South America,0.440205,-68.9042,Arawakan
 61,Wapishana,wapi1253,Wapishana,wap,South America,2.58744,-59.8021,Arawakan
 62,Warekena ,guar1293,Baniva de Maroa,gae,South America,1.80835,-66.922505,Arawakan
-64,Yavitero,yavi1244,Yavitero,yvt,South America,2.800281,-68.084219,Arawakan
+64,Yavitero,yavi1244,Yavitero-Pareni,yvt,South America,2.924844,-67.438886,Arawakan
 65,Yukuna ,yucu1253,Yucuna,ycn,South America,-0.76075,-71.0033,Arawakan
 66,Arutani,arut1244,Arutani,atx,South America,4.0673594,-62.8676118,Arutani
 67,Sape,sape1238,Sapé,spc,South America,4.0735661,-62.9666521,Sapé
@@ -148,7 +148,7 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 172,Kija,kitj1240,Kitja,gia,Australia,-17.5758,127.392,Jarrakan
 173,Miriwung,miri1266,Miriwung,mep,Australia,-16.3596,128.889,Jarrakan
 175,Jingulu,djin1251,Jingulu,jig,Australia,-17.165,133.659,Mirndi
-176,Ngumbarl,ngum1253,Ngumbarl,,Australia,,,Nyulnyulan
+176,Ngumbarl,ngum1253,Ngumbarl,,Australia,-17.491239,122.230025,Nyulnyulan
 177,Nyikina,nyig1240,Nyigina,nyh,Australia,-17.9594,124.348,Nyulnyulan
 178,Warrwa,warr1258,Warrwa,wwr,Australia,-17.0965,123.971,Nyulnyulan
 179,Jawi,djaw1238,Djawi,djw,Australia,-16.4163,123.186,Nyulnyulan
@@ -158,7 +158,7 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 183,Nhirrpi,nhir1234,Nhirrpi,hrp,Australia,,,Pama-Nyungan
 184,Pirriya,pirr1240,Pirriya,xpa,Australia,-25.48006595,142.5485119,Pama-Nyungan
 185,Pitta-Pitta,pitt1247,Pitta Pitta,pit,Australia,-22.7952,139.983,Pama-Nyungan
-186,Wangkayutyuru,,,wky,,,,
+186,Wangkayutyuru,wang1289,Wanggamala,wky,Australia,-24.7022,137.433,Pama-Nyungan
 187,Yandruwandha,yand1253,Yandruwandha,ynd,Australia,-28.4744,140.583,Pama-Nyungan
 188,Yarluyandi,ngam1265,Ngamini-Yarluyandi-Karangura,yry,Australia,-27.1797,138.701,Pama-Nyungan
 189,Yawarrawarrka,yawa1258,Yawarawarga,yww,Australia,-26.7334,140.871,Pama-Nyungan
@@ -216,8 +216,8 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 244,Yokuts Yawelmani,yoku1256,Northern Yokuts,,North America,36.3167,-119.721,Yokutsan
 245,7eqenem'u,,,,,,,
 246,Yulparija,yulp1239,Yulparija,,Australia,-18.923519,122.370316,Pama-Nyungan
-253,Baure,baur1253,Baure,brg,South America,-13.1278,-64.1838,Arawakan
-258,Makiritare,maqu1238,Maquiritari,mch,South America,4.70705,-64.3877,Cariban
+253,Baure,baur1253,Baure,brg,South America,-13.61,-63.68,Arawakan
+258,Makiritare,maqu1238,Ye'kwana,mch,South America,4.70705,-64.3877,Cariban
 266,Minica Witoto,mini1256,Minica Huitoto,hto,South America,-1.54535,-73.1107,Huitotoan
 268,Kokama,coca1259,Cocama-Cocamilla,cod,South America,-4.5,-74.0,Tupian
 349,Waurá,waur1244,Waurá,wau,South America,-13.296,-53.6971,Arawakan
