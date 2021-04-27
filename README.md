@@ -1,8 +1,8 @@
-# CLDF dataset derived from Bowern et al.'s "Hunter - Gatherer Language Database" from 2019
+# CLDF dataset derived from Bowern et al.'s "Hunter - Gatherer Language Database" from 2021
 
 Cite the source dataset as
 
-> Bowern, Claire, Patience Epps, Jane Hill, and Patrick McConvell. Hunter - Gatherer Language Database. https://huntergatherer.la.utexas.edu/ Accessed 2019-11-28.
+> Bowern, Claire, Patience Epps, Jane Hill, and Patrick McConvell. Hunter - Gatherer Language Database. https://huntergatherer.la.utexas.edu/ Accessed 2021-04-27.
 
 This dataset is licensed under a CC-BY-4.0 license
 
@@ -10,31 +10,37 @@ Available online at https://huntergatherer.la.utexas.edu
 
 
 Conceptlists in Concepticon:
-- [Bowern-2011-204](https://concepticon.clld.org/contributions/Bowern-2011-204)
+- [Bowern-2021-207a](https://concepticon.clld.org/contributions/Bowern-2021-207a)
+- [Bowern-2021-342b](https://concepticon.clld.org/contributions/Bowern-2021-342b)
+- [Bowern-2021-203c](https://concepticon.clld.org/contributions/Bowern-2021-203c)
 ## Statistics
 
 
-[![Build Status](https://travis-ci.org/lexibank/huntergatherer.svg?branch=master)](https://travis-ci.org/lexibank/huntergatherer)
-![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 53%](https://img.shields.io/badge/Concepticon-53%25-red.svg "Concepticon: 53%")
+[![CLDF validation](https://github.com/lexibank/huntergatherer/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/huntergatherer/actions?query=workflow%3ACLDF-validation)
+![Glottolog: 99%](https://img.shields.io/badge/Glottolog-99%25-brightgreen.svg "Glottolog: 99%")
+![Concepticon: 82%](https://img.shields.io/badge/Concepticon-82%25-yellowgreen.svg "Concepticon: 82%")
 ![Source: 69%](https://img.shields.io/badge/Source-69%25-orange.svg "Source: 69%")
 
-- **Varieties:** 240
-- **Concepts:** 745
-- **Lexemes:** 78,033
-- **Sources:** 2,934
-- **Synonymy:** 1.23
+- **Varieties:** 324
+- **Concepts:** 744
+- **Lexemes:** 79,893
+- **Sources:** 3,575
+- **Synonymy:** 1.22
 
 ## Possible Improvements:
 
 
 
-- Entries missing sources: 24515/78033 (31.42%)
+- Entries missing sources: 24925/79893 (31.20%)
 
 # Contributors
 
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
+Claire Bowern | | | Author, Editor
+Patience Epps | | | Author, Editor
+Jane Hill | | | Author, Editor
+Patrick McConvell | | | Author, Editor
 Robert Forkel | @xrotwang | code | Other
 Christoph Rzymski | @chrzyki | patron | Other
 

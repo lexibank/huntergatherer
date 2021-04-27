@@ -1,13 +1,12 @@
-import re
 import pathlib
 
 import attr
-from clldutils import jsonlib
 from bs4 import BeautifulSoup
-
-from pylexibank import Lexeme, Concept, FormSpec
-from pylexibank import Dataset as BaseDataset
+from clldutils import jsonlib
+from clldutils.misc import slug
 from lingpy import ipa2tokens
+from pylexibank import Dataset as BaseDataset
+from pylexibank import Lexeme, Concept, FormSpec
 
 from hgutil import parse, itersources
 
@@ -23,6 +22,7 @@ class HGLexeme(Lexeme):
 @attr.s
 class HGConcept(Concept):
     Semantic_category = attr.ib(default=None)
+    Database_ID = attr.ib(default=None)
 
 
 class Dataset(BaseDataset):
@@ -48,12 +48,11 @@ class Dataset(BaseDataset):
         return lambda x, y: ipa2tokens(y, merge_vowels=False)
 
     def cmd_makecldf(self, args):
-        concept_map = {
-            re.sub(r"^([*$])", "", c.english): c.concepticon_id
-            for c in self.conceptlists[0].concepts.values()
-        }
-        for c in self.concepts:
-            concept_map[(c["ID"], c["GLOSS"])] = c["CONCEPTICON_ID"] or None
+        concepts = args.writer.add_concepts(
+            id_factory=lambda x: x.id.split("-")[-1] + "_" + slug(x.english),
+            lookup_factory="Database_ID",
+        )
+
         language_map = {lang["ID"]: lang["Glottocode"] or None for lang in self.languages}
 
         sources = {}
@@ -78,16 +77,18 @@ class Dataset(BaseDataset):
                     if form:
                         refs = [ref for ref in itersources(item, data, sources) if ref]
                         args.writer.add_sources(*[ref.source for ref in refs])
-                        href, concept = item["English"]
-                        args.writer.add_concept(
-                            ID=href.split("/")[-1],
-                            Name=concept,
-                            Concepticon_ID=concept_map.get(concept),
-                            Semantic_category=item["Semantic Field"],
-                        )
+                        href, _ = item["English"]
+
+                        concept_database_id = href.split("/")[-1]
+
+                        if not concepts.get(concept_database_id):
+                            # https://huntergatherer.la.utexas.edu/lexical/feature/729
+                            # is missing from the concept list(s)
+                            continue
+
                         args.writer.add_lexemes(
                             Language_ID=data["id"],
-                            Parameter_ID=href.split("/")[-1],
+                            Parameter_ID=concepts[concept_database_id],
                             Value=form,
                             Loan=bool(item["Loan Source"] or item["Wanderwort Status"]),
                             Phonemic=item["Phonemicized Form"] or None,

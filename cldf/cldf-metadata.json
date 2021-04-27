@@ -1,42 +1,44 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Bowern, Claire, Patience Epps, Jane Hill, and Patrick McConvell. Hunter - Gatherer Language Database. https://huntergatherer.la.utexas.edu/ Accessed 2019-11-28.",
+    "dc:bibliographicCitation": "Bowern, Claire, Patience Epps, Jane Hill, and Patrick McConvell. Hunter - Gatherer Language Database. https://huntergatherer.la.utexas.edu/ Accessed 2021-04-27.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:format": [
-        "http://concepticon.clld.org/contributions/Bowern-2011-204"
+        "http://concepticon.clld.org/contributions/Bowern-2021-207a",
+        "http://concepticon.clld.org/contributions/Bowern-2021-342b",
+        "http://concepticon.clld.org/contributions/Bowern-2021-203c"
     ],
     "dc:identifier": "https://huntergatherer.la.utexas.edu",
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "CLDF dataset derived from Bowern et al.'s \"Hunter - Gatherer Language Database\" from 2019",
+    "dc:title": "CLDF dataset derived from Bowern et al.'s \"Hunter - Gatherer Language Database\" from 2021",
     "dcat:accessURL": "https://github.com/lexibank/huntergatherer",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/huntergatherer",
-            "dc:created": "5ccdd32"
+            "dc:created": "ea82a36"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.3"
+            "dc:created": "v4.3-treedb-fixes"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.4.0"
+            "dc:created": "v2.4.0-113-gcbfa52b"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "CLTS",
             "rdf:about": "https://github.com/cldf-clts/clts",
-            "dc:created": "v1.4"
+            "dc:created": "v2.1.0"
         }
     ],
     "prov:wasGeneratedBy": [
@@ -57,7 +59,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 78033,
+            "dc:extent": 79893,
             "tableSchema": {
                 "columns": [
                     {
@@ -168,7 +170,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 240,
+            "dc:extent": 324,
             "tableSchema": {
                 "columns": [
                     {
@@ -234,7 +236,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 745,
+            "dc:extent": 744,
             "tableSchema": {
                 "columns": [
                     {
@@ -260,6 +262,10 @@
                     {
                         "datatype": "string",
                         "name": "Semantic_category"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Database_ID"
                     }
                 ],
                 "primaryKey": [

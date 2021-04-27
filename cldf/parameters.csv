@@ -1,746 +1,745 @@
-ID,Name,Concepticon_ID,Concepticon_Gloss,Semantic_category
-352,above,1741,ABOVE,location
-353,again,204,AGAIN,grammar
-354,all,98,ALL,other
-355,and,1577,AND,grammar
-356,ankle,803,ANKLE,body
-358,armpit,1886,ARMPIT,body
-359,ash,646,ASH,environment
-360,at,1461,AT,location
-361,back,1291,BACK,body
-565,bad,,,quality
-363,belly,1251,BELLY,body
-364,below,1485,BELOW OR UNDER,location
-365,big,1202,BIG,quality
-367,bite,1403,BITE,body
-368,black,163,BLACK,colour
-369,blood,946,BLOOD,body
-370,blow,175,BLOW (OF WIND),body
-372,boil/pimple,1809,PIMPLE,body
-373,bone,1394,BONE,body
-376,breast,1402,BREAST,body
-377,breathe,1407,BREATHE,body
-378,burn,2102,BURN,environment
-379,chew,321,CHEW,body
-380,child,2099,CHILD,human
-381,climb,1102,CLIMB,motion
-382,cloud,1489,CLOUD,environment
-383,cold,1287,COLD,quality
-384,come,1446,COME,motion
-385,cook,1100,COOK (SOMETHING),impact
-386,correct/true,1725,CORRECT (RIGHT),quality
-387,count,1420,COUNT,mental
-388,cry,1839,CRY,mental
-389,cut/hack,1432,CUT,impact
-390,day,1225,DAY (NOT NIGHT),time
-391,die/be dead,2101,BE DEAD OR DIE,state
-392,dig,1418,DIG,impact
-394,dingo/wolf,2461,WOLF-LIKE ANIMAL,fauna
-395,dirty,1230,DIRTY,quality
-397,dream,2455,DREAMING OR DREAM,mental
-398,drink,1401,DRINK,body
-399,dry,1398,DRY,quality
-400,dull/blunt,379,BLUNT,quality
-401,dust,2,DUST,environment
-402,ear,1247,EAR,body
-403,earth/soil,1228,EARTH (SOIL),environment
-404,eat,1336,EAT,body
-405,egg,744,EGG,fauna
-406,eye,1248,EYE,body
-407,faeces,675,FAECES (EXCREMENT),body
-408,fall,1280,FALL,motion
-409,far,1406,FAR,quality
-410,fat/grease,323,FAT (ORGANIC SUBSTANCE),body
-411,father,1217,FATHER,kinship
-412,fear,1419,FEAR (BE AFRAID),mental
-413,feather,1201,FEATHER,fauna
-414,fire,221,FIRE,environment
-415,fish,227,FISH,fauna
-416,flow,2003,FLOW,motion
-417,flower,239,FLOWER,environment
-418,fly,1441,FLY (MOVE THROUGH AIR),motion
-419,fog,249,FOG,environment
-420,foot,1301,FOOT,body
-421,fruit,1507,FRUIT,flora
-422,good,1035,GOOD,quality
-424,grow,479,GROW,state
-425,hair (of head),,,body
-426,hand,1277,HAND,body
-562,3sg,,,grammar
-428,head,1256,HEAD,body
-429,hear,1408,HEAR,mental
-430,heavy,1210,HEAVY,quality
-431,hide,2486,HIDE,motion
-432,hit,1433,HIT,impact
-433,hold,1448,HOLD,other
-435,how?,1239,HOW,grammar
-558,1sg,,,grammar
-437,if,1459,IF,grammar
-438,in/inside,1606,INSIDE,location
-439,intestines,1991,INTESTINES,body
-440,itch,148,ITCH,body
-442,kill,1417,KILL,impact
-579,know/be knowledgeable,1410,KNOW (SOMETHING),mental
-444,lake,624,LAKE,environment
-445,laugh,1355,LAUGH,mental
-446,leaf,628,LEAF,environment
-447,left/left hand,,,location/body
-580,leg/foot,2098,FOOT OR LEG,body
-449,lie down,215,LIE DOWN,motion
-450,lightning,1654,LIGHTNING,environment
-451,live/be alive,1422,BE ALIVE,body
-452,liver,1224,LIVER,body
-453,long,1203,LONG,quality
-454,louse,1392,LOUSE,fauna
-455,lung,688,LUNG,body
-581,man/male,2106,MALE PERSON,human
-457,meat/flesh,2615,FLESH OR MEAT,fauna
-458,moon,1313,MOON,environment
-460,mother,1216,MOTHER,kinship
-461,mouth,674,MOUTH,body
-462,name,1405,NAME,human
-463,nape,1347,NAPE (OF NECK),body
-464,near/close,1942,NEAR,quality
-465,neck,1333,NECK,body
-466,new,1231,NEW,quality
-467,night,1233,NIGHT,time
-468,no/not,2279,NO OR NOT,grammar
-469,nose,1221,NOSE,body
-470,old,1229,OLD,quality
-471,one,1493,ONE,number
-472,open/uncover,1156,OPEN,other
-473,other,197,OTHER,grammar
-474,pain/painful/sick,,,body
-475,person/human being,683,PERSON,human
-476,pound/beat,2133,STRIKE OR BEAT,impact
-477,rain,2108,RAINING OR RAIN,environment
-478,red,156,RED,colour
-479,right/right hand,,,location/body
-480,road/path,2457,PATH OR ROAD,manufacture
-481,root,670,ROOT,flora
-483,rotten,1728,ROTTEN,quality
-484,sand,671,SAND,environment
-485,say,1458,SAY,mental
-486,scratch,1436,SCRATCH,impact
-487,see,1409,SEE,mental
-488,sharp,1396,SHARP,quality
-489,shoot,1172,SHOOT,impact
-490,short,1645,SHORT,quality
-491,shoulder,1482,SHOULDER,body
-492,shy/ashamed,3805,SHY OR ASHAMED,mental
-493,sit,1416,SIT,state
-494,skin,763,SKIN,body
-495,sky,1732,SKY,environment
-496,sleep,1585,SLEEP,body
-497,small,1246,SMALL,quality
-498,smoke,778,SMOKE (EXHAUST),environment
-500,sniff/smell,1586,SMELL (PERCEIVE),body
-504,spit,1440,SPIT,body
-505,split,1437,SPLIT,impact
-506,squeeze,1414,SQUEEZE,impact
-507,stab/pierce,1434,STAB,impact
-508,stand,1442,STAND,state
-509,star,1430,STAR,environment
-510,steal,713,STEAL,other
-511,stick/wood,1295,STICK,flora
-512,stone,857,STONE,environment
-513,suck,1421,SUCK,body
-514,sweat,2458,PERSPIRE OR SWEAT,body
-515,swell,1573,SWELL,body
-516,swim,1439,SWIM,motion
-517,tail,1220,TAIL,body
-518,that,78,THAT,grammar
-561,3pl,,,grammar
-521,thick,1244,THICK,quality
-522,thin,2308,THIN,quality
-523,think,1415,THINK (REFLECT),mental
-524,this,1214,THIS,grammar
-560,2sg,,,grammar
-526,three,492,THREE,number
-527,throat,1346,THROAT,body
-528,throw,1456,THROW,impact
-529,thunder,1150,THUNDER,environment
-530,tie up/fasten,1094,FASTEN,impact
-531,tongue,1205,TONGUE,body
-532,tooth,1380,TOOTH,body
-534,turn,1588,TURN,other
-535,two,1498,TWO,number
-536,vomit,1278,VOMIT,body
-537,walk,1443,WALK,motion
-538,water,948,WATER,environment
-556,1pl.excl,,,grammar
-557,1pl.incl,,,grammar
-541,wet,1726,WET,quality
-542,what?,1236,WHAT,grammar
-543,when?,1238,WHEN,grammar
-544,where?,1237,WHERE,grammar
-545,white,1335,WHITE,colour
-546,who?,1235,WHO,grammar
-547,wife,1199,WIFE,kinship
-548,wind,960,WIND,environment
-549,wing,1257,WING,body
-551,woman/female,2105,FEMALE PERSON,human
-552,work,2281,WORKING OR WORK,other
-553,yawn,1028,YAWN,body
-554,yellow,1424,YELLOW,colour
-559,2pl,,,grammar
-1,abalone,,,flora-fauna
-2,ant (generic),,,flora-fauna
-3,antelope,,,flora-fauna
-4,badger,,,flora-fauna
-5,bald eagle,,,flora-fauna
-6,band-tail pigeon,,,flora-fauna
-7,bat,,,flora-fauna
-8,beaver,,,flora-fauna
-9,beetle,,,flora-fauna
-10,big round tule,,,flora-fauna
-11,big skunk,,,flora-fauna
-12,big wolf (gray wolf),,,flora-fauna
-13,bighorn sheep,,,flora-fauna
-14,bird,937,BIRD,flora-fauna
-15,black ant,,,flora-fauna
-16,black bear,,,flora-fauna
-17,black-tail Jackrabbit,,,flora-fauna
-18,blackberry,,,flora-fauna
-19,blue grouse,,,flora-fauna
-20,"bobcat, lynx",,,flora-fauna
-21,"butterfly, moth",,,flora-fauna
-22,California condor,,,flora-fauna
-23,California jay,,,flora-fauna
-24,California woodpecker,,,flora-fauna
-25,chia,,,flora-fauna
-26,chipmunk,,,flora-fauna
-27,cliff swallow,,,flora-fauna
-28,coot,,,flora-fauna
-29,cottontail rabbit,,,flora-fauna
-30,cottonwood,,,flora-fauna
-31,coyote,,,flora-fauna
-32,crow,,,flora-fauna
-33,datura,,,flora-fauna
-34,"deer, mule",,,flora-fauna
-35,digger pine,,,flora-fauna
-36,"dog (camp, domestic)",,,flora-fauna
-37,dogbane,,,flora-fauna
-38,dove,,,flora-fauna
-39,duck,,,flora-fauna
-40,elder,,,flora-fauna
-41,elk,,,flora-fauna
-42,fish (generic),,,flora-fauna
-43,flea,,,flora-fauna
-44,flicker,,,flora-fauna
-45,blowfly/housefly,1504,FLY (INSECT),flora-fauna
-46,foothills yucca,,,flora-fauna
-47,fox,,,flora-fauna
-284,frog (generic),,,flora-fauna
-49,golden eagle,,,flora-fauna
-50,gooseberry,,,flora-fauna
-51,"gopher snake, bull snake",,,flora-fauna
-52,grass,606,GRASS,flora-fauna
-53,grasshopper,,,flora-fauna
-54,gray ground squirrel,,,flora-fauna
-55,gray tree squirrel,,,flora-fauna
-56,great horned owl,,,flora-fauna
-57,grizzly bear,,,flora-fauna
-58,horned toad,,,flora-fauna
-59,horse,,,flora-fauna
-60,hummingbird,,,flora-fauna
-227,tobacco,,,flora-fauna
-62,insect (generic),,,flora-fauna
-63,junco,,,flora-fauna
-64,juniper,,,flora-fauna
-65,louse,1392,LOUSE,flora-fauna
-66,mallard,,,flora-fauna
-67,manzanita,,,flora-fauna
-68,"milkweed, broad leaf",,,flora-fauna
-69,"milkweed, narrow leaf",,,flora-fauna
-70,mission tule,,,flora-fauna
-71,mockingbird,,,flora-fauna
-72,mosquito,1509,MOSQUITO,flora-fauna
-73,moth,,,flora-fauna
-74,mountain lion,,,flora-fauna
-75,mountain quail,,,flora-fauna
-76,mussel,,,flora-fauna
-77,olivella (olive snail),,,flora-fauna
-78,pinyon jay,,,flora-fauna
-79,pinyon pine,,,flora-fauna
-80,pismo clam,,,flora-fauna
-81,pocket gopher,,,flora-fauna
-82,poison oak,,,flora-fauna
-83,rattlesnake,,,flora-fauna
-84,red ant,,,flora-fauna
-85,red-shouldered blackbird,,,flora-fauna
-86,red-tailed hawk,,,flora-fauna
-87,roadrunner,,,flora-fauna
-88,ruddy duck,,,flora-fauna
-89,sage herb,,,flora-fauna
-90,salmon/steelhead,,,flora-fauna
-91,scaly lizard,,,flora-fauna
-92,small bird,,,flora-fauna
-93,small brown lizard,,,flora-fauna
-94,snake (generic),,,flora-fauna
-95,soaproot,,,flora-fauna
-96,sour berry,,,flora-fauna
-97,sparrow hawk,,,flora-fauna
-98,spider,843,SPIDER,flora-fauna
-99,spotted skunk,,,flora-fauna
-100,toad,,,flora-fauna
-101,tree,,,flora-fauna
-102,tree yucca,,,flora-fauna
-103,turkey buzzard,,,flora-fauna
-104,turtle (generic),,,flora-fauna
-105,valley live oak,,,flora-fauna
-106,valley oak,,,flora-fauna
-107,valley quail,,,flora-fauna
-108,Washington clam,,,flora-fauna
-109,Western Canada goose,,,flora-fauna
-110,whale,,,flora-fauna
-111,white pelican,,,flora-fauna
-112,wild grapevine,,,flora-fauna
-113,wild oats,,,flora-fauna
-114,wild rose,,,flora-fauna
-115,wild sunflower,,,flora-fauna
-116,willow,,,flora-fauna
-117,"wood rat, round-tail",,,flora-fauna
-118,"worm, hairy caterpillar",,,flora-fauna
-119,"worm, smooth caterpillar",,,flora-fauna
-120,yellow jacket,,,flora-fauna
-121,yellowbird,,,flora-fauna
-122,yerba santa,,,flora-fauna
-161,deer,,,flora-fauna
-601,acorn mush,,,food
-602,ball game,,,food
-603,"afterworld, land of dead, Heaven",,,culture-mythology
-604,feather headband,,,dress
-605,arrow,,,subsistence tool
-606,arrow straightener,,,other
-607,bait for fishing,,,subsistence tool
-608,school,,,acculturation
-609,stone bowl,,,culture-material
-610,basket (general),,,culture-material
-611,"basket, small",,,culture-material
-612,basketry hat,,,culture-material
-613,bead,,,culture-material
-614,ochre,,,culture-mythology
-615,bow,,,subsistence tool
-616,canoe,,,transport
-617,carrying net,,,subsistence tool
-618,bottle,,,acculturation
-619,paper,,,acculturation
-715,chief/leader,,,culture-mythology
-621,club,,,subsistence tool
-622,loincloth,,,dress
-623,cook food,,,food
-624,corpse,,,food
-625,dance (generic),,,culture-mythology
-720,deity/powerful spirit/culture figure,,,culture-mythology
-627,digging stick,339,DIGGING STICK,subsistence tool
-628,dipper,,,subsistence tool
-629,dream,2455,DREAMING OR DREAM,culture-mythology
-630,drone pipe,,,culture-mythology
-631,drum,,,culture-mythology
-632,chicken,,,acculturation
-633,earring,,,other
-634,ghost (of dead person)/evil spirit,,,culture-mythology
-635,fire drill,,,subsistence tool
-636,fire-tender,,,culture-mythology
-637,fireplace,,,other
-638,firewood,,,other
-724,fish (with fish-poison),,,food
-725,fish (with line),,,food
-641,fish poison,,,subsistence tool
-642,fishing line,,,subsistence tool
-643,fish hook,,,subsistence tool
-644,acorn bread,,,food
-645,wheat,,,food
-646,flute,,,culture-mythology
-647,gambling sticks,,,other
-648,game animal,,,food
-650,glue,,,subsistence tool
-651,grave,,,culture-mythology
-652,alcohol,,,food
-653,Datura wrightii,,,narcotics
-737,"shaman, healer",,,culture-mythology
-655,honey,,,food
-656,house,1252,HOUSE,other
-657,hunt,,,food
-658,initiate boy,,,culture-mythology
-659,initiate girl,,,culture-mythology
-660,knife,,,culture-material
-661,mat,,,culture-material
-662,mortar,,,subsistence tool
-663,necklace,,,other
-664,needle/awl,,,subsistence tool
-665,paddle/oar,,,transport
-666,pestle,,,subsistence tool
-667,pinole,,,food
-668,pipe for tobacco,,,other
-669,pitch,,,food
-670,pot,,,subsistence tool
-671,quiver,,,subsistence tool
-672,rattle,,,culture-mythology
-673,red paint,,,culture-mythology
-674,salt,,,food
-675,seed beater,,,subsistence tool
-676,clothing,,,culture-mythology
-677,sinew-backed bow,,,subsistence tool
-678,skirt,,,culture-material
-679,snare,,,subsistence tool
-749,song (generic),,,culture-mythology
-681,spear,945,SPEAR,subsistence tool
-682,stirring stick,,,food
-831,rope/string,,,culture
-684,"bag, sack",,,culture-material
-685,string of shell money,,,other
-752,sugarcane/sugar,,,acculturation
-687,sweathouse,,,other
-688,tell history,,,culture-mythology
-689,cremate,,,culture-mythology
-690,tobacco (native),,,narcotics
-691,tule boat,,,transport
-692,white paint,,,culture-mythology
-693,winnowing basket,,,culture-material
-694,wood tray,,,subsistence tool
-695,shoes,,,dress
-696,medicine,,,narcotics
-697,cradleboard,,,culture-material
-698,policeman,,,acculturation
-699,soldier,,,acculturation
-700,corn,,,food
-701,beans,,,food
-702,cat,,,acculturation
-703,gun,,,acculturation
-704,hat,,,dress
-705,clapper,,,acculturation
-755,thatch/roof,2100,THATCH OR ROOF,culture-material
-375,bottom grinding stone,2459,GRINDSTONE,manufacture
-533,top grinding stone,2459,GRINDSTONE,manufacture
-768,boomerang/throwing stick (generic),,,subsistence tool
-804,spearthrower,2677,SPEARTHROWER,subsistence tool
-550,winnow,2462,WINNOWING,manufacture
-820,bark,,,environment
-821,fingernail,,,body
-822,heart,,,body
-592,sun,,,time
-825,green,,,quality
-826,hot,,,quality
-160,curassow,,,flora-fauna
-172,guan,,,flora-fauna
-226,tinamou,,,flora-fauna
-183,kingfisher,,,flora-fauna
-174,hawk,,,flora-fauna
-233,vulture,,,flora-fauna
-170,great egret,,,flora-fauna
-239,woodpecker,,,flora-fauna
-133,anteater,,,flora-fauna
-134,armadillo,,,flora-fauna
-128,"alligator, black caiman",,,flora-fauna
-164,electric eel,,,flora-fauna
-199,pacu fish,,,flora-fauna
-206,pirana,,,flora-fauna
-217,speckled catfish,,,flora-fauna
-177,iguana,,,flora-fauna
-214,small lizard,,,flora-fauna
-220,stingray (generic),,,flora-fauna
-131,anaconda,,,flora-fauna
-228,"tortoise (red foot, yellow foot/giant)",,,flora-fauna
-129,Amazon dolphin,,,flora-fauna
-194,mushroom,,,flora-fauna
-192,miriti palm,,,flora-fauna
-202,paxiuba palm,,,flora-fauna
-212,seje palm,,,flora-fauna
-157,cotton,,,flora-fauna
-180,kapok,,,flora-fauna
-175,hot pepper,,,flora-fauna
-137,"banana, plantain",,,flora-fauna
-187,"maize, corn",,,flora-fauna
-124,"achiote, anatto",,,flora-fauna
-126,inga,,,flora-fauna
-167,genipap,,,flora-fauna
-190,manioc (bitter or generic),,,flora-fauna
-191,manioc (sweet),,,flora-fauna
-221,"potato, sweet potato",,,flora-fauna
-182,"cará tuber, purple or white",,,flora-fauna
-143,bottle-gourd (vine) or calabash (tree),,,flora-fauna
-218,squash,,,flora-fauna
-152,cipó vine,,,flora-fauna
-166,"fish poison, barbasco",,,flora-fauna
-173,"hallucinogenic vine, banisterium, ayahuasca",,,flora-fauna
-828,hallucinogenic snuff,,,flora-fauna
-146,"bullet ant, lesser giant hunter ant",,,flora-fauna
-184,leaf-cutter ant,,,flora-fauna
-139,honeybee,,,flora-fauna
-154,cockroach,,,flora-fauna
-185,"firefly, lightning bug",,,flora-fauna
-132,angleworm,,,flora-fauna
-211,scorpion,,,flora-fauna
-151,cicada,,,flora-fauna
-159,cricket,,,flora-fauna
-223,"termites, white-ants",,,flora-fauna
-224,tick,,,flora-fauna
-234,wasp,,,flora-fauna
-215,snail,,,flora-fauna
-178,jaguar,,,flora-fauna
-188,manatee,,,flora-fauna
-168,giant otter,,,flora-fauna
-155,collared peccary,,,flora-fauna
-237,white-lipped peccary,,,flora-fauna
-207,porcupine,,,flora-fauna
-127,"agouti (black agouti, black-rumped agouti)",,,flora-fauna
-147,capybara,,,flora-fauna
-198,paca (lowland),,,flora-fauna
-130,"mouse, rat",,,flora-fauna
-219,squirrel,,,flora-fauna
-222,tapir,,,flora-fauna
-711,bed,,,culture-material
-736,hammock,,,culture-material
-712,"bench, seat",,,culture-material
-714,broom,,,culture-material
-742,"fence, palisade",,,other
-743,panpipe,,,culture-mythology
-740,machete,,,culture-material
-707,axe/stone axe,,,subsistence tool
-745,plate,,,culture-material
-708,basin/bowl,,,culture-material
-734,griddle for cooking flatbread,,,subsistence tool
-747,resin,,,subsistence tool
-713,blowgun,,,subsistence tool
-731,gourd (dipper/bowl),,,subsistence tool
-732,grater,,,subsistence tool
-830,fermented drink,,,culture
-728,flour/meal from manioc,,,food
-727,"flat bread, cassava bread",,,food
-753,"tapioca drink, mingau",,,food
-756,tipiti (manioc squeezer),,,food
-761,woven strainer/sieve,,,subsistence tool
-824,mountain/hill,,,environment
-136,avocado,,,flora-fauna
-138,beans,,,flora-fauna
-140,bitterwood,,,flora-fauna
-141,black palm,,,flora-fauna
-142,boa,,,flora-fauna
-145,brown woolly monkey,,,flora-fauna
-148,cashew,,,flora-fauna
-153,coca,,,flora-fauna
-156,"cotamundi, coatimundi",,,flora-fauna
-158,crab,,,flora-fauna
-162,dog (wild; bush dog),,,flora-fauna
-163,edible palm-dwelling larva (palm weevil),,,flora-fauna
-165,fish (large type),,,flora-fauna
-169,gray-winged trumpeter,,,flora-fauna
-171,green acouchi,,,flora-fauna
-176,howler monkey (red-handed),,,flora-fauna
-179,japurá,,,flora-fauna
-181,açai palm,,,flora-fauna
-186,macaw,,,flora-fauna
-189,mandi catfish,,,flora-fauna
-195,neotropical otter (small),,,flora-fauna
-196,opossum,,,flora-fauna
-197,owl (large),,,flora-fauna
-200,palm for roof thatch,,,flora-fauna
-201,parrot,,,flora-fauna
-203,"peach palm, pejibaye palm",,,flora-fauna
-205,pineapple,,,flora-fauna
-208,potato,,,flora-fauna
-209,"praying mantis, stick insects",,,flora-fauna
-210,rubber tree (sorva),,,flora-fauna
-213,sloth,,,flora-fauna
-216,snake (poisonous generic) or rattlesnake,,,flora-fauna
-225,tigerfish,,,flora-fauna
-229,toucan,,,flora-fauna
-230,tufted capuchin monkey,,,flora-fauna
-231,cunuri (tree),,,flora-fauna
-232,ucuqui,,,flora-fauna
-235,white-fronted capuchin,,,flora-fauna
-238,Amazon tree-grape,,,flora-fauna
-240,"tannia, yautia",,,flora-fauna
-717,coca,,,narcotics
-718,Curupira (spirit type),,,culture-mythology
-719,dart (blowgun),,,subsistence tool
-721,fan,,,subsistence tool
-722,feather headdress,,,culture-mythology
-726,fishtrap,,,subsistence tool
-729,genipap,,,culture-mythology
-733,grid of sticks for smoking meat or placing objects (shelf),,,subsistence tool
-750,"starch (tapioca, other)",,,food
-759,"venom for darts, poison",,,subsistence tool
-760,wax,,,other
-762,"yurupari, jurupari (or any flutes forbidden to women)",,,culture-mythology
-797,"paint body, body paint",,,culture-mythology
-204,peanut,,,flora-fauna
-135,"arrow cane, wildcane",,,flora-fauna
-150,centipede,,,flora-fauna
-236,white-fronted spider monkey,,,flora-fauna
-789,healer,,,culture-mythology
-738,hollow log/trough for beer-making,,,narcotics
-763,tattoo,,,culture-mythology
-723,"fetish, charm",,,culture-mythology
-829,drum (large signal),,,culture
-144,brazil nut,,,flora-fauna
-751,stone for lighting fires,,,culture-material
-758,tripod for washing manioc,,,subsistence tool
-748,ritual song cycle (kapiwaya),,,culture-mythology
-597,alive,,,
-563,ashamed,,,mental
-564,ashes,,,environment
-568,blunt,,,quality
-569,boomerang,,,manufacture
-570,cut,,,impact
-576,hit (with hand),,,impact
-586,pimple,,,body
-588,roof,,,manufacture
-590,smell (tr/intr),,,body
-595,true,,,quality
-241,"agile wallaby, river wallaby",,,flora-fauna
-242,Australian pelican,,,flora-fauna
-243,Australian snubfin dolphin,,,flora-fauna
-244,baler shell,,,flora-fauna
-245,bandicoot,,,flora-fauna
-246,barn owl,,,flora-fauna
-247,barramundi,,,flora-fauna
-248,"bindii, caltrop",,,flora-fauna
-249,black-breasted buzzard,,,flora-fauna
-250,black-faced cuckoo-shrike,,,flora-fauna
-251,black-headed python,,,flora-fauna
-252,black-soil yam,,,flora-fauna
-253,bloodwood,,,flora-fauna
-254,blowfly maggots,,,flora-fauna
-255,blue-tongue lizard,,,flora-fauna
-256,blue-winged kookaburra,,,flora-fauna
-257,bluebone,,,flora-fauna
-258,brolga,,,flora-fauna
-259,brown goshawk,,,flora-fauna
-260,brush-tailed possum,,,flora-fauna
-261,bush cockroach,,,flora-fauna
-262,bush stone-curlew,,,flora-fauna
-263,bush tobacco,,,flora-fauna
-264,"bush turkey, Australian bustard",,,flora-fauna
-265,bush yam,,,flora-fauna
-268,caterpillar,,,flora-fauna
-269,catfish,,,flora-fauna
-270,channel-billed cuckoo,,,flora-fauna
-271,crested pigeon,,,flora-fauna
-272,darter/cormorant,,,flora-fauna
-273,"death adder, five-minute snake",,,flora-fauna
-274,dingo,,,flora-fauna
-275,dugong,,,flora-fauna
-276,earthworm,,,flora-fauna
-277,emu,,,flora-fauna
-278,flower,239,FLOWER,flora-fauna
-279,flying-fox (generic),,,flora-fauna
-280,freshwater crocodile,,,flora-fauna
-281,freshwater mussel,,,flora-fauna
-282,freshwater prawn,,,flora-fauna
-283,frill-necked lizard,,,flora-fauna
-287,ghost gum,,,flora-fauna
-288,goanna (generic) or sand goanna,,,flora-fauna
-290,great bowerbird,,,flora-fauna
-291,green ant,,,flora-fauna
-292,green sea turtle,,,flora-fauna
-293,green tree snake,,,flora-fauna
-294,head/body lice,,,flora-fauna
-295,humpback whale,,,flora-fauna
-297,jungle-fowl (scrub-fowl),,,flora-fauna
-298,kangaroo (generic),,,flora-fauna
-299,land snail,,,flora-fauna
-300,magpie goose,,,flora-fauna
-301,military dragon,,,flora-fauna
-302,"mud wasp, hornet",,,flora-fauna
-303,native bee,,,flora-fauna
-304,native cat,,,flora-fauna
-305,northern brown bandicoot,,,flora-fauna
-306,northern kurrajong,,,flora-fauna
-307,nut tree,,,flora-fauna
-308,octopus,,,flora-fauna
-309,pandanus palm,,,flora-fauna
-310,paperbark,,,flora-fauna
-311,peaceful dove,,,flora-fauna
-312,pearlshell,,,flora-fauna
-313,peewee,,,flora-fauna
-314,pied butcherbird,,,flora-fauna
-315,pike eel,,,flora-fauna
-317,prickle bush,,,flora-fauna
-318,quail (generic),,,flora-fauna
-319,red river gum,,,flora-fauna
-320,red-tailed black-cockatoo,,,flora-fauna
-321,"riflefish, archerfish",,,flora-fauna
-322,river mangrove,,,flora-fauna
-323,rock fig,,,flora-fauna
-324,sacred kingfisher,,,flora-fauna
-325,saltwater crocodile,,,flora-fauna
-326,saltwater mussel,,,flora-fauna
-327,sawfish,,,flora-fauna
-328,shark (generic),,,flora-fauna
-329,shell (generic),,,flora-fauna
-330,short-beaked echidna,,,flora-fauna
-331,snappy gum,,,flora-fauna
-332,spinifex,,,flora-fauna
-333,"spoonbills (yellow-billed spoonbill, black-billed spoonbill)",,,flora-fauna
-335,stripe-faced dunnart,,,flora-fauna
-336,sugarbag wax,,,flora-fauna
-337,sulphur-crested cockatoo,,,flora-fauna
-338,swamp eel,,,flora-fauna
-339,swamp leech,,,flora-fauna
-340,tawny frogmouth,,,flora-fauna
-341,"termite mounds, ant hills",,,flora-fauna
-343,ti-tree,,,flora-fauna
-344,tiger shark,,,flora-fauna
-345,torresian crow,,,flora-fauna
-346,waterlily,,,flora-fauna
-347,wattle,,,flora-fauna
-348,wedge-tailed eagle,,,flora-fauna
-349,willie wagtail,,,flora-fauna
-350,witchetty grub,,,flora-fauna
-351,woma,,,flora-fauna
-764,armband,,,dress
-765,awl,,,subsistence tool
-766,bag (string),,,culture-material
-767,body feather decorations,,,culture-mythology
-769,boomerang (number 7),,,subsistence tool
-770,boomerang (small),,,subsistence tool
-771,bowl (coolamon),,,culture-material
-772,cicatrice,,,culture-mythology
-773,clapsticks,,,culture-mythology
-774,club (nulla-nulla),,,subsistence tool
-775,cook in earth oven,,,food
-776,damper,,,food
-777,dipper (small coolamon),,,subsistence tool
-778,dreaming,,,culture-mythology
-779,fire-saw,,,other
-781,fish (with spear),,,food
-782,fishtrap (permanent),,,subsistence tool
-783,fishtrap (woven),,,subsistence tool
-814,flour (European),,,food
-785,flour (bush),,,food
-786,grog,,,food
-787,hair belt,,,dress
-788,headband,,,dress
-790,house (European),,,other
-791,initiation (circumcision),,,culture-mythology
-792,initiation (circumcision),,,culture-mythology
-793,love song,,,culture-mythology
-794,mangrove raft,,,transport
-795,message stick,,,culture-mythology
-796,nosepeg,,,other
-799,public song cycle,,,culture-mythology
-800,shelter (native),,,other
-801,song (for entertainment),,,culture-mythology
-802,spear (fighting),,,subsistence tool
-803,spear (fishing),,,subsistence tool
-805,speartip,,,subsistence tool
-806,string (from hair),,,culture-material
-807,string (from vine),,,culture-material
-808,sugar,,,acculturation
-809,tea,,,food
-810,tobacco (European),,,narcotics
-815,spirit child,,,culture-mythology
-812,windbreak,,,other
-813,yandy (n),,,culture-material
-816,net,,,subsistence tool
-817,tree coffin,,,culture-mythology
-818,earth oven,,,food
-566,be alive,,,body
-589,sick,,,body
-285,galah,,,flora-fauna
-267,carpet snake,,,flora-fauna
-296,jabiru,,,flora-fauna
-811,totem (conception),,,culture-mythology
+ID,Name,Concepticon_ID,Concepticon_Gloss,Semantic_category,Database_ID
+1_1plexcl,1pl.excl,1130,WE (EXCLUSIVE),grammar,556
+2_1plincl,1pl.incl,1131,WE (INCLUSIVE),grammar,557
+3_1sg,1sg,1209,I,grammar,558
+4_2pl,2pl,1213,YOU,grammar,559
+5_2sg,2sg,1215,THOU,grammar,560
+6_3pl,3pl,817,THEY,grammar,561
+7_3sg,3sg,262,HE OR SHE OR IT,grammar,562
+8_above,above,1741,ABOVE,location,352
+9_again,again,204,AGAIN,grammar,353
+10_alive,alive,,,none,597
+11_all,all,98,ALL,other,354
+12_and,and,1577,AND,grammar,355
+13_ankle,ankle,803,ANKLE,body,356
+14_armpit,armpit,1886,ARMPIT,body,358
+15_ash,ash,646,ASH,environment,359
+16_ashamed,ashamed,1894,ASHAMED,mental,563
+17_ashes,ashes,646,ASH,environment,564
+18_at,at,1461,AT,location,360
+19_back,back,1291,BACK,body,361
+20_bad,bad,1292,BAD,quality,565
+21_bark,bark,1204,BARK,environment,820
+22_bealive,be alive,1422,BE ALIVE,body,566
+23_belly,belly,1251,BELLY,body,363
+24_below,below,1485,BELOW OR UNDER,location,364
+25_big,big,1202,BIG,quality,365
+26_bite,bite,1403,BITE,body,367
+27_black,black,163,BLACK,colour,368
+28_blood,blood,946,BLOOD,body,369
+29_blow,blow,176,BLOW (WITH MOUTH),body,370
+30_blunt,blunt,379,BLUNT,quality,568
+31_boilpimple,boil/pimple,793,BOIL (OF SKIN),body,372
+32_bone,bone,1394,BONE,body,373
+33_boomerang,boomerang,135,BOOMERANG,manufacture,569
+34_breast,breast,1402,BREAST,body,376
+35_breathe,breathe,1407,BREATHE,body,377
+36_burn,burn,2102,BURN,environment,378
+37_chew,chew,321,CHEW,body,379
+38_child,child,2099,CHILD,human,380
+39_climb,climb,1102,CLIMB,motion,381
+40_cloud,cloud,1489,CLOUD,environment,382
+41_cold,cold,1287,COLD,quality,383
+42_come,come,1446,COME,motion,384
+43_cook,cook,1100,COOK (SOMETHING),impact,385
+44_correcttrue,correct/true,1725,CORRECT (RIGHT),quality,386
+45_count,count,1420,COUNT,mental,387
+46_cry,cry,1839,CRY,mental,388
+47_cut,cut,1432,CUT,impact,570
+48_cuthack,cut/hack,3889,CUT OR HACK,impact,389
+49_day,day,1225,DAY (NOT NIGHT),time,390
+50_diebedead,die/be dead,2101,BE DEAD OR DIE,state,391
+51_dig,dig,1418,DIG,impact,392
+52_dingowolf,dingo/wolf,2461,WOLF-LIKE ANIMAL,fauna,394
+53_dirty,dirty,1230,DIRTY,quality,395
+55_drink,drink,1401,DRINK,body,398
+56_dry,dry,1398,DRY,quality,399
+57_dullblunt,dull/blunt,379,BLUNT,quality,400
+58_dust,dust,2,DUST,environment,401
+59_ear,ear,1247,EAR,body,402
+60_earthsoil,earth/soil,1228,EARTH (SOIL),environment,403
+61_eat,eat,1336,EAT,body,404
+62_egg,egg,744,EGG,fauna,405
+63_eye,eye,1248,EYE,body,406
+64_faeces,faeces,675,FAECES (EXCREMENT),body,407
+65_fall,fall,1280,FALL,motion,408
+66_far,far,1406,FAR,quality,409
+67_fatgrease,fat/grease,323,FAT (ORGANIC SUBSTANCE),body,410
+68_father,father,1217,FATHER,kinship,411
+69_fear,fear,1419,FEAR (BE AFRAID),mental,412
+70_feather,feather,1201,FEATHER,fauna,413
+71_fingernail,fingernail,1258,FINGERNAIL,body,821
+72_fire,fire,221,FIRE,environment,414
+73_fish,fish,227,FISH,fauna,415
+74_flow,flow,2003,FLOW,motion,416
+76_flower,flower,239,FLOWER,environment,417
+77_fly,fly,1441,FLY (MOVE THROUGH AIR),motion,418
+78_fog,fog,249,FOG,environment,419
+79_foot,foot,1301,FOOT,body,420
+80_fruit,fruit,1507,FRUIT,flora,421
+81_good,good,1035,GOOD,quality,422
+82_green,green,1425,GREEN,quality,825
+83_grow,grow,479,GROW,state,424
+84_hairofhead,hair (of head),2648,HAIR (HEAD),body,425
+85_hand,hand,1277,HAND,body,426
+86_head,head,1256,HEAD,body,428
+87_hear,hear,1408,HEAR,mental,429
+88_heart,heart,1223,HEART,body,822
+89_heavy,heavy,1210,HEAVY,quality,430
+90_hide,hide,2486,HIDE,motion,431
+91_hit,hit,1433,HIT,impact,432
+92_hitwithhand,hit (with hand),353,STRIKE,impact,576
+93_hold,hold,1448,HOLD,other,433
+94_hot,hot,1286,HOT,quality,826
+95_how,how?,1239,HOW,grammar,435
+96_if,if,1459,IF,grammar,437
+97_ininside,in/inside,1606,INSIDE,location,438
+98_intestines,intestines,1991,INTESTINES,body,439
+99_itch,itch,3855,ITCH (CAUSE ITCHING OR FEEL ITCHY),body,440
+100_kill,kill,1417,KILL,impact,442
+101_knowbeknowledgeable,know/be knowledgeable,1410,KNOW (SOMETHING),mental,579
+102_lake,lake,624,LAKE,environment,444
+103_laugh,laugh,1355,LAUGH,mental,445
+104_leaf,leaf,628,LEAF,environment,446
+105_leftlefthand,left/left hand,244,LEFT,location/body,447
+106_legfoot,leg/foot,2098,FOOT OR LEG,body,580
+107_liedown,lie down,215,LIE DOWN,motion,449
+108_lightning,lightning,1654,LIGHTNING,environment,450
+109_livebealive,live/be alive,,,body,451
+110_liver,liver,1224,LIVER,body,452
+111_long,long,1203,LONG,quality,453
+113_louse,louse,1392,LOUSE,fauna,454
+114_lung,lung,688,LUNG,body,455
+115_manmale,man/male,2106,MALE PERSON,human,581
+116_meatflesh,meat/flesh,2615,FLESH OR MEAT,fauna,457
+117_moon,moon,1313,MOON,environment,458
+118_mother,mother,1216,MOTHER,kinship,460
+119_mountainhill,mountain/hill,2118,MOUNTAIN OR HILL,environment,824
+120_mouth,mouth,674,MOUTH,body,461
+121_name,name,1405,NAME,human,462
+122_nape,nape,1347,NAPE (OF NECK),body,463
+123_nearclose,near/close,1942,NEAR,quality,464
+124_neck,neck,1333,NECK,body,465
+125_new,new,1231,NEW,quality,466
+126_night,night,1233,NIGHT,time,467
+127_nonot,no/not,2279,NO OR NOT,grammar,468
+128_nose,nose,1221,NOSE,body,469
+129_old,old,1229,OLD,quality,470
+130_one,one,1493,ONE,number,471
+131_openuncover,open/uncover,1156,OPEN,other,472
+132_other,other,197,OTHER,grammar,473
+133_painpainfulsick,pain/painful/sick,2103,PAINFUL OR SICK,body,474
+134_personhumanbeing,person/human being,683,PERSON,human,475
+135_pimple,pimple,1809,PIMPLE,body,586
+136_poundbeat,pound/beat,2133,STRIKE OR BEAT,impact,476
+137_rain,rain,658,RAIN (PRECIPITATION),environment,477
+138_red,red,156,RED,colour,478
+139_rightrighthand,right/right hand,1019,RIGHT,location/body,479
+140_roadpath,road/path,2457,PATH OR ROAD,manufacture,480
+141_roof,roof,769,ROOF,manufacture,588
+142_root,root,670,ROOT,flora,481
+143_rotten,rotten,1728,ROTTEN,quality,483
+144_sand,sand,671,SAND,environment,484
+145_say,say,1458,SAY,mental,485
+146_scratch,scratch,1436,SCRATCH,impact,486
+147_see,see,1409,SEE,mental,487
+148_sharp,sharp,1396,SHARP,quality,488
+149_shoot,shoot,1172,SHOOT,impact,489
+150_short,short,1645,SHORT,quality,490
+151_shoulder,shoulder,1482,SHOULDER,body,491
+152_shyashamed,shy/ashamed,3805,SHY OR ASHAMED,mental,492
+153_sick,sick,1847,SICK,body,589
+154_sit,sit,1416,SIT,state,493
+155_skin,skin,763,SKIN,body,494
+156_sky,sky,1732,SKY,environment,495
+157_sleep,sleep,1585,SLEEP,body,496
+158_small,small,1246,SMALL,quality,497
+159_smelltrintr,smell (tr/intr),2124,SMELL,body,590
+160_smoke,smoke,778,SMOKE (EXHAUST),environment,498
+161_sniffsmell,sniff/smell,1586,SMELL (PERCEIVE),body,500
+162_spit,spit,1440,SPIT,body,504
+163_split,split,1437,SPLIT,impact,505
+164_squeeze,squeeze,1414,SQUEEZE,impact,506
+165_stabpierce,stab/pierce,1434,STAB,impact,507
+166_stand,stand,1442,STAND,state,508
+167_star,star,1430,STAR,environment,509
+168_steal,steal,713,STEAL,other,510
+169_stickwood,stick/wood,1295,STICK,flora,511
+170_stone,stone,857,STONE,environment,512
+171_suck,suck,1421,SUCK,body,513
+172_sun,sun,1343,SUN,time,592
+173_sweat,sweat,2458,PERSPIRE OR SWEAT,body,514
+174_swell,swell,1573,SWELL,body,515
+175_swim,swim,1439,SWIM,motion,516
+176_tail,tail,1220,TAIL,body,517
+177_that,that,78,THAT,grammar,518
+178_thick,thick,1244,THICK,quality,521
+179_thin,thin,2308,THIN,quality,522
+180_think,think,2271,THINK,mental,523
+181_this,this,1214,THIS,grammar,524
+182_three,three,492,THREE,number,526
+183_throat,throat,1346,THROAT,body,527
+184_throw,throw,1456,THROW,impact,528
+185_thunder,thunder,1150,THUNDER,environment,529
+186_tieupfasten,tie up/fasten,1094,FASTEN,impact,530
+187_tongue,tongue,1205,TONGUE,body,531
+188_tooth,tooth,1380,TOOTH,body,532
+189_true,true,1657,TRUE,quality,595
+190_turn,turn,1588,TURN,other,534
+191_two,two,1498,TWO,number,535
+192_vomit,vomit,1278,VOMIT,body,536
+193_walk,walk,1443,WALK,motion,537
+194_water,water,948,WATER,environment,538
+195_wet,wet,1726,WET,quality,541
+196_what,what?,1236,WHAT,grammar,542
+197_when,when?,1238,WHEN,grammar,543
+198_where,where?,1237,WHERE,grammar,544
+199_white,white,1335,WHITE,colour,545
+200_who,who?,1235,WHO,grammar,546
+201_wife,wife,1199,WIFE,kinship,547
+202_wind,wind,960,WIND,environment,548
+203_wing,wing,1257,WING,body,549
+204_womanfemale,woman/female,2105,FEMALE PERSON,human,551
+205_work,work,1086,WORK (ACTIVITY),other,552
+206_yawn,yawn,1028,YAWN,body,553
+207_yellow,yellow,1424,YELLOW,colour,554
+1_abalone,abalone,,,flora-fauna,1
+2_acaipalm,açai palm,2437,ACAI PALM,flora-fauna,181
+3_achioteanatto,"achiote, anatto",349,ACHIOTE,flora-fauna,124
+4_agilewallabyriverwallaby,"agile wallaby, river wallaby",,,flora-fauna,241
+5_agoutiblackagoutiblackrumpedagouti,"agouti (black agouti, black-rumped agouti)",313,AGOUTI,flora-fauna,127
+6_alligatorblackcaiman,"alligator, black caiman",1581,ALLIGATOR,flora-fauna,128
+7_amazondolphin,amazon dolphin,,,flora-fauna,129
+8_amazontreegrape,amazon tree-grape,,,flora-fauna,238
+9_anaconda,anaconda,896,ANACONDA (WATER BOA),flora-fauna,131
+10_angleworm,angleworm,,,flora-fauna,132
+11_antgeneric,ant (generic),587,ANT,flora-fauna,2
+12_anteater,anteater,181,ANTEATER,flora-fauna,133
+13_antelope,antelope,3674,ANTELOPE,flora-fauna,3
+14_armadillo,armadillo,1885,ARMADILLO,flora-fauna,134
+15_arrowcanewildcane,"arrow cane, wildcane",,,flora-fauna,135
+16_australianpelican,Australian pelican,,,flora-fauna,242
+17_australiansnubfindolphin,Australian snubfin dolphin,,,flora-fauna,243
+18_avocado,avocado,3725,AVOCADO,flora-fauna,136
+19_badger,badger,3717,BADGER,flora-fauna,4
+20_baldeagle,bald eagle,,,flora-fauna,5
+21_balershell,baler shell,,,flora-fauna,244
+22_bananaplantain,"banana, plantain",,,flora-fauna,137
+23_bandtailpigeon,band-tail pigeon,,,flora-fauna,6
+24_bandicoot,bandicoot,3012,BANDICOOT,flora-fauna,245
+25_barnowl,barn owl,,,flora-fauna,246
+26_barramundi,barramundi,,,flora-fauna,247
+27_bat,bat,1793,BAT,flora-fauna,7
+28_beans,beans,832,BEAN,flora-fauna,138
+29_beaver,beaver,1194,BEAVER,flora-fauna,8
+30_beetle,beetle,2242,BEETLE,flora-fauna,9
+31_bigroundtule,big round tule,,,flora-fauna,10
+32_bigskunk,big skunk,,,flora-fauna,11
+33_bigwolfgraywolf,big wolf (gray wolf),,,flora-fauna,12
+34_bighornsheep,bighorn sheep,,,flora-fauna,13
+35_bindiicaltrop,"bindii, caltrop",,,flora-fauna,248
+36_bird,bird,937,BIRD,flora-fauna,14
+37_bitterwood,bitterwood,,,flora-fauna,140
+38_blackant,black ant,,,flora-fauna,15
+39_blackbear,black bear,,,flora-fauna,16
+40_blackpalm,black palm,,,flora-fauna,141
+41_blackbreastedbuzzard,black-breasted buzzard,,,flora-fauna,249
+42_blackfacedcuckooshrike,black-faced cuckoo-shrike,,,flora-fauna,250
+43_blackheadedpython,black-headed python,,,flora-fauna,251
+44_blacksoilyam,black-soil yam,,,flora-fauna,252
+45_blacktailjackrabbit,black-tail Jackrabbit,,,flora-fauna,17
+46_blackberry,blackberry,,,flora-fauna,18
+47_bloodwood,bloodwood,,,flora-fauna,253
+48_blowflymaggots,blowfly maggots,,,flora-fauna,254
+49_blowflyhousefly,blowfly/housefly,1504,FLY (INSECT),flora-fauna,45
+50_bluegrouse,blue grouse,,,flora-fauna,19
+51_bluetonguelizard,blue-tongue lizard,,,flora-fauna,255
+52_bluewingedkookaburra,blue-winged kookaburra,,,flora-fauna,256
+53_bluebone,bluebone,,,flora-fauna,257
+54_boa,boa,,,flora-fauna,142
+55_bobcatlynx,"bobcat, lynx",3314,LYNX,flora-fauna,20
+56_bottlegourdvineorcalabashtree,bottle-gourd (vine) or calabash (tree),,,flora-fauna,143
+57_brazilnut,Brazil nut,,,flora-fauna,144
+58_brolga,brolga,,,flora-fauna,258
+59_browngoshawk,brown goshawk,,,flora-fauna,259
+60_brownwoollymonkey,brown woolly monkey,,,flora-fauna,145
+61_brushtailedpossum,brush-tailed possum,,,flora-fauna,260
+62_bulletantlessergianthunterant,"bullet ant, lesser giant hunter ant",,,flora-fauna,146
+63_bushcockroach,bush cockroach,,,flora-fauna,261
+64_bushstonecurlew,bush stone-curlew,,,flora-fauna,262
+65_bushtobacco,bush tobacco,,,flora-fauna,263
+66_bushturkeyaustralianbustard,"bush turkey, Australian bustard",,,flora-fauna,264
+67_bushyam,bush yam,,,flora-fauna,265
+68_butterflymoth,"butterfly, moth",,,flora-fauna,21
+69_californiacondor,California condor,,,flora-fauna,22
+70_californiajay,California jay,,,flora-fauna,23
+71_californiawoodpecker,California woodpecker,,,flora-fauna,24
+72_capybara,capybara,314,CAPYBARA,flora-fauna,147
+73_caratuberpurpleorwhite,"cará tuber, purple or white",,,flora-fauna,182
+74_carpetsnake,carpet snake,,,flora-fauna,267
+75_cashew,cashew,2441,CASHEW,flora-fauna,148
+77_caterpillar,caterpillar,2247,CATERPILLAR,flora-fauna,268
+78_catfish,catfish,3777,CATFISH,flora-fauna,269
+79_centipede,centipede,1974,CENTIPEDE,flora-fauna,150
+80_channelbilledcuckoo,channel-billed cuckoo,,,flora-fauna,270
+81_chia,chia,,,flora-fauna,25
+83_chipmunk,chipmunk,,,flora-fauna,26
+84_cicada,cicada,2353,CICADA,flora-fauna,151
+85_cipovine,cipó vine,,,flora-fauna,152
+86_cliffswallow,cliff swallow,,,flora-fauna,27
+88_cockroach,cockroach,1575,COCKROACH,flora-fauna,154
+89_collaredpeccary,collared peccary,435,COLLARED PECCARY,flora-fauna,155
+90_coot,coot,,,flora-fauna,28
+91_cotamundicoatimundi,"cotamundi, coatimundi",2389,COATI (COATIMUNDI),flora-fauna,156
+92_cotton,cotton,1850,COTTON,flora-fauna,157
+93_cottontailrabbit,cottontail rabbit,,,flora-fauna,29
+94_cottonwood,cottonwood,,,flora-fauna,30
+95_coyote,coyote,912,COYOTE,flora-fauna,31
+96_crab,crab,2348,CRAB,flora-fauna,158
+97_crestedpigeon,crested pigeon,,,flora-fauna,271
+98_cricket,cricket,2354,CRICKET,flora-fauna,159
+99_crow,crow,913,CROW,flora-fauna,32
+100_cunuritree,cunuri (tree),,,flora-fauna,231
+101_curassow,curassow,315,CURASSOW,flora-fauna,160
+102_dartercormorant,darter/cormorant,840,CORMORANT,flora-fauna,272
+103_datura,datura,,,flora-fauna,33
+104_deathadderfiveminutesnake,"death adder, five-minute snake",,,flora-fauna,273
+105_deer,deer,1936,DEER,flora-fauna,161
+106_deermule,"deer, mule",,,flora-fauna,34
+107_diggerpine,digger pine,,,flora-fauna,35
+108_dingo,dingo,2460,DINGO,flora-fauna,274
+109_dogcampdomestic,"dog (camp, domestic)",2009,DOG,flora-fauna,36
+110_dogwildbushdog,dog (wild; bush dog),2448,WILD DOG,flora-fauna,162
+111_dogbane,dogbane,,,flora-fauna,37
+112_dove,dove,1853,DOVE,flora-fauna,38
+113_duck,duck,1360,DUCK,flora-fauna,39
+114_dugong,dugong,,,flora-fauna,275
+115_earthworm,earthworm,2350,EARTHWORM,flora-fauna,276
+116_ediblepalmdwellinglarvapalmweevil,edible palm-dwelling larva (palm weevil),,,flora-fauna,163
+117_elder,elder,,,flora-fauna,40
+118_electriceel,electric eel,2443,ELECTRIC EEL,flora-fauna,164
+119_elk,elk,1772,ELK,flora-fauna,41
+120_emu,emu,2817,EMU,flora-fauna,277
+121_fireflylightningbug,"firefly, lightning bug",206,FIREFLY,flora-fauna,185
+122_fishgeneric,fish (generic),227,FISH,flora-fauna,42
+123_fishlargetype,fish (large type),,,flora-fauna,165
+124_fishpoisonbarbasco,"fish poison, barbasco",,,flora-fauna,166
+125_flea,flea,232,FLEA,flora-fauna,43
+126_flicker,flicker,,,flora-fauna,44
+127_flower,flower,239,FLOWER,flora-fauna,278
+128_flyingfoxgeneric,flying-fox (generic),235,FLYING FOX,flora-fauna,279
+129_foothillsyucca,foothills yucca,,,flora-fauna,46
+130_fox,fox,1312,FOX,flora-fauna,47
+131_freshwatercrocodile,freshwater crocodile,,,flora-fauna,280
+132_freshwatermussel,freshwater mussel,,,flora-fauna,281
+133_freshwaterprawn,freshwater prawn,,,flora-fauna,282
+134_frillneckedlizard,frill-necked lizard,,,flora-fauna,283
+135_froggeneric,frog (generic),503,FROG,flora-fauna,284
+136_galah,galah,,,flora-fauna,285
+138_ghostgum,ghost gum,,,flora-fauna,287
+139_giantotter,giant otter,,,flora-fauna,168
+140_goannagenericorsandgoanna,goanna (generic) or sand goanna,,,flora-fauna,288
+141_goldeneagle,golden eagle,,,flora-fauna,49
+142_gooseberry,gooseberry,,,flora-fauna,50
+143_gophersnakebullsnake,"gopher snake, bull snake",,,flora-fauna,51
+144_grass,grass,606,GRASS,flora-fauna,52
+145_grasshopper,grasshopper,607,GRASSHOPPER,flora-fauna,53
+146_graygroundsquirrel,gray ground squirrel,,,flora-fauna,54
+147_graytreesquirrel,gray tree squirrel,,,flora-fauna,55
+148_graywingedtrumpeter,gray-winged trumpeter,,,flora-fauna,169
+149_greatbowerbird,great bowerbird,,,flora-fauna,290
+150_greategret,great egret,,,flora-fauna,170
+151_greathornedowl,great horned owl,,,flora-fauna,56
+152_greenacouchi,green acouchi,,,flora-fauna,171
+153_greenant,green ant,,,flora-fauna,291
+154_greenseaturtle,green sea turtle,,,flora-fauna,292
+155_greentreesnake,green tree snake,,,flora-fauna,293
+156_grizzlybear,grizzly bear,3738,GRIZZLY BEAR,flora-fauna,57
+157_guan,guan,437,GUAN,flora-fauna,172
+158_hallucinogenicsnuff,hallucinogenic snuff,,,flora-fauna,828
+159_hallucinogenicvinebanisteriumayahuasca,"hallucinogenic vine, banisterium, ayahuasca",276,BANISTERIUM,flora-fauna,173
+160_hawk,hawk,307,HAWK,flora-fauna,174
+161_headbodylice,head/body lice,,,flora-fauna,294
+162_honeybee,honeybee,665,BEE,flora-fauna,139
+163_hornedtoad,horned toad,,,flora-fauna,58
+164_horse,horse,615,HORSE,flora-fauna,59
+165_hotpepper,hot pepper,919,CHILI PEPPER,flora-fauna,175
+166_howlermonkeyredhanded,howler monkey (red-handed),433,HOWLER MONKEY,flora-fauna,176
+167_hummingbird,hummingbird,1589,HUMMINGBIRD,flora-fauna,60
+168_humpbackwhale,humpback whale,,,flora-fauna,295
+169_iguana,iguana,1578,IGUANA,flora-fauna,177
+170_inga,inga,,,flora-fauna,126
+171_insectgeneric,insect (generic),620,INSECT,flora-fauna,62
+172_jabiru,jabiru,,,flora-fauna,296
+173_jaguar,jaguar,1250,JAGUAR,flora-fauna,178
+174_japura,japurá,,,flora-fauna,179
+175_junco,junco,,,flora-fauna,63
+176_junglefowlscrubfowl,jungle-fowl (scrub-fowl),,,flora-fauna,297
+177_juniper,juniper,,,flora-fauna,64
+178_kangaroogeneric,kangaroo (generic),164,KANGAROO,flora-fauna,298
+179_kapok,kapok,2499,KAPOK TREE,flora-fauna,180
+180_kingfisher,kingfisher,2444,KINGFISHER,flora-fauna,183
+181_landsnail,land snail,,,flora-fauna,299
+182_leafcutterant,leaf-cutter ant,,,flora-fauna,184
+183_louse,louse,1392,LOUSE,flora-fauna,65
+184_macaw,macaw,1630,MACAW,flora-fauna,186
+185_magpiegoose,magpie goose,,,flora-fauna,300
+186_maizecorn,"maize, corn",506,MAIZE,flora-fauna,187
+187_mallard,mallard,3610,MALLARD,flora-fauna,66
+188_manatee,manatee,,,flora-fauna,188
+189_mandicatfish,mandi catfish,,,flora-fauna,189
+190_maniocbitterorgeneric,manioc (bitter or generic),925,CASSAVA,flora-fauna,190
+191_maniocsweet,manioc (sweet),,,flora-fauna,191
+192_manzanita,manzanita,520,MANZANITA,flora-fauna,67
+193_militarydragon,military dragon,,,flora-fauna,301
+194_milkweedbroadleaf,"milkweed, broad leaf",,,flora-fauna,68
+195_milkweednarrowleaf,"milkweed, narrow leaf",,,flora-fauna,69
+196_miritipalm,miriti palm,3811,MIRITI PALM,flora-fauna,192
+197_missiontule,mission tule,,,flora-fauna,70
+198_mockingbird,mockingbird,,,flora-fauna,71
+199_mosquito,mosquito,1509,MOSQUITO,flora-fauna,72
+200_moth,moth,2828,MOTH,flora-fauna,73
+201_mountainlion,mountain lion,,,flora-fauna,74
+202_mountainquail,mountain quail,,,flora-fauna,75
+203_mouserat,"mouse, rat",2139,MUROID (MOUSE OR RAT),flora-fauna,130
+204_mudwasphornet,"mud wasp, hornet",,,flora-fauna,302
+205_mushroom,mushroom,641,MUSHROOM,flora-fauna,194
+206_mussel,mussel,2829,MUSSELS,flora-fauna,76
+207_nativebee,native bee,,,flora-fauna,303
+208_nativecat,native cat,3018,NATIVE CAT,flora-fauna,304
+209_neotropicalottersmall,neotropical otter (small),,,flora-fauna,195
+210_northernbrownbandicoot,northern brown bandicoot,,,flora-fauna,305
+211_northernkurrajong,northern kurrajong,,,flora-fauna,306
+212_nuttree,nut tree,,,flora-fauna,307
+213_octopus,octopus,2581,OCTOPUS,flora-fauna,308
+214_olivellaolivesnail,olivella (olive snail),,,flora-fauna,77
+215_opossum,opossum,309,OPOSSUM,flora-fauna,196
+216_owllarge,owl (large),735,OWL,flora-fauna,197
+217_pacalowland,paca (lowland),316,PACA,flora-fauna,198
+218_pacufish,pacu fish,,,flora-fauna,199
+219_palmforroofthatch,palm for roof thatch,,,flora-fauna,200
+220_pandanuspalm,pandanus palm,,,flora-fauna,309
+221_paperbark,paperbark,,,flora-fauna,310
+222_parrot,parrot,882,PARROT,flora-fauna,201
+223_paxiubapalm,paxiuba palm,,,flora-fauna,202
+224_peacefuldove,peaceful dove,,,flora-fauna,311
+225_peachpalmpejibayepalm,"peach palm, pejibaye palm",,,flora-fauna,203
+226_peanut,peanut,2364,PEANUT,flora-fauna,204
+227_pearlshell,pearlshell,,,flora-fauna,312
+228_peewee,peewee,,,flora-fauna,313
+229_piedbutcherbird,pied butcherbird,,,flora-fauna,314
+230_pikeeel,pike eel,,,flora-fauna,315
+231_pineapple,pineapple,2440,PINEAPPLE,flora-fauna,205
+232_pinyonjay,pinyon jay,,,flora-fauna,78
+233_pinyonpine,pinyon pine,,,flora-fauna,79
+234_pirana,pirana,317,PIRANHA,flora-fauna,206
+235_pismoclam,pismo clam,,,flora-fauna,80
+236_pocketgopher,pocket gopher,,,flora-fauna,81
+237_poisonoak,poison oak,,,flora-fauna,82
+238_porcupine,porcupine,2510,PORCUPINE,flora-fauna,207
+239_potato,potato,593,POTATO,flora-fauna,208
+240_potatosweetpotato,"potato, sweet potato",159,SWEET POTATO,flora-fauna,221
+241_prayingmantisstickinsects,"praying mantis, stick insects",,,flora-fauna,209
+242_pricklebush,prickle bush,,,flora-fauna,317
+243_quailgeneric,quail (generic),1893,QUAIL,flora-fauna,318
+244_rattlesnake,rattlesnake,871,RATTLESNAKE,flora-fauna,83
+245_redant,red ant,,,flora-fauna,84
+246_redrivergum,red river gum,,,flora-fauna,319
+247_redshoulderedblackbird,red-shouldered blackbird,,,flora-fauna,85
+248_redtailedblackcockatoo,red-tailed black-cockatoo,,,flora-fauna,320
+249_redtailedhawk,red-tailed hawk,,,flora-fauna,86
+250_riflefisharcherfish,"riflefish, archerfish",,,flora-fauna,321
+251_rivermangrove,river mangrove,,,flora-fauna,322
+252_roadrunner,roadrunner,,,flora-fauna,87
+253_rockfig,rock fig,,,flora-fauna,323
+254_rubbertreesorva,rubber tree (sorva),,,flora-fauna,210
+255_ruddyduck,ruddy duck,,,flora-fauna,88
+256_sacredkingfisher,sacred kingfisher,,,flora-fauna,324
+257_sageherb,sage herb,,,flora-fauna,89
+258_salmonsteelhead,salmon/steelhead,,,flora-fauna,90
+259_saltwatercrocodile,saltwater crocodile,,,flora-fauna,325
+260_saltwatermussel,saltwater mussel,,,flora-fauna,326
+261_sawfish,sawfish,,,flora-fauna,327
+262_scalylizard,scaly lizard,,,flora-fauna,91
+263_scorpion,scorpion,1538,SCORPION,flora-fauna,211
+264_sejepalm,seje palm,,,flora-fauna,212
+265_sharkgeneric,shark (generic),1110,SHARK,flora-fauna,328
+266_shellgeneric,shell (generic),598,SHELL,flora-fauna,329
+267_shortbeakedechidna,short-beaked echidna,,,flora-fauna,330
+268_sloth,sloth,2446,SLOTH,flora-fauna,213
+269_smallbird,small bird,,,flora-fauna,92
+270_smallbrownlizard,small brown lizard,,,flora-fauna,93
+271_smalllizard,small lizard,,,flora-fauna,214
+272_snail,snail,1543,SNAIL,flora-fauna,215
+273_snakegeneric,snake (generic),730,SNAKE,flora-fauna,94
+274_snakepoisonousgenericorrattlesnake,snake (poisonous generic) or rattlesnake,,,flora-fauna,216
+275_snappygum,snappy gum,,,flora-fauna,331
+276_soaproot,soaproot,,,flora-fauna,95
+277_sourberry,sour berry,,,flora-fauna,96
+278_sparrowhawk,sparrow hawk,,,flora-fauna,97
+279_speckledcatfish,speckled catfish,,,flora-fauna,217
+280_spider,spider,843,SPIDER,flora-fauna,98
+281_spinifex,spinifex,,,flora-fauna,332
+282_spoonbillsyellowbilledspoonbillblackbilledspoonbill,"spoonbills (yellow-billed spoonbill, black-billed spoonbill)",,,flora-fauna,333
+283_spottedskunk,spotted skunk,,,flora-fauna,99
+284_squash,squash,,,flora-fauna,218
+285_squirrel,squirrel,1628,SQUIRREL,flora-fauna,219
+286_stingraygeneric,stingray (generic),1910,STINGRAY,flora-fauna,220
+287_stripefaceddunnart,stripe-faced dunnart,,,flora-fauna,335
+288_sugarbagwax,sugarbag wax,,,flora-fauna,336
+289_sulphurcrestedcockatoo,sulphur-crested cockatoo,3009,WHITE COCKATOO,flora-fauna,337
+290_swampeel,swamp eel,,,flora-fauna,338
+291_swampleech,swamp leech,,,flora-fauna,339
+292_tanniayautia,"tannia, yautia",,,flora-fauna,240
+293_tapir,tapir,312,TAPIR,flora-fauna,222
+294_tawnyfrogmouth,tawny frogmouth,,,flora-fauna,340
+295_termitemoundsanthills,"termite mounds, ant hills",,,flora-fauna,341
+296_termiteswhiteants,"termites, white-ants",883,TERMITE,flora-fauna,223
+297_titree,ti-tree,,,flora-fauna,343
+298_tick,tick,1527,TICK,flora-fauna,224
+299_tigershark,tiger shark,,,flora-fauna,344
+300_tigerfish,tigerfish,,,flora-fauna,225
+301_tinamou,tinamou,,,flora-fauna,226
+302_toad,toad,894,TOAD,flora-fauna,100
+303_tobacco,tobacco,974,TOBACCO,flora-fauna,227
+304_torresiancrow,torresian crow,,,flora-fauna,345
+305_tortoiseredfootyellowfootgiant,"tortoise (red foot, yellow foot/giant)",895,TORTOISE,flora-fauna,228
+306_toucan,toucan,308,TOUCAN,flora-fauna,229
+307_tree,tree,906,TREE,flora-fauna,101
+308_treeyucca,tree yucca,,,flora-fauna,102
+309_tuftedcapuchinmonkey,tufted capuchin monkey,,,flora-fauna,230
+310_turkeybuzzard,turkey buzzard,,,flora-fauna,103
+311_turtlegeneric,turtle (generic),112,TURTLE,flora-fauna,104
+312_ucuqui,ucuqui,,,flora-fauna,232
+313_valleyliveoak,valley live oak,,,flora-fauna,105
+314_valleyoak,valley oak,,,flora-fauna,106
+315_valleyquail,valley quail,,,flora-fauna,107
+316_vulture,vulture,1185,VULTURE,flora-fauna,233
+317_washingtonclam,Washington clam,,,flora-fauna,108
+318_wasp,wasp,1517,WASP,flora-fauna,234
+319_waterlily,waterlily,,,flora-fauna,346
+320_wattle,wattle,,,flora-fauna,347
+321_wedgetailedeagle,wedge-tailed eagle,,,flora-fauna,348
+322_westerncanadagoose,Western Canada goose,,,flora-fauna,109
+323_whale,whale,957,WHALE,flora-fauna,110
+324_whitepelican,white pelican,,,flora-fauna,111
+325_whitefrontedcapuchin,white-fronted capuchin,,,flora-fauna,235
+326_whitefrontedspidermonkey,white-fronted spider monkey,,,flora-fauna,236
+327_whitelippedpeccary,white-lipped peccary,436,WHITE-LIPPED PECCARY,flora-fauna,237
+328_wildgrapevine,wild grapevine,,,flora-fauna,112
+329_wildoats,wild oats,,,flora-fauna,113
+330_wildrose,wild rose,,,flora-fauna,114
+331_wildsunflower,wild sunflower,,,flora-fauna,115
+332_williewagtail,willie wagtail,,,flora-fauna,349
+333_willow,willow,818,WILLOW,flora-fauna,116
+334_witchettygrub,witchetty grub,,,flora-fauna,350
+335_woma,woma,,,flora-fauna,351
+336_woodratroundtail,"wood rat, round-tail",,,flora-fauna,117
+337_woodpecker,woodpecker,2447,WOODPECKER,flora-fauna,239
+338_wormhairycaterpillar,"worm, hairy caterpillar",,,flora-fauna,118
+339_wormsmoothcaterpillar,"worm, smooth caterpillar",,,flora-fauna,119
+340_yellowjacket,yellow jacket,,,flora-fauna,120
+341_yellowbird,yellowbird,,,flora-fauna,121
+342_yerbasanta,yerba santa,,,flora-fauna,122
+1_acornbread,acorn bread,,,food,644
+2_acornmush,acorn mush ,,,food,601
+3_afterworldlandofdeadheaven,"afterworld, land of dead, Heaven ",,,culture-mythology,603
+4_alcohol,alcohol ,404,ALCOHOL (FERMENTED DRINK),food,652
+5_armband,armband ,,,dress,764
+6_arrow,arrow ,977,ARROW,subsistence tool,605
+7_arrowstraightener,arrow straightener ,,,other,606
+8_awl,awl ,278,AWL,subsistence tool,765
+9_axestoneaxe,axe/stone axe ,677,AXE,subsistence tool,707
+10_bagstring,bag (string) ,,,culture-material,766
+11_bagsack,"bag, sack ",2468,BAG,culture-material,684
+12_baitforfishing,bait for fishing ,,,subsistence tool,607
+13_ballgame,ball game ,,,food,602
+14_basinbowl,basin/bowl ,,,culture-material,708
+15_basketgeneral,basket (general) ,1539,BASKET,culture-material,610
+16_basketsmall,"basket, small ",,,culture-material,611
+17_basketryhat,basketry hat ,,,culture-material,612
+18_bead,bead ,1860,BEAD,culture-material,613
+19_beans,beans ,832,BEAN,food,701
+20_bed,bed ,1663,BED,culture-material,711
+21_benchseat,"bench, seat ",,,culture-material,712
+22_blowgun,blowgun ,432,BLOWGUN,subsistence tool,713
+23_bodyfeatherdecorations,body feather decorations ,,,culture-mythology,767
+24_boomerangnumber7,boomerang (number 7) ,,,subsistence tool,769
+25_boomerangsmall,boomerang (small) ,,,subsistence tool,770
+26_boomerangthrowingstickgeneric,boomerang/throwing stick (generic) ,135,BOOMERANG,subsistence tool,768
+27_bottle,bottle ,1321,BOTTLE,acculturation,618
+28_bottomgrindingstone,bottom grinding stone ,3023,BOTTOM GRINDSTONE,manufacture,375
+29_bow,bow ,994,BOW,subsistence tool,615
+30_bowlcoolamon,bowl (coolamon) ,,,culture-material,771
+31_broom,broom ,245,BROOM,culture-material,714
+32_canoe,canoe ,1970,CANOE,transport,616
+33_carryingnet,carrying net ,293,NETBAG,subsistence tool,617
+34_cat,cat ,1208,CAT,acculturation,702
+35_chicken,chicken ,1318,CHICKEN,acculturation,632
+36_chiefleader,chief/leader ,301,CHIEFTAIN,culture-mythology,715
+37_cicatrice,cicatrice ,,,culture-mythology,772
+38_clapper,clapper ,,,acculturation,705
+39_clapsticks,clapsticks ,,,culture-mythology,773
+40_clothing,clothing ,1895,CLOTHES,culture-mythology,676
+41_club,club ,1763,CLUB,subsistence tool,621
+42_clubnullanulla,club (nulla-nulla) ,,,subsistence tool,774
+43_coca,coca ,137,COCA,flora-fauna,153
+44_coca,coca ,,,narcotics,717
+45_cookfood,cook food ,1100,COOK (SOMETHING),food,623
+46_cookinearthoven,cook in earth oven ,,,food,775
+47_corn,corn ,506,MAIZE,food,700
+48_corpse,corpse ,,,food,624
+49_cradleboard,cradleboard ,,,culture-material,697
+50_cremate,cremate ,,,culture-mythology,689
+51_curupiraspirittype,Curupira (spirit type) ,,,culture-mythology,718
+52_damper,damper ,,,food,776
+53_dancegeneric,dance (generic) ,3472,DANCE (MOVEMENT),culture-mythology,625
+54_dartblowgun,dart (blowgun) ,2587,DARTS,subsistence tool,719
+55_daturawrightii,Datura wrightii ,,,narcotics,653
+56_deitypowerfulspiritculturefigure,deity/powerful spirit/culture figure ,3231,DEITY,culture-mythology,720
+57_diggingstick,digging stick ,339,DIGGING STICK,subsistence tool,627
+58_dipper,dipper ,,,subsistence tool,628
+59_dippersmallcoolamon,dipper (small coolamon) ,,,subsistence tool,777
+60_dream,dream ,2455,DREAMING OR DREAM,culture-mythology,629
+61_dream,dream,1920,DREAM (SOMETHING),mental,397
+62_dreaming,dreaming ,1920,DREAM (SOMETHING),culture-mythology,778
+63_dronepipe,drone pipe ,,,culture-mythology,630
+64_drum,drum ,908,DRUM,culture-mythology,631
+65_drumlargesignal,drum (large signal) ,,,culture,829
+66_earring,earring ,770,EARRING,other,633
+67_earthoven,earth oven ,,,food,818
+68_fan,fan ,1971,FAN (OBJECT),subsistence tool,721
+69_featherheadband,feather headband ,,,dress,604
+70_featherheaddress,feather headdress ,,,culture-mythology,722
+71_fencepalisade,"fence, palisade ",1690,FENCE,other,742
+72_fermenteddrink,fermented drink ,,,culture,830
+73_fetishcharm,"fetish, charm ",,,culture-mythology,723
+74_firedrill,fire drill ,,,subsistence tool,635
+75_firesaw,fire-saw ,,,other,779
+76_firetender,fire-tender ,,,culture-mythology,636
+77_fireplace,fireplace,185,FIREPLACE,other,637
+78_firewood,firewood ,10,FIREWOOD,other,638
+79_fishwithfishpoison,fish (with fish-poison) ,,,food,724
+80_fishwithline,fish (with line) ,2796,FISHING (WITH A HOOK),food,725
+81_fishwithspear,fish (with spear) ,,,food,781
+82_fishhook,fish hook ,1074,FISHHOOK,subsistence tool,643
+83_fishpoison,fish poison ,348,FISH POISON,subsistence tool,641
+84_fishingline,fishing line ,19,FISHING LINE,subsistence tool,642
+85_fishtrap,fishtrap ,389,FISH TRAP,subsistence tool,726
+86_fishtrappermanent,fishtrap (permanent) ,,,subsistence tool,782
+87_fishtrapwoven,fishtrap (woven) ,,,subsistence tool,783
+88_flatbreadcassavabread,"flat bread, cassava bread ",,,food,727
+89_flourbush,flour (bush) ,,,food,785
+90_floureuropean,flour (European) ,1594,FLOUR,food,814
+91_flourmealfrommanioc,flour/meal from manioc ,,,food,728
+92_flute,flute ,777,FLUTE,culture-mythology,646
+93_gamblingsticks,gambling sticks ,,,other,647
+94_gameanimal,game animal ,,,food,648
+95_genipap,genipap ,,,flora-fauna,167
+97_ghostofdeadpersonevilspirit,ghost (of dead person)/evil spirit ,,,culture-mythology,634
+98_glue,glue ,1069,GLUE,subsistence tool,650
+99_gourddipperbowl,gourd (dipper/bowl) ,,,subsistence tool,731
+100_grater,grater ,,,subsistence tool,732
+101_grave,grave ,1773,GRAVE,culture-mythology,651
+102_gridofsticksforsmokingmeatorplacingobjectsshelf,grid of sticks for smoking meat or placing objects (shelf) ,,,subsistence tool,733
+103_griddleforcookingflatbread,griddle for cooking flatbread ,,,subsistence tool,734
+104_grog,grog ,,,food,786
+105_gun,gun ,1566,GUN,acculturation,703
+106_hairbelt,hair belt ,,,dress,787
+107_hammock,hammock ,2019,HAMMOCK,culture-material,736
+108_hat,hat ,771,HAT,dress,704
+109_headband,headband ,330,HEADBAND,dress,788
+110_healer,healer ,,,culture-mythology,789
+111_hollowlogtroughforbeermaking,hollow log/trough for beer-making ,,,narcotics,738
+112_honey,honey ,942,HONEY,food,655
+113_house,house ,1252,HOUSE,other,656
+114_houseeuropean,house (European) ,,,other,790
+115_hunt,hunt ,1435,HUNT,food,657
+116_initiateboy,initiate boy ,,,culture-mythology,658
+117_initiategirl,initiate girl ,,,culture-mythology,659
+118_initiationcircumcision,initiation (circumcision) ,,,culture-mythology,791
+119_initiationcircumcision,initiation (circumcision) ,,,culture-mythology,792
+120_knife,knife ,1352,KNIFE,culture-material,660
+121_loincloth,loincloth ,1965,LOINCLOTH,dress,622
+122_lovesong,love song ,,,culture-mythology,793
+123_machete,machete ,2680,MACHETE,culture-material,740
+124_mangroveraft,mangrove raft ,,,transport,794
+125_mat,mat ,195,MAT,culture-material,661
+126_medicine,medicine ,1372,MEDICINE,narcotics,696
+127_messagestick,message stick ,,,culture-mythology,795
+128_mortar,mortar ,224,MORTAR,subsistence tool,662
+129_necklace,necklace ,1961,NECKLACE,other,663
+130_needleawl,needle/awl ,,,subsistence tool,664
+131_net,net ,2963,NET,subsistence tool,816
+132_nosepeg,nosepeg ,,,other,796
+133_ochre,ochre ,,,culture-mythology,614
+134_paddleoar,paddle/oar ,3318,OAR OR PADDLE,transport,665
+135_paintbodybodypaint,"paint body, body paint ",,,culture-mythology,797
+136_panpipe,panpipe ,,,culture-mythology,743
+137_paper,paper ,648,PAPER,acculturation,619
+138_pestle,pestle ,225,PESTLE,subsistence tool,666
+139_pinole,pinole ,,,food,667
+140_pipefortobacco,pipe for tobacco ,1124,PIPE,other,668
+141_pitch,pitch ,,,food,669
+142_plate,plate ,480,PLATE,culture-material,745
+143_policeman,policeman ,,,acculturation,698
+144_pot,pot ,1462,POT,subsistence tool,670
+145_publicsongcycle,public song cycle ,,,culture-mythology,799
+146_quiver,quiver ,995,QUIVER (FOR ARROWS),subsistence tool,671
+147_rattle,rattle ,300,RATTLE,culture-mythology,672
+148_redpaint,red paint ,,,culture-mythology,673
+149_resin,resin ,,,subsistence tool,747
+150_ritualsongcyclekapiwaya,ritual song cycle (kapiwaya) ,,,culture-mythology,748
+151_ropestring,rope/string ,,,culture,831
+152_salt,salt ,1274,SALT,food,674
+153_school,school ,673,SCHOOL,acculturation,608
+154_seedbeater,seed beater ,,,subsistence tool,675
+155_shamanhealer,"shaman, healer ",394,SHAMAN (FOLK HEALER),culture-mythology,737
+156_shelternative,shelter (native) ,,,other,800
+157_shoes,shoes ,1381,SHOE,dress,695
+158_sinewbackedbow,sinew-backed bow ,,,subsistence tool,677
+159_skirt,skirt ,1600,SKIRT,culture-material,678
+160_snare,snare ,3320,SNARE (TRAP),subsistence tool,679
+161_soldier,soldier ,1941,SOLDIER,acculturation,699
+162_songforentertainment,song (for entertainment) ,,,culture-mythology,801
+163_songgeneric,song (generic) ,1096,SONG,culture-mythology,749
+164_spear,spear ,945,SPEAR,subsistence tool,681
+165_spearfighting,spear (fighting) ,,,subsistence tool,802
+166_spearfishing,spear (fishing) ,841,FISHING SPEAR,subsistence tool,803
+167_spearthrower,spearthrower ,2677,SPEARTHROWER,subsistence tool,804
+168_speartip,speartip ,3255,POINT (POINTED END),subsistence tool,805
+169_spiritchild,spirit child ,,,culture-mythology,815
+170_starchtapiocaother,"starch (tapioca, other) ",,,food,750
+171_stirringstick,stirring stick ,,,food,682
+172_stonebowl,stone bowl ,,,culture-material,609
+173_stoneforlightingfires,stone for lighting fires ,,,culture-material,751
+174_stringfromhair,string (from hair) ,,,culture-material,806
+175_stringfromvine,string (from vine) ,,,culture-material,807
+176_stringofshellmoney,string of shell money ,,,other,685
+177_sugar,sugar ,862,SUGAR,acculturation,808
+178_sugarcanesugar,sugarcane/sugar ,146,SUGAR CANE,acculturation,752
+179_sweathouse,sweathouse ,,,other,687
+180_tapiocadrinkmingau,"tapioca drink, mingau ",,,food,753
+181_tattoo,tattoo ,68,TATTOO,culture-mythology,763
+182_tea,tea ,1373,TEA,food,809
+183_tellhistory,tell history ,,,culture-mythology,688
+184_thatchroof,thatch/roof ,2100,THATCH OR ROOF,culture-material,755
+185_tipitimaniocsqueezer,tipiti (manioc squeezer) ,,,food,756
+186_tobaccoeuropean,tobacco (European) ,,,narcotics,810
+187_tobacconative,tobacco (native) ,,,narcotics,690
+188_topgrindingstone,top grinding stone ,3022,TOP GRINDSTONE,manufacture,533
+189_totemconception,totem (conception) ,,,culture-mythology,811
+190_treecoffin,tree coffin ,,,culture-mythology,817
+191_tripodforwashingmanioc,tripod for washing manioc ,,,subsistence tool,758
+192_tuleboat,tule boat ,,,transport,691
+193_venomfordartspoison,"venom for darts, poison ",,,subsistence tool,759
+194_wax,wax ,1931,BEESWAX,other,760
+195_wheat,wheat ,1077,WHEAT,food,645
+196_whitepaint,white paint ,,,culture-mythology,692
+197_windbreak,windbreak ,,,other,812
+198_winnow,winnow ,2462,WINNOWING,manufacture,550
+199_winnowingbasket,winnowing basket ,,,culture-material,693
+200_woodtray,wood tray ,,,subsistence tool,694
+201_wovenstrainersieve,woven strainer/sieve ,,,subsistence tool,761
+202_yandyn,yandy (n) ,,,culture-material,813
+203_yuruparijuruparioranyflutesforbiddentowomen,"yurupari, jurupari (or any flutes forbidden to women) ",,,culture-mythology,762
