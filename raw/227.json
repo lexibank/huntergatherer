@@ -1,43 +1,7 @@
 {
+    "id": "227",
+    "name": "Kuku-Thaypan",
     "tables": {
-        "ethno": {
-            "header": [
-                "Current population (ethnicity)",
-                "Current population (speakers)",
-                "Former population estimate",
-                "Subsistence preference",
-                "Subsistence notes",
-                "Density",
-                "Sedentism",
-                "Ecotome (riverine/interfluvial/coastal/desert/savannah/etc.)",
-                "Social hierarchies",
-                "Multilingualism (rare/occasional/common)",
-                "Contact languages",
-                "Marriage pattern",
-                "Notes",
-                "Source",
-                "Created By"
-            ],
-            "rows": [
-                [
-                    "",
-                    "",
-                    "medium",
-                    "HG",
-                    "",
-                    "medium",
-                    "mobile",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ]
-            ]
-        },
         "flora": {
             "header": [
                 "English",
@@ -6408,15 +6372,51 @@
                     ""
                 ]
             ]
+        },
+        "ethno": {
+            "header": [
+                "Current population (ethnicity)",
+                "Current population (speakers)",
+                "Former population estimate",
+                "Subsistence preference",
+                "Subsistence notes",
+                "Density",
+                "Sedentism",
+                "Ecotome (riverine/interfluvial/coastal/desert/savannah/etc.)",
+                "Social hierarchies",
+                "Multilingualism (rare/occasional/common)",
+                "Contact languages",
+                "Marriage pattern",
+                "Notes",
+                "Source",
+                "Created By"
+            ],
+            "rows": [
+                [
+                    "",
+                    "",
+                    "medium",
+                    "HG",
+                    "",
+                    "medium",
+                    "mobile",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            ]
         }
     },
-    "Location": "\n\t\t\t\t\t-14.75\u00b0,\n\t\t\t\t\t144.99\u00b0\n\t\t\t\t",
-    "Notes": "",
-    "id": "227",
     "Family": "Pama-Nyungan",
     "Region": "Australia",
     "ISO 639-3": "typ",
-    "name": "Kuku-Thaypan",
-    "Data Sources": "none",
-    "Features": "\nFlora Fauna Vocabulary\nEthnographic Information\n"
+    "Location": "\n\t\t\t\t\t-14.75\u00b0,\n\t\t\t\t\t144.99\u00b0\n\t\t\t\t",
+    "Notes": "",
+    "Features": "\nFlora Fauna Vocabulary\nEthnographic Information\n",
+    "Data Sources": "none"
 }

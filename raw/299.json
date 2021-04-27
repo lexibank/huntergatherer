@@ -1,4 +1,6 @@
 {
+    "id": "299",
+    "name": "Gugu-Badhun",
     "tables": {
         "grammar": {
             "header": [
@@ -5034,13 +5036,11 @@
             ]
         }
     },
-    "Location": "\n\t\t\t\t\t0.00\u00b0,\n\t\t\t\t\t0.00\u00b0\n\t\t\t\t",
-    "Notes": "",
-    "id": "299",
     "Family": "Unknown Australia",
     "Region": "Australia",
     "ISO 639-3": "",
-    "name": "Gugu-Badhun",
-    "Data Sources": "none",
-    "Features": "\nGrammatical Data\n"
+    "Location": "\n\t\t\t\t\t0.00\u00b0,\n\t\t\t\t\t0.00\u00b0\n\t\t\t\t",
+    "Notes": "",
+    "Features": "\nGrammatical Data\n",
+    "Data Sources": "none"
 }

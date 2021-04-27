@@ -1,4 +1,6 @@
 {
+    "id": "150",
+    "name": "Surui",
     "tables": {
         "flora": {
             "header": [
@@ -96,6 +98,55 @@
                     "",
                     "",
                     ""
+                ],
+                [
+                    [
+                        "/lexical/feature/203",
+                        "peach palm, pejibaye palm"
+                    ],
+                    "chontaduro (Col, Ecuador); pipire (Col); pijuayo (Peru), pijiguao (Ven); tembe (Bol)",
+                    "pupunha",
+                    "flora-fauna",
+                    "",
+                    "Bactris gasipaes",
+                    "job\u00e1ra(a)",
+                    "job\u00e1ra(a)",
+                    "peach palm (pupunha)",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "GALUCIO, MEIRA, BIRCHALL, MOORE, GABAS J\u00daNIOR, DRUDE, STORTO, PICAN\u00c7O, RODRIGUES 2015: 269",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "Maria Castillo"
                 ]
             ]
         },
@@ -3960,13 +4011,11 @@
             ]
         }
     },
-    "Location": "\n\t\t\t\t\t-11.10\u00b0,\n\t\t\t\t\t-61.28\u00b0\n\t\t\t\t",
-    "Notes": "",
-    "id": "150",
     "Family": "Tupian",
     "Region": "South America",
     "ISO 639-3": "sru",
-    "name": "Surui",
-    "Data Sources": "Bontkes, Willem and Robert Dooley. 1984. Verification particles in Surui. Ms. \n\nBontkes, Willem and Carolyn Bontkes. 2009. Phonemic Analysis of Suru\u00ed. SIL, Brasilia.\n\nMeer, Tine H. van der. 1985. Case marking in Surui. Porto Velho Workpapers: 208-230. Bras\u00edlia: SIL.",
-    "Features": "\nFlora Fauna Vocabulary\nGrammatical Data\n"
+    "Location": "\n\t\t\t\t\t-11.10\u00b0,\n\t\t\t\t\t-61.28\u00b0\n\t\t\t\t",
+    "Notes": "",
+    "Features": "\nFlora Fauna Vocabulary\nGrammatical Data\n",
+    "Data Sources": "Bontkes, Willem and Robert Dooley. 1984. Verification particles in Surui. Ms. \n\nBontkes, Willem and Carolyn Bontkes. 2009. Phonemic Analysis of Suru\u00ed. SIL, Brasilia.\n\nGalucio, Ana Vilacy; Meira, S\u00e9rgio; Birchall, Joshua; Moore, Denny; Gabas J\u00fanior, Nilson; Drude, Sebastian; Storto, Luciana; Pican\u1e09o, Gessiane; Rodrigues, Carmen Reis. 2015. Genealogical relations and lexical distances within the Tup\u00ed linguistic family: a lexicostatistical and phylogenetic approach. Boletim do Museu Paraense Em\u00edlio Goeldi. Ci\u00eancias Humanas, 10.2:229-274.\n\nMeer, Tine H. van der. 1985. Case marking in Surui. Porto Velho Workpapers: 208-230. Bras\u00edlia: SIL."
 }

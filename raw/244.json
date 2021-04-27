@@ -1,4 +1,6 @@
 {
+    "id": "244",
+    "name": "Yokuts Yawelmani",
     "tables": {
         "cult": {
             "header": [
@@ -2652,13 +2654,11 @@
             ]
         }
     },
-    "Location": "\n\t\t\t\t\t0.00\u00b0,\n\t\t\t\t\t0.00\u00b0\n\t\t\t\t",
-    "Notes": "",
-    "id": "244",
-    "Family": "Unknown North America",
+    "Family": "Penutian",
     "Region": "North America",
     "ISO 639-3": "",
-    "name": "Yokuts Yawelmani",
-    "Data Sources": "none",
-    "Features": "\nCultural Vocabulary\n"
+    "Location": "\n\t\t\t\t\t35.56\u00b0,\n\t\t\t\t\t-119.07\u00b0\n\t\t\t\t",
+    "Notes": "",
+    "Features": "\nCultural Vocabulary\n",
+    "Data Sources": "none"
 }

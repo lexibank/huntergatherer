@@ -1,43 +1,7 @@
 {
+    "id": "169",
+    "name": "Wardaman",
     "tables": {
-        "ethno": {
-            "header": [
-                "Current population (ethnicity)",
-                "Current population (speakers)",
-                "Former population estimate",
-                "Subsistence preference",
-                "Subsistence notes",
-                "Density",
-                "Sedentism",
-                "Ecotome (riverine/interfluvial/coastal/desert/savannah/etc.)",
-                "Social hierarchies",
-                "Multilingualism (rare/occasional/common)",
-                "Contact languages",
-                "Marriage pattern",
-                "Notes",
-                "Source",
-                "Created By"
-            ],
-            "rows": [
-                [
-                    "",
-                    "",
-                    "large",
-                    "HG",
-                    "",
-                    "low",
-                    "mobile",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ]
-            ]
-        },
         "flora": {
             "header": [
                 "English",
@@ -8911,15 +8875,51 @@
                     "Patrick McConvell"
                 ]
             ]
+        },
+        "ethno": {
+            "header": [
+                "Current population (ethnicity)",
+                "Current population (speakers)",
+                "Former population estimate",
+                "Subsistence preference",
+                "Subsistence notes",
+                "Density",
+                "Sedentism",
+                "Ecotome (riverine/interfluvial/coastal/desert/savannah/etc.)",
+                "Social hierarchies",
+                "Multilingualism (rare/occasional/common)",
+                "Contact languages",
+                "Marriage pattern",
+                "Notes",
+                "Source",
+                "Created By"
+            ],
+            "rows": [
+                [
+                    "",
+                    "",
+                    "large",
+                    "HG",
+                    "",
+                    "low",
+                    "mobile",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            ]
         }
     },
-    "Location": "\n\t\t\t\t\t-15.53\u00b0,\n\t\t\t\t\t131.88\u00b0\n\t\t\t\t",
-    "Notes": "",
-    "id": "169",
     "Family": "Isolate (AUS)",
     "Region": "Australia",
     "ISO 639-3": "wrr",
-    "name": "Wardaman",
-    "Data Sources": "none",
-    "Features": "\nFlora Fauna Vocabulary\nCultural Vocabulary\nEthnographic Information\n"
+    "Location": "\n\t\t\t\t\t-15.53\u00b0,\n\t\t\t\t\t131.88\u00b0\n\t\t\t\t",
+    "Notes": "",
+    "Features": "\nFlora Fauna Vocabulary\nCultural Vocabulary\nEthnographic Information\n",
+    "Data Sources": "none"
 }

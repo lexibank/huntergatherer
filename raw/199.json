@@ -1,43 +1,7 @@
 {
+    "id": "199",
+    "name": "Warlpiri",
     "tables": {
-        "ethno": {
-            "header": [
-                "Current population (ethnicity)",
-                "Current population (speakers)",
-                "Former population estimate",
-                "Subsistence preference",
-                "Subsistence notes",
-                "Density",
-                "Sedentism",
-                "Ecotome (riverine/interfluvial/coastal/desert/savannah/etc.)",
-                "Social hierarchies",
-                "Multilingualism (rare/occasional/common)",
-                "Contact languages",
-                "Marriage pattern",
-                "Notes",
-                "Source",
-                "Created By"
-            ],
-            "rows": [
-                [
-                    "",
-                    "",
-                    "large",
-                    "HG",
-                    "",
-                    "low",
-                    "mobile",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "no",
-                    "",
-                    "",
-                    ""
-                ]
-            ]
-        },
         "flora": {
             "header": [
                 "English",
@@ -11441,15 +11405,51 @@
                     "0"
                 ]
             ]
+        },
+        "ethno": {
+            "header": [
+                "Current population (ethnicity)",
+                "Current population (speakers)",
+                "Former population estimate",
+                "Subsistence preference",
+                "Subsistence notes",
+                "Density",
+                "Sedentism",
+                "Ecotome (riverine/interfluvial/coastal/desert/savannah/etc.)",
+                "Social hierarchies",
+                "Multilingualism (rare/occasional/common)",
+                "Contact languages",
+                "Marriage pattern",
+                "Notes",
+                "Source",
+                "Created By"
+            ],
+            "rows": [
+                [
+                    "",
+                    "",
+                    "large",
+                    "HG",
+                    "",
+                    "low",
+                    "mobile",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "no",
+                    "",
+                    "",
+                    ""
+                ]
+            ]
         }
     },
-    "Location": "\n\t\t\t\t\t-20.59\u00b0,\n\t\t\t\t\t131.96\u00b0\n\t\t\t\t",
-    "Notes": "",
-    "id": "199",
     "Family": "Pama-Nyungan",
     "Region": "Australia",
     "ISO 639-3": "wbp",
-    "name": "Warlpiri",
-    "Data Sources": "none",
-    "Features": "\nFlora Fauna Vocabulary\nGrammatical Data\nEthnographic Information\n"
+    "Location": "\n\t\t\t\t\t-20.59\u00b0,\n\t\t\t\t\t131.96\u00b0\n\t\t\t\t",
+    "Notes": "",
+    "Features": "\nFlora Fauna Vocabulary\nGrammatical Data\nEthnographic Information\n",
+    "Data Sources": "none"
 }

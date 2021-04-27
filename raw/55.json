@@ -1,4 +1,6 @@
 {
+    "id": "55",
+    "name": "Maipure",
     "tables": {
         "grammar": {
             "header": [
@@ -3861,13 +3863,11 @@
             ]
         }
     },
-    "Location": "\n\t\t\t\t\t4.80\u00b0,\n\t\t\t\t\t-67.50\u00b0\n\t\t\t\t",
-    "Notes": "Extinct",
-    "id": "55",
     "Family": "Arawakan",
     "Region": "South America",
     "ISO 639-3": "--",
-    "name": "Maipure",
-    "Data Sources": "Zamponi, Raoul. 2003. Languages of the World/Materials: Maipure. Lincom Europa. ",
-    "Features": "\nGrammatical Data\n"
+    "Location": "\n\t\t\t\t\t4.80\u00b0,\n\t\t\t\t\t-67.50\u00b0\n\t\t\t\t",
+    "Notes": "Extinct",
+    "Features": "\nGrammatical Data\n",
+    "Data Sources": "Zamponi, Raoul. 2003. Languages of the World/Materials: Maipure. Lincom Europa. "
 }

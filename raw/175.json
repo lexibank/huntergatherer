@@ -1,43 +1,7 @@
 {
+    "id": "175",
+    "name": "Jingulu",
     "tables": {
-        "ethno": {
-            "header": [
-                "Current population (ethnicity)",
-                "Current population (speakers)",
-                "Former population estimate",
-                "Subsistence preference",
-                "Subsistence notes",
-                "Density",
-                "Sedentism",
-                "Ecotome (riverine/interfluvial/coastal/desert/savannah/etc.)",
-                "Social hierarchies",
-                "Multilingualism (rare/occasional/common)",
-                "Contact languages",
-                "Marriage pattern",
-                "Notes",
-                "Source",
-                "Created By"
-            ],
-            "rows": [
-                [
-                    "",
-                    "",
-                    "medium",
-                    "HG",
-                    "",
-                    "low",
-                    "mobile",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ]
-            ]
-        },
         "flora": {
             "header": [
                 "English",
@@ -14017,15 +13981,51 @@
                     "0"
                 ]
             ]
+        },
+        "ethno": {
+            "header": [
+                "Current population (ethnicity)",
+                "Current population (speakers)",
+                "Former population estimate",
+                "Subsistence preference",
+                "Subsistence notes",
+                "Density",
+                "Sedentism",
+                "Ecotome (riverine/interfluvial/coastal/desert/savannah/etc.)",
+                "Social hierarchies",
+                "Multilingualism (rare/occasional/common)",
+                "Contact languages",
+                "Marriage pattern",
+                "Notes",
+                "Source",
+                "Created By"
+            ],
+            "rows": [
+                [
+                    "",
+                    "",
+                    "medium",
+                    "HG",
+                    "",
+                    "low",
+                    "mobile",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            ]
         }
     },
-    "Location": "\n\t\t\t\t\t-16.63\u00b0,\n\t\t\t\t\t133.55\u00b0\n\t\t\t\t",
-    "Notes": "",
-    "id": "175",
     "Family": "Mirndi",
     "Region": "Australia",
     "ISO 639-3": "jig",
-    "name": "Jingulu",
-    "Data Sources": "none",
-    "Features": "\nFlora Fauna Vocabulary\nCultural Vocabulary\nGrammatical Data\nEthnographic Information\n"
+    "Location": "\n\t\t\t\t\t-16.63\u00b0,\n\t\t\t\t\t133.55\u00b0\n\t\t\t\t",
+    "Notes": "",
+    "Features": "\nFlora Fauna Vocabulary\nCultural Vocabulary\nGrammatical Data\nEthnographic Information\n",
+    "Data Sources": "none"
 }

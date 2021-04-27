@@ -1,4 +1,6 @@
 {
+    "id": "248",
+    "name": "Timbisha",
     "tables": {
         "grammar": {
             "header": [
@@ -3861,13 +3863,11 @@
             ]
         }
     },
-    "Location": "\n\t\t\t\t\t0.00\u00b0,\n\t\t\t\t\t0.00\u00b0\n\t\t\t\t",
-    "Notes": "",
-    "id": "248",
-    "Family": "Unknown North America",
+    "Family": "Uto-Aztecan",
     "Region": "North America",
     "ISO 639-3": "",
-    "name": "Timbisha",
-    "Data Sources": "none",
-    "Features": "\nGrammatical Data\n"
+    "Location": "\n\t\t\t\t\t36.00\u00b0,\n\t\t\t\t\t-117.90\u00b0\n\t\t\t\t",
+    "Notes": "",
+    "Features": "\nGrammatical Data\n",
+    "Data Sources": "none"
 }

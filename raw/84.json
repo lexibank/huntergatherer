@@ -1,4 +1,6 @@
 {
+    "id": "84",
+    "name": "Damana",
     "tables": {
         "grammar": {
             "header": [
@@ -3861,13 +3863,11 @@
             ]
         }
     },
-    "Location": "\n\t\t\t\t\t10.93\u00b0,\n\t\t\t\t\t-73.41\u00b0\n\t\t\t\t",
-    "Notes": "",
-    "id": "84",
     "Family": "Chibchan",
     "Region": "South America",
     "ISO 639-3": "mbp",
-    "name": "Damana",
-    "Data Sources": "Williams, Cindy. 1993. A grammar sketch of Damana. Masters thesis, University of North Dakota.",
-    "Features": "\nGrammatical Data\n"
+    "Location": "\n\t\t\t\t\t10.93\u00b0,\n\t\t\t\t\t-73.41\u00b0\n\t\t\t\t",
+    "Notes": "",
+    "Features": "\nGrammatical Data\n",
+    "Data Sources": "Williams, Cindy. 1993. A grammar sketch of Damana. Masters thesis, University of North Dakota."
 }

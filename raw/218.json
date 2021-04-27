@@ -1,43 +1,7 @@
 {
+    "id": "218",
+    "name": "Rembarrnga",
     "tables": {
-        "ethno": {
-            "header": [
-                "Current population (ethnicity)",
-                "Current population (speakers)",
-                "Former population estimate",
-                "Subsistence preference",
-                "Subsistence notes",
-                "Density",
-                "Sedentism",
-                "Ecotome (riverine/interfluvial/coastal/desert/savannah/etc.)",
-                "Social hierarchies",
-                "Multilingualism (rare/occasional/common)",
-                "Contact languages",
-                "Marriage pattern",
-                "Notes",
-                "Source",
-                "Created By"
-            ],
-            "rows": [
-                [
-                    "",
-                    "",
-                    "medium",
-                    "HG",
-                    "",
-                    "medium",
-                    "mobile",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ]
-            ]
-        },
         "flora": {
             "header": [
                 "English",
@@ -9058,15 +9022,51 @@
                     "Claire Bowern"
                 ]
             ]
+        },
+        "ethno": {
+            "header": [
+                "Current population (ethnicity)",
+                "Current population (speakers)",
+                "Former population estimate",
+                "Subsistence preference",
+                "Subsistence notes",
+                "Density",
+                "Sedentism",
+                "Ecotome (riverine/interfluvial/coastal/desert/savannah/etc.)",
+                "Social hierarchies",
+                "Multilingualism (rare/occasional/common)",
+                "Contact languages",
+                "Marriage pattern",
+                "Notes",
+                "Source",
+                "Created By"
+            ],
+            "rows": [
+                [
+                    "",
+                    "",
+                    "medium",
+                    "HG",
+                    "",
+                    "medium",
+                    "mobile",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            ]
         }
     },
-    "Location": "\n\t\t\t\t\t-13.15\u00b0,\n\t\t\t\t\t134.39\u00b0\n\t\t\t\t",
-    "Notes": "",
-    "id": "218",
     "Family": "Gunwinyguan",
     "Region": "Australia",
     "ISO 639-3": "rmb",
-    "name": "Rembarrnga",
-    "Data Sources": "none",
-    "Features": "\nFlora Fauna Vocabulary\nCultural Vocabulary\nEthnographic Information\n"
+    "Location": "\n\t\t\t\t\t-13.15\u00b0,\n\t\t\t\t\t134.39\u00b0\n\t\t\t\t",
+    "Notes": "",
+    "Features": "\nFlora Fauna Vocabulary\nCultural Vocabulary\nEthnographic Information\n",
+    "Data Sources": "none"
 }
