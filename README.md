@@ -1,8 +1,16 @@
 # CLDF dataset derived from Bowern et al.'s "Hunter - Gatherer Language Database" from 2021
 
-Cite the source dataset as
+[![CLDF validation](https://github.com/lexibank/huntergatherer/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/huntergatherer/actions?query=workflow%3ACLDF-validation)
 
-> Bowern, Claire, Patience Epps, Jane Hill, and Patrick McConvell. Hunter - Gatherer Language Database. https://huntergatherer.la.utexas.edu/ Accessed 2021-04-27.
+## How to cite
+
+If you use these data please cite
+- the original source
+  > Bowern, Claire, Patience Epps, Jane Hill, and Patrick McConvell. Hunter - Gatherer Language Database. https://huntergatherer.la.utexas.edu/ Accessed 2021-04-27.
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
 
 This dataset is licensed under a CC-BY-4.0 license
 
@@ -45,3 +53,10 @@ Robert Forkel | @xrotwang | code | Other
 Christoph Rzymski | @chrzyki | patron | Other
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
