@@ -9,19 +9,24 @@ The value-to-form processing is divided into two steps, implemented as methods:
 
 These methods use the attributes of a `FormSpec` instance to configure their behaviour.
 
-- `brackets`: `{'(': ')'}`
+- `brackets`: `{'(': ')', '{': '}', '“': '”', "'": "'", 'ʼ': 'ʼ'}`
   Pairs of strings that should be recognized as brackets, specified as `dict` mapping opening string to closing string
-- `separators`: `(';', '/', ',')`
+- `separators`: `(';', '/', ',', '~', '&')`
   Iterable of single character tokens that should be recognized as word separator
 - `missing_data`: `('?', '[missing]', 'missing', '#NAME?', 'X', '[absent]', '-', '--', '...')`
   Iterable of strings that are used to mark missing data
 - `strip_inside_brackets`: `True`
   Flag signaling whether to strip content in brackets (**and** strip leading and trailing whitespace)
-- `replacements`: `[]`
+- `replacements`: `[('[', ''), (']', ''), ('0', ''), ('[none]', ''), ('[not cultivated]', ''), ('1', ''), ('2', ''), ('3', ''), ('4', ''), ('5', ''), ('6', ''), ('7', ''), ('8', ''), ('9', ''), ('3:', ''), ('4:', ''), ('5:', ''), ('6:', ''), ('1:', ''), ('2:', ''), ('$', ''), ('"', ''), ('no special term', ''), (' no name ever recorded', ''), ('compounded', ''), ('generic basket: ', ''), ('“breathe', ''), ('to be red', ''), ('ngl turn off', ''), (' ', '_')]`
   List of pairs (`source`, `target`) used to replace occurrences of `source` in formswith `target` (before stripping content in brackets)
-- `first_form_only`: `False`
+- `first_form_only`: `True`
   Flag signaling whether at most one form should be returned from `split` - effectively ignoring any spelling variants, etc.
 - `normalize_whitespace`: `True`
   Flag signaling whether to normalize whitespace - stripping leading and trailing whitespace and collapsing multi-character whitespace to single spaces
 - `normalize_unicode`: `None`
   UNICODE normalization form to use for input of `split` (`None`, 'NFD' or 'NFC')
+
+### Replacement of invalid lexemes
+
+Source lexemes may be impossible to interpret correctly. 626 such lexemes are listed
+in [`etc/lexemes.csv`](etc/lexemes.csv) and replaced as specified in this file.

@@ -26,20 +26,26 @@ Conceptlists in Concepticon:
 
 [![CLDF validation](https://github.com/lexibank/huntergatherer/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/huntergatherer/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 99%](https://img.shields.io/badge/Glottolog-99%25-brightgreen.svg "Glottolog: 99%")
-![Concepticon: 82%](https://img.shields.io/badge/Concepticon-82%25-yellowgreen.svg "Concepticon: 82%")
-![Source: 69%](https://img.shields.io/badge/Source-69%25-orange.svg "Source: 69%")
+![Concepticon: 81%](https://img.shields.io/badge/Concepticon-81%25-yellowgreen.svg "Concepticon: 81%")
+![Source: 68%](https://img.shields.io/badge/Source-68%25-orange.svg "Source: 68%")
+![BIPA: 54%](https://img.shields.io/badge/BIPA-54%25-red.svg "BIPA: 54%")
+![CLTS SoundClass: 54%](https://img.shields.io/badge/CLTS%20SoundClass-54%25-red.svg "CLTS SoundClass: 54%")
 
 - **Varieties:** 324
 - **Concepts:** 744
-- **Lexemes:** 79,893
-- **Sources:** 3,575
-- **Synonymy:** 1.22
+- **Lexemes:** 64,624
+- **Sources:** 3,573
+- **Synonymy:** 1.01
+- **Invalid lexemes:** 0
+- **Tokens:** 374,355
+- **Segments:** 663 (303 BIPA errors, 303 CTLS sound class errors, 360 CLTS modified)
+- **Inventory size (avg):** 30.97
 
 ## Possible Improvements:
 
 
 
-- Entries missing sources: 24925/79893 (31.20%)
+- Entries missing sources: 20729/64624 (32.08%)
 
 # Contributors
 

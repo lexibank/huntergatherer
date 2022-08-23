@@ -1,0 +1,636 @@
+LEXEME	REPLACEMENT	NOTE
+[-'ha-koi-yu]	-'ha-koi-yu	
+[-'ha-pi + bak]	-'ha-pi-bak	
+[-'ha-si + hik]	-'ha-si-hik	
+[-]kʰɨtʰɨˀba	-kʰɨtʰɨˀba	
+[-]niẓuwa-n	-niẓuwa-n	
+[-]suusu	-suusu	
+[-]ukʰuru	-ukʰuru	
+[-]waranɨ ii	-waranɨ_ii	
+[-]šararan	-šararan	
+[-]šiin	-šiin	
+[-]ˀbaruriʔi	-ˀbaruriʔi	
+[-bep]	-bep	
+[-bik + sãk]	-bik-sãk	
+[-de + yak]	-de-yak
+[-de + ɨi]	-de-ɨi	
+[-dək]	-dək	
+[-dɨn]	-dɨn	
+[-ei]	-ei	
+[-ep]	-ep	
+[-ga] XXngl	-ga	
+[-han]ígí	-han-ígí	
+[-he-wuk]	-he-wuk	
+[-het]	-het	
+[-hui + yik]	-hui-yik	
+[-huk]	-huk	
+[-hõ]	-hõ	
+[-hõn]	-hõn	
+[-hĩ-yək]	-hĩ-yək	
+[-hɨi + uk]	-hɨi + uk	
+[-i + sãk]	-i + sãk	
+[-i-yək	-i-yək	
+[-inɨ]	-inɨ	
+[-kai]	-kai	
+[-kak]	-kak	
+[-kam]	-kam	
+[-kik]	-kik	
+[-ko-pok-sɨ-tuk]	-ko-pok-sɨ-tuk	
+[-min]	-min	
+[-mã]	-mã	
+[-mə̃m]	-mə̃m	
+[-nak]	-nak	
+[-nam]	-nam	
+[-nom]	-nom	
+[-ok]	-ok	
+[-pak]	-pak	
+[-pan]	-pan	
+[-pat]	-pat	
+[-pep]	-pep	
+[-piu]	-piu	
+[-pom]	-pom	
+[-pou]	-pou	
+[-pun]	-pun	
+[-pãi-ək]	-pãi-ək	
+[-pãi]	-pãi	
+[-pèm]	-pèm	
+[-pɨk]	-pɨk	
+[-sabak-ot]	-sabak-ot	
+[-sai-bik-hak]	-sai-bik-hak	
+[-sak]	-sak	
+[-sek]	-sek	
+[-sok]	-sok	
+[-sã]	-sã	
+[-sə̃m]	-sə̃m	
+[-sɨk]	-sɨk	
+[-tai]	-tai	
+[-tat-hamadak]	-tat-hamadak	
+[-tau]	-tau	
+[-te]	-te	
+[-tek]	-tek	
+[-to]	-to	
+[-tum]	-tum	
+[-tãu]	-tãu	
+[-tɨ-yu]	-tɨ-yu	
+[-u]	-u	
+[-wat]	-wat	
+[-wau]	-wau	
+[-wide]	-wide	
+[-win-yo-ot]	-win-yo-ot	
+[-yau-dei]	-yau-dei	
+[-yau-nok]	-yau-nok	
+[-yau]	-yau	
+[-yek-sok]	-yek-sok	
+[-yek]	-yek	
+[-yoi]	-yoi	
+[-yuk]	-yuk	
+[-yə-duk]	-yə-duk	
+[-yə-tat]	-yə-tat	
+[-yə]	-yə	
+[-yək-ɨi dik]	-yək-ɨi dik	
+[-án]iri	-án]iri	
+[adĩda]	adĩda	
+[alapɔnɔ]	alapɔnɔ	
+[altala]	altala	
+[ama]	ama	
+[arina]-βas	arina]-βas	
+[asikala]	asikala	
+[asikalu]	asikalu	
+[asuka]	asuka	
+[atalʸ]	atalʸ	
+[bišu]	bišu	
+[coendou bicolor- bicolor-spined porcupine]	coendou	
+[dagǽ̧ŋka]	dagǽ̧ŋka	
+[dios]	dios	
+[dioso]	dioso	
+[horno]	horno	
+[hutulu] sic	hutulu	
+[juni] juwáka'ala	juni-juwáka'ala	
+[kabayo]	kabayo	
+[kalɛta]	kalɛta	
+[kamiča]	kamiča	
+[kanasta]	kanasta	
+[kanowa]	kanowa	
+[kanu'e]	kanu'e	
+[karo] a no mãyõ	karo]-a-no-mãyõ	
+[kasili]	kasili	
+[kato]	kato	
+[kawayu]	kawayu	
+[kuSSi “dust	kussi	
+[kuha	kuha	
+[kwakɨ]	kwakɨ	
+[kčilʸ]	kčilʸ	
+[lɛkɔ]	lɛkɔ	
+[ma:'sa]	ma:'sa	
+[malaka]	malaka	
+[maliya]	maliya	
+[maneritanae ]	maneritanae	
+[mdee'ɣa]	mdee'ɣa	
+[misi]	misi	
+[miš]	miš	
+[moqo	moqo	
+[mulutuku]	mulutuku	
+[mãrɛru]	mãrɛru	
+[nOO7yu “all ”	nyu	
+[nios]	nios	
+[no equivalent]		
+[no generic?]		
+[no generic]		
+[none]	none	
+[noswe “breathes”	noswe	
+[not cultivated]		
+[nu]iwita	nu-iwita	
+[nãirõ]	nãirõ	
+[others: kutʃí kutʃí	kutʃí-kutʃí	
+[pOO “trail”		
+[pa'pi]	pa'pi	
+[pa'pi] auh-tai	pa'pi-auh-tai	
+[paipɔ]	paipɔ	
+[palapi]	palapi	
+[palatu]	palatu	
+[papeda]	papeda	
+[pash] “sore”	pash”	
+[pinkilʸo]	pinkilʸo	
+[puni	puni	
+[r]dama[r]damarla	r-dama-r-damarla	
+[s	s	
+[sapat]	sapat	
+[sapatu]	sapatu	
+[sapatɔ]	sapatɔ	
+[sapɔ]	sapɔ	
+[sautu]	sautu	
+[see above]		
+[sepu]	sepu	
+[siya]	siya	
+[skupeta]	skupeta	
+[skwela]	skwela	
+[soldau]	soldau	
+[sotdawa]	sotdawa	
+[sowtatu]	sowtatu	
+[soča]	soča	
+[spaatu]	spaatu	
+[surati]	surati	
+[sũtˀatˀo]	sũtˀatˀo	
+[sɛpali]	sɛpali	
+[t]je	t-je	
+[t]wë	t-wë	
+[ta]po	ta-po	
+[tabi	tabi	
+[tadabako] kæ	tadabako-kæ	
+[tia]pu	tia-pu	
+[to.'ko]	to-'ko	
+[toqaano “night time”	toqaano	
+[tyhycha	tyhycha	
+[tykka	tykka	
+[types: manito	manito	
+[types: wáátsɨtrɨ	wáátsɨtrɨ	
+[tãpori]	tãpori	
+[tíwæ̧]	tíwæ̧	
+[tʰo to 'palm']	tʰo-to	
+[w	w	
+[warnangkalun]	warnangkalun	
+[ʰkabayo]	ʰkabayo	
+amanakaw [loan Kokama]	amanakaw	
+amarón [Quechua loan]	amarón	
+Si: (possessed only)	ʃi	
+pa: wirukt	wirukt	
+yvy-g e.g. yvy-pa: “bad-water, whiskey”	yvy	
+i:-G  old, only in comp:  i:-p:ungqu-ni my old horse;	 i:	
+tyn:a-s “stump”, tyn:a: “bottom, base”	tynːa-s	
+7anyko/: “my father”; nyako/  H3:212	ʔanyko	
+7i:pa:nyc “that man”  H1:29; 7i:pa: “man, male” H3:154	ʔiːpaːnyts	
+nya:  H3:211	 nya	
+he-se/-ha: “metate, hand stone for rubbing”	he-se	
+pee'r-kāCH (M), a:xe (H 511) pinole, mohi: (H511)	peeˈr˗kaːtʃ	
+-hu: "arrow", hu:r	hu	
+hura: “dig a grave”	hura	
+7uri: “head hair”	ʔuri	
+tiyo: “to shoot (something) w/ arrow”	tiyo	
+tina: 189	tina	
+huhu: Ultan 1964	Ultan 1964	
+je: wing feathers	wing feathers	
+palla: (CHM pah-lahm chah)	palla	
+tuple: pu:c	pu:c	
+pet:y-c: (vi)	pet	
+hire: (vi),	hire	
+keruma: (cause to die)	keruma	
+-tu:tu: address form	tuːtu	
+t:ot: 238	tot	
+to\t: 238, 240	tot	
+to\t: 238, 240 perhaps to:TH	tot	
+wa:  (see also “far”)	wa	
+tehet: “head”;	tehet	
+k'o: na,:T	kˈo	
+7u: T'a,:, 7u7u T'a:	ʔu	
+7i: t'olo7otek	t'oloʔotek	
+sma/: “day (24 hours)”	sma	
+ttmo_: “itches”	ttmo	
+ya\...pe/: “be alive, be born”	ya	
+hu_: “nose, head” (WG, GM)	hu	
+thkWi_i: “squeeze, wring (out)”	thkwi	
+kvskWi_: “standing”, vskWi/(:) “stand up”	kʌskwi	
+??i /: “wood, tree”	i	
+xpSu: (with the mouth)	xpʃu	
+ny7a: (female speaking), nyaLy (man speaking)	nyʔa	
+xpaLy (of ironwood -- a legume- 7a: “mesquite bean”)	xpaly	
+animate subj: a:-, aw-, u-, u:-, 7aw-, 7u-; non-subject p-a:	
+animate subj: a:-, aw-, u-, u:-, 7aw-, 7u-;	a:	
+nYawí: rar	rar	
+nYpa: xa:nY	xa:nY	
+sadap=(tr., wood for e.g.), tadap= (tr., same) (NOTE: redup from tap in Cocopa;  UA *tapi??), tamkyelk=(something like a pumpkin, tr), taqan= (by accident), tavadoo= (part in hair), imkyelk= (intr)	redup from tap in Cocopa	
+k'à: čhó7el	čhó7el	
+qon (Wash has qon': p. 316)	qon	
+na:  N 229	na	
+bana:na: N44W and N1964	bana:na	
+7ol7olwoo: to be bashful towards	colcolwoo	
+c'abbo: “to suck at”	c'abbo	
+c'o:w'o: “work, grasp continuously”  N 87	c'o:w'o	
+wancih, kwaty” (Duckwater: kwahaten)	wancih	
+kokon (Duckwater: kokkon)	kokon	
+wíta 'baina: ('cabeza' +?)	wíta_'baina	
+oopítsi (matapi); kákoli (R2001: probable loan)	oopítsi	
+generic ant: matʰɨ	matʰɨ	
+tree: sɨẓ kʰadɨnaa	sɨẓ kʰadɨnaa	
+generic lizard: kʰuitʰu	kʰuitʰu	
+generic snake: kʰuwaẓaẓ	kʰuwaẓaẓ	
+frog: kʰiˀbaru	kʰiˀbaru	
+turtle: ˀdaẓau	ˀdaẓau	
+generic yam: kʰiriča; čʰipʰuwii	kʰiriča	
+generic basket: daẓuwan	daẓuwan	
+generic basket: daẓuwan	daẓuwan	
+fermented drink: riwɨnii	riwɨnii	
+eda (also: see, listen, look after)	eda	
+kamu'ujini: kamu'ují	kamu'ují	
+woman's breast: (mé)-mïxpʰánye	mïxpʰánye	
+he: áá-nïḯ, aá-pʸe, aá-pe, aá-ti, tií-pʸe; she: áá-mʸeé, aá-če, tií-če; it: aá-pʸe	áá-nïḯ	
+rattlesnake: tʰáákʰaʔe	tʰáákʰaʔe	
+generic ant: pʰíímyepa	pʰíímyepa	
+worm: ïḯpa; common bait worm: tyuuhúmɨ; bait (in general): tájuta	ïḯpa	
+woman's breast: míɸaɲo	míɸaɲo	
+he: díi-bo, áxáa-nɨ; she: díi-go, áxáa-mo; it: xáá-no	díi-bo	
+rattlesnake: táakaʔo {sabanera}	táakaʔo	
+generic ant: ɸíimo	ɸíimo	
+worm: xɨ́ʔɨba, čúʔúi	xɨ́ʔɨba, čúʔúi	
+giant savannah deer (as opposed to bush deer): waigiiniimö	waigiiniimö	
+transitive: -uka-; intransitive: aʔ (-tɨ, -ti); yuwaatɨn (IDS)	-uka-	
+turn over: -areɲaka-; turn around: -oponaka-; -os-oponaka- (IDS)	-areɲaka-	
+transitive: poʔtɨ' intransitive: aramɨ (IDS)	poʔtɨ	
+turn over: eraʔtɨ; turn around: ennaʔpo (IDS)	eraʔtɨ	
+pehE (sea turtle?); taEru (turtle? Spanish: terecay); kaani (morrocoy)	pehɛ	
+transitive: kuika, intransitive: kenuma, ikenuma, keneta (A1981); ikui'ka (M2000)	kuika	
+kata (especie de cigarra), anarva (especie de cigarra: quesada gygas) (A1981); ariiktö (E1980)	kata	
+waikin (odocoileus gymnotis: venado sabanero), kariauki (virginianus cariacu: venado montañero) (A1981); giant savannah deer (as opposed to bush deer): waikiiniimö (E1980)	waikin	
+arauta (E1980); iwaraka: generic monkey (M2000)	arauta	
+chirima, chiripra (both mean: especie de comején comestible) (A1981); kuungwaik (E1980)	chirima	
+ri-ku-tun (A1981); iwaraka: generic monkey (M2000)	ri-klu-tun	
+waikin (odocoileus gymnotis: venado sabanero), kariauki (virginianus cariacu: venado montañero); giant savannah deer (as opposed to bush deer): waikiiniimö	venado_sabanero	
+charampue (cesto grande y de tejido ralo), wankotopue (especie de cesto grande) (A1981);for carrying produce: akaik, waikarapö (E1980)	akaik	
+orodan (A1981); kookoi (E1980); spirit: yaukkuarɨ (E1980)	yaukkuarɨ	
+transitive: akɲi-ko, intransitive: ečakɨ-ra	akɲi-ko	
+freshwater eel: kašmi	kašmi	
+generic fish: ootɨ	ootɨ	
+physician: k-ehčema-ɲe	k-ehčema-ɲe	
+spirit: ekatɨ	ekatɨ	
+to shoot arrows: pykwase	pykwase	
+thabháko (Sp: tabaco)	thabháko	
+karrápatha (Sp: garrapata)	karrápatha	
+thãmbóra (Sp: tambór)	thãmbóra	
+thãmbóra (Sp: tambór)	thãmbóra	
+plaúta (Sp: flauta)	plaúta	
+makibü (2)(Sp: caimán; generic, Crocodilus), maxüneje (3)(Crocodylus intermedius), maxünejepetsaebianü (2)	makibü	
+kiwa (2); kará (sp.; Melendez: Ar loan)	kiwa	
+pumeníruwa, kajúyali (Melendez 2014: both Arawak loans)	pumeníruwa	
+jiwasa (DL: you and me), jiwasanaka	jiwasa	
+stomach: -pup-yau; -nam-de	-pup-yau	
+frog: kim	kim	
+generic lizard: wisan	wisan	
+generic snake: sə̃p	sə̃p	
+generic snake: sə̃p	sə̃p	
+turtle: yuk	yuk	
+hipa (Giron: loan ipatu Arawak)	hipa	
+tree: tə	tə	
+generic manioc: tim; wõk-də	tim	
+generic yam: yãmi	yãmi	
+generic ant: hui	hui	
+generic monkey: bu	bu	
+generic basket: kam	kam	
+generic basket: kam	kam	
+physician: -hei-kon-o; -wɨn-ɨ	-hei-kon-o	
+fermented drink: pai	pai	
+chitá: inga alba; wapdeja: inga fastuosa	inga_alba	
+münü, juñuni (dialectal variants: Meu Muno and Wayari Muno groups); ürê ('used by ancestors', also present in Tukanoan); búyup, juyuni	münü	
+hũtæ̃́h [Martins: wět]	hũtæ̃́h	
+generic basket: hĩtyu; hntyu	hĩtyu	
+generic gun: dudasi; dunu	dudasi	
+fermented drink: kasihyã; hũdahã	kasihyã	
+generic meal: huru	huru	
+generic trap: tãnũ	tãnũ	
+generic: 'ha-bɨsi-o-ri-a-huria	'ha-bɨsi-o-ri-a-huria	
+ñurĩjẽ (inanimate), animates: caroʉ́, caroao, caruʉ́, caruao	caroʉ́	
+burayʉ; cotʉteyʉ; cotʉvayʉ; peopeyʉ; totarĩ burayʉ: totayʉ; tuitóyʉ; tʉtoyʉ; nainóñʉ ('to cut a tree with a machete')	totayʉ	
+ñáñʉ; to dream of: decoboayʉ, ñóvañʉ	decoboayʉ	
+comezón: purãcʉ	purãcʉ	
+boarĩ́ jarʉvayʉ: boayʉ́, boarĩ́ jebeyʉ: boayʉ́, boarĩ́ yavayʉ: boayʉ́	boayʉ́	
+reírse: jacoðoboyʉ; jajeðo; yʉriyʉ	jacoðoboyʉ	
+on the left: cãcopũravʉ	cãcopũravʉ	
+to rot: maume; pojeyʉ; ʉ̃roteyʉ	maume	
+no generic term; májʉmecʉ ('blue and yellow macaw'); ma ('gucamayu bandera; also: 'red macaw')	májʉmecʉ	
+ãima boayʉ́: ãimacʉ	ãimacʉ	
+similar: bupu mia-ri ('to lighten')	bupu mia-ri	
+similar: pũrĩ-ri ('to be in pain/to hurt')	pũrĩ-ri	
+semantically similar: deco mere-ri ('to rain')	deco mere-ri	
+to rot: boa-ri	boa-ri	
+similar: wé-ri ('to make oneself wet')	wé-ri	
+rica; wild fruits: dʉjo; ñuanori; ũcu	dʉjo	
+to be heavy: rʉ̃cʉ-rise	rʉ̃cʉ-rise	
+similar: tata ('pool')	tata	
+semantically similar: yi-re (to flash); bʉjo (for 'thunderstorm'; cf. Thunder)	yi-re	
+to be in pain: jũni wisi-re; to hurt: jũni-rise	jũni_wisi-re	
+to rain: ide quedi-rise, quedi-re	ide_quedi-rise	
+similar: joga-rise 'to rot'	joga-rise	
+to be sharp: odi-rise	odi-rise	
+to be short: ye-rise	ye-rise	
+to be thick: jair-ise (seems similar to jai-re 'to grow'); webʉti-rise	jair-ise	
+semantically similar: bʉjo 'thunderstorm' (cf. lightning) and ja-re 'to thunder' (cf. hit, pound/beat)	bʉjo	
+soe-re; ʉ̃jʉ-rise; ya-re; to burn oneself: ʉa-re	ʉa-re	
+to cook in water: roa-re; to be cooked: ñai-rise	roa-re	
+yeyo-re; to hide oneself: rudi-re	rudi-re	
+semantically close: aja-re ('reírse'); ajati-re ('sonreírse')	aja-re	
+ghost: rʉ̃mʉ; ʉsi; ghost of a dead person: wʉjo	rʉ̃mʉ	
+generic yam: yã'bũ	yã'bũ	
+generic ant: pe'ta; bẽ'kã	pe'ta	
+generic basket: pii	pii	
+generic basket: pii	pii	
+be on top of: pisa	pisa	
+to move upward/go uphill: ~baha/ -~baha	baha	
+be; ~kha; yʉ'so; to cut open: waye	waye	
+sa'a; dig into: dʉte	dʉte	
+be far away: pase; to be far: yoa	pase	
+to be close by: -ba'ro; to be nearby: du'tu; ka'a; thua;  be next to: kha'a	-ba'ro	
+bʉcʉ; mʉna; panopʉ macari; for persons: bʉcʉro (m.), quiro bʉcoro (f.) (all Waltz)	bʉcʉ	
+to open wide (intran.): bʉkʉ	bʉkʉ	
+to separate: -boro; to divide in half: wa'chu	-boro	
+be bad: ~ya	ya	
+flies: ~khobada (Stenzel); comanairo (Waltz); wihminairo (Waltz)	khobada	
+generic fish v: jo'ga	jo'ga	
+generic: phʉ'ʉ	phʉ'ʉ	
+iwikũĩ (morphologically complex: iwi = terra)	iwikũĩ	
+ya (used before a verb) yandé ("Etimologia: cf. ya, Se usa antes do verbo já completado para insistir)	ya	
+aí tapuru (species of parastic larva found in palm trees, etym: ai = laziness/sloth, tapuru = wormy)	aí_tapuru	
+iwarawá (G&F: Carib origin?)  pirá tapi ira ('fish-tapir')	iwarawá	
+batata, yutika (G&F: no longer widely used)	batata	
+uĩ; (also: karuera, farofa [loan from POR])	uĩ	
+kaxiri (Cruz: not a Tupi term), kaiçuma (fermented manioc), tikira	kaxiri	
+hogobe, woman's breast: monoï	monoï	
+he: imɯ.e; she: iñaiño, maiñaiño; it: i.e	imɯ.e	
+rattlesnake: raïdï {matches Muinane Huitoto 'coral snake'}	raïdï}	
+hogóbe, woman's breast: mónoï	mónoï	
+he: apέ-ma, da; she: apέŋo; it: dáge	apέ-ma	
+rattlesnake: nonórai	nonórai	
+he: áʔii-m̵a, ïïm̵a, ĩĩhã, ha(ʔ)-; she: aʔiiko, ïïko, ĩĩhã, ña, ha- haʔ-; it: tʸã(hï̃), tʸa	áʔii-m̵a	
+rattlesnake: namaañi	namaañi	
+cováátso, (tree: covááya)	cováátso	
+mon̈áánfu (Crescentia; Leach dict), toonhfu (Allin: 'gourd'; Leach 'calabaza seca')	mon̈áánfu	
+generic: ñaaro, josóóvura	ñaaro	
+generic: ñaaro, josóóvura	ñaaro	
+tree: ~oro$ihi (gom)	oro$ihi	
+fruit: ~maimak (gom), tree: ~maimasi (gom)	maimak	
+nana (WS76); manokorima (bold), ɨrepërima (white-haired)(both WM99, nom. Class: si)	nana	
+koratha (generic); [types: manito, paixima, rëprare, rokoa, rokoma, uxipirima, xiahima, yarimɨna (all WM99, nom. Class: si)]	koratha	
+shidi (WS76); uxirima (black grains), hrare (orange grains), aurima (white grains) (all WM99, nom. Class: mokɨ)	shidi	
+naškoko (EM72); aurima ("white"), hayokoari("mythical tapir-like animal"), hutuwisasi("capuchin monkey tail"), puuxirima("short"), wakërima ("red"), yanaema ("ant") (all WM99, nom. Class.: koko); kõaimirima (WM99, bitter manioc general term, nom. Class:	naškoko	
+watim kok (EM72); nashi (WS76); raparima ("long"), uxirima ("black"), yãhihirima ("sticky") (all WM99, nom. Class. Koko); witatirima (WM99 - sweet manioc generic term, nom class: si)	watim_kok	
+jucomo (WS76); ãkõtarima, õsimõhõrima, wakërima ("red") (all WM99, nom. Class: kɨkɨ); hõkõmo uritʰeri a (WM99, wild sweet potato)	jucomo	
+aja aco (WS'76); aurima ("white"), keteterima ("sweet"), uxirima ("black/deep blue") (all WM99, nom. Class: akɨ)	aja_aco	
+kuratha [also: paushimɨ, ãsikiɨ, hatuhaturimɨ, tapɨta pɨrimɨ, raparimɨ, rõkõmɨ, shinapemɨ, pareamɨ, pakatarimɨ, monarimɨ, hohorimɨ]	kuratha	
+roomamotima (neol. : ro-aɨ = "to sit")	roomamotima	
+kopeta (little used terms: amarõkõma, arakusa, hiihi, hõmomamɨ, mokawa, tãhimi hi, yoroa)	kopeta	
+pẽ: nahe	pẽ	
+níiya caricúcu (MC: earth ɨ ceiling)	níiya_caricúcu	
+sɨsanuríca (MC: badɨdiminutive)	badɨdiminutive)	
+sɨɨsaramajɨtáami (inanimate), sɨɨsaramajɨtáapɨ (animate)  (MC: bad-having a same-sex siblingɨ?ɨanimacy)	bad-having a same-sex siblingɨ?ɨanimacy)	
+nunamíja (Possible MC: 3sg poss + eye)	nunamíja	
+pisája (Tinamus guttatus); ráana (Tinamus major); sacácuji (Crypturellus undulatus); sɨr'ɨmaaja (Crypturellus soui); sɨ'ɨca (Crypturellis cinereus); náqui im'ɨɨni siriíja (MC: compound Lit: 'perdiz de sacharruna'. Crypturellus variegatus)	pisája	
+anápa (Ara ararauna and Ara chloroptera); íyɨɨja (Diopsittaca nobilis); nɨsicásaaja (Ara severa y Ara manilata, MC: Lit: 'come-aguaje')	anápa	
+páatu (MC: From Spanish pato); aaca páatu (Cairina moschata; MC: compound: water ɨ duck); pújari (Oxyura dominica)	páatu	
+musútina cáarsa (MC: borrowing/calque from Spanish garza blanca)	musútina_cáarsa	
+panási (general term); músati (Campylorhampus sp.); panasi ihuítani (Dryocopus lineatus, MC: woodpecker ɨ big); panási musútina (Celeus flavus, MC: woodpecker ɨ white); pasiíja (Dendrocincla spp.); páasi ípuusi (Dendrocolaptidae, MC: compound, Lit: 'tripa	panási	
+cáaji (Choloepus didactylus); aaca jinaána cáaji (Bradypus tridactylus) (MC: Compound Lit: 'pelejo del agua')	cáaji	
+ijacuúja (Boa constrictor constrictor; MC: Lit: 'tigrillo de la altura'); jaáyɨ (mantona, boa de altura, especie de boa que vive en huecoe en la tierra de las lomas)	ijacuúja	
+naquicuúja (Chelonoidis denticulata) (MC: náqui - forest; cuúja - Leopardus wiedii)	naquicuúja	
+samúkwaati (generic); caáji námati (MC: compound, Lit: 'brazo de pelejo')	samúkwaati	
+tahuáacu (MC: borrowing from Sp. tabaco)	tahuáacu	
+siríinca (Hevea brasiliensis) (MC: From Spanish shiringa); cáusi (Castilla ulei) (MC: From Spanish caucho)	siríinca	
+sapáaya (MC: from Sp. zapallo); see also bottle-gourd	sapáaya	
+sicuanája paniáana (Lit: 'buscador de piojo')	sicuanája_paniáana	
+jimɨ'ɨti iriyáacu (Sciurus spadiceus and Sciurus igniventris) (MC: Compound Lit: 'acarreador de callampa')	jimɨ'ɨti_iriyáacu	
+sáhuiri (MC: From Spanish sable)	sáhuiri	
+paráatu (MC: from Spanish plato); tam'+riija (clay)	from Spanish plato)	
+míira (general term); surucu áaca (MC: bee species (arambasa) + water); ihuaana áaca (MC: bee species (colmena) + water); ramíisi áaca (MC: bee species (ramichi) + water)	míira	
+jinítaasi (piedra negra que chispea cuando se lo choca a ras, que antiguamente servía para prender fuegos); ituhuanajáati (piedra que produce chispas, MC: ituuni - to burn sthg); iinámi sahuíja (piedra de candela, un tipo de piedra negra y dura que da chi	jinítaasi	
+apíraati; acáay+ íhuaasi (un abanico de forma redonda, hecha de hoja de chambira. MC: Compound, Lit: 'cola de vaca marina'); sámuu íhuaasi (tipo de abanico que se teje la hoja de shapaja, y que tiena la forma de la cola de paiche. MC: Compound, Lit: 'cola	apíraati	
+arridil XXngl cf Mcgregor's idea that the -il might be related to the -bili of Ya.	arridil	
+gardi XXgl still	gardi	
+niya; [-ga] XXngl	niya	
+irrgil; jiiwa XXngl cognate of irrgil is Jukun yirragulu 'wattle'	irrgil	
+jamarda XXgl coming this way (adv)	jamarda	
+-jinbinbin- XXngl think of something/someone	-jinbinbin-	
+anggoorrgoon -ni- XXgl be in tears	anggoorrgoon	
+laaba XXgl earwax	laaba	
+burrm -julung- XXngl gut sth.	burrm -julung-	
+jambal XXngl hind flippers of turtle	jambal	
+-badi- XXgl be satisfied	-badi-	
+jabijab XXgl itching (adj)	jabijab	
+birdbag XXgl sheet lightning	birdbag	
+niiwandi XXngl possessed form of garndi on top?	niiwandi	
+baangga XXngl meat without bones	baangga	
+guwidi XXngl also month	guwidi	
+niimal XXngl cf nimarl `hand'	niimal	
+aralga XXngl another time	aralga	
+morr XXngl this should go back to |fv{magurr}.	morr	
+duly -ø- XXgl open a boil or sore	duly-	
+noondoorr XXgl Nouns	noondoorr	
+boombool -inya- XXgl hit water with a splash	boombool	
+-barra- ~ -warra- XXgl dream	-barra	
+ooly -ma-/-ar- XXgl rain	ooly	
+Jalmbarn XXgl Place	Jalmbarn	
+baninybooroo XXgl carpet python	baninybooroo	
+balinggi XXgl female kangaroo	balinggi	
+yarnkal XXŋl porrowiŋ in Barti, pty of initial y-	yarnkal	
+milgin XXngl given as 'walking stick'	milgin	
+kinyji XXngl vowel harmony fine, but why not kinyj?	kinyji	
+yareweden [-wid-] XXgl we eat	yareweden-wid-	
+mihiteo XXngl typo? XXgl get bigger	mihiteo	
+-gad- [magetan] XXgl hide oneself XXngl should probably go under 'bury'	-gad-magetan	
+-dam- [ma-daman; ma'daman] XXgl to take aim, to hit, to aim at, beat	-dam-ma-daman	
+-gam- [makaman] XXgl to laugh, joke.	-gam-makaman	
+munggurn XXngl maybe a mistake	munggurn	
+pandeet XXgl tumor	pandeet	
+garrinygam; nimal, nirlbun XXngl last one of these is 'bush onion' in Bardi	garrinygam	
+-jal- [mad@ialan] XXgl see, be faithful	-jal- [mad@ialan]	
+duburl XXngl probably goes with the 'fly' words	duburl	
+-ma- bardangak [maman badangak] XXgl lean on a stick	-ma- bardangak [maman badangak]	
+kirdkird -nyu- XXgl strangle	kirdkird -nyu-	
+wardabal XXngl irregular correspondence, final rr:l	wardabal	
+gamaran_anj XXngl W	gamaran_anj	
+yadirri XXngl yadirri	yadirri	
+XXngl ngayu		
+muwarn XXngl mugarn	muwarn	
+-alm XXngl marru	-alm	
+nilirr XXngl nilirr	nilirr	
+buda XXngl nunggarn	buda	
+XXngl mijala		
+jarrunggu XXngl jarringg	jarrunggu	
+XXngl milkin		
+nyangajunu; kangajunyirryjurr XXngl "all of them"	nyangajunu	
+-burnda-; -burna- XXgl bite, attack, tease, taste	-burnda-	
+garli; lanyji; warraga; wilyginy; yilybirrin XXngl warraga is a borrowing from Mangala (? - in grmamar)	garli	
+larrp +dyu XXgl burn out (fire)	larrp +dyu	
+durirdi XXngl maybe typo for gurirdi?	durirdi	
+-jalkujalku- XXgl fall down repeatedly	-jalkujalku-	
+dumbarr + XXgl flap (wings); fly away	dumbarr +	
+niwal XXngl also `footprint'.	niwal	
+warnba XXngl loan from Karajarri	warnba	
+nilirr, niliyirr XXngl second form careful speech.	nilirr, niliyirr	
+mijala ingarn XXgl sit	mijala ingarn	
+rdirdirdi +ma XXgl squeeze it	rdirdirdi +ma	
+-mirdurdu- XXngl transitive (turn it around)	-mirdurdu-	
+kadatykadya + XXgl walk about	kadatykadya +	
+jando XXngl = woman	jando	
+barrydyanyin XXgl wallaby	barrydyanyin	
+lanbalanba XXgl northern bat	lanbalanba	
+dyalbinykal XXgl bird species (species unknwon)	dyalbinykal	
+bindabinda XXgl also butterfly shell	bindabinda	
+durirdi XXngl maybe typo for gurirdi?	durirdi	
+dyibalkuru XXgl sp of bird (species not known)	dyibalkuru	
+minydyinyngurru XXgl 'big head turtle'	minydyinyngurru	
+kurrulyu XXgl black swan	kurrulyu	
+kuwan XXgl big pearlshell	kuwan	
+wiliny XXgl k o small tree	wiliny	
+biyalbiyal XXgl mangrove	biyalbiyal	
+inar XXngl he bit it	inar	
+barbar kangaw XXgl I cut it ?? (? in text)	barbar kangaw	
+yarre-geden [-kid-] XXgl we eat	yarre-geden	
+injalg XXngl he fell	injalg	
+djambel XXngl hind flippers of turtle	djambel	
+ngangarlikarra XXgl I hear it	ngangarlikarra	
+barbar kangaw XXngl glossed as cut, with ?	barbar kangaw	
+jarrajarra XXngl he is standing up	jarrajarra	
+marlarr XXngl wife, wife's sister	marlarr	
+boia XXgl small red ant	boia	
+buju XXngl big, all gone	buju	
+-bilgi- XXngl impersonal	-bilgi-	
+gamininy XXngl = Yaw. cold weather	gamininy	
+ngalkoorroo XXngl dirty, sweaty-smelling	ngalkoorroo	
+burdararra XXngl dust storm, cloud of dust	burdararra	
+gambiy XXgl egg, uterus	gambiy	
+nimildarr XXngl also `face'	nimildarr	
+guly XXngl excrete (v); give birth to	guly	
+jidu XXngl hide behind	jidu	
+-bardi- XXngl to hold onto something for someone.	-bardi-	
+jimbin XXngl covered up	jimbin	
+wirriny; warnjal XXngl latter are tea leaves	wirriny	
+gurndijina; golir XXngl latter blade	gurndijina	
+lar XXgl take off skin	lar	
+dambal XXngl smallish river stone	dambal	 [-kid-] 
+nundurr XXngl warm	nundurr	
+birrb XXngl turn off, turn aside.	birrb	
+jagilya -ra- [j.agilja ng.a-ran] XXgl I'm wet	jagilya	
+dilarr XXngl cf Bardi 'make a short and light sound'	dilarr	
+gambura XXngl allusive	gambura	
+ju XXngl erg juwana	ju	
+nulurn XXngl probably pv.	nulurn	
+gurd ngindany XXngl it died	gurd ngindany	
+-narli- XXngl misanalysis of -arli-?	-narli-	
+jalwiny; -jalu- XXngl note that pv = root here.	jalwiny	
+jagarra; maarru XXngl marru is face.	jagarra	
+gamanggaya; gama XXngl are these preverbs or roots? (gama a preverb; can it also be a root?)	gamanggaya	
+waarru ngambanyjina XXngl scratch I did to myself.	waarru ngambanyjina	
+kulin ingan XXgl lie down.	kulin ingan	
+yalu jarran XXngl he is standing up	yalu jarran	
+rung+ XXgl ache	rung	
+jawu minjan XXngl swim you do	jawu minjan	
+laj gurrayan XXngl throw you do.	laj gurrayan	
+jalan XXngl note in kerr that it's archaic.	jalan	
+jangguliny; XXngl isn't this 'tongue'?	jangguliny	
+kungka: jungku	jungku	
+arrudu kuyarra XXngl we two excl (1+3)	arrudu_kuyarra	
+noonga XXngl stomach (internal)	noonga	
+nunalee XXngl I'm eating it. |fv{nganarli}	nunalee	
+neemanyie XXngl mouth	neemanyie	
+jennabia XXgl from where	jennabia	
+moongorr XXngl in Bardi as the preverb for 'jealous'	moongorr	
+Mal: tharna,	tharna	
+Mal: thipi	thipi	
+Mal: karlka-	karlka-	
+Mal: manturru	manturru	
+Mal: pintarra	pintarra	
+Mal: ngangka-	ngangka-	
+Mal: kuwa	kuwa	
+Mal: thalaRa	thalaRa	
+Mal: mantha	mantha	
+Mal: marrpa-	marrpa-	
+Mal: thathi-	thathi-	
+Mal: pali-	pali-	
+Mal: pika-	pika-	
+Mal: wilka	wilka	
+Mal: punha	punha	
+Mal: thukurru	thukurru	
+Mal: nhati	nhati	
+Mal: ngaka-	ngaka-	
+Mal: yulparu	yulparu	
+Mal: manhu	manhu	
+Mal: mingku	mingku	
+Mal: thanta-	thanta-	
+Mal: punta-	punta-	
+Mal: yaka-	yaka-	
+Mal: thilkata-	thilkata-	
+Mal: malja	malja	
+Mal: mangka,	mangka,	
+Mal: ngurna-	ngurna-	
+Mal: pirndi	pirndi	
+Mal: patju	patju	
+Mal: kurri	kurri	
+Mal: kula	kula	
+Mal: kurlpi'	kurlpi'	
+Mal: parkarditjulu	parkarditjulu	
+Mal: parlkarra	parlkarra	
+Mal: palkarra	palkarra	
+Mal: pamparra	pamparra	
+Mal: mira-	mira-	
+Mal: winka	winka	
+Mal: nguntja	nguntja	
+Mal: wapi-	wapi-	
+Mal: ngupu-	ngupu-	
+Mal: thingma-	thingma-	
+Mal: kurrka-	kurrka-	
+Mal: paRulkuRu	paRulkuRu	
+Mal: purkata	purkata	
+Mal: karluta-	karluta-	
+Mal: wintju	wintju	
+Mal: patjarka	patjarka	
+Mal: wilparru	wilparru	
+Mal: pilthi	pilthi	
+Mal: kathu	kathu	
+Mal: yurli	yurli	
+Mal: muthu	muthu	
+Mal: tharlda	tharlda	
+Mal: thipi-thipi	thipi-thipi	
+Mal: parlka	parlka	
+Mal: withawitha	withawitha	
+Mal: thardu-pira	thardu-pira	
+mimu: & waybi	waybi	
+hū (IDS); hu: (KH)	hu:	
+transitive: ukā-dɨ; intransitive: daʔtwa-dɨ (IDS)	ukā-dɨ	
+šī (IDS); shi: (KH)	(KH)	shi:
+hɨ̄ (IDS); hü: (KH), chu (KH) (means 'mountain', 'forest')	hü:	
+wade:ku: (KH)	wade:ku:	
+dē (IDS); de: (KH), chu:ta (KH)	chu:ta	
+mayūdu (IDS): mayu:du (KH)	mayu:du	
+hogóbe, woman's breast: mónoï	mónoï	
+he: aɸé-mï.e; she: aɸéño; it: í.e	aɸé-mï.e	
+rattlesnake: nonórai	nonórai	
+lopa [C: Apalai loan]	lopa	
+jum-me, pa: (vocative; spanish loan), pahko	jum-me	
+[alapɔnɔ] (Grenand: Carib loan)	alapɔnɔ	
+kik=noxo; di=noxo (Respectively: male child; female child)	kik=noxo	

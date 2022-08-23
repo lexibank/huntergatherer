@@ -1,325 +1,325 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family
-1,Cupeño,cupe1243,Cupeño,cup,North America,33.3148,-116.515,Uto-Aztecan
-2,Cahuilla,cahu1264,Cahuilla,chl,North America,33.5324,-116.691,Uto-Aztecan
-3,Luiseño,luis1253,Luiseno-Juaneño,lui,North America,33.3184,-116.939,Uto-Aztecan
-4,Serrano,serr1255,Serrano,ser,North America,33.9479,-116.772,Uto-Aztecan
-5,Kawaiisu,kawa1283,Kawaiisu,xaw,North America,36.0538,-118.679,Uto-Aztecan
-6,Western Mono,mono1275,Mono (USA),mnr,North America,37.1935,-119.347,Uto-Aztecan
-7,Chemehuevi,chem1251,Chemehuevi,ute,North America,35.356093,-116.438436,Uto-Aztecan
-8,Southern Paiute,sout2969,Southern Paiute,ute,North America,37.0,-114.0,Uto-Aztecan
-9,Southern Ute,utee1244,Ute,ute,North America,38.0,-109.0,Uto-Aztecan
-10,Comanche,coma1245,Comanche,com,North America,34.0,-101.0,Uto-Aztecan
-11,Northern Paiute,nort2954,Northern Paiute,pao,North America,40.0799,-119.536,Uto-Aztecan
-12,Yuma,quec1382,Quechan,yum,North America,32.7859,-114.599,Cochimi-Yuman
-13,Tümpisa Shoshone,pana1305,Panamint,par,North America,36.0007,-117.901,Uto-Aztecan
-14,Yokuts Palewyami,pale1254,Palewyami Yokuts,yok,North America,35.556742,-119.073757,Yokutsan
-15,Central Sierra Miwok,cent2140,Central Sierra Miwok,csm,North America,38.0812,-120.257,Miwok-Costanoan
-16,Esselen,esse1238,Esselen,esq,North America,36.5473,-121.867,Esselen
-17,Gabrielino,tong1329,Tongva,ser,North America,34.1,-118.11,Uto-Aztecan
-18,Kitanemuk,serr1255,Serrano,ser,North America,33.9479,-116.772,Uto-Aztecan
-19,Maidu,nort2952,Northeast Maidu,nmu,North America,40.4102,-120.645,Maiduan
-20,Mutsun,muts1243,Mutsun,,North America,,,Miwok-Costanoan
-21,Nisenan,nise1244,Nisenan,nsz,North America,38.047,-120.393,Maiduan
-22,Northern Sierra Miwok,nort2968,Northern Sierra Miwok,nsq,North America,38.4179,-120.588,Miwok-Costanoan
-23,Plains Miwok,plai1259,Plains Miwok,pmw,North America,38.39772,-121.653344,Miwok-Costanoan
-24,Salinan M,sali1253,Salinan,sln,North America,37.6646,-121.718,Salinan
-25,Southern Sierra Miwok,sout2985,Southern Sierra Miwok,skd,North America,38.2363,-120.507,Miwok-Costanoan
-26,Tübatulabal,tuba1278,Tübatulabal,tub,North America,35.327,-117.163,Uto-Aztecan
-27,Washo,wash1253,Washo,was,North America,38.8184,-119.64,Washo
-28,Wintu,wint1259,Wintu,wit,North America,39.7176,-122.445,Wintuan
-29,Yokuts Yawdanchi,yoku1256,Northern Yokuts,yok,North America,36.3167,-119.721,Yokutsan
-30,Yuki,yuki1243,Northern Yukian,yuk,North America,39.8389,-123.296,Yuki-Wappo
-31,Yavapai,hava1248,Havasupai-Walapai-Yavapai,yuf,North America,35.6302,-113.385,Cochimi-Yuman
-32,Iipay 'Aa,kumi1248,Tipai,dih,North America,32.331,-116.604,Cochimi-Yuman
-33,Cocopa,coco1261,Cocopa,coc,North America,32.376,-114.848,Cochimi-Yuman
-34,Kiliwa,kili1268,Kiliwa,klb,North America,30.5471,-115.123,Cochimi-Yuman
-35,Mojave,moha1256,Mohave,mov,North America,34.8866,-114.599,Cochimi-Yuman
-36,Wappo,wapp1239,Wappo,wao,North America,38.25,-122.5,Yuki-Wappo
-37,Seri (Comcaac),seri1257,Seri,sei,North America,28.9877,-112.384,Seri
-38,Lake Miwok,lake1258,Lake Miwok,lmw,North America,39.0021,-122.621,Miwok-Costanoan
-39,Chumash Barbareno,barb1263,Barbareño,boi,North America,34.462,-119.699,Chumashan
-40,Chumash Ventureno,vent1242,Ventureño,veo,North America,34.1761,-119.035,Chumashan
-41,Chumash Obispeno,obis1242,Obispeño,obi,North America,35.2873,-120.669,Chumashan
-42,Chumash Cruzeno,cruz1243,Cruzeño,crz,North America,34.0465,-119.864,Chumashan
-43,Chumash Ineseno,ines1240,Ineseño,inz,North America,34.6169,-120.08,Chumashan
-44,Bankalachi Toloim,tuba1278,Tübatulabal,tub,North America,35.327,-117.163,Uto-Aztecan
-45,Yokuts Yowlumne,yoku1256,Northern Yokuts,yok,North America,36.3167,-119.721,Yokutsan
-46,Big Smokey Valley Shoshone,shos1248,Shoshoni,shh,North America,41.0,-116.0,Uto-Aztecan
-47,Salinan A,sali1253,Salinan,sln,North America,37.6646,-121.718,Salinan
-48,Achagua,acha1250,Achagua,aca,South America,4.38649,-72.2005,Arawakan
-49,Yanesha',yane1238,Yanesha',ame,South America,-10.5454,-75.315,Arawakan
-50,Apurinã,apur1254,Apurinã,apu,South America,-8.21692,-66.7714,Arawakan
-51,Asheninka Apurucayali,ajyi1238,Ajyíninka Apurucayali,cpc,South America,-9.82364,-74.61947,Arawakan
-52,Baniwa,bani1255,Baniwa do Icana,bwi,South America,2.17859,-67.7704,Arawakan
-53,Bare,bare1276,Baré,bae,South America,1.91649,-66.828,Arawakan
-54,Kabiyari ,cabi1241,Cabiyarí,cbb,South America,0.16101,-71.0622,Arawakan
-56,Mandawaka,mand1448,Mandahuaca,mht,South America,1.48,-66.52,Arawakan
-57,Paresi ,pare1272,Parecís,pab,South America,-14.5929,-57.4059,Arawakan
-58,Piapoco ,piap1246,Piapoco,pio,South America,4.37718,-68.5953,Arawakan
-59,Resígaro,resi1247,Resígaro,rgr,South America,-1.169535,-71.60524,Arawakan
-60,Tariana,tari1256,Tariana,tae,South America,0.440205,-68.9042,Arawakan
-61,Wapishana,wapi1253,Wapishana,wap,South America,2.58744,-59.8021,Arawakan
-62,Warekena ,guar1293,Baniva de Maroa,gae,South America,1.80835,-66.922505,Arawakan
-64,Yavitero,yavi1244,Yavitero-Pareni,yvt,South America,2.924844,-67.438886,Arawakan
-65,Yukuna ,yucu1253,Yucuna,ycn,South America,-0.76075,-71.0033,Arawakan
-66,Arutani,arut1244,Arutani,atx,South America,4.0673594,-62.8676118,Arutani
-67,Sape,sape1238,Sapé,spc,South America,4.0735661,-62.9666521,Sapé
-68,Bora,bora1263,Bora,boa,South America,-2.000259,-72.257066,Boran
-69,Muinane ,muin1242,Muinane,bmr,South America,-0.8652,-72.4249,Boran
-70,Akawaio,akaw1239,Akawaio,ake,South America,6.16277,-60.862,Cariban
-71,Akawaio/Ingariko dialect,akaw1239,Akawaio,ake,South America,6.16277,-60.862,Cariban
-72,Carijona,cari1279,Carijona,cbd,South America,1.21894,-72.0664,Cariban
-73,Eñepa,enap1235,Panare,pbh,South America,6.95035,-65.8483,Cariban
-75,Makushi ,macu1259,Macushi,mbc,South America,4.31861,-60.2209,Cariban
-76,Mapoyo,mapo1246,Mapoyo,mcg,South America,5.96952,-67.2581,Cariban
-77,Pemon,pemo1248,Pemon,aoc,South America,4.97031,-61.4033,Cariban
-78,Wai Wai,waiw1244,Waiwai,waw,South America,1.50881,-59.1417,Cariban
-79,Waimiri Atroari,waim1253,Waimiri-Atroari,atr,South America,-0.61832,-60.4259,Cariban
-80,Yabarana,yaba1248,Yabarana,yar,South America,5.32692,-66.276,Cariban
-81,Yukpa,yukp1241,Yukpa,yup,South America,9.67534,-73.0557,Cariban
-82,Muisca,chib1270,Chibcha,chb,South America,6.24999,-74.1666,Chibchan
-83,Cabecar,cabe1245,Cabécar,cjp,North America,9.67031,-83.4102,Chibchan
-87,Waunana,woun1238,Woun Meu,noa,South America,8.5,-78.0,Chocoan
-90,Northern Emberá,nort2972,Northern Emberá,emp,South America,7.12761,-77.574,Chocoan
-91,Kaingang,kain1272,Kaingang,kgp,South America,-27.7671,-52.5394,Nuclear-Macro-Je
-92,Cuiva,cuib1242,Cuiba,cui,South America,6.19829,-69.8197,Guahiboan
-93,Guayabero,guay1257,Guayabero,guo,South America,2.8969,-71.844,Guahiboan
-94,Macaguan,maca1259,Macaguán,mbn,South America,6.34582,-71.2671,Guahiboan
-96,Sikuani,guah1255,Guahibo,guh,South America,5.81736,-68.9839,Guahiboan
-97,Andoke,ando1256,Andoque,ano,South America,-0.53751,-72.0869,Andoque
-98,Central Aymara,cent2142,Central Aymara,ayr,South America,-17.0,-68.5,Aymaran
-99,Camsa,cams1241,Camsá,kbh,South America,1.14537,-76.8931,Camsá
-100,Candoshi-Shapra,cand1248,Candoshi-Shapra,cbu,South America,-4.23835,-76.9347,Candoshi-Shapra
-101,Cofán,cofa1242,Cofán,con,South America,0.276675,-77.0643,Cofán
-102,Hodï,yuwa1244,Hoti,yau,South America,5.63879,-65.4267,Jodi-Saliban
-103,Waorani,waor1240,Waorani,auc,South America,-1.12312,-76.683,Waorani
-104,Máku,maku1246,Máku,xxx,South America,3.969231,-64.235892,Máku
-106,Páez,paez1247,Páez,pbb,South America,2.61516,-76.31254,Páez
-107,Puinave,puin1248,Puinave,pui,South America,3.92974,-67.6886,Puinave
-108,Pumé,pume1238,Pumé,yae,South America,7.10677,-67.5996,Pumé
-109,Taushiro,taus1253,Taushiro,trr,South America,-3.22497,-75.5603,Taushiro
-110,Tikuna,ticu1245,Ticuna,tca,South America,-3.66289,-69.8723,Ticuna-Yuri
-111,Tinigua,tini1245,Tinigua,tit,South America,2.716,-73.768,Tinigua
-112,Urarina,urar1246,Urarina,ura,South America,-4.44006,-75.4211,Urarina
-113,Warao,wara1303,Warao,wba,South America,7.50851,-59.3528,Warao
-114,Aguaruna,agua1253,Aguaruna,agr,South America,-5.30044,-77.9218,Chicham
-115,Ashuar,achu1248,Achuar-Shiwiar,acu,South America,-2.82646,-77.2641,Chicham
-116,Huambisa,huam1247,Huambisa,hub,South America,-3.99109,-77.9797,Chicham
-117,Kakua,cacu1241,Kakua,cbv,South America,0.88778,-69.5659,Kakua-Nukak
-118,Nukak,nuka1242,Nukak Makú,mbr,South America,2.65939,-71.4629,Kakua-Nukak
-119,Dâw,daww1239,Dâw,kwa,South America,-0.1177,-67.2934,Naduhup
-120,Hup,hupd1244,Hup,jup,South America,0.58622,-69.8359,Naduhup
-122,Nadëb/Roçado dialect,nade1244,Nadëb,mbj,South America,-1.24449,-66.3068,Naduhup
-123,Yuhup,yuhu1238,Yuhup,yab,South America,0.2485,-69.8079,Naduhup
-124,Matses,mats1244,Matsés,mcf,South America,-5.73914,-72.6281,Pano-Tacanan
-125,Yagua,yagu1244,Yagua,yad,South America,-3.42913,-72.2186,Peba-Yagua
-126,Ingá,inga1252,Colombian Inga,inb,South America,1.00313,-76.8606,Quechuan
-127,Napo Lowland Quichua,napo1242,Napo Lowland Quechua,qvo,South America,-0.072525,-76.3889,Quechuan
-128,Quechua Ayacuchano,ayac1239,Ayacucho Quechua,quy,South America,-13.84714,-74.32246,Quechuan
-129,Southern Pastaza Quechua,sout2990,Southern Pastaza Quechua,qup,South America,-3.32733,-76.527,Quechuan
-130,Piaroa,piar1243,Piaroa,pid,South America,4.41805,-67.7574,Jodi-Saliban
-132,Barasano,bara1380,Barasana-Eduria,bsn,South America,0.02193,-70.808,Tucanoan
-133,Carapana,cara1272,Carapana,cbc,South America,0.06168,-69.6465,Tucanoan
-134,Cubeo,cube1242,Cubeo,cub,South America,1.32382,-70.1939,Tucanoan
-135,Desano,desa1247,Desano,des,South America,0.58157,-69.4955,Tucanoan
-136,Makuna,macu1260,Macuna,myy,South America,-0.14459,-70.0749,Tucanoan
-137,Waikhana,pira1254,Wa'ikhana,pir,South America,0.50714,-69.5032,Tucanoan
-138,Siriano,siri1274,Siriano,sri,South America,0.436515,-70.184,Tucanoan
-139,Tanimuca,tani1257,Tanimuca-Retuarã,tnc,South America,-0.59023,-70.3853,Tucanoan
-140,Tatuyo,tatu1247,Tatuyo,tay,South America,0.55582,-70.5327,Tucanoan
-141,Tukano,tuca1252,Tucano,tuo,South America,0.579755,-69.5763,Tucanoan
-142,Tuyuka,tuyu1244,Tuyuca,tue,South America,0.39441,-70.043515,Tucanoan
-143,Waimaja,waim1255,Waimaha,bao,South America,0.30416,-70.1644,Tucanoan
-144,Kotiria,guan1269,Kotiria,gvc,South America,1.07554,-69.5705,Tucanoan
-145,Yuruti,yuru1263,Yurutí,yui,South America,0.735585,-69.6955,Tucanoan
-146,Koreguaje,kore1283,Koreguaje,coe,South America,0.92316,-75.3475,Tucanoan
-147,Maihiki,orej1242,Maijiki,ore,South America,-2.86315,-72.4926,Tucanoan
-148,Secoya,seco1241,Secoya,sey,South America,-0.459785,-75.5547,Tucanoan
-149,Siona,sion1247,Siona-Tetete,snn,South America,0.31733,-76.0237,Tucanoan
-150,Surui,suru1262,Suruí,sru,South America,-11.0989,-61.2818,Tupian
-151,Karitiana,kari1311,Karitiâna,ktn,South America,-9.37937,-64.1522,Tupian
-152,Nheengatu,nhen1239,Nhengatu,yrl,South America,1.04503,-66.9646,Tupian
-156,Murui Witoto,muru1274,Murui Huitoto,huu,South America,-1.13669,-73.8331,Huitotoan
-157,Nɨpode Witoto,nupo1240,Nüpode Huitoto,hux,South America,-2.34495,-70.9559,Huitotoan
-158,Ocaina,ocai1244,Ocaina,oca,South America,-2.159,-72.1422,Huitotoan
-159,Ninam,nina1238,Ninam,shb,South America,4.03894,-62.7801,Yanomamic
-160,Sanumá,sanu1240,Sanumá,xsu,South America,4.5,-64.5,Yanomamic
-161,Yanomam,yano1261,Yanomamö,guu,South America,1.67967,-64.8781,Yanomamic
-162,Yanomami,yano1262,Yanomám,wca,South America,2.48999,-62.8522,Yanomamic
-163,Iquito,iqui1243,Iquito,iqu,South America,-3.31233,-73.97046,Zaparoan
-164,Bardi,bard1255,Bardi,bcj,Australia,-16.6274,122.906,Nyulnyulan
-165,Nyulnyul,nyul1247,Nyulnyul,nyv,Australia,-16.9129,122.851,Nyulnyulan
-166,Nimanburru,nima1245,Nimanbur,nmp,Australia,-17.374,123.228,Nyulnyulan
-167,Yawuru,yawu1244,Yawuru,ywr,Australia,-18.004,122.693,Nyulnyulan
-168,Jabirr-Jabirr,dyab1238,Dyaberdyaber,dyb,Australia,-17.18653,122.52306,Nyulnyulan
-169,Wardaman,ward1246,Wardaman,wrr,Australia,-15.4155,132.604,Yangmanic
-170,Bunuba,buna1275,Bunaba,bck,Australia,-17.8297,125.631,Bunaban
-171,Gooniyandi,goon1238,Gooniyandi,gni,Australia,-18.4073,126.351,Bunaban
-172,Kija,kitj1240,Kitja,gia,Australia,-17.5758,127.392,Jarrakan
-173,Miriwung,miri1266,Miriwung,mep,Australia,-16.3596,128.889,Jarrakan
-175,Jingulu,djin1251,Jingulu,jig,Australia,-17.165,133.659,Mirndi
-176,Ngumbarl,ngum1253,Ngumbarl,,Australia,-17.491239,122.230025,Nyulnyulan
-177,Nyikina,nyig1240,Nyigina,nyh,Australia,-17.9594,124.348,Nyulnyulan
-178,Warrwa,warr1258,Warrwa,wwr,Australia,-17.0965,123.971,Nyulnyulan
-179,Jawi,djaw1238,Djawi,djw,Australia,-16.4163,123.186,Nyulnyulan
-180,Diyari,dier1241,Dieri,dif,Australia,-28.1667,138.0,Pama-Nyungan
-181,Mithaka,mith1236,Mithaka,,Australia,-25.13606725,139.598447,Pama-Nyungan
-182,Ngamini,ngam1265,Ngamini-Yarluyandi-Karangura,nmv,Australia,-27.1797,138.701,Pama-Nyungan
-183,Nhirrpi,nhir1234,Nhirrpi,hrp,Australia,,,Pama-Nyungan
-184,Pirriya,pirr1240,Pirriya,xpa,Australia,-25.48006595,142.5485119,Pama-Nyungan
-185,Pitta-Pitta,pitt1247,Pitta Pitta,pit,Australia,-22.7952,139.983,Pama-Nyungan
-186,Wangkayutyuru,wang1289,Wanggamala,wky,Australia,-24.7022,137.433,Pama-Nyungan
-187,Yandruwandha,yand1253,Yandruwandha,ynd,Australia,-28.4744,140.583,Pama-Nyungan
-188,Yarluyandi,ngam1265,Ngamini-Yarluyandi-Karangura,yry,Australia,-27.1797,138.701,Pama-Nyungan
-189,Yawarrawarrka,yawa1258,Yawarawarga,yww,Australia,-26.7334,140.871,Pama-Nyungan
-190,Karajarri,kara1476,Karadjeri,gbd,Australia,-18.6771,122.334,Pama-Nyungan
-191,Mangala,mang1383,Mangala,mem,Australia,-18.6597,123.769,Pama-Nyungan
-192,Northern Nyangumarta,nort2754,Northern Coastal Nyangumarta,nna,Australia,,,Pama-Nyungan
-193,Nyangumarta,nyan1301,Nyangumarta,nna,Australia,-20.6271,121.391,Pama-Nyungan
-194,Ngarluma,ngar1287,Ngarluma,nrl,Australia,-20.9235,117.203,Pama-Nyungan
-195,Gurindji,guri1247,Gurindji,gue,Australia,-17.0329,130.379,Pama-Nyungan
-196,Jaru,jaru1254,Jaru,ddj,Australia,-18.3288,128.262,Pama-Nyungan
-197,Mudburra,mudb1240,Mudburra,mwd,Australia,-16.7694,132.329,Pama-Nyungan
-198,Walmajarri,walm1241,Walmajarri,wmt,Australia,-19.7229,126.113,Pama-Nyungan
-199,Warlpiri,warl1254,Warlpiri,wbp,Australia,-20.1008,131.05,Pama-Nyungan
-200,Paakantyi,darl1243,Paakantyi,drl,Australia,-32.7021,142.695,Pama-Nyungan
-201,Kuuk Thaayorre,thay1249,Thayore,thd,Australia,-14.8159,142.034,Pama-Nyungan
-202,Yidiny,yidi1250,Yidiñ,yii,Australia,-17.1332,145.876,Pama-Nyungan
-203,Malyangapa,yarl1236,Yarli,yga,Australia,-29.49049805,140.9591946,Pama-Nyungan
-204,Dhangu,dhan1270,Dhangu,dhg,Australia,-11.9493,135.752,Pama-Nyungan
-205,Djinang,djin1253,Djinang,dji,Australia,-12.462,134.82,Pama-Nyungan
-206,Gupapuyngu,gupa1247,Gupapuyngu,guf,Australia,-12.2868,135.337,Pama-Nyungan
-207,Ritharrngu,rita1239,Ritarungo,rit,Australia,-13.4559,135.259,Pama-Nyungan
-208,Gunin,kwin1241,Kwini,gww,Australia,-14.2515,126.562,Worrorran
-209,Ngarinyin,ngar1284,Ngarinyin,ung,Australia,-16.4006,126.433,Worrorran
-210,Unggumi,ungg1243,Unggumi,xgu,Australia,-15.65,124.67,Worrorran
+1,Cupeño,cupe1243,,cup,,,,
+2,Cahuilla,cahu1264,,chl,,,,
+3,Luiseño,luis1253,,lui,,,,
+4,Serrano,serr1255,,ser,,,,
+5,Kawaiisu,kawa1283,,xaw,,,,
+6,Western Mono,mono1275,,mnr,,,,
+7,Chemehuevi,chem1251,,ute,,,,
+8,Southern Paiute,sout2969,,ute,,,,
+9,Southern Ute,utee1244,,ute,,,,
+10,Comanche,coma1245,,com,,,,
+11,Northern Paiute,nort2954,,pao,,,,
+12,Yuma,quec1382,,yum,,,,
+13,Tümpisa Shoshone,pana1305,,par,,,,
+14,Yokuts Palewyami,pale1254,,yok,,,,
+15,Central Sierra Miwok,cent2140,,csm,,,,
+16,Esselen,esse1238,,esq,,,,
+17,Gabrielino,tong1329,,ser,,,,
+18,Kitanemuk,serr1255,,,,,,
+19,Maidu,nort2952,,nmu,,,,
+20,Mutsun,muts1243,,,,,,
+21,Nisenan,nise1244,,nsz,,,,
+22,Northern Sierra Miwok,nort2968,,nsq,,,,
+23,Plains Miwok,plai1259,,pmw,,,,
+24,Salinan M,sali1253,,sln,,,,
+25,Southern Sierra Miwok,sout2985,,skd,,,,
+26,Tübatulabal,tuba1278,,tub,,,,
+27,Washo,wash1253,,was,,,,
+28,Wintu,wint1259,,wit,,,,
+29,Yokuts Yawdanchi,yoku1256,,yok,,,,
+30,Yuki,yuki1243,,yuk,,,,
+31,Yavapai,hava1248,,yuf,,,,
+32,Iipay 'Aa,kumi1248,,dih,,,,
+33,Cocopa,coco1261,,coc,,,,
+34,Kiliwa,kili1268,,klb,,,,
+35,Mojave,moha1256,,mov,,,,
+36,Wappo,wapp1239,,wao,,,,
+37,Seri (Comcaac),seri1257,,sei,,,,
+38,Lake Miwok,lake1258,,,,,,
+39,Chumash Barbareno,barb1263,,boi,,,,
+40,Chumash Ventureno,vent1242,,veo,,,,
+41,Chumash Obispeno,obis1242,,obi,,,,
+42,Chumash Cruzeno,cruz1243,,crz,,,,
+43,Chumash Ineseno,ines1240,,inz,,,,
+44,Bankalachi Toloim,tuba1278,,tub,,,,
+45,Yokuts Yowlumne,yoku1256,,yok,,,,
+46,Big Smokey Valley Shoshone,shos1248,,shh,,,,
+47,Salinan A,sali1253,,sln,,,,
+48,Achagua,acha1250,,aca,,,,
+49,Yanesha',yane1238,,ame,,,,
+50,Apurinã,apur1254,,apu,,,,
+51,Asheninka Apurucayali,ajyi1238,,cpc,,,,
+52,Baniwa,bani1255,,bwi,,,,
+53,Bare,bare1276,,bae,,,,
+54,Kabiyari ,cabi1241,,cbb,,,,
+56,Mandawaka,mand1448,,mht,,,,
+57,Paresi ,pare1272,,pab,,,,
+58,Piapoco ,piap1246,,pio,,,,
+59,Resígaro,resi1247,,rgr,,,,
+60,Tariana,tari1256,,tae,,,,
+61,Wapishana,wapi1253,,wap,,,,
+62,Warekena ,guar1293,,gae,,,,
+64,Yavitero,yavi1244,,yvt,,,,
+65,Yukuna ,yucu1253,,ycn,,,,
+66,Arutani,arut1244,,atx,,,,
+67,Sape,sape1238,,spc,,,,
+68,Bora,bora1263,,boa,,,,
+69,Muinane ,muin1242,,bmr,,,,
+70,Akawaio,akaw1239,,ake,,,,
+71,Akawaio/Ingariko dialect,akaw1239,,ake,,,,
+72,Carijona,cari1279,,cbd,,,,
+73,Eñepa,enap1235,,pbh,,,,
+75,Makushi ,macu1259,,mbc,,,,
+76,Mapoyo,mapo1246,,mcg,,,,
+77,Pemon,pemo1248,,aoc,,,,
+78,Wai Wai,waiw1244,,waw,,,,
+79,Waimiri Atroari,waim1253,,atr,,,,
+80,Yabarana,yaba1248,,yar,,,,
+81,Yukpa,yukp1241,,yup,,,,
+82,Muisca,chib1270,,chb,,,,
+83,Cabecar,cabe1245,,cjp,,,,
+87,Waunana,woun1238,,noa,,,,
+90,Northern Emberá,nort2972,,emp,,,,
+91,Kaingang,kain1272,,kgp,,,,
+92,Cuiva,cuib1242,,cui,,,,
+93,Guayabero,guay1257,,guo,,,,
+94,Macaguan,maca1259,,mbn,,,,
+96,Sikuani,guah1255,,guh,,,,
+97,Andoke,ando1256,,ano,,,,
+98,Central Aymara,cent2142,,ayr,,,,
+99,Camsa,cams1241,,kbh,,,,
+100,Candoshi-Shapra,cand1248,,cbu,,,,
+101,Cofán,cofa1242,,con,,,,
+102,Hodï,yuwa1244,,yau,,,,
+103,Waorani,waor1240,,auc,,,,
+104,Máku,maku1246,,xxx,,,,
+106,Páez,paez1247,,pbb,,,,
+107,Puinave,puin1248,,pui,,,,
+108,Pumé,pume1238,,yae,,,,
+109,Taushiro,taus1253,,trr,,,,
+110,Tikuna,ticu1245,,tca,,,,
+111,Tinigua,tini1245,,tit,,,,
+112,Urarina,urar1246,,ura,,,,
+113,Warao,wara1303,,wba,,,,
+114,Aguaruna,agua1253,,agr,,,,
+115,Ashuar,achu1248,,acu,,,,
+116,Huambisa,huam1247,,hub,,,,
+117,Kakua,cacu1241,,cbv,,,,
+118,Nukak,nuka1242,,mbr,,,,
+119,Dâw,daww1239,,kwa,,,,
+120,Hup,hupd1244,,jup,,,,
+122,Nadëb/Roçado dialect,nade1244,,mbj,,,,
+123,Yuhup,yuhu1238,,yab,,,,
+124,Matses,mats1244,,mcf,,,,
+125,Yagua,yagu1244,,yad,,,,
+126,Ingá,inga1252,,inb,,,,
+127,Napo Lowland Quichua,napo1242,,qvo,,,,
+128,Quechua Ayacuchano,ayac1239,,quy,,,,
+129,Southern Pastaza Quechua,sout2990,,qup,,,,
+130,Piaroa,piar1243,,pid,,,,
+132,Barasano,bara1380,,bsn,,,,
+133,Carapana,cara1272,,cbc,,,,
+134,Cubeo,cube1242,,cub,,,,
+135,Desano,desa1247,,des,,,,
+136,Makuna,macu1260,,myy,,,,
+137,Waikhana,pira1254,,pir,,,,
+138,Siriano,siri1274,,sri,,,,
+139,Tanimuca,tani1257,,tnc,,,,
+140,Tatuyo,tatu1247,,tay,,,,
+141,Tukano,tuca1252,,tuo,,,,
+142,Tuyuka,tuyu1244,,tue,,,,
+143,Waimaja,waim1255,,bao,,,,
+144,Kotiria,guan1269,,gvc,,,,
+145,Yuruti,yuru1263,,yui,,,,
+146,Koreguaje,kore1283,,coe,,,,
+147,Maihiki,orej1242,,ore,,,,
+148,Secoya,seco1241,,sey,,,,
+149,Siona,sion1247,,snn,,,,
+150,Surui,suru1262,,sru,,,,
+151,Karitiana,kari1311,,ktn,,,,
+152,Nheengatu,nhen1239,,yrl,,,,
+156,Murui Witoto,muru1274,,huu,,,,
+157,Nɨpode Witoto,nupo1240,,hux,,,,
+158,Ocaina,ocai1244,,oca,,,,
+159,Ninam,nina1238,,shb,,,,
+160,Sanumá,sanu1240,,xsu,,,,
+161,Yanomam,yano1261,,guu,,,,
+162,Yanomami,yano1262,,wca,,,,
+163,Iquito,iqui1243,,iqu,,,,
+164,Bardi,bard1255,,bcj,,,,
+165,Nyulnyul,nyul1247,,nyv,,,,
+166,Nimanburru,nima1245,,nmp,,,,
+167,Yawuru,yawu1244,,ywr,,,,
+168,Jabirr-Jabirr,dyab1238,,dyb,,,,
+169,Wardaman,ward1246,,wrr,,,,
+170,Bunuba,buna1275,,bck,,,,
+171,Gooniyandi,goon1238,,gni,,,,
+172,Kija,kitj1240,,gia,,,,
+173,Miriwung,miri1266,,mep,,,,
+175,Jingulu,djin1251,,jig,,,,
+176,Ngumbarl,ngum1253,,,,,,
+177,Nyikina,nyig1240,,nyh,,,,
+178,Warrwa,warr1258,,wwr,,,,
+179,Jawi,djaw1238,,djw,,,,
+180,Diyari,dier1241,,dif,,,,
+181,Mithaka,mith1236,,,,,,
+182,Ngamini,ngam1265,,nmv,,,,
+183,Nhirrpi,nhir1234,,hrp,,,,
+184,Pirriya,pirr1240,,xpa,,,,
+185,Pitta-Pitta,pitt1247,,pit,,,,
+186,Wangkayutyuru,wang1289,,wky,,,,
+187,Yandruwandha,yand1253,,ynd,,,,
+188,Yarluyandi,ngam1265,,yry,,,,
+189,Yawarrawarrka,yawa1258,,yww,,,,
+190,Karajarri,kara1476,,gbd,,,,
+191,Mangala,mang1383,,mem,,,,
+192,Northern Nyangumarta,nort2754,,nna,,,,
+193,Nyangumarta,nyan1301,,nna,,,,
+194,Ngarluma,ngar1287,,nrl,,,,
+195,Gurindji,guri1247,,gue,,,,
+196,Jaru,jaru1254,,ddj,,,,
+197,Mudburra,mudb1240,,mwd,,,,
+198,Walmajarri,walm1241,,wmt,,,,
+199,Warlpiri,warl1254,,wbp,,,,
+200,Paakantyi,darl1243,,drl,,,,
+201,Kuuk Thaayorre,thay1249,,thd,,,,
+202,Yidiny,yidi1250,,yii,,,,
+203,Malyangapa,yarl1236,,yga,,,,
+204,Dhangu,dhan1270,,dhg,,,,
+205,Djinang,djin1253,,dji,,,,
+206,Gupapuyngu,gupa1247,,guf,,,,
+207,Ritharrngu,rita1239,,rit,,,,
+208,Gunin,kwin1241,,gww,,,,
+209,Ngarinyin,ngar1284,,ung,,,,
+210,Unggumi,ungg1243,,xgu,,,,
 211,Worrorra,woro1255,,unp,,,,
-212,Wunambal,wuna1249,Wunambal,wub,Australia,-14.8347,125.72,Worrorran
-213,Northern Mangarla,mang1383,Mangala,mem,Australia,-18.6597,123.769,Pama-Nyungan
-214,Gajirrabeng,gadj1243,Gajirrabeng,gdh,Australia,-15.4786,129.156,Jarrakan
-215,Djapu,djap1238,Djapu,duj,Australia,-12.879764,136.417978,Pama-Nyungan
-216,Yan-nhangu,yann1237,Yan-nhangu,jay,Australia,-12.0853,134.877,Pama-Nyungan
-217,Burarra,bura1267,Burarra,bvr,Australia,-12.3061,134.365,Maningrida
-218,Rembarrnga,remb1249,Rembarrnga,rmb,Australia,-12.9608,134.308,Gunwinyguan
-219,Ngandi,ngan1295,Ngandi,nid,Australia,-12.8448,134.649,Gunwinyguan
-220,Wubuy,nung1290,Wubuy,nuy,Australia,-14.2623,135.753,Gunwinyguan
-221,Yir-Yoront,yiry1245,Yir-Yoront,yiy,Australia,-15.1117,141.767,Pama-Nyungan
-222,Kurtjar,gurd1238,Gurdjar,gdj,Australia,-17.1653,141.145,Pama-Nyungan
-223,Wik Ngathan,wika1238,Wikalkan,wik,Australia,-13.6835,141.557,Pama-Nyungan
-224,Uw-Olkol,kunj1245,Kunjen,olk,Australia,-16.6807,143.53,Pama-Nyungan
-225,Uw-Oykangand,kunj1245,Kunjen,kjn,Australia,-16.6807,143.53,Pama-Nyungan
-226,Pakanh,paka1251,Pakanha,pkn,Australia,-15.0908,142.74,Pama-Nyungan
-227,Kuku-Thaypan,thay1248,Thaypan,typ,Australia,-14.8292,143.324,Pama-Nyungan
-228,Kuku-Yalanji,kuku1273,Kuku-Yalanji,gvn,Australia,-16.0036,145.188,Pama-Nyungan
-229,Mbabaram,mbab1239,Mbabaram,vmb,Australia,-20.1389,143.438,Pama-Nyungan
-230,Tjaapukay,dyaa1242,Dyaabugay,dyy,Australia,-16.596,145.388,Pama-Nyungan
-232,Arabana,arab1267,Arabana,ard,Australia,-28.705,135.449,Pama-Nyungan
-233,Dhuwal,dhuw1249,Dhuwal,duj,Australia,-12.7825,136.008,Pama-Nyungan
-234,Dhuwala,gupa1247,Gupapuyngu,guf,Australia,-12.2868,135.337,Pama-Nyungan
-235,DiyariREU,dier1241,Dieri,dif,Australia,-28.1667,138.0,Pama-Nyungan
-236,Djambarrpuyngu,djam1256,Djambarrpuyngu,djr,Australia,-12.021,135.59,Pama-Nyungan
-237,Rirratjingu,rirr1238,Rirratjingu,dhg,Australia,,,Pama-Nyungan
-238,Gumatj,gupa1247,Gupapuyngu,guf,Australia,-12.2868,135.337,Pama-Nyungan
-239,Dhay’yi,dayi1244,Dayi,dax,Australia,-13.1806,136.22,Pama-Nyungan
-240,Koko-Bera,gugu1254,Gugubera,kkp,Australia,-15.4296,141.635,Pama-Nyungan
-243,Guugu Yimidhirr,gugu1255,Guugu Yimidhirr,,Australia,-14.9424,144.831,Pama-Nyungan
-244,Yokuts Yawelmani,yoku1256,Northern Yokuts,,North America,36.3167,-119.721,Yokutsan
+212,Wunambal,wuna1249,,wub,,,,
+213,Northern Mangarla,mang1383,,mem,,,,
+214,Gajirrabeng,gadj1243,,gdh,,,,
+215,Djapu,djap1238,,duj,,,,
+216,Yan-nhangu,yann1237,,jay,,,,
+217,Burarra,bura1267,,bvr,,,,
+218,Rembarrnga,remb1249,,rmb,,,,
+219,Ngandi,ngan1295,,nid,,,,
+220,Wubuy,nung1290,,nuy,,,,
+221,Yir-Yoront,yiry1245,,yiy,,,,
+222,Kurtjar,gurd1238,,gdj,,,,
+223,Wik Ngathan,wika1238,,wik,,,,
+224,Uw-Olkol,kunj1245,,olk,,,,
+225,Uw-Oykangand,kunj1245,,kjn,,,,
+226,Pakanh,paka1251,,pkn,,,,
+227,Kuku-Thaypan,thay1248,,typ,,,,
+228,Kuku-Yalanji,kuku1273,,gvn,,,,
+229,Mbabaram,mbab1239,,vmb,,,,
+230,Tjaapukay,dyaa1242,,dyy,,,,
+232,Arabana,arab1267,,ard,,,,
+233,Dhuwal,dhuw1249,,duj,,,,
+234,Dhuwala,gupa1247,,guf,,,,
+235,DiyariREU,dier1241,,dif,,,,
+236,Djambarrpuyngu,djam1256,,djr,,,,
+237,Rirratjingu,rirr1238,,dhg,,,,
+238,Gumatj,gupa1247,,guf,,,,
+239,Dhay’yi,dayi1244,,dax,,,,
+240,Koko-Bera,gugu1254,,kkp,,,,
+243,Guugu Yimidhirr,gugu1255,,,,,,
+244,Yokuts Yawelmani,yoku1256,,,,,,
 245,7eqenem'u,,,,,,,
-246,Yulparija,yulp1239,Yulparija,,Australia,-18.923519,122.370316,Pama-Nyungan
-253,Baure,baur1253,Baure,brg,South America,-13.61,-63.68,Arawakan
-254,Nanti,nant1250,Nanti,cox,South America,-12.1018,-72.3507,Arawakan
-255,Palikur,pali1279,Palikúr,plu,South America,3.63993,-51.6246,Arawakan
-258,Makiritare,maqu1238,Ye'kwana,mch,South America,4.70705,-64.3877,Cariban
-263,Naso,teri1250,Teribe,tfr,North America,9.067,-82.9631,Chibchan
-266,Minica Witoto,mini1256,Minica Huitoto,hto,South America,-1.54535,-73.1107,Huitotoan
-267,Paraguayan Guaraní,para1311,Paraguayan Guaraní,gug,South America,-25.60551,-57.08816,Tupian
-268,Kokama,coca1259,Cocama-Cocamilla,cod,South America,-4.5,-74.0,Tupian
-349,Waurá,waur1244,Waurá,wau,South America,-13.296,-53.6971,Arawakan
-350,Cha'palaa,chac1249,Cha'palaa,cbi,South America,0.71489,-79.0508,Barbacoan
-351,Apalai,apal1257,Apalaí,apy,South America,1.49792,-54.7457,Cariban
-352,Wayana,waya1269,Wayana,way,South America,2.77537,-54.4429,Cariban
-353,Tiriyó,trio1238,Trió,tri,South America,2.53616,-55.7599,Cariban
-354,Kalapalo,kuik1246,Kuikúro-Kalapálo,kui,South America,-12.3035,-53.2261,Cariban
-356,Epena,epen1239,Epena,sja,South America,4.25877,-77.3566,Chocoan
-357,Kakataibo,cash1251,Cashibo-Cacataibo,cbr,South America,-8.70232,-75.4206,Pano-Tacanan
-361,Yaminahua,yami1256,Yaminahua,yaa,South America,-9.8846,-71.5964,Pano-Tacanan
-362,Chácobo,chac1251,Chácobo,cao,South America,-12.133,-66.7164,Pano-Tacanan
-363,Sáliva,sali1298,Sáliba,slc,South America,5.30115,-69.3843,Jodi-Saliban
-364,Wayampi,waya1270,Wayampi,oym,South America,1.73817,-52.6887,Tupian
-368,Sirionó,siri1273,Sirionó,srq,South America,-15.5298,-63.9688,Tupian
-369,Kamayurá,kama1373,Kamayurá,kay,South America,-12.2661,-53.4651,Tupian
-370,Záparo,zapa1253,Záparo,zro,South America,-1.99871,-76.364,Zaparoan
-371,Wari,wari1268,Wari',pav,South America,-10.69948,-64.56152,Chapacuran
-375,Cavineña,cavi1250,Cavineña,cav,South America,-13.3544,-66.6277,Pano-Tacanan
-377,Cayuvava,cayu1262,Cayubaba,cyb,South America,-13.2482,-65.4822,Cayubaba
-379,Kwazá,kwaz1243,Kwaza,xwa,South America,-11.6667,-61.1833,Kwaza
-380,Mosetén-Chimané,mose1249,Mosetén-Chimané,cas,South America,-14.64448,-67.83756,Mosetén-Chimané
-381,Movima,movi1243,Movima,mzp,South America,-13.8115,-65.6348,Movima
-382,Trumai,trum1247,Trumai,tpy,South America,-11.8119,-53.5717,Trumai
-384,Suyá,suya1243,Suyá,suy,South America,-11.5178,-53.0743,Nuclear-Macro-Je
-387,Djeoromitxi,djeo1235,Djeoromitxí,jbt,South America,-12.038,-64.6694,Nuclear-Macro-Je
-403,Ese Ejja/Huarayo,esee1248,Ese Ejja,ese,South America,-11.7268,-67.515,Pano-Tacanan
-404,Yine,yine1238,Yine,pib,South America,-11.1086,-73.3087,Arawakan
-405,Lokono,araw1276,Lokono,arw,South America,5.64295,-56.9243,Arawakan
-406,Asháninka,asha1243,Asháninka,cni,South America,-11.9311,-73.9073,Arawakan
-407,Machiguenga,mach1267,Machiguenga,mcb,South America,-12.1291,-72.5017,Arawakan
-408,Caquinte,caqu1242,Caquinte,cot,South America,-11.4812,-73.4451,Arawakan
-409,Nomatsigenga,noma1263,Nomatsiguenga,not,South America,-11.5349,-74.4371,Arawakan
-410,Iñapari,inap1242,Iñapari,inp,South America,-12.46525,-69.30827,Arawakan
+246,Yulparija,yulp1239,,,,,,
+253,Baure,baur1253,,brg,,,,
+254,Nanti,nant1250,,cox,,,,
+255,Palikur,pali1279,,plu,,,,
+258,Makiritare,maqu1238,,mch,,,,
+263,Naso,teri1250,,tfr,,,,
+266,Minica Witoto,mini1256,,hto,,,,
+267,Paraguayan Guaraní,para1311,,gug,,,,
+268,Kokama,coca1259,,cod,,,,
+349,Waurá,waur1244,,wau,,,,
+350,Cha'palaa,chac1249,,cbi,,,,
+351,Apalai,apal1257,,apy,,,,
+352,Wayana,waya1269,,way,,,,
+353,Tiriyó,trio1238,,tri,,,,
+354,Kalapalo,kuik1246,,kui,,,,
+356,Epena,epen1239,,sja,,,,
+357,Kakataibo,cash1251,,cbr,,,,
+361,Yaminahua,yami1256,,yaa,,,,
+362,Chácobo,chac1251,,cao,,,,
+363,Sáliva,sali1298,,slc,,,,
+364,Wayampi,waya1270,,oym,,,,
+368,Sirionó,siri1273,,srq,,,,
+369,Kamayurá,kama1373,,kay,,,,
+370,Záparo,zapa1253,,zro,,,,
+371,Wari,wari1268,,pav,,,,
+375,Cavineña,cavi1250,,cav,,,,
+377,Cayuvava,cayu1262,,cyb,,,,
+379,Kwazá,kwaz1243,,xwa,,,,
+380,Mosetén-Chimané,mose1249,,cas,,,,
+381,Movima,movi1243,,mzp,,,,
+382,Trumai,trum1247,,tpy,,,,
+384,Suyá,suya1243,,suy,,,,
+387,Djeoromitxi,djeo1235,,jbt,,,,
+403,Ese Ejja/Huarayo,esee1248,,ese,,,,
+404,Yine,yine1238,,pib,,,,
+405,Lokono,araw1276,,arw,,,,
+406,Asháninka,asha1243,,cni,,,,
+407,Machiguenga,mach1267,,mcb,,,,
+408,Caquinte,caqu1242,,cot,,,,
+409,Nomatsigenga,noma1263,,not,,,,
+410,Iñapari,inap1242,,inp,,,,
 411,Manxineri,,,mpd,,,,
-412,Jarawara,jara1276,Jarawara,jaa,South America,,,Arawan
+412,Jarawara,jara1276,,jaa,,,,
 413,Dení,,,dny,,,,
-414,Kulina,kuli1255,Kulina Pano,cul,South America,-6.17715,-72.0438,Pano-Tacanan
+414,Kulina,kuli1255,,cul,,,,
 415,Paumarí,,,pad,,,,
 416,Soruahá,,,,,,,
-417,Tsafiki,colo1256,Tsafiki,cof,South America,-0.21181,-79.2347,Barbacoan
+417,Tsafiki,colo1256,,cof,,,,
 418,Awa Pit,,,kwi,,,,
-419,Shawi,chay1248,Shawi,cbt,South America,-5.63764,-76.8252,Cahuapanan
-420,Jebero,jebe1250,Jebero,jeb,South America,-5.40317,-76.4103,Cahuapanan
+419,Shawi,chay1248,,cbt,,,,
+420,Jebero,jebe1250,,jeb,,,,
 421,Kariña,,,car,,,,
 422,Maquiritari,,,mch,,,,
 423,Trió,,,tri,,,,
-424,Panare,enap1235,Panare,pbh,South America,6.95035,-65.8483,Cariban
+424,Panare,enap1235,,pbh,,,,
 425,Moré,,,ite,,,,
-426,Tapakura,kite1238,Kitemoka-Tapakura,,,,,Chapacuran
-427,Kitemoka,kite1237,Kitemoka,,South America,-16.0,-62.75,Chapacuran
-428,Pech,pech1241,Pech,pay,North America,15.8033,-85.558,Chibchan
-429,Rama,rama1270,Rama,rma,North America,11.5007,-83.8571,Chibchan
-430,Boruca,boru1252,Boruca,brn,North America,8.88093,-83.2124,Chibchan
-431,Dorasque,dora1242,Dorasque,,North America,8.567442,-82.375717,Chibchan
-434,Embera,embe1260,Emberá-Catío,,South America,7.52721,-76.7476,Chocoan
-436,Amarakaeri,amar1274,Amarakaeri,amr,South America,-12.4931,-70.5533,Harakmbut
-437,Muniche,muni1258,Muniche,myr,South America,-5.7441796,-76.426712,Muniche
-438,Omurano,omur1241,Omurano,omu,South America,-4.816667,-75.4,Omurano
-439,Aikanã,aika1237,Aikanã,tba,South America,-12.6695,-60.5353,Aikanã
-440,Kanoê,kano1245,Kanoê,kxo,South America,-12.1789,-64.5812,Kanoê
+426,Tapakura,kite1238,,,,,,
+427,Kitemoka,kite1237,,,,,,
+428,Pech,pech1241,,pay,,,,
+429,Rama,rama1270,,rma,,,,
+430,Boruca,boru1252,,brn,,,,
+431,Dorasque,dora1242,,,,,,
+434,Embera,embe1260,,,,,,
+436,Amarakaeri,amar1274,,amr,,,,
+437,Muniche,muni1258,,myr,,,,
+438,Omurano,omur1241,,omu,,,,
+439,Aikanã,aika1237,,tba,,,,
+440,Kanoê,kano1245,,kxo,,,,
 441,Yurakare,,,yuz,,,,
-442,Kanamarí,kana1291,Katukína-Kanamarí,knm,South America,-6.45399,-68.7678,Katukinan
-444,Arikapu,arik1265,Arikapú,ark,South America,-12.4878,-62.7261,Nuclear-Macro-Je
-445,Sabane,saba1268,Sabanê,sae,South America,-12.9857,-60.335,Nambiquaran
+442,Kanamarí,kana1291,,knm,,,,
+444,Arikapu,arik1265,,ark,,,,
+445,Sabane,saba1268,,sae,,,,
 451,Amawaka,,,amc,,,,
 452,Mako,,,wpc,,,,
-453,Kueretu,cure1236,Kueretu,,South America,-1.045978,-70.305862,Tucanoan
-454,Gavião,gavi1247,Gavião,gvo,South America,,,Tupian
-455,Mundurukú,mund1330,Mundurukú,myu,South America,-8.41095,-57.691,Tupian
-456,Aruá,arua1261,Aruá (Rondonia State),arx,South America,-12.1186,-62.4357,Tupian
-457,Akuntsu,akun1241,Akuntsu,aqz,South America,-12.8322,-60.9716,Tupian
+453,Kueretu,cure1236,,,,,,
+454,Gavião,gavi1247,,gvo,,,,
+455,Mundurukú,mund1330,,myu,,,,
+456,Aruá,arua1261,,arx,,,,
+457,Akuntsu,akun1241,,aqz,,,,
 458,Mekéns,,,skf,,,,
-459,Wayoro,wayo1238,Wayoró,wyr,South America,-12.6945,-61.3064,Tupian
-460,Tupari,tupa1250,Tuparí,tpr,South America,-11.8884,-62.2544,Tupian
-461,Makuráp,maku1278,Makuráp,mpu,South America,-11.8701,-64.3201,Tupian
-462,Karo,karo1306,Karo,arr,South America,,,Tupian
-463,Puruborá,puru1264,Puruborá,pur,South America,-11.4226,-62.4358,Tupian
-464,Mawé,sate1243,Sateré-Mawé,mav,South America,-3.63897,-56.8749,Tupian
-465,Parintintin,pari1258,Parintintín,paf,South America,,,Tupian
+459,Wayoro,wayo1238,,wyr,,,,
+460,Tupari,tupa1250,,tpr,,,,
+461,Makuráp,maku1278,,mpu,,,,
+462,Karo,karo1306,,arr,,,,
+463,Puruborá,puru1264,,pur,,,,
+464,Mawé,sate1243,,mav,,,,
+465,Parintintin,pari1258,,paf,,,,
 466,Urubu-Ka'apor,,,urb,,,,
 468,Pauserna,,,psm,,,,
-469,Guarayu,guar1292,Guarayu,gyr,South America,-15.8247,-61.6934,Tupian
-470,Tupinamba,tupi1273,Tupinambá,tpn,South America,-22.807778,-42.106389,Tupian
-471,Arabela,arab1268,Arabela,arl,South America,-1.96126,-75.0612,Zaparoan
-473,Warekena do Xié,ware1255,Warekena do San Miguel,gae,South America,2.904099,-67.092099,Arawakan
-474,Bahuana,bahu1238,Bahuanaic,xir,,,,Arawakan
-475,Banawa,bana1307,Banawa,jaa,South America,,,Arawan
+469,Guarayu,guar1292,,gyr,,,,
+470,Tupinamba,tupi1273,,tpn,,,,
+471,Arabela,arab1268,,arl,,,,
+473,Warekena do Xié,ware1255,,gae,,,,
+474,Bahuana,bahu1238,,xir,,,,
+475,Banawa,bana1307,,jaa,,,,
 476,Guatuso,,,gut,,,,
-478,Shuar,shua1257,Shuar,jiv,South America,-3.45136,-78.1892,Chicham
+478,Shuar,shua1257,,jiv,,,,
 480,A'ɨwa,,,ash,,,,

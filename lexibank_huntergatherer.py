@@ -31,6 +31,42 @@ class Dataset(BaseDataset):
     lexeme_class = HGLexeme
     concept_class = HGConcept
     form_spec = FormSpec(
+        replacements=[
+            ("[", ""),
+            ("]", ""),
+            ("0", ""),
+            ("[none]", ""),
+            ("[not cultivated]", ""),
+            ("1", ""),
+            ("2", ""),
+            ("3", ""),
+            ("4", ""),
+            ("5", ""),
+            ("6", ""),
+            ("7", ""),
+            ("8", ""),
+            ("9", ""),
+            ("3:", ""),
+            ("4:", ""),
+            ("5:", ""),
+            ("6:", ""),
+            ("1:", ""),
+            ("2:", ""),
+            ("$", ""),
+            ('"', ""),
+            ("no special term", ""),
+            (" no name ever recorded", ""),
+            ("compounded", ""),
+            ("generic basket: ", ""),
+            ("“breathe", ""),
+            ("to be red", ""),
+            ("ngl turn off", ""),
+            (" ", "_"),
+
+            ],
+        brackets={"(": ")", "{": "}", "“": "”", "'": "'", "ʼ": "ʼ"},
+        first_form_only=True,
+        separators=(";", "/", ",", "~", "&", ),
         missing_data=("?", "[missing]", "missing", "#NAME?", "X", "[absent]", "-", "--", "...")
     )
 
@@ -74,7 +110,7 @@ class Dataset(BaseDataset):
                 for item in data["tables"][table]["rows"]:
                     item = dict(zip(data["tables"][table]["header"], item))
                     form = item["Orthographic Form"].strip()
-                    if form:
+                    if form and not "\n" in form:
                         refs = [ref for ref in itersources(item, data, sources) if ref]
                         args.writer.add_sources(*[ref.source for ref in refs])
                         href, _ = item["English"]
@@ -85,7 +121,6 @@ class Dataset(BaseDataset):
                             # https://huntergatherer.la.utexas.edu/lexical/feature/729
                             # is missing from the concept list(s)
                             continue
-
                         args.writer.add_lexemes(
                             Language_ID=data["id"],
                             Parameter_ID=concepts[concept_database_id],
