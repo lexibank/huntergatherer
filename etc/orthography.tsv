@@ -553,1237 +553,1221 @@ tsʰ	tsʰ	aatsʰíu, tsɨ́xɨ-βé-tsʰo	68, 59	12	U+0074 U+0073 U+02b0
 ^ˀd	ˀd	-ˀdarɨ, ˀdɨnaa	61	12	U+005e U+02c0 U+0064
 ^tsʰ	tsʰ	tsʰḯʔxɨβá-ne, tsʰaá	68	12	U+005e U+0074 U+0073 U+02b0
 ^áá	aː	áán̈urah, áámɨ	158, 69, 68	12	U+005e U+00e1 U+00e1
-^∅	+++	∅-weškiriri-n, ∅-yaa-rɨ	78	12	U+005e U+2205
-ãã$	ãã	bãã, yõkõã-ã	140, 142, 133, 145, 144, 118	12	U+00e3 U+00e3 U+0024
-gh$	gh	keergh, loothirgh	222, 225, 120	12	U+0067 U+0068 U+0024
+^∅-	NULL	∅-weškiriri-n, ∅-yaa-rɨ	78	12	U+005e U+2205
+ãã$	ãː	bãã, yõkõã-ã	140, 142, 133, 145, 144, 118	12	U+00e3 U+00e3 U+0024
+gh$	gʰ	keergh, loothirgh	222, 225, 120	12	U+0067 U+0068 U+0024
 ^õ$	õ	õ	142, 141, 143, 354, 137, 139, 133, 145	12	U+005e U+00f5 U+0024
 ^ɨ̃$	ɨ̃	ɨ̃	137, 142, 140, 145, 143, 138	12	U+005e U+0268 U+0303 U+0024
-@	<?>	t@p@_, -jal-_mad@ialan	165, 159, 218	12	U+0040
-%$	<?>	"djur%, bo""""r%"	166, 165, 164, 168	12	U+0025 U+0024
-gg$	gg	balingg, bardangg	165, 166, 164, 168, 225	12	U+0067 U+0067 U+0024
-ws	ws	hawsy-, arawsu_	370, 22, 2, 253, 128, 20, 23, 19, 78, 129	11	U+0077 U+0073
-^Ɂ	Ɂ	Ɂataka-zi, Ɂiičivɨ	5	11	U+005e U+0241
-ē$	ē	myē, e-vē	17, 31, 7, 47, 18, 11, 44	11	U+0113 U+0024
-gh	gh	teghɔ̃=teg, ogelghal	26, 28, 8, 222, 170, 225, 120, 44, 91	11	U+0067 U+0068
-\$	<?>	me\, miko\	31, 30, 15, 29	11	U+005c U+0024
-jw	jw	ujwabiyä, mala-itjwo	65, 130, 369, 144, 102, 219, 19, 106	11	U+006a U+0077
-rs	rs	itursampa, mallirsa	81, 33, 116, 115, 100, 20, 127, 425, 120, 163	11	U+0072 U+0073
+@	ə	t@p@_, -jal-_mad@ialan	165, 159, 218	12	U+0040
+%$	NULL	"djur%, bo""""r%"	166, 165, 164, 168	12	U+0025 U+0024
+gg$	gː	balingg, bardangg	165, 166, 164, 168, 225	12	U+0067 U+0067 U+0024
+ws	w s	hawsy-, arawsu_	370, 22, 2, 253, 128, 20, 23, 19, 78, 129	11	U+0077 U+0073
+^Ɂ	ʔ	Ɂataka-zi, Ɂiičivɨ	5	11	U+005e U+0241
+ē$	eː	myē, e-vē	17, 31, 7, 47, 18, 11, 44	11	U+0113 U+0024
+gh	gʰ	teghɔ̃=teg, ogelghal	26, 28, 8, 222, 170, 225, 120, 44, 91	11	U+0067 U+0068
+\$	ʔ	me\, miko\	31, 30, 15, 29	11	U+005c U+0024
+jw	j w	ujwabiyä, mala-itjwo	65, 130, 369, 144, 102, 219, 19, 106	11	U+006a U+0077
+rs	r s	itursampa, mallirsa	81, 33, 116, 115, 100, 20, 127, 425, 120, 163	11	U+0072 U+0073
 h:	hː	oh:a-, hujuh:uj-	25, 22	11	U+0068 U+003a
-ü:	üː	etü:dötoho__, asü:kü_	26, 258	11	U+00fc U+003a
-ów	ów	dówajcáro_, torówali	68, 52, 27, 48, 38	11	U+00f3 U+0077
+ü:	yː	etü:dötoho__, asü:kü_	26, 258	11	U+00fc U+003a
+ów	o w	dówajcáro_, torówali	68, 52, 27, 48, 38	11	U+00f3 U+0077
 ^q$	q	q	28, 41, 42, 40	11	U+005e U+0071 U+0024
-chh	chh	kW-chha-y, t-i-chhat_	32, 101, 98, 34, 29	11	U+0063 U+0068 U+0068
-^í:	íː	í:ta, í:hu	48, 60, 31, 56	11	U+005e U+00ed U+003a
-qh	qh	x?nqhaatq, manqha	34, 98, 128, 43	11	U+0071 U+0068
-^tsh	tsh	tshaaya, tshíipí	59, 52, 41, 39	11	U+005e U+0074 U+0073 U+0068
-íː	íː	kadíːri, kulíːri	56, 60	11	U+00ed U+02d0
+chh	cʰ	kW-chha-y, t-i-chhat_	32, 101, 98, 34, 29	11	U+0063 U+0068 U+0068
+^í:	iː	í:ta, í:hu	48, 60, 31, 56	11	U+005e U+00ed U+003a
+qh	qʰ	x?nqhaatq, manqha	34, 98, 128, 43	11	U+0071 U+0068
+^tsh	tsʰ	tshaaya, tshíipí	59, 52, 41, 39	11	U+005e U+0074 U+0073 U+0068
+íː	iː	kadíːri, kulíːri	56, 60	11	U+00ed U+02d0
 ˈl	l	kaˈlana, tyoˈlohe	57	11	U+02c8 U+006c
 ^ˀb	ˀb	ˀbairii, ˀbarakʰa-ʔu	61	11	U+005e U+02c0 U+0062
 ɖ	ɖ	maɖaɖɨkaʔu, ɖiːɖaɖa	61	11	U+0256
-^ḯ	<?>	ḯ.ï-de, ḯme	68, 157, 266	11	U+005e U+1e2f
+^ḯ	ɨ	ḯ.ï-de, ḯme	68, 157, 266	11	U+005e U+1e2f
 ds	dz	dyudsoon, todsɨ́ɨ́ve	158, 68	11	U+0064 U+0073
 ^ds	dz	dsoh, dsooro	158, 68	11	U+005e U+0064 U+0073
 ʉ̃$	ʉ̃	manapʉ̃, ñama_cajõãʉ̃	135, 133, 136, 141, 146, 90, 142	11	U+0289 U+0303 U+0024
 ^ũ$	ũ	ũ, -ũ	91, 146, 139, 90, 379, 138, 161, 142, 145, 132	11	U+005e U+0169 U+0024
-ãã	ãã	yãã_hena, ɨ̃́tãã-pe	145, 140, 103, 133, 118, 158, 138, 162	11	U+00e3 U+00e3
-ȩ$	<?>	kǫȩ, bũĩdȩ	108	11	U+0229 U+0024
+ãã	ãː	yãã_hena, ɨ̃́tãã-pe	145, 140, 103, 133, 118, 158, 138, 162	11	U+00e3 U+00e3
+ȩ$	ẽ	kǫȩ, bũĩdȩ	108	11	U+0229 U+0024
 ^ɔ	ɔ	ɔdɛ, -ɔka	364, 108, 134	11	U+005e U+0254
-´h	<?>	ho´hua, vei_va´ha	109	11	U+00b4 U+0068
-ɨ̂	ɨ̂	ɨ̃ʔmɨ̂se, waw-kâg-at-hɨ̂dɨ	141, 117	11	U+0268 U+0302
+´h	ˀh	ho´hua, vei_va´ha	109	11	U+00b4 U+0068
+ɨ̂	ɨ	ɨ̃ʔmɨ̂se, waw-kâg-at-hɨ̂dɨ	141, 117	11	U+0268 U+0302
 ^kˀ	kˀ	kˀũhi, kˀaʔni	149	11	U+005e U+006b U+02c0
->$	<?>	<nowloo>, <lanjee>	176	11	U+003e U+0024
-ə̄	ə̄	ākə̄tədɨɨ_, čə̄tāhəɨ_	258	11	U+0259 U+0304
+>$	NULL	<nowloo>, <lanjee>	176	11	U+003e U+0024
+ə̄	əː	ākə̄tədɨɨ_, čə̄tāhəɨ_	258	11	U+0259 U+0304
 ɬ$	ɬ	kodetɬ, ho-si-čeɬ	381, 382	11	U+026c U+0024
-^xw	xw	xwetet, xwak_	33, 40, 2, 3, 1, 34	10	U+005e U+0078 U+0077
+^xw	xʷ	xwetet, xwak_	33, 40, 2, 3, 1, 34	10	U+005e U+0078 U+0077
 r:	rː	ar:nyr-ht, por:nivyr-T	4	10	U+0072 U+003a
-āw	āw	$āwt, ātāwāyisht	26, 4, 258, 29	10	U+0101 U+0077
+āw	aː w	$āwt, ātāwāyisht	26, 4, 258, 29	10	U+0101 U+0077
 ñ$	ɲ	wanggañ, ceñ	219, 206, 99, 234, 4, 73, 233, 221, 218	10	U+00f1 U+0024
 q:	qː	paq:a_, an:oq:o-	8	10	U+0071 U+003a
-As	<?>	tAsí?ą-vI, túu-tAsí?ą-vI	9, 20	10	U+0041 U+0073
+As	ɑ s	tAsí?ą-vI, túu-tAsí?ą-vI	9, 20	10	U+0041 U+0073
 kh$	kʰ	pokh, pawukh	29, 102, 43, 47, 244, 40, 39, 14, 36	10	U+006b U+0068 U+0024
-ù$	ù	jálulù, limũù	119, 19, 143, 141	10	U+00f9 U+0024
-xs	xs	capixsá, su-axsil	40, 106, 33, 43, 20, 119, 45, 39	10	U+0078 U+0073
-^P	<?>	PORKÓN, PETH	240, 26, 68	10	U+005e U+0050
-âw	âw	bo’_dâw_, yâwud	119, 141, 29	10	U+00e2 U+0077
-^:	<?>	sqmwi^:ra, ?e^:vi	31	10	U+005e U+003a
-^ms	ms	msaasi, msiiy-p	34, 100, 33, 31	10	U+005e U+006d U+0073
-qsh	qsh	aqshan, aqshiw	43, 42, 40, 39, 33	10	U+0071 U+0073 U+0068
-ës	ës	sësëco, ëëseenë	148, 353, 41, 352, 149, 124	10	U+00eb U+0073
+ù$	u	jálulù, limũù	119, 19, 143, 141	10	U+00f9 U+0024
+xs	x s	capixsá, su-axsil	40, 106, 33, 43, 20, 119, 45, 39	10	U+0078 U+0073
+^P	p	PORKÓN, PETH	240, 26, 68	10	U+005e U+0050
+âw	a w	bo’_dâw_, yâwud	119, 141, 29	10	U+00e2 U+0077
+^:	NULL	sqmwi^:ra, ?e^:vi	31	10	U+005e U+003a
+^ms	m s	msaasi, msiiy-p	34, 100, 33, 31	10	U+005e U+006d U+0073
+qsh	q ʃ	aqshan, aqshiw	43, 42, 40, 39, 33	10	U+0071 U+0073 U+0068
+ës	ə s	sësëco, ëëseenë	148, 353, 41, 352, 149, 124	10	U+00eb U+0073
 ^g$	g	g	120, 229, 45	10	U+005e U+0067 U+0024
 ˈt	t	atyazaˈta, koˈtxali	57, 65	10	U+02c8 U+0074
 ^ˈk	k	ˈketse_kalohore, ˈkaye	57, 208	10	U+005e U+02c8 U+006b
-^ľ̥	<?>	ľ̥a, ľ̥iaľiľi	64	10	U+005e U+013e U+0325
-ḯ$	<?>	páʔrí-nʸeḯβḯ, iʔpaḯ	68, 158	10	U+1e2f U+0024
+^ľ̥	l̥ʲ	ľ̥a, ľ̥iaľiľi	64	10	U+005e U+013e U+0325
+ḯ$	ɨ	páʔrí-nʸeḯβḯ, iʔpaḯ	68, 158	10	U+1e2f U+0024
 ɯ$	ɯ	bɯ́gɯ, ɯ́.aitaɯ	157, 71, 110, 266, 156	10	U+026f U+0024
 ɛ̃$	ɛ̃	-mɔ̃ɛ̃, nɛ̃	364, 379, 91	10	U+025b U+0303 U+0024
-^õõ	õõ	õõ-bã, õõcha	103, 143, 363	10	U+005e U+00f5 U+00f5
-õõ	õõ	tõõ_, gõõã́	138, 143, 103, 139, 158, 363, 387, 142, 145	10	U+00f5 U+00f5
-ê$	ê	dasê, opê	141, 110, 369	10	U+00ea U+0024
-ɨ̀	ɨ̀	inaɨ̀da, gononaɨ̀gɨ_	156, 143, 117	10	U+0268 U+0300
-^‘	<?>	‘yoók_lontra, ‘mʉ̃’	119	10	U+005e U+2018
-ɔ́	ɔ́	teg_hɔ́w, kɔ́w	120, 123	10	U+0254 U+0301
-^ć	<?>	ću, ća	130	10	U+005e U+0107
-^ᵽ	<?>	ᵽáí, ᵽã́mṍ	143	10	U+005e U+1d7d
-ḷ	l̩	ḏaḷa-ḏaḷa-, maḷi	200, 166, 164	10	U+1e37
-i̯$	i̯	ki̯ei̯_ki̯ei̯, eai̯	368	10	U+0069 U+032f U+0024
-ĵ	ĵ	aĵkúr, kukwéĵe	384	10	U+0135
-ls	ls	ngYh-YT__also_, moi_._Also_large_flute	27, 30, 146, 244, 20, 23, 4, 368, 34	9	U+006c U+0073
-shsh	shsh	kushshe__, sigishshI	8, 47, 20, 5, 16	9	U+0073 U+0068 U+0073 U+0068
-^ee$	ee	ee	37, 65, 116, 5, 38, 24, 79, 39	9	U+005e U+0065 U+0065 U+0024
+^õõ	õː	õõ-bã, õõcha	103, 143, 363	10	U+005e U+00f5 U+00f5
+õõ	õː	tõõ_, gõõã́	138, 143, 103, 139, 158, 363, 387, 142, 145	10	U+00f5 U+00f5
+ê$	e	dasê, opê	141, 110, 369	10	U+00ea U+0024
+ɨ̀	ɨ	inaɨ̀da, gononaɨ̀gɨ_	156, 143, 117	10	U+0268 U+0300
+^‘	ʔ	‘yoók_lontra, ‘mʉ̃’	119	10	U+005e U+2018
+ɔ́	ɔ	teg_hɔ́w, kɔ́w	120, 123	10	U+0254 U+0301
+^ć	tʃ	ću, ća	130	10	U+005e U+0107
+^ᵽ	p	ᵽáí, ᵽã́mṍ	143	10	U+005e U+1d7d
+ḷ	l̥	ḏaḷa-ḏaḷa-, maḷi	200, 166, 164	10	U+1e37
+i̯$	j	ki̯ei̯_ki̯ei̯, eai̯	368	10	U+0069 U+032f U+0024
+ĵ	dʒ	aĵkúr, kukwéĵe	384	10	U+0135
+ls	l s	ngYh-YT__also_, moi_._Also_large_flute	27, 30, 146, 244, 20, 23, 4, 368, 34	9	U+006c U+0073
+shsh	ʃː	kushshe__, sigishshI	8, 47, 20, 5, 16	9	U+0073 U+0068 U+0073 U+0068
+^ee$	eː	ee	37, 65, 116, 5, 38, 24, 79, 39	9	U+005e U+0065 U+0065 U+0024
 f$	f	_laf, ta-G_instr_pref	382, 8, 130, 93, 119, 37	9	U+0066 U+0024
-_:$	_ː	akya:m__H_:, hamsi_:	31, 46, 43, 40, 12, 39	9	U+005f U+003a U+0024
-^ü	ü	üttüsshal, üdatc	26, 110, 104, 13, 29, 40, 387	9	U+005e U+00fc
-J	<?>	tskina_head_louse_JPH_L, achwa_Jivaro?	59, 14, 20, 41, 129	9	U+004a
-jh	jh	kàjhísky, ejhua	41, 19, 112, 52, 106, 218	9	U+006a U+0068
+_:$	NULL	akya:m__H_:, hamsi_:	31, 46, 43, 40, 12, 39	9	U+005f U+003a U+0024
+^ü	y	üttüsshal, üdatc	26, 110, 104, 13, 29, 40, 387	9	U+005e U+00fc
+J	NULL	tskina_head_louse_JPH_L, achwa_Jivaro?	59, 14, 20, 41, 129	9	U+004a
+jh	dʒ	kàjhísky, ejhua	41, 19, 112, 52, 106, 218	9	U+006a U+0068
 nʸ	nʲ	snʸunʸu, páʔrí-nʸeḯβḯ	68, 106, 20	9	U+006e U+02b8
-<$	<?>	t<o<, cla<	24, 47, 39	9	U+003c U+0024
-^á:	áː	á:ni, á:ta	48, 27	9	U+005e U+00e1 U+003a
-^xs	xs	xsu:r_, xsagnue	106, 33, 34	9	U+005e U+0078 U+0073
-ós	ós	hehe_camóstim, jósaa-	100, 37, 94, 158, 97, 145	9	U+00f3 U+0073
-uˀ	uˀ	-tʰuˀba, nuˀujeit_	61, 369	9	U+0075 U+02c0
-ĩĩ	ĩĩ	kʰa-ẓanˀdaʔautʰ-ĩĩa-n, wĩĩ-bõ	61, 103, 90, 138, 142	9	U+0129 U+0129
+<$	NULL	t<o<, cla<	24, 47, 39	9	U+003c U+0024
+^á:	aː	á:ni, á:ta	48, 27	9	U+005e U+00e1 U+003a
+^xs	ʃ	xsu:r_, xsagnue	106, 33, 34	9	U+005e U+0078 U+0073
+ós	o s	hehe_camóstim, jósaa-	100, 37, 94, 158, 97, 145	9	U+00f3 U+0073
+uˀ	u ʔ	-tʰuˀba, nuˀujeit_	61, 369	9	U+0075 U+02c0
+ĩĩ	ĩː	kʰa-ẓanˀdaʔautʰ-ĩĩa-n, wĩĩ-bõ	61, 103, 90, 138, 142	9	U+0129 U+0129
 xʸ	xʲ	kʰííxʸ-pa, kʷaá-xʸï	68	9	U+0078 U+02b8
 ɤ	ɤ	amɤrɤʔnɔkoŋ, ikɤi	71, 123, 107	9	U+0264
-ǝ́	ə́	fǝ́ʌ́-sé_, pǝ́b	120, 123, 97	9	U+01dd U+0301
-ǽ	<?>	yǽyæ__yǽmæ_, owǽta	123, 120, 103	9	U+01fd
-ʉ̀	ʉ̀	xʉtʉʉ̀m, çʉʉ̀m	119	9	U+0289 U+0300
-ǒ	ǒ	wawǒh, koyǒy	120, 123	9	U+01d2
-ã̌	ã̌	jãʔã̌b, wã̌ʔ	123, 120	9	U+00e3 U+030c
-ɛ́	ɛ́	yɛ́mɛ̃́ňõ̀, kʰáhɛ́řó	143, 134	9	U+025b U+0301
-ô$	ô	kapô, pĩʔô	141	9	U+00f4 U+0024
+ǝ́	ə	fǝ́ʌ́-sé_, pǝ́b	120, 123, 97	9	U+01dd U+0301
+ǽ	æ	yǽyæ__yǽmæ_, owǽta	123, 120, 103	9	U+01fd
+ʉ̀	ʉ	xʉtʉʉ̀m, çʉʉ̀m	119	9	U+0289 U+0300
+ǒ	o	wawǒh, koyǒy	120, 123	9	U+01d2
+ã̌	ã	jãʔã̌b, wã̌ʔ	123, 120	9	U+00e3 U+030c
+ɛ́	ɛ	yɛ́mɛ̃́ňõ̀, kʰáhɛ́řó	143, 134	9	U+025b U+0301
+ô$	o	kapô, pĩʔô	141	9	U+00f4 U+0024
 ɑ$	ɑ	ɑtuɑ, jukɑ	369, 212, 162, 209	9	U+0251 U+0024
-"""""$"	<?>	"bo"""""	164, 167, 166, 168, 165	9	U+0022 U+0022 U+0024
-Á	<?>	KOW-KACHÁL, KACÁRR	240	9	U+00c1
-RR$	<?>	THÚRVRR, KACÁRR	240	9	U+0052 U+0052 U+0024
-ɨ̄	ɨ̄	wɨ̄wa_, čə̄hɨdɨ̄-hɨdɨ_	258	9	U+0268 U+0304
-n̉$	n̉	ɓosin̉, koʔ-pin̉	381	9	U+006e U+0309 U+0024
-ĕ$	ĕ	chip-pĕ-lĕ, kĕ	12, 27, 2, 25, 19, 16, 21	8	U+0115 U+0024
-^aa$	aa	aa, aa-	32, 364, 7, 54, 217, 3, 12, 9	8	U+005e U+0061 U+0061 U+0024
-O:	<?>	wYqO:v_, wO:ng-t	4, 45, 244	8	U+004f U+003a
-zh	zh	wizhiki-zhi, kaiguuzhii_	5, 127, 70, 45	8	U+007a U+0068
-ō$	ō	e-le-hō, ho-ah-chō	480, 31, 26, 5, 244, 41, 17, 12	8	U+014d U+0024
-üh$	üh	saippüh, küttaappüh	13	8	U+00fc U+0068 U+0024
-ţ$	ţ	lophʰoţ, xàlšɂá·ţ	33, 14	8	U+0163 U+0024
-Th	<?>	háTha:Ta-, iThin	15, 244, 20, 29, 14	8	U+0054 U+0068
-??$	<?>	puTkaly-_??, dywiya??	15, 103, 24, 29, 170, 23, 16, 21	8	U+003f U+003f U+0024
-^C	<?>	CHIW, CHM_ta--ho	17, 240, 37	8	U+005e U+0043
-àw	àw	càwa, wàwasimi	58, 143, 119, 19, 421	8	U+00e0 U+0077
-M$	<?>	a:M, leM	24, 240, 72	8	U+004d U+0024
-ōh	ōh	wōhnāl, mōmōht	26, 258	8	U+014d U+0068
-^L$	<?>	L	28, 41	8	U+005e U+004c U+0024
-lh$	lh	kayalh, ko+mervlh	221, 32, 218, 206	8	U+006c U+0068 U+0024
-^chh	chh	chhajeye, chhii	101, 98, 34	8	U+005e U+0063 U+0068 U+0068
-cs	cs	vicsa, tucsina	127, 37, 41, 124, 129, 36	8	U+0063 U+0073
+d""""$"	NULL	"bo"""""	164, 167, 166, 168, 165	9	U+0022 U+0022 U+0024
+Á	a	KOW-KACHÁL, KACÁRR	240	9	U+00c1
+RR$	rː	THÚRVRR, KACÁRR	240	9	U+0052 U+0052 U+0024
+ɨ̄	ɨ	wɨ̄wa_, čə̄hɨdɨ̄-hɨdɨ_	258	9	U+0268 U+0304
+n̉$	n	ɓosin̉, koʔ-pin̉	381	9	U+006e U+0309 U+0024
+ĕ$	e	chip-pĕ-lĕ, kĕ	12, 27, 2, 25, 19, 16, 21	8	U+0115 U+0024
+^aa$	aː	aa, aa-	32, 364, 7, 54, 217, 3, 12, 9	8	U+005e U+0061 U+0061 U+0024
+O:	oː	wYqO:v_, wO:ng-t	4, 45, 244	8	U+004f U+003a
+zh	ʒ	wizhiki-zhi, kaiguuzhii_	5, 127, 70, 45	8	U+007a U+0068
+ō$	oː	e-le-hō, ho-ah-chō	480, 31, 26, 5, 244, 41, 17, 12	8	U+014d U+0024
+üh$	y	saippüh, küttaappüh	13	8	U+00fc U+0068 U+0024
+ţ$	tʲ	lophʰoţ, xàlšɂá·ţ	33, 14	8	U+0163 U+0024
+Th	θ	háTha:Ta-, iThin	15, 244, 20, 29, 14	8	U+0054 U+0068
+??$	NULL	puTkaly-_??, dywiya??	15, 103, 24, 29, 170, 23, 16, 21	8	U+003f U+003f U+0024
+^CHIW	tʃ i w	CHIW, CHM_ta--ho	17, 240, 37	8	U+005e U+0043
+àw	a w	càwa, wàwasimi	58, 143, 119, 19, 421	8	U+00e0 U+0077
+M$	m	a:M, leM	24, 240, 72	8	U+004d U+0024
+ōh	oː h	wōhnāl, mōmōht	26, 258	8	U+014d U+0068
+^L$	l	L	28, 41	8	U+005e U+004c U+0024
+lh$	l̥	kayalh, ko+mervlh	221, 32, 218, 206	8	U+006c U+0068 U+0024
+^chh	tʃ	chhajeye, chhii	101, 98, 34	8	U+005e U+0063 U+0068 U+0068
+cs	k s	vicsa, tucsina	127, 37, 41, 124, 129, 36	8	U+0063 U+0073
 ʃ$	ʃ	pʃoʃ, ʔaya-muʃmuʃ	39, 40, 43	8	U+0283 U+0024
 ʧ	tʃ	hãʔ-ʧû, ʧiʧtái	117, 118, 48, 40, 39	8	U+02a7
-qs	qs	aniwouho_aLnunasimilaqsa, aqsiq	41, 40, 43, 128	8	U+0071 U+0073
-ḯḯ	<?>	čḯḯβáápeé, ïrá_ña_ha-nḯḯ-ta_	68, 158	8	U+1e2f U+1e2f
+qs	q s	aniwouho_aLnunasimilaqsa, aqsiq	41, 40, 43, 128	8	U+0071 U+0073
+ḯḯ	ɨː	čḯḯβáápeé, ïrá_ña_ha-nḯḯ-ta_	68, 158	8	U+1e2f U+1e2f
 ə̃$	ə̃	nə́kə̃, uipúkə̃	97	8	U+0259 U+0303 U+0024
-ʌ́	ʌ́	hʌ́ihʌ́_, hʌ́má	97	8	U+028c U+0301
-_ʰ	_ʰ	bẽʰlã_ʰtɨ̃_ʰtɨ̃, ʰkule_ʰkaʰwe	102	8	U+005f U+02b0
-ṹ$	ṹ	ṹpṹ-, pṹ	138, 143, 141, 133, 132	8	U+1e79 U+0024
-ᵾ$	<?>	ã_jichᵾ, ñigagᵾ	135, 134, 144	8	U+1d7e U+0024
-^ã́	ã́	ã́mṍᵽeřò, ã́jã	143, 134, 145	8	U+005e U+00e3 U+0301
-ɨ̂$	ɨ̂	ãpɨ̂, nɨkɨ̂	141	8	U+0268 U+0302 U+0024
-ɛ́$	ɛ́	dahɛ́, kʰíyɛ́hɛ́	143	8	U+025b U+0301 U+0024
+ʌ́	ʌ	hʌ́ihʌ́_, hʌ́má	97	8	U+028c U+0301
+ʰ	NULL	bẽʰlã_ʰtɨ̃_ʰtɨ̃, ʰkule_ʰkaʰwe	102	8	U+005f U+02b0
+ʰl	ʰl
+ʰt	ʰt
+ʰk	ʰk
+ʰw	ʰw
+ʰp	ʰp
+ṹ$	ũ	ṹpṹ-, pṹ	138, 143, 141, 133, 132	8	U+1e79 U+0024
+ᵾ$	ʉ	ã_jichᵾ, ñigagᵾ	135, 134, 144	8	U+1d7e U+0024
+^ã́	ã	ã́mṍᵽeřò, ã́jã	143, 134, 145	8	U+005e U+00e3 U+0301
+ɨ̂$	ɨ	ãpɨ̂, nɨkɨ̂	141	8	U+0268 U+0302 U+0024
+ɛ́$	ɛ	dahɛ́, kʰíyɛ́hɛ́	143	8	U+025b U+0301 U+0024
 kˀ	kˀ	ɨ̃sɨ-kˀɨ, waʔkˀɨ	149	8	U+006b U+02c0
-RR	<?>	MURRNGK, WARRMPÉR	240, 195	8	U+0052 U+0052
-^sw	sw	swah, swanewet	47, 33, 42, 24, 1, 60	7	U+005e U+0073 U+0077
+RR	rː	MURRNGK, WARRMPÉR	240, 195	8	U+0052 U+0052
+^sw	sʷ	swah, swanewet	47, 33, 42, 24, 1, 60	7	U+005e U+0073 U+0077
 ^i:$	iː	i:, -i:	33, 27, 8, 61	7	U+005e U+0069 U+003a U+0024
 aː	aː	paːŋga, malaːi	60, 353, 56, 111, 17, 12	7	U+0061 U+02d0
-^ii$	ii	ii	16, 35, 116, 115, 112, 34	7	U+005e U+0069 U+0069 U+0024
-TT	<?>	maTTer, haTTahne_	20	7	U+0054 U+0054
-W$	<?>	KÓTHVW, CHIW	240, 30, 20	7	U+0057 U+0024
-āsh	āsh	māshatt, māsht	26	7	U+0101 U+0073 U+0068
-^X	<?>	Xica, Xos	28, 42	7	U+005e U+0058
-F$	<?>	ol-lool_LF, pątme__F	30	7	U+0046 U+0024
-^qh	qh	qheya, qhini	98, 34, 128, 43	7	U+005e U+0071 U+0068
+^ii$	iː	ii	16, 35, 116, 115, 112, 34	7	U+005e U+0069 U+0069 U+0024
+TT	tː	maTTer, haTTahne_	20	7	U+0054 U+0054
+W$	w	KÓTHVW, CHIW	240, 30, 20	7	U+0057 U+0024
+āsh	aː ʃ	māshatt, māsht	26	7	U+0101 U+0073 U+0068
+^X	ʂ	Xica, Xos	28, 42	7	U+005e U+0058
+F$	NULL	ol-lool_LF, pątme__F	30	7	U+0046 U+0024
+LF	NULL	
+^qh	qʰ	qheya, qhini	98, 34, 128, 43	7	U+005e U+0071 U+0068
 ^ʧ$	tʃ	ʧ	43, 39	7	U+005e U+02a7 U+0024
 ^tʸ	tʲ	-tʸalãa-tapa, tʸõõhã	349, 41, 375, 158	7	U+005e U+0074 U+02b8
 ^ɾ	ɾ	ɾíóho-katɨa, ɾani	113, 159, 60, 162, 132	7	U+005e U+027e
-ïh	ïh	kïhara, ëtïhka	352, 353, 76, 112	7	U+00ef U+0068
+ïh	ɨ h	kïhara, ëtïhka	352, 353, 76, 112	7	U+00ef U+0068
 ^ʌ	ʌ	ʌʌ́hʌmá, ʌafo_	97	7	U+005e U+028c
-ə́	ə́	fə́ʌ́, tɨh-wǝhə́d_	97, 120, 107	7	U+0259 U+0301
-"^"""	<?>	"""jonvane, ""thalka"	187, 180, 109, 101	7	U+005e U+0022
+ə́	ə	fə́ʌ́, tɨh-wǝhə́d_	97, 120, 107	7	U+0259 U+0301
+d^"""	NULL	"""jonvane, ""thalka"	187, 180, 109, 101	7	U+005e U+0022
 ^ʰk	ʰk	ʰkãʰkã_hu, ʰkule_ʰkaʰwe	102	7	U+005e U+02b0 U+006b
-õõ$	õõ	mõõ, wo_õõ	103, 162, 143, 158, 363	7	U+00f5 U+00f5 U+0024
-xs$	xs	exs, incuexs	106	7	U+0078 U+0073 U+0024
+õõ$	õː	mõõ, wo_õõ	103, 162, 143, 158, 363	7	U+00f5 U+00f5 U+0024
+xs$	c s	exs, incuexs	106	7	U+0078 U+0073 U+0024
 dʸ	dʲ	todʸa-noka-dʸa, hadʸa	375, 106	7	U+0064 U+02b8
-fw	fw	ufwa, itɕafwa	112	7	U+0066 U+0077
+fw	fʷ	ufwa, itɕafwa	112	7	U+0066 U+0077
 ɔ̃$	ɔ̃	hɔ̃, -manɔ̃	364, 123, 120	7	U+0254 U+0303 U+0024
-ësh	ësh	hurëshaɨ, chëshëtë	124, 162	7	U+00eb U+0073 U+0068
-^ɨ̃́	ɨ̃́	ɨ̃́tãã-pe, ɨ̃́mɨ̃́	145, 143	7	U+005e U+0268 U+0303 U+0301
+ësh	ə ʃ	hurëshaɨ, chëshëtë	124, 162	7	U+00eb U+0073 U+0068
+^ɨ̃́	ɨ̃	ɨ̃́tãã-pe, ɨ̃́mɨ̃́	145, 143	7	U+005e U+0268 U+0303 U+0301
 ^sˀ	sˀ	sˀeme-pˀɨ, sˀie	149	7	U+005e U+0073 U+02c0
 tˀ	tˀ	sũtˀatˀo, kutˀa	149	7	U+0074 U+02c0
-Ó	<?>	PORKÓN, KÓTHVW	240	7	U+00d3
+Ó	o	PORKÓN, KÓTHVW	240	7	U+00d3
 kʸ	kʲ	i̯kʸa, ɲi̯kʸare	368	7	U+006b U+02b8
-^ˀa	ˀa	ˀakɨm, ˀajut	369	7	U+005e U+02c0 U+0061
-t̯$	t̯	dat̯, ueset̯	382	7	U+0074 U+032f U+0024
-^I	<?>	I-e, Itaka	27, 43, 139, 42, 24, 1	6	U+005e U+0049
-ł$	ł	mɂu·ł, yulił	2, 33	6	U+0142 U+0024
-Y:	<?>	navY:-T, taY:-T_	4	6	U+0059 U+003a
-^A	<?>	Aju, Atsabi	10, 35, 15, 24, 40, 4	6	U+005e U+0041
-^ō	ō	ōn-tip-pŭs_CS, ōyatt	26, 30, 11, 4	6	U+005e U+014d
-āh	āh	pāhu, ədāhə	258, 26, 4	6	U+0101 U+0068
-aaa	aaa	kaniUvwaaag, faaan	5, 112, 40, 158, 11, 9	6	U+0061 U+0061 U+0061
-ŏ$	ŏ	hàɲkŏ, lŏ	31, 29, 19, 11, 44, 14	6	U+014f U+0024
-üh	üh	djebühe, patühüya	387, 13, 104	6	U+00fc U+0068
-ş$	<?>	cxnyaş, húuş	38, 33, 14	6	U+015f U+0024
-č:	čː	líč:ič:i-, éč:ešy-	15	6	U+010d U+003a
-^N	<?>	NGAMÉLNGAN, Nom._Class_-dí	240, 97, 64, 20	6	U+005e U+004e
-^oo$	oo	oo	44, 146, 20, 43	6	U+005e U+006f U+006f U+0024
+^ˀa	ʔ a	ˀakɨm, ˀajut	369	7	U+005e U+02c0 U+0061
+t̯$	tʲ	dat̯, ueset̯	382	7	U+0074 U+032f U+0024
+^I	ɨ	I-e, Itaka	27, 43, 139, 42, 24, 1	6	U+005e U+0049
+ł$	ɬ	mɂu·ł, yulił	2, 33	6	U+0142 U+0024
+Y:	yː	navY:-T, taY:-T_	4	6	U+0059 U+003a
+^A	a	Aju, Atsabi	10, 35, 15, 24, 40, 4	6	U+005e U+0041
+^ō	oː	ōn-tip-pŭs_CS, ōyatt	26, 30, 11, 4	6	U+005e U+014d
+āh	aː h	pāhu, ədāhə	258, 26, 4	6	U+0101 U+0068
+aaa	aː	kaniUvwaaag, faaan	5, 112, 40, 158, 11, 9	6	U+0061 U+0061 U+0061
+ŏ$	o	hàɲkŏ, lŏ	31, 29, 19, 11, 44, 14	6	U+014f U+0024
+üh	y h	djebühe, patühüya	387, 13, 104	6	U+00fc U+0068
+ş$	sʲ	cxnyaş, húuş	38, 33, 14	6	U+015f U+0024
+č:	tʃː	líč:ič:i-, éč:ešy-	15	6	U+010d U+003a
+^N	n	NGAMÉLNGAN, Nom._Class_-dí	240, 97, 64, 20	6	U+005e U+004e
+^oo$	oː	oo	44, 146, 20, 43	6	U+005e U+006f U+006f U+0024
 ^t:	tː	t:k-, t:apad__	29, 23	6	U+005e U+0074 U+003a
-^è	è	èpic, èeri	58, 29, 45, 91	6	U+005e U+00e8
-^mh	mh	mhéni, mhéetti	52, 60, 31	6	U+005e U+006d U+0068
-às	às	čàsčā·sa, calàsu	58, 31, 421	6	U+00e0 U+0073
-^qs	qs	qstyeLha, qsikH_	41, 43, 31, 40	6	U+005e U+0071 U+0073
-=s	<?>	uuw=smaa, t+xaa=sii	34, 120	6	U+003d U+0073
-éw$	éw	bohléw, ho-léw	240, 93, 36	6	U+00e9 U+0077 U+0024
-^ŭ	ŭ	ŭt-se-ŭt, ŭ-nah-sā-yet_-it___	106, 44	6	U+005e U+016d
-^pp	pp	ppyih-kysappax, ppuppuju	101, 46	6	U+005e U+0070 U+0070
-^wh	wh	whá, whé	60, 54, 52	6	U+005e U+0077 U+0068
-^à	à	àmamy, àicu	58, 421, 229	6	U+005e U+00e0
-ìs	ìs	nùapìsaca, taìsɨbaìro	58, 156	6	U+00ec U+0073
-^iˀ	iˀ	-iˀdiˀba, -iˀdi	369, 61	6	U+005e U+0069 U+02c0
+^è	e	èpic, èeri	58, 29, 45, 91	6	U+005e U+00e8
+^mh	m̥	mhéni, mhéetti	52, 60, 31	6	U+005e U+006d U+0068
+às	a s	čàsčā·sa, calàsu	58, 31, 421	6	U+00e0 U+0073
+^qs	q s	qstyeLha, qsikH_	41, 43, 31, 40	6	U+005e U+0071 U+0073
+=s	+ s	uuw=smaa, t+xaa=sii	34, 120	6	U+003d U+0073
+éw$	e w	bohléw, ho-léw	240, 93, 36	6	U+00e9 U+0077 U+0024
+^ŭ	u	ŭt-se-ŭt, ŭ-nah-sā-yet_-it___	106, 44	6	U+005e U+016d
+^pp	pː	ppyih-kysappax, ppuppuju	101, 46	6	U+005e U+0070 U+0070
+^wh	w̥	whá, whé	60, 54, 52	6	U+005e U+0077 U+0068
+^à	a	àmamy, àicu	58, 421, 229	6	U+005e U+00e0
+ìs	i s	nùapìsaca, taìsɨbaìro	58, 156	6	U+00ec U+0073
+ˀ	NULL	-iˀdiˀba, -iˀdi	369, 61	6	U+005e U+0069 U+02c0
+ˀd	ˀd
+ˀb	ˀb
+ˀg	ˀg
 ɤ$	ɤ	piʔpɤ, ɛʔnepɯ:rɤ	71	6	U+0264 U+0024
-´s	<?>	fundui´si, ja´skapo	101, 106, 81	6	U+00b4 U+0073
+´s	ˀs	fundui´si, ja´skapo	101, 106, 81	6	U+00b4 U+0073
 ʉ̃́	ʉ̃́	cʉ̃́cʉ, gãrʉ̃́gʉ̃́	134, 138, 90	6	U+0289 U+0303 U+0301
-ẽ́$	ẽ́	ñẽ́, -kẽ́	143, 132, 97, 141	6	U+1ebd U+0301 U+0024
+ẽ́$	ẽ	ñẽ́, -kẽ́	143, 132, 97, 141	6	U+1ebd U+0301 U+0024
 ^æ̃	æ̃	æ̃dõ, æ̃-i-bæ	103	6	U+005e U+00e6 U+0303
-ǫ$	ǫ	gaǫ, tǫ	103, 108	6	U+01eb U+0024
+ǫ$	õ	gaǫ, tǫ	103, 108	6	U+01eb U+0024
 ^ẽ$	ẽ	ẽ	108, 142, 137, 141	6	U+005e U+1ebd U+0024
-ǐ	ǐ	ciwǐb, pǐn	120, 117, 123	6	U+01d0
-ũ̌	ũ̌	hũ̌t, jũhũ̌b	123, 120, 119	6	U+0169 U+030c
+ǐ	i	ciwǐb, pǐn	120, 117, 123	6	U+01d0
+ũ̌	ũ	hũ̌t, jũhũ̌b	123, 120, 119	6	U+0169 U+030c
 ɔ̃̌	ɔ̃̌	hɔ̃̌p, yɔ̃̌h	120, 123	6	U+0254 U+0303 U+030c
-æ̌	æ̌	kayak_wæ̌d_, næ̌ŋ_cak_	120, 123	6	U+00e6 U+030c
-^ä	ä	änõ, ärätxä	387, 130	6	U+005e U+00e4
-äw	äw	räwakthin, wiräwirä	130, 216, 234, 387, 238	6	U+00e4 U+0077
-õ̀$	õ̀	õã́ňõ̀, yɛ́mɛ̃́ňõ̀	143	6	U+00f5 U+0300 U+0024
+æ̌	æ	kayak_wæ̌d_, næ̌ŋ_cak_	120, 123	6	U+00e6 U+030c
+^ä	æ	änõ, ärätxä	387, 130	6	U+005e U+00e4
+äw	æ w	räwakthin, wiräwirä	130, 216, 234, 387, 238	6	U+00e4 U+0077
+õ̀$	õ	õã́ňõ̀, yɛ́mɛ̃́ňõ̀	143	6	U+00f5 U+0300 U+0024
 pˀ	pˀ	sˀeme-pˀɨ, ũkʷepˀɨ	149	6	U+0070 U+02c0
-^´	<?>	´ĩn, ´it_	151	6	U+005e U+00b4
-ṯ$	<?>	baṯ, djärrwiṯ	205, 216, 238, 204, 233	6	U+1e6f U+0024
+^´	ʔ	´ĩn, ´it_	151	6	U+005e U+00b4
+ṯ$	t̪	baṯ, djärrwiṯ	205, 216, 238, 204, 233	6	U+1e6f U+0024
 ɡ	g	nɡuɨ_, ŋuřu_ˈmɑɡɑlɑ	368, 212, 209	6	U+0261
-ĩ̯$	ĩ̯	erẽĩ̯, ŋireĩ̯	368	6	U+0129 U+032f U+0024
-^i̯	i̯	i̯kʸa, i̯kʷa	368	6	U+005e U+0069 U+032f
+ĩ̯$	ĩ	erẽĩ̯, ŋireĩ̯	368	6	U+0129 U+032f U+0024
+^i̯	i	i̯kʸa, i̯kʷa	368	6	U+005e U+0069 U+032f
 lʸ	lʲ	şxlʸmu, múlʸak	2, 33, 106	5	U+006c U+02b8
-^Y	<?>	Yangee_banjo, YT-T	240, 176, 4, 152	5	U+005e U+0059
+^Y	j	Yangee_banjo, YT-T	240, 176, 4, 152	5	U+005e U+0059
 ^ă	ă	ă-sahk-kwi-yu_wah, ă-part	7, 4, 17, 12, 11	5	U+005e U+0103
-B$	<?>	paka-_SG_OB, Hoo-nă__NB	30, 5, 6, 7	5	U+0042 U+0024
-^yy	yy	yytsyyjyt_, yyj-yt	26, 5	5	U+005e U+0079 U+0079
-^E	<?>	Edy, EbE-	6, 27	5	U+005e U+0045
-V$	<?>	mepV-, -jarrngV-	164, 7, 165, 46, 16	5	U+0056 U+0024
+B$	b	paka-_SG_OB, Hoo-nă__NB	30, 5, 6, 7	5	U+0042 U+0024
+^yy	yː	yytsyyjyt_, yyj-yt	26, 5	5	U+005e U+0079 U+0079
+^E	e	Edy, EbE-	6, 27	5	U+005e U+0045
+V$	v	mepV-, -jarrngV-	164, 7, 165, 46, 16	5	U+0056 U+0024
 ˈr	r	iˈriwa_, paˈrə^ia	57, 7	5	U+02c8 U+0072
-q:w	qːw	tuq:wi-, tuq:wa-G_	8	5	U+0071 U+003a U+0077
-ųų	<?>	sųų-vų-pŲ, pųų-vų-ráa-cI	9	5	U+0173 U+0173
-Us	<?>	nabUsiaipY, takUsitoity	10, 9	5	U+0055 U+0073
-____$	____	wah-ken____, poo-kung_nŭ-ŭ____	44, 11	5	U+005f U+005f U+005f U+005f U+0024
+q:w	qː w	tuq:wi-, tuq:wa-G_	8	5	U+0071 U+003a U+0077
+ųų	ũː	sųų-vų-pŲ, pųų-vų-ráa-cI	9	5	U+0173 U+0173
+Us	u s	nabUsiaipY, takUsitoity	10, 9	5	U+0055 U+0073
+____$	NULL	wah-ken____, poo-kung_nŭ-ŭ____	44, 11	5	U+005f U+005f U+005f U+005f U+0024
 iː	iː	tihiːkhi, hãɲiːnã	111, 61, 56, 12	5	U+0069 U+02d0
-cw	cw	hitcwa, sicwanga	20, 29, 39, 379, 129	5	U+0063 U+0077
+cw	cʷ	hitcwa, sicwanga	20, 29, 39, 379, 129	5	U+0063 U+0077
 ^w$	w	w, -w	123, 21, 45	5	U+005e U+0077 U+0024
-^I$	<?>	I, -I-	24, 177, 22, 29	5	U+005e U+0049 U+0024
-ó:$	óː	atLó:, xó:	27, 24, 31	5	U+00f3 U+003a U+0024
-nn$	nn	ywynn, hunn	32, 221, 26	5	U+006e U+006e U+0024
-^ū	ū	ūnal, ūkisht	26	5	U+005e U+016b
+^I$	i	I, -I-	24, 177, 22, 29	5	U+005e U+0049 U+0024
+ó:$	oː	atLó:, xó:	27, 24, 31	5	U+00f3 U+003a U+0024
+nn$	nː	ywynn, hunn	32, 221, 26	5	U+006e U+006e U+0024
+^ū	uː	ūnal, ūkisht	26	5	U+005e U+016b
 ph$	pʰ	oph, neph	36, 32, 45, 29	5	U+0070 U+0068 U+0024
-^nw	nw	nwi_:ri, nwãrãxu	31, 379, 34	5	U+005e U+006e U+0077
-à:	àː	pà:pī, pà:čθéqa	31	5	U+00e0 U+003a
-=h	<?>	t-walu=haq=-tay, kwWiy=h=uhaa-k	34	5	U+003d U+0068
-čh	čh	yɨ-sΦo-ma-čho, weewe_Φičho	78, 36	5	U+010d U+0068
-ksh	ksh	tkshilo, noksh_	41, 81, 39	5	U+006b U+0073 U+0068
-šw	šw	atišwič, ašwét	40, 39, 47	5	U+0161 U+0077
-^é:	éː	é:ni, é:nu	56, 48, 60	5	U+005e U+00e9 U+003a
-éː	éː	déːpi, yéː__	60, 56, 96	5	U+00e9 U+02d0
+^nw	n w	nwi_:ri, nwãrãxu	31, 379, 34	5	U+005e U+006e U+0077
+à:	aː	pà:pī, pà:čθéqa	31	5	U+00e0 U+003a
+=h	+ h	t-walu=haq=-tay, kwWiy=h=uhaa-k	34	5	U+003d U+0068
+čh	tʃʰ	yɨ-sΦo-ma-čho, weewe_Φičho	78, 36	5	U+010d U+0068
+ksh	k ʃ	tkshilo, noksh_	41, 81, 39	5	U+006b U+0073 U+0068
+šw	ʃʷ	atišwič, ašwét	40, 39, 47	5	U+0161 U+0077
+^é:	eː	é:ni, é:nu	56, 48, 60	5	U+005e U+00e9 U+003a
+éː	eː	déːpi, yéː__	60, 56, 96	5	U+00e9 U+02d0
 ˈk	k	saˈkalu_, kayaˈla_nitseˈkore	57, 349	5	U+02c8 U+006b
-ᵰ	<?>	a?naᵰú, váᵰí	59	5	U+1d70
-ɨˀ	ɨˀ	-kʰɨtʰɨˀba, -kʰɨˀbaa	61	5	U+0268 U+02c0
+ᵰ	n	a?naᵰú, váᵰí	59	5	U+1d70
 ^ɖ	ɖ	ɖimana, ɖinaj	61	5	U+005e U+0256
 ʐ	ʐ	ʃaʐutan, kutɨʔɨʐɨ	61	5	U+0290
-^úú	úú	úúku, úúcume_	69, 68, 158	5	U+005e U+00fa U+00fa
-^ë$	ë	ë	76, 352, 106, 124	5	U+005e U+00eb U+0024
+^úú	uː	úúku, úúcume_	69, 68, 158	5	U+005e U+00fa U+00fa
+^ë$	ə	ë	76, 352, 106, 124	5	U+005e U+00eb U+0024
 r̃	r̃	kar̃me, etar̃-ko	78	5	U+0072 U+0303
-bs	bs	ybsa, psibsi	100, 126, 82, 99	5	U+0062 U+0073
-^mm	mm	mmā_, mmʉ́	90, 258	5	U+005e U+006d U+006d
-^í$	í	í	143, 140, 90, 138, 108	5	U+005e U+00ed U+0024
+bs	b s	ybsa, psibsi	100, 126, 82, 99	5	U+0062 U+0073
+^mm	mː	mmā_, mmʉ́	90, 258	5	U+005e U+006d U+006d
+^í$	i	í	143, 140, 90, 138, 108	5	U+005e U+00ed U+0024
 ø	ø	cønør, mømø̃m_	93, 371	5	U+00f8
 ǝ̃	ə̃	yikǝ̃kǝ̃_, tǝ̃ih_	97, 120	5	U+01dd U+0303
-^tss	tss	tssoru, tssaiye	101	5	U+005e U+0074 U+0073 U+0073
-ǫ́	ǫ́	de_ǫ́nǫ́ne, ǫ́nǫ́nę	103	5	U+01eb U+0301
-į́	<?>	áwį́ka_áwį́ga, mį́mǫ	103	5	U+012f U+0301
+^tss	ts	tssoru, tssaiye	101	5	U+005e U+0074 U+0073 U+0073
+ǫ́	õ	de_ǫ́nǫ́ne, ǫ́nǫ́nę	103	5	U+01eb U+0301
+į́	ĩ	áwį́ka_áwį́ga, mį́mǫ	103	5	U+012f U+0301
 ^æ	æ	æ-yedẽ-dõ, æ-pæ̃	103	5	U+005e U+00e6
-ĩĩ$	ĩĩ	bã́sĩĩ, bãdĩĩ	145, 103, 133	5	U+0129 U+0129 U+0024
+ĩĩ$	ĩː	bã́sĩĩ, bãdĩĩ	145, 103, 133	5	U+0129 U+0129 U+0024
 ʊ$	ʊ	kʰanẽ-hʊ, kʊrʊ	108	5	U+028a U+0024
-ʉʉ	ʉʉ	vʉʉsomʉ, mʉʉsá	146, 112, 138	5	U+0289 U+0289
-ԑ	<?>	ʔԑlԑʔ, wԑn_daawa	118	5	U+0511
-oˀ	oˀ	o-joˀok_, iroˀɨ-tsang_	369, 118	5	U+006f U+02c0
-ʉ̀$	ʉ̀	mʉ̃ʉ̀, xʉʉ̀	119	5	U+0289 U+0300 U+0024
-^‘w	<?>	‘woók, ‘wat	119	5	U+005e U+2018 U+0077
+ʉʉ	ʉ	vʉʉsomʉ, mʉʉsá	146, 112, 138	5	U+0289 U+0289
+ԑ	ɛ	ʔԑlԑʔ, wԑn_daawa	118	5	U+0511
+ˀ	ʔ	o-joˀok_, iroˀɨ-tsang_	369, 118	5	U+006f U+02c0
+ʉ̀$	ʉ	mʉ̃ʉ̀, xʉʉ̀	119	5	U+0289 U+0300 U+0024
+^‘w	ˀw	‘woók, ‘wat	119	5	U+005e U+2018 U+0077
 ɔ̃́	ɔ̃́	hɔ̃́p, tɔ̃́h	120, 123	5	U+0254 U+0303 U+0301
-ɔ́$	ɔ́	wædhɔ́, j’ɔ́	120	5	U+0254 U+0301 U+0024
-ć	<?>	ɨhćɨh, dahaćih	130	5	U+0107
-ũũ	ũũ	ákũũdɨ̃ã, kũũbũ-ã	145, 138, 142	5	U+0169 U+0169
+ɔ́$	ɔ	wædhɔ́, j’ɔ́	120	5	U+0254 U+0301 U+0024
+ć	c	ɨhćɨh, dahaćih	130	5	U+0107
+ũũ	ũ	ákũũdɨ̃ã, kũũbũ-ã	145, 138, 142	5	U+0169 U+0169
 ɛ̃́	ɛ̃́	yɛ́mɛ̃́ňõ̀, ñɛ̃mɛ̃́ňĩ̀tʰì	143	5	U+025b U+0303 U+0301
 ɛ̃́$	ɛ̃́	humɛ̃́, hɛ̃́mɛ̃́	143	5	U+025b U+0303 U+0301 U+0024
-έ	<?>	komέkï_ɸaká-de_, apέ-ma	384, 156, 157	5	U+03ad
-ñ̈	ɲ̈	bohtáñ̈i, jinhñ̈ááhso	158	5	U+00f1 U+0308
-++	++	iiyɨ++qui, n++ka	163, 370	5	U+002b U+002b
-%	<?>	ber%al, bud%_^	168, 166, 164, 165	5	U+0025
-ṇ$	n̩	bardjaniṇ, boṇ	190, 166, 167, 165	5	U+1e47 U+0024
-l̠	l̠	kil̠inykil̠iny, nyumbul̠‑	171	5	U+006c U+0320
-^W	<?>	WAKÉL, WARNYÉL	240	5	U+005e U+0057
-^ëh	ëh	ëhëtihe, ëhanuk	352	5	U+005e U+00eb U+0068
-ˌ_	ˌ_	suchaˌ_erecuaˌ_tuchua_, echɨu_riruˌ_equiarusa_	368	5	U+02cc U+005f
+έ	ɛ	komέkï_ɸaká-de_, apέ-ma	384, 156, 157	5	U+03ad
+ñ̈	ɲ	bohtáñ̈i, jinhñ̈ááhso	158	5	U+00f1 U+0308
+++	+	iiyɨ++qui, n++ka	163, 370	5	U+002b U+002b
+%	NULL	ber%al, bud%_^	168, 166, 164, 165	5	U+0025
+ṇ$	ŋ	bardjaniṇ, boṇ	190, 166, 167, 165	5	U+1e47 U+0024
+l̠	l̪	kil̠inykil̠iny, nyumbul̠‑	171	5	U+006c U+0320
+^W	w	WAKÉL, WARNYÉL	240	5	U+005e U+0057
+^ëh	ə h	ëhëtihe, ëhanuk	352	5	U+005e U+00eb U+0068
+ˌ_	NULL	suchaˌ_erecuaˌ_tuchua_, echɨu_riruˌ_equiarusa_	368	5	U+02cc U+005f
 ^ɑ	ɑ	ɑtuɑ, ɑjetewɑt	369	5	U+005e U+0251
-eˀ	eˀ	kɨeˀi, jɑeˀo	369	5	U+0065 U+02c0
 ^$h	h	$hem-, -$ha	1	4	U+005e U+0024 U+0068
 $h	h	-_$ha, taw$henve	1	4	U+0024 U+0068
-shw	shw	ashwet, atishwich	1, 40, 81, 39	4	U+0073 U+0068 U+0077
-īh	īh	hūšīheɨ_, nīht	4, 26, 258	4	U+012b U+0068
-Is	<?>	mAIsi, paIsokety	6, 10	4	U+0049 U+0073
-·s	·s	čàsčā·sa, ɂá·sivoɂotsI	31, 7	4	U+00b7 U+0073
-vw	vw	kaniUvwaaag, uvwiyavY	9, 8, 221	4	U+0076 U+0077
-Į$	<?>	paríyĮ, kwiyá-ga-tĮ	9	4	U+012e U+0024
-ǫǫ	ǫǫ	tǫǫto, sųų-rǫǫ?na-pŲ	9, 112	4	U+01eb U+01eb
-Ys	<?>	pYsari-nijaj, narYsO	10, 9	4	U+0059 U+0073
-pw	pw	siílY_pwac, tYpwiyu	33, 21, 124, 9	4	U+0070 U+0077
-^>	<?>	>kah>-litch, >kam	30, 12	4	U+005e U+003e
-hs$	hs	troi-yahs, exetehs	44, 14, 41, 47	4	U+0068 U+0073 U+0024
-sh:	shː	kush:ily-, tish:y-	15	4	U+0073 U+0068 U+003a
-á:$	áː	xmu:ká:, şkWi:yá:	33, 15, 48	4	U+00e1 U+003a U+0024
-D	<?>	-MANDI-, sólta:Do	16, 45, 177, 36	4	U+0044
-^G	<?>	Ga._ahur, Giti	354, 16, 405	4	U+005e U+0047
-\w	<?>	?i\wi_la, we\wutsoi	19, 31, 45	4	U+005c U+0077
-ùs	ùs	mùsumùsuìri, mutùsi	58, 19	4	U+00f9 U+0073
-chch	chch	ochchirú, lichchey-_	20, 90	4	U+0063 U+0068 U+0063 U+0068
-Tw	<?>	waTwaT, aTwošet	30, 20, 29	4	U+0054 U+0077
-ĭ$	ĭ	ɂlwĭ, pĕt-sĭ	31, 20, 41	4	U+012d U+0024
-js	js	phajjsi, ajjsaraña	98, 23, 106	4	U+006a U+0073
-ī$	ī	kwī, múī	31, 26, 24	4	U+012b U+0024
-^cw	cw	cweejya´jni, cwá	34, 106, 24, 43	4	U+005e U+0063 U+0077
-α$	<?>	tα, xα	24, 47	4	U+03b1 U+0024
-:l	ːl	ahe-:liH, epla-:liH-	25	4	U+003a U+006c
-^??	<?>	??-sahl-le, ??i\:po\qpo	31, 25	4	U+005e U+003f U+003f
-ū$	ū	tlpū, Uhmū	31, 26	4	U+016b U+0024
-^gh	gh	gho_, ghiya	29, 222, 103	4	U+005e U+0067 U+0068
-ąw	<?>	hąw_A, hąw_-hoT-am_	30	4	U+0105 U+0077
-mw	mw	damwam, tsomwuk	442, 72, 31	4	U+006d U+0077
-^?h	<?>	?hpi, ?ha\...thpu	31	4	U+005e U+003f U+0068
-^ɂh	<?>	ɂhtá, ɂhát	31	4	U+005e U+0242 U+0068
-ñh	ñh	-íiñha, déeñhi	52, 60, 31	4	U+00f1 U+0068
-^ñh	ñh	ñhéette, ñhñó	52, 31	4	U+005e U+00f1 U+0068
+shw	ʃʷ	ashwet, atishwich	1, 40, 81, 39	4	U+0073 U+0068 U+0077
+īh	iː h	hūšīheɨ_, nīht	4, 26, 258	4	U+012b U+0068
+Is	ɪ s	mAIsi, paIsokety	6, 10	4	U+0049 U+0073
+·s	s	čàsčā·sa, ɂá·sivoɂotsI	31, 7	4	U+00b7 U+0073
+vw	vʷ	kaniUvwaaag, uvwiyavY	9, 8, 221	4	U+0076 U+0077
+Į$	ĩ	paríyĮ, kwiyá-ga-tĮ	9	4	U+012e U+0024
+ǫǫ	õ	tǫǫto, sųų-rǫǫ?na-pŲ	9, 112	4	U+01eb U+01eb
+Ys	y s	pYsari-nijaj, narYsO	10, 9	4	U+0059 U+0073
+pw	pʷ	siílY_pwac, tYpwiyu	33, 21, 124, 9	4	U+0070 U+0077
+^>	NULL	>kah>-litch, >kam	30, 12	4	U+005e U+003e
+hs$	h s	troi-yahs, exetehs	44, 14, 41, 47	4	U+0068 U+0073 U+0024
+sh:	ʃː	kush:ily-, tish:y-	15	4	U+0073 U+0068 U+003a
+á:$	aː	xmu:ká:, şkWi:yá:	33, 15, 48	4	U+00e1 U+003a U+0024
+D	d	-MANDI-, sólta:Do	16, 45, 177, 36	4	U+0044
+^G	g	Ga._ahur, Giti	354, 16, 405	4	U+005e U+0047
+\w	ˀw	?i\wi_la, we\wutsoi	19, 31, 45	4	U+005c U+0077
+ùs	u s	mùsumùsuìri, mutùsi	58, 19	4	U+00f9 U+0073
+chch	tʃː	ochchirú, lichchey-_	20, 90	4	U+0063 U+0068 U+0063 U+0068
+Tw	tʷ	waTwaT, aTwošet	30, 20, 29	4	U+0054 U+0077
+ĭ$	i	ɂlwĭ, pĕt-sĭ	31, 20, 41	4	U+012d U+0024
+jj	dʒ	phajjsi, ajjsaraña	98, 23, 106	4	U+006a U+0073
+ī$	iː	kwī, múī	31, 26, 24	4	U+012b U+0024
+^cw	cʷ	cweejya´jni, cwá	34, 106, 24, 43	4	U+005e U+0063 U+0077
+α$	ɑ	tα, xα	24, 47	4	U+03b1 U+0024
+:l	l	ahe-:liH, epla-:liH-	25	4	U+003a U+006c
+^??	NULL	??-sahl-le, ??i\:po\qpo	31, 25	4	U+005e U+003f U+003f
+^??-	NULL
+ū$	uː	tlpū, Uhmū	31, 26	4	U+016b U+0024
+^gh	gʰ	gho_, ghiya	29, 222, 103	4	U+005e U+0067 U+0068
+ąw	ã w	hąw_A, hąw_-hoT-am_	30	4	U+0105 U+0077
+mw	mʷ	damwam, tsomwuk	442, 72, 31	4	U+006d U+0077
+^?h	h	?hpi, ?ha\...thpu	31	4	U+005e U+003f U+0068
+^ɂh	ˀh	ɂhtá, ɂhát	31	4	U+005e U+0242 U+0068
+ñh	ɲ̊	-íiñha, déeñhi	52, 60, 31	4	U+00f1 U+0068
+^ñh	ɲ̊	ñhéette, ñhñó	52, 31	4	U+005e U+00f1 U+0068
 ^a:$	aː	a:	47, 33	4	U+005e U+0061 U+003a U+0024
 ^m$	m	m	33, 253, 173, 214	4	U+005e U+006d U+0024
-khw	khw	nkhwal, p-u+khwit	34, 40	4	U+006b U+0068 U+0077
-R$	<?>	PÉLPVKUR, wiR	240, 34	4	U+0052 U+0024
-^ps	ps	psihipqua, psibsi	66, 34, 82, 100	4	U+005e U+0070 U+0073
-^čh	čh	čhiʔdʸ_sela, čhé?ke?ó	36, 59, 106	4	U+005e U+010d U+0068
+khw	kʷʰ	nkhwal, p-u+khwit	34, 40	4	U+006b U+0068 U+0077
+R$	r	PÉLPVKUR, wiR	240, 34	4	U+0052 U+0024
+^ps	p s	psihipqua, psibsi	66, 34, 82, 100	4	U+005e U+0070 U+0073
+^čh	tʃʰ	čhiʔdʸ_sela, čhé?ke?ó	36, 59, 106	4	U+005e U+010d U+0068
 ^s$	s	s, s-	163, 40, 120, 39	4	U+005e U+0073 U+0024
-^â	â	âág_a’, â-lâ-kén	119, 39	4	U+005e U+00e2
+^â	a	âág_a’, â-lâ-kén	119, 39	4	U+005e U+00e2
 eː	eː	deːpite_keːɾi, peːthé	60, 56	4	U+0065 U+02d0
-úː	úː	gamúːwi, púːwe_	60, 56	4	U+00fa U+02d0
+úː	uː	gamúːwi, púːwe_	60, 56	4	U+00fa U+02d0
 ˈn	n	zaˈnalo, binun_βi.ˈnun	57, 357	4	U+02c8 U+006e
-^ù	ù	ùʔwí, ùlibàna	58, 421, 75	4	U+005e U+00f9
-ˇ	<?>	íguijˇïkoï, kasˇó?	59, 156, 157	4	U+02c7
+^ù	u	ùʔwí, ùlibàna	58, 421, 75	4	U+005e U+00f9
+ˇ	NULL	íguijˇïkoï, kasˇó?	59, 156, 157	4	U+02c7
 kʰʸ	kʲʰ	níxkʰʸe-xɨ, ixkʰʸa_	68	4	U+006b U+02b0 U+02b8
 pʸ	pʲ	ooʔíípʸe, ooʔíípʸe_	68	4	U+0070 U+02b8
-^óó	óó	óóxu, óóto	103, 68, 158	4	U+005e U+00f3 U+00f3
-^és	és	ésem, ésámáá-ʔi	69, 81, 115, 133	4	U+005e U+00e9 U+0073
+^óó	oː	óóxu, óóto	103, 68, 158	4	U+005e U+00f3 U+00f3
+^és	e s	ésem, ésámáá-ʔi	69, 81, 115, 133	4	U+005e U+00e9 U+0073
 ɪ	ɪ	waɪgarapö, kumbɪḷ	212, 70, 77, 208	4	U+026a
 ^ɤ	ɤ	ɤʔrɤ_, ɤnnɤ	71	4	U+005e U+0264
 rʸ	rʲ	arʸɨpɨ-pe, perʸaka	73	4	U+0072 U+02b8
-éh$	éh	yaʔambéh, mɨakléh	123, 93, 130	4	U+00e9 U+0068 U+0024
-ʌ́$	ʌ́	fə́ʌ́, híbo-pʌʌ́	97	4	U+028c U+0301 U+0024
-tss	tss	tssotssopa, tsintssia	101	4	U+0074 U+0073 U+0073
-ǽ̨	<?>	kǽ̨ŋæ̨, wǽ̨ŋǫ́ŋį_	103	4	U+01fd U+0328
-æ̃æ̃	æ̃æ̃	a-wæ̃-pa_wæ̃æ̃-dõ-bẽ-dæka-pa, gæjæ_wẽ-te_æ̃æ̃-ĩ-kade_	103	4	U+00e6 U+0303 U+00e6 U+0303
+éh$	e h	yaʔambéh, mɨakléh	123, 93, 130	4	U+00e9 U+0068 U+0024
+ʌ́$	ʌ	fə́ʌ́, híbo-pʌʌ́	97	4	U+028c U+0301 U+0024
+tss	ts	tssotssopa, tsintssia	101	4	U+0074 U+0073 U+0073
+ǽ̨	æ̃	kǽ̨ŋæ̨, wǽ̨ŋǫ́ŋį_	103	4	U+01fd U+0328
+æ̃æ̃	æ̃	a-wæ̃-pa_wæ̃æ̃-dõ-bẽ-dæka-pa, gæjæ_wẽ-te_æ̃æ̃-ĩ-kade_	103	4	U+00e6 U+0303 U+00e6 U+0303
 ^ð	ð	ðina, ðohe	368, 379, 104, 184	4	U+005e U+00f0
-^ǫ	ǫ	ǫdȩrõ, ǫtȩmãĩ	108	4	U+005e U+01eb
+^ǫ	õ	ǫdȩrõ, ǫtȩmãĩ	108	4	U+005e U+01eb
 ɣ	ɣ	aɣama, miyãɣa	349, 111	4	U+0263
-^ïh	ïh	ïhae, ïhi	112	4	U+005e U+00ef U+0068
-^fw	fw	fwanara, fwiʨu	112	4	U+005e U+0066 U+0077
-ǔ$	ǔ	belǔ, hja-diʔ-bǔ	117	4	U+01d4 U+0024
-âw$	âw	dâw, hâw	119, 117	4	U+00e2 U+0077 U+0024
+^ïh	ɨ h	ïhae, ïhi	112	4	U+005e U+00ef U+0068
+^fw	fʷ	fwanara, fwiʨu	112	4	U+005e U+0066 U+0077
+ǔ$	u	belǔ, hja-diʔ-bǔ	117	4	U+01d4 U+0024
+âw$	a w	dâw, hâw	119, 117	4	U+00e2 U+0077 U+0024
 ^ʤ	dʒ	ʤaʔo_, ʤahe	146, 118	4	U+005e U+02a4
-ǐh$	ǐh	wǐh, tǐh	120	4	U+01d0 U+0068 U+0024
+ǐh$	i h	wǐh, tǐh	120	4	U+01d0 U+0068 U+0024
 ɟ$	ɟ	cũ̌ɟ, wiɟ	123	4	U+025f U+0024
-	<?>	wahtmeh, niphoh	130	4	U+f7f3
-ũũ$	ũũ	pũũ, pũũ-	140, 142, 145	4	U+0169 U+0169 U+0024
-ɨ̃̀$	ɨ̃̀	anɨ̃́ŋɨ̃̀, ɛ̃́mṍã́mɨ̃̀	143	4	U+0268 U+0303 U+0300 U+0024
-ã̀$	ã̀	nṍã̀, kʰõmẽ́ã̀	143	4	U+00e3 U+0300 U+0024
-ɨ̀$	ɨ̀	wɨ́ɨ̀, kʰédɨ̀ᵽɨ̀	143, 156	4	U+0268 U+0300 U+0024
-ί	<?>	sίórί_pʰί_, tίnã_	144	4	U+03af
-ñ̵	ñ̵	furááñ̵a, raitïkïñ̵o	158, 156	4	U+00f1 U+0335
-ɯ́	ɯ́	bɯ́gɯ, rakɯ́ŋo_	266, 157	4	U+026f U+0301
-n̵	n̵	ɸookan̵ḯḯʔtʸa, han̵ãã-maʔ-tʸáá-maʔ_	158	4	U+006e U+0335
-ëw	ëw	prowëhëwë, hëwëimela	162, 352	4	U+00eb U+0077
-ṛ$	ṛ	balaṛ, māṛ	167, 166, 177	4	U+1e5b U+0024
-vw$	vw	may-ngaml+wurvw, wangarr+wirvw	221	4	U+0076 U+0077 U+0024
-dh$	dh	olodh, ebmandh	225, 224	4	U+0064 U+0068 U+0024
+	NULL	wahtmeh, niphoh	130	4	U+f7f3
+ũũ$	ũː	pũũ, pũũ-	140, 142, 145	4	U+0169 U+0169 U+0024
+ɨ̃̀$	ɨ̃	anɨ̃́ŋɨ̃̀, ɛ̃́mṍã́mɨ̃̀	143	4	U+0268 U+0303 U+0300 U+0024
+ã̀$	ã	nṍã̀, kʰõmẽ́ã̀	143	4	U+00e3 U+0300 U+0024
+ɨ̀$	ɨ	wɨ́ɨ̀, kʰédɨ̀ᵽɨ̀	143, 156	4	U+0268 U+0300 U+0024
+ί	ɨ	sίórί_pʰί_, tίnã_	144	4	U+03af
+ñ̵	ã	furááñ̵a, raitïkïñ̵o	158, 156	4	U+00f1 U+0335
+ɯ́	ɯ	bɯ́gɯ, rakɯ́ŋo_	266, 157	4	U+026f U+0301
+n̵	n	ɸookan̵ḯḯʔtʸa, han̵ãã-maʔ-tʸáá-maʔ_	158	4	U+006e U+0335
+ëw	ə w	prowëhëwë, hëwëimela	162, 352	4	U+00eb U+0077
+ṛ$	ɽ	balaṛ, māṛ	167, 166, 177	4	U+1e5b U+0024
+vw$	vʷ	may-ngaml+wurvw, wangarr+wirvw	221	4	U+0076 U+0077 U+0024
+dh$	dʰ	olodh, ebmandh	225, 224	4	U+0064 U+0068 U+0024
 ɳ	ɳ	igїfїɳGiɳo, aɳatïgï	354	4	U+0273
-m̉	m̉	lam̉-na, hum̉-wanra-ni	381	4	U+006d U+0309
-t̯	t̯	ot̯et̯, _analat̯-ka	382	4	U+0074 U+032f
-^ĵ	ĵ	ĵaĵkwá, ĵər	384	4	U+005e U+0135
-^O:	<?>	O:-T, -O:-c	4	3	U+005e U+004f U+003a
-Yh	<?>	ngYh-YT__also_, kutYhorapY	4, 10	3	U+0059 U+0068
-C$	<?>	jugu_fC, nösh_C	4, 30, 170	3	U+0043 U+0024
-ff	ff	"-hunaqan_""ceremonial_staff"", otiffacu"	27, 4, 101	3	U+0066 U+0066
-^H	<?>	Hant_Caai, Hivmu^_	6, 37, 31	3	U+005e U+0048
-AA	<?>	sanAAzi, -kyi_SAA__	6, 11	3	U+0041 U+0041
-γ	<?>	pakwiγa, puhaγEtu	6	3	U+03b3
-tsts	tsts	wiitstsI, tyvatstsI	8	3	U+0074 U+0073 U+0074 U+0073
-Hs	<?>	wHsaraa-gana-pU, wHsiavI	9, 8	3	U+0048 U+0073
-OO	<?>	t:OOd___, pHOOchH_	29, 11	3	U+004f U+004f
-üü	üü	jamatabüütjü_, süüpin	13, 96	3	U+00fc U+00fc
-ɂ$	<?>	wiši·tʰaɂ, ɂoyičaɂ	14	3	U+0242 U+0024
+m̉	m̥	lam̉-na, hum̉-wanra-ni	381	4	U+006d U+0309
+t̯	tʰ	ot̯et̯, _analat̯-ka	382	4	U+0074 U+032f
+^ĵ	dʒ	ĵaĵkwá, ĵər	384	4	U+005e U+0135
+^O:	oː	O:-T, -O:-c	4	3	U+005e U+004f U+003a
+Yh	y h	ngYh-YT__also_, kutYhorapY	4, 10	3	U+0059 U+0068
+C$	NULL	jugu_fC, nösh_C	4, 30, 170	3	U+0043 U+0024
+ff	fː	"-hunaqan_""ceremonial_staff"", otiffacu"	27, 4, 101	3	U+0066 U+0066
+^H	h	Hant_Caai, Hivmu^_	6, 37, 31	3	U+005e U+0048
+AA	aː	sanAAzi, -kyi_SAA__	6, 11	3	U+0041 U+0041
+γ	ɣ	pakwiγa, puhaγEtu	6	3	U+03b3
+tsts	tsː	wiitstsI, tyvatstsI	8	3	U+0074 U+0073 U+0074 U+0073
+wH	w̥	wHsaraa-gana-pU, wHsiavI	9, 8	3	U+0048 U+0073
+OO	oː	t:OOd___, pHOOchH_	29, 11	3	U+004f U+004f
+üü	yː	jamatabüütjü_, süüpin	13, 96	3	U+00fc U+00fc
+ɂ$	ʔ	wiši·tʰaɂ, ɂoyičaɂ	14	3	U+0242 U+0024
 ^e:$	eː	e:	47, 15	3	U+005e U+0065 U+003a U+0024
-ú:$	úː	pisú:-, čukú:-	15, 31	3	U+00fa U+003a U+0024
-š:	šː	šokóš:a-, kúš:ily-	15	3	U+0161 U+003a
-^ú:	úː	ú:ni, ú:nia	56, 15, 48	3	U+005e U+00fa U+003a
-^šw	šw	šwekeš-upsa_, šwan	16, 47, 33	3	U+005e U+0161 U+0077
-^mhw	mhw	mhwá·, mhwāta	31, 17	3	U+005e U+006d U+0068 U+0077
-ìw	ìw	kapìwa, ɂìwīla	31, 421, 19	3	U+00ec U+0077
-ès	ès	bèsuè_, wehèsit	58, 45, 19	3	U+00e8 U+0073
-ě$	ě	lōsh-ně, tě-tě	47, 20, 19	3	U+011b U+0024
-chw	chw	ha\chwa__, SYachwe_	31, 20, 129	3	U+0063 U+0068 U+0077
-B	<?>	yemBla, po:ko:ne-_Black_Widow	23, 177, 42	3	U+0042
+ú:$	uː	pisú:-, čukú:-	15, 31	3	U+00fa U+003a U+0024
+š:	ʃː	šokóš:a-, kúš:ily-	15	3	U+0161 U+003a
+^ú:	uː	ú:ni, ú:nia	56, 15, 48	3	U+005e U+00fa U+003a
+^šw	ʃʷ	šwekeš-upsa_, šwan	16, 47, 33	3	U+005e U+0161 U+0077
+^mhw	m̥ʷ	mhwá·, mhwāta	31, 17	3	U+005e U+006d U+0068 U+0077
+ìw	i w	kapìwa, ɂìwīla	31, 421, 19	3	U+00ec U+0077
+ès	e s	bèsuè_, wehèsit	58, 45, 19	3	U+00e8 U+0073
+ě$	e	lōsh-ně, tě-tě	47, 20, 19	3	U+011b U+0024
+chw	tʃʷ	ha\chwa__, SYachwe_	31, 20, 129	3	U+0063 U+0068 U+0077
+B	b	yemBla, po:ko:ne-_Black_Widow	23, 177, 42	3	U+0042
 l:$	lː	al:-, ol:-	25	3	U+006c U+003a U+0024
-:i$	ːi	pukuk-:i-, pasas-:i-	25	3	U+003a U+0069 U+0024
-Hh$	<?>	hikaHh-, muc:amaHh-	25	3	U+0048 U+0068 U+0024
-ēh	ēh	ssedēhe_, welēhanisht	26, 258	3	U+0113 U+0068
-X:	<?>	gɨX:gɨši, mɨX:de	27	3	U+0058 U+003a
+:i$	i	pukuk-:i-, pasas-:i-	25	3	U+003a U+0069 U+0024
+Hh$	h	hikaHh-, muc:amaHh-	25	3	U+0048 U+0068 U+0024
+ēh	e h	ssedēhe_, welēhanisht	26, 258	3	U+0113 U+0068
+X:	xː	gɨX:gɨši, mɨX:de	27	3	U+0058 U+003a
 uː	uː	puːkɯ, tuːka	353, 110, 28	3	U+0075 U+02d0
-K$	<?>	MURRNGK, pol-i_K	240, 30	3	U+004b U+0024
-ą:	<?>	hą:p, są:t	30	3	U+0105 U+003a
-^vh	vh	vha__, vhe	31	3	U+005e U+0076 U+0068
-\:	<?>	??i\:po\qpo, kWe\:tho	31	3	U+005c U+003a
-è:	èː	kWè:túmi, kWè:mθá:rvíča	31	3	U+00e8 U+003a
-^ł	ł	łu:ma, łxmpaţ	33, 476	3	U+005e U+0142
-·w$	·w	şqway_qlucá·w, xma_pkwya·w	33	3	U+00b7 U+0077 U+0024
-^khw	khw	khwa, khwelekhwel	47, 34, 40	3	U+005e U+006b U+0068 U+0077
-Th$	<?>	tHa:waTh, puTh	244, 45, 36	3	U+0054 U+0068 U+0024
-šh	šh	tšhkaa, hišhik-	253, 36, 41	3	U+0161 U+0068
-X	<?>	oXtopol_, laXimaj	40, 42, 39	3	U+0058
-xsh$	xsh	nuxsh, -noxsh	43, 40, 39	3	U+0078 U+0073 U+0068 U+0024
-xsh	xsh	taxshan, ixsha	40, 39	3	U+0078 U+0073 U+0068
+K$	k	MURRNGK, pol-i_K	240, 30	3	U+004b U+0024
+ą:	ã	hą:p, są:t	30	3	U+0105 U+003a
+^vh	v̥	vha__, vhe	31	3	U+005e U+0076 U+0068
+\:	ʔ	??i\:po\qpo, kWe\:tho	31	3	U+005c U+003a
+è:	eː	kWè:túmi, kWè:mθá:rvíča	31	3	U+00e8 U+003a
+^ł	ɬ	łu:ma, łxmpaţ	33, 476	3	U+005e U+0142
+·w$	w	şqway_qlucá·w, xma_pkwya·w	33	3	U+00b7 U+0077 U+0024
+^khw	kʷʰ	khwa, khwelekhwel	47, 34, 40	3	U+005e U+006b U+0068 U+0077
+Th$	θ	tHa:waTh, puTh	244, 45, 36	3	U+0054 U+0068 U+0024
+šh	ʃ	tšhkaa, hišhik-	253, 36, 41	3	U+0161 U+0068
+X	x	oXtopol_, laXimaj	40, 42, 39	3	U+0058
+xsh$	x ʃ	nuxsh, -noxsh	43, 40, 39	3	U+0078 U+0073 U+0068 U+0024
+xsh	x ʃ	taxshan, ixsha	40, 39	3	U+0078 U+0073 U+0068
 ^pʃ	pʃ	pʃoʃ	40, 39	3	U+005e U+0070 U+0283
 ʧ$	tʃ	kwiʧ, kowoʧ	39, 40	3	U+02a7 U+0024
-^xsh	xsh	xshap_	43, 40, 39	3	U+005e U+0078 U+0073 U+0068
-^ïw	ïw	ïw_, ïwu	40, 352, 39	3	U+005e U+00ef U+0077
-^tsw	tsw	tswiw, tswãsĩ	379, 40	3	U+005e U+0074 U+0073 U+0077
-^ksh	ksh	kshe_, ksha	47, 41, 40	3	U+005e U+006b U+0073 U+0068
-^tw	tw	two-sil, twitak	41, 47	3	U+005e U+0074 U+0077
-^*h	<?>	*hiwe:t, *ho	45, 47	3	U+005e U+002a U+0068
-^*w	<?>	*wa:xal_N_, *wo:	45	3	U+005e U+002a U+0077
-∫	∫	wáat∫uli, t∫aawi_	48, 54	3	U+222b
-^V́	<?>	V́ju, V́Vtʃa	56, 54	3	U+005e U+0056 U+0301
-^ì	ì	ìyacanási, ìisi	58	3	U+005e U+00ec
-^ɨˀ	ɨˀ	ɨˀu_, -ɨˀdakʰu	369, 61	3	U+005e U+0268 U+02c0
-^¢	<?>	¢uwa, ¢uha	64	3	U+005e U+00a2
-ïï$	ïï	ekïï, -ʔáčïï	68, 112	3	U+00ef U+00ef U+0024
+^xsh	x ʃ	xshap_	43, 40, 39	3	U+005e U+0078 U+0073 U+0068
+^ïw	ɨ w	ïw_, ïwu	40, 352, 39	3	U+005e U+00ef U+0077
+^tsw	tsʷ	tswiw, tswãsĩ	379, 40	3	U+005e U+0074 U+0073 U+0077
+^ksh	k ʃ	kshe_, ksha	47, 41, 40	3	U+005e U+006b U+0073 U+0068
+^tw	tʷ	two-sil, twitak	41, 47	3	U+005e U+0074 U+0077
+^*h	h	*hiwe:t, *ho	45, 47	3	U+005e U+002a U+0068
+^*w	w	*wa:xal_N_, *wo:	45	3	U+005e U+002a U+0077
+∫	ʃ	wáat∫uli, t∫aawi_	48, 54	3	U+222b
+^V́	v	V́ju, V́Vtʃa	56, 54	3	U+005e U+0056 U+0301
+^ì	i	ìyacanási, ìisi	58	3	U+005e U+00ec
+^¢	tʃ	¢uwa, ¢uha	64	3	U+005e U+00a2
+ïï$	ɨː	ekïï, -ʔáčïï	68, 112	3	U+00ef U+00ef U+0024
 ^nʸ	nʲ	nʸomɨ, nʸoʔ-nʸo	68, 106	3	U+005e U+006e U+02b8
 tʰʸ	tʲʰ	kʰápʰátʰʸïḯkʰï-nï_, aakʰítʰʸe	68	3	U+0074 U+02b0 U+02b8
-^ɨɨ	ɨɨ	ɨɨni, ɨɨná	68, 78, 163	3	U+005e U+0268 U+0268
-^ɨ́ɨ́	ɨ́ɨ́	ɨ́ɨ́βaá, ɨ́ɨ́-xóʔo	68, 69	3	U+005e U+0268 U+0301 U+0268 U+0301
-^éé	éé	éédu-ʔi, éétʰepa	69, 68	3	U+005e U+00e9 U+00e9
-óó$	óó	apóó, uhyóó	143, 75, 158	3	U+00f3 U+00f3 U+0024
-áá$	áá	ká-á-, páá	140, 75	3	U+00e1 U+00e1 U+0024
-^ṹ	ṹ	ṹpṹ-, ṹndha	143, 90, 133	3	U+005e U+1e79
+^ɨɨ	ɨː	ɨɨni, ɨɨná	68, 78, 163	3	U+005e U+0268 U+0268
+^ɨ́ɨ́	ɨː	ɨ́ɨ́βaá, ɨ́ɨ́-xóʔo	68, 69	3	U+005e U+0268 U+0301 U+0268 U+0301
+^éé	eː	éédu-ʔi, éétʰepa	69, 68	3	U+005e U+00e9 U+00e9
+óó$	oː	apóó, uhyóó	143, 75, 158	3	U+00f3 U+00f3 U+0024
+áá$	aː	ká-á-, páá	140, 75	3	U+00e1 U+00e1 U+0024
+^ṹ	ũ	ṹpṹ-, ṹndha	143, 90, 133	3	U+005e U+1e79
 ǝ$	ə	θa-pǝ, sparǝ	160, 93, 97	3	U+01dd U+0024
 ^tɕ	tɕ	tɕabá, tɕɨngabtánga	99	3	U+005e U+0074 U+0255
 lʲ	lʲ	estrelʲa-téma_, ngalʲináso_	99	3	U+006c U+02b2
-nsh	nsh	conshombi, canshaeñe	101	3	U+006e U+0073 U+0068
+nsh	n ʃ	conshombi, canshaeñe	101	3	U+006e U+0073 U+0068
 ^ʰkʷ	ʰkʷ	ʰkʷã_lãka, ʰkʷayuwã	102	3	U+005e U+02b0 U+006b U+02b7
-aʰ	aʰ	hãlĩ_baʰte_, waʰwɨ_	102	3	U+0061 U+02b0
 ^ʰt	ʰt	ʰtota_hele, ʰtawɨ_ʰlawa	102	3	U+005e U+02b0 U+0074
-ãʰ	ãʰ	ʰkãʰkã_hu, bãʰtulẽ	102	3	U+00e3 U+02b0
-^ǫ́	ǫ́	ǫ́nowóka_, ǫ́nǫ́nę	103, 102	3	U+005e U+01eb U+0301
-ææ	ææ	wæætẽ, wææ_kæ-ĩ	103	3	U+00e6 U+00e6
-æ̨$	æ̨	kǽ̨ŋæ̨, wẽẽñæ̃_wį́į́ñæ̨	103	3	U+00e6 U+0328 U+0024
-ę́	ę́	mẽmaa__bi_mę́ná_mę́a, wę́næ_	103	3	U+0119 U+0301
-ns$	ns	pequins, kopvrrlh_FW_lagoons	106, 221	3	U+006e U+0073 U+0024
+^ǫ́	õ	ǫ́nowóka_, ǫ́nǫ́nę	103, 102	3	U+005e U+01eb U+0301
+ææ	æː	wæætẽ, wææ_kæ-ĩ	103	3	U+00e6 U+00e6
+æ̨$	æ̃	kǽ̨ŋæ̨, wẽẽñæ̃_wį́į́ñæ̨	103	3	U+00e6 U+0328 U+0024
+ę́	ẽ	mẽmaa__bi_mę́ná_mę́a, wę́næ_	103	3	U+0119 U+0301
+ns$	n s	pequins, kopvrrlh_FW_lagoons	106, 221	3	U+006e U+0073 U+0024
 ^ɟ	ɟ	ɟoto, ɟakɯ_	111, 110	3	U+005e U+025f
-^ô	ô	ôò, ô-ûn_	119, 110	3	U+005e U+00f4
-és$	és	yêés, tejés	119, 114	3	U+00e9 U+0073 U+0024
-gs	gs	agséamat, agsɨa_anagkɨ_	114, 126	3	U+0067 U+0073
-ʉ̌	ʉ̌	hʉ̌p, kʉ̌j	117	3	U+0289 U+030c
-ǎ$	ǎ	mǎ, maʔ-patǎ	117	3	U+01ce U+0024
-ěh$	ěh	w’ěh, děh	120, 117	3	U+011b U+0068 U+0024
-îw$	îw	tîw, ʧîw	123, 117	3	U+00ee U+0077 U+0024
+^ô	o	ôò, ô-ûn_	119, 110	3	U+005e U+00f4
+és$	e s	yêés, tejés	119, 114	3	U+00e9 U+0073 U+0024
+gs	g s	agséamat, agsɨa_anagkɨ_	114, 126	3	U+0067 U+0073
+ʉ̌	ʉ	hʉ̌p, kʉ̌j	117	3	U+0289 U+030c
+ǎ$	a	mǎ, maʔ-patǎ	117	3	U+01ce U+0024
+ěh$	e h	w’ěh, děh	120, 117	3	U+011b U+0068 U+0024
+îw$	i w	tîw, ʧîw	123, 117	3	U+00ee U+0077 U+0024
 ʤ	dʒ	nɨ_jɨp_ʧeI_hooˀ_ʤi, tʰaʤa	146, 118	3	U+02a4
-‘	<?>	tʉʉ́m_cf._tʉm_‘eye’, kõ‘nɾeçi	119, 411	3	U+2018
-èw$	èw	pêèw, xeèw	119	3	U+00e8 U+0077 U+0024
-àw$	àw	râàw, baàw	119	3	U+00e0 U+0077 U+0024
-ǐw$	ǐw	wǐw, tǐw	120	3	U+01d0 U+0077 U+0024
-ǝ̌	ə̌	tǝ̌g, kǝwǝ̌g	123, 120	3	U+01dd U+030c
-ǎh$	ǎh	deh-tǎh, tǎh	120, 123	3	U+01ce U+0068 U+0024
-ǝ̂	ə̂	jǝ̂d, hɔ̃ʔtǝ̂g	123	3	U+01dd U+0302
+‘	ʔ	tʉʉ́m_cf._tʉm_‘eye’, kõ‘nɾeçi	119, 411	3	U+2018
+èw$	e w	pêèw, xeèw	119	3	U+00e8 U+0077 U+0024
+àw$	a w	râàw, baàw	119	3	U+00e0 U+0077 U+0024
+ǐw$	i w	wǐw, tǐw	120	3	U+01d0 U+0077 U+0024
+ǝ̌	ə	tǝ̌g, kǝwǝ̌g	123, 120	3	U+01dd U+030c
+ǎh$	a h	deh-tǎh, tǎh	120, 123	3	U+01ce U+0068 U+0024
+ǝ̂	ə	jǝ̂d, hɔ̃ʔtǝ̂g	123	3	U+01dd U+0302
 ɔ̃̂	ɔ̃̂	bɔ̃̂j, mɔ̃̂j	123	3	U+0254 U+0303 U+0302
-ësh$	ësh	taësh, inchësh	124	3	U+00eb U+0073 U+0068 U+0024
-^ĩĩ	ĩĩ	ĩĩmipá, ĩĩã	138	3	U+005e U+0129 U+0129
-ɨ̃ɨ̃$	ɨ̃ɨ̃	bɨ̃ɨ̃, jɨ̃ɨ̃-	140	3	U+0268 U+0303 U+0268 U+0303 U+0024
-ẽẽ$	ẽẽ	tẽẽ, -bẽẽ	387, 140, 142	3	U+1ebd U+1ebd U+0024
-^ó$	ó	ó, ó-	140, 143	3	U+005e U+00f3 U+0024
-ɨˊ$	ɨˊ	pamôga_dikekɨhɨˊ, dikekɨhɨˊ	141	3	U+0268 U+02ca U+0024
-ɛ̀	ɛ̀	botířihɛ̀_hitʰá, ɨ̃mɨ̃́_kahɛ̀řò	143	3	U+025b U+0300
-^ĩ́	ĩ́	ĩ́ã́, ĩ́jãã	145, 143	3	U+005e U+0129 U+0301
-ùh	ùh	pùhtoro, tùhriro	144	3	U+00f9 U+0068
-^ïï	ïï	ï.ï-de, ïïxo	158, 156	3	U+005e U+00ef U+00ef
-^J	<?>	Jusiñamuì_, -JINBI-	164, 177, 156	3	U+005e U+004a
-^gw	gw	gwiina, gwaniya	167, 178, 165	3	U+005e U+0067 U+0077
-rrr	rrr	marrri, karrukarrru	180, 183	3	U+0072 U+0072 U+0072
-"^""w"	<?>	"""warnu, ""wapa-"	180, 187	3	U+005e U+0022 U+0077
-a!$	aǃ	marrarra!, karingkaka!	191	3	U+0061 U+0021 U+0024
-ṛ̌	ṛ̌	pa-ṛ̌i, kumbɑṛ̌u	253, 209	3	U+1e5b U+030c
+ësh$	ə ʃ	taësh, inchësh	124	3	U+00eb U+0073 U+0068 U+0024
+^ĩĩ	ĩː	ĩĩmipá, ĩĩã	138	3	U+005e U+0129 U+0129
+ɨ̃ɨ̃$	ɨ̃ː	bɨ̃ɨ̃, jɨ̃ɨ̃-	140	3	U+0268 U+0303 U+0268 U+0303 U+0024
+ẽẽ$	ẽː	tẽẽ, -bẽẽ	387, 140, 142	3	U+1ebd U+1ebd U+0024
+^ó$	o	ó, ó-	140, 143	3	U+005e U+00f3 U+0024
+ɨˊ$	ɨ	pamôga_dikekɨhɨˊ, dikekɨhɨˊ	141	3	U+0268 U+02ca U+0024
+ɛ̀	ɛ	botířihɛ̀_hitʰá, ɨ̃mɨ̃́_kahɛ̀řò	143	3	U+025b U+0300
+^ĩ́	ĩ	ĩ́ã́, ĩ́jãã	145, 143	3	U+005e U+0129 U+0301
+ùh	u h	pùhtoro, tùhriro	144	3	U+00f9 U+0068
+^ïï	ɨː	ï.ï-de, ïïxo	158, 156	3	U+005e U+00ef U+00ef
+^J	j	Jusiñamuì_, -JINBI-	164, 177, 156	3	U+005e U+004a
+^gw	gʷ	gwiina, gwaniya	167, 178, 165	3	U+005e U+0067 U+0077
+rrr	rː	marrri, karrukarrru	180, 183	3	U+0072 U+0072 U+0072
+d"w	NULL	"""warnu, ""wapa-"	180, 187	3	U+005e U+0022 U+0077
+a!$	a	marrarra!, karingkaka!	191	3	U+0061 U+0021 U+0024
+ṛ̌	ɽ	pa-ṛ̌i, kumbɑṛ̌u	253, 209	3	U+1e5b U+030c
 ʀ	ʀ	koʀaʀkaɲər, t̪eʀ_	222	3	U+0280
-ḻw	<?>	buḻwutja, maḻwiya	238, 239, 234	3	U+1e3b U+0077
-µ	<?>	mäµḏa, djaµmal	239	3	U+00b5
-^ṛ̌	ṛ̌	ṛ̌o-ti, ṛ̌o	253	3	U+005e U+1e5b U+030c
-^ss	ss	ssedēhe_, ssuku:taka	258	3	U+005e U+0073 U+0073
-ї	<?>	igїfїɳGiɳo, fїɳGi-	354	3	U+0457
-ĩ̯	ĩ̯	erĩ̯me, ečĩ̯ã_mebi̯_	368	3	U+0129 U+032f
+ḻw	l̪ʷ	buḻwutja, maḻwiya	238, 239, 234	3	U+1e3b U+0077
+µ	m	mäµḏa, djaµmal	239	3	U+00b5
+^ṛ̌	ɽ	ṛ̌o-ti, ṛ̌o	253	3	U+005e U+1e5b U+030c
+^ss	sː	ssedēhe_, ssuku:taka	258	3	U+005e U+0073 U+0073
+ї	ɨ	igїfїɳGiɳo, fїɳGi-	354	3	U+0457
+ĩ̯	ĩ	erĩ̯me, ečĩ̯ã_mebi̯_	368	3	U+0129 U+032f
 ^ɬ	ɬ	ɬou-ka-teʔe, ɬari-kʷa	381	3	U+005e U+026c
-ỳ	ỳ	kỳnoto, kỳkaron	421	3	U+1ef3
-^ỳ	ỳ	ỳkoto, ỳmo	421	3	U+005e U+1ef3
-εε	ɛɛ	papεεl, εskwεεla	1	2	U+03b5 U+03b5
-^ā$	ā	ā	17, 2	2	U+005e U+0101 U+0024
-Y:$	<?>	kY:, lil:e-m:-t:Y--hY:	25, 4	2	U+0059 U+003a U+0024
-A:$	<?>	tYnA:-, u:TA:	4, 30	2	U+0041 U+003a U+0024
-A:	<?>	hwA:c-q, -pA:n	4	2	U+0041 U+003a
-Oh	<?>	ngOhA:h-q_turn_w, -pOh_	4	2	U+004f U+0068
-^A:	<?>	A:n-kin, A:nY-ht_	4	2	U+005e U+0041 U+003a
-īw	īw	pollolīwapü:l, trīwa	4, 26	2	U+012b U+0077
-^yy$	yy	yy	6, 13	2	U+005e U+0079 U+0079 U+0024
-Ih	<?>	wIhi, tIhI_	6, 159	2	U+0049 U+0068
-Ah	<?>	kImAhWírvi, pAha	6, 31	2	U+0041 U+0068
+ỳ	y	kỳnoto, kỳkaron	421	3	U+1ef3
+^ỳ	y	ỳkoto, ỳmo	421	3	U+005e U+1ef3
+εε	ɛː	papεεl, εskwεεla	1	2	U+03b5 U+03b5
+^ā$	a	ā	17, 2	2	U+005e U+0101 U+0024
+Y:$	yː	kY:, lil:e-m:-t:Y--hY:	25, 4	2	U+0059 U+003a U+0024
+A:$	ɑː	tYnA:-, u:TA:	4, 30	2	U+0041 U+003a U+0024
+A:	ɑː	hwA:c-q, -pA:n	4	2	U+0041 U+003a
+Oh	o h	ngOhA:h-q_turn_w, -pOh_	4	2	U+004f U+0068
+^A:	ɑː	A:n-kin, A:nY-ht_	4	2	U+005e U+0041 U+003a
+īw	iː w	pollolīwapü:l, trīwa	4, 26	2	U+012b U+0077
+^yy$	yː	yy	6, 13	2	U+005e U+0079 U+0079 U+0024
+Ih	ɪ h	wIhi, tIhI_	6, 159	2	U+0049 U+0068
+Ah	ɑ h	kImAhWírvi, pAha	6, 31	2	U+0041 U+0068
 ^ˈm	m	ˈmiro, ˈməjə	7, 57	2	U+005e U+02c8 U+006d
+ˈ	NULL
 ˈh	h	aˈhite, səˈhəvI	7, 57	2	U+02c8 U+0068
 ^o:$	oː	o:	8, 21	2	U+005e U+006f U+003a U+0024
-"""w"	<?>	"-wa_""with""_, -kwitunah_""wring_out"""	13, 9	2	U+0022 U+0077
-^O	<?>	Okha, O”aavI	29, 9	2	U+005e U+004f
-ų$	<?>	pagų, píá-vagų	9	2	U+0173 U+0024
-^uu$	uu	uu	140, 9	2	U+005e U+0075 U+0075 U+0024
-?s	<?>	pa?sa_ponii_huupi, keé?sˇé	10, 59	2	U+003f U+0073
-^nn	nn	nnedɨ_, nnodo	11, 258	2	U+005e U+006e U+006e
-zz	zz	nat-tiz-zah-oo-be, buzzard	11, 93	2	U+007a U+007a
-^>h	<?>	>han-tus-ēl, >hīk-ahm-putk	12	2	U+005e U+003e U+0068
-ĭh$	ĭh	ah-vĭh	12	2	U+012d U+0068 U+0024
+d""w"	NULL	"-wa_""with""_, -kwitunah_""wring_out"""	13, 9	2	U+0022 U+0077
+^O	o	Okha, O”aavI	29, 9	2	U+005e U+004f
+ų$	ũ	pagų, píá-vagų	9	2	U+0173 U+0024
+^uu$	uː	uu	140, 9	2	U+005e U+0075 U+0075 U+0024
+?s	ˀs	pa?sa_ponii_huupi, keé?sˇé	10, 59	2	U+003f U+0073
+^nn	nː	nnedɨ_, nnodo	11, 258	2	U+005e U+006e U+006e
+zz	zː	nat-tiz-zah-oo-be, buzzard	11, 93	2	U+007a U+007a
+^>h	h	>han-tus-ēl, >hīk-ahm-putk	12	2	U+005e U+003e U+0068
+ĭh$	i h	ah-vĭh	12	2	U+012d U+0068 U+0024
 ^l:	lː	l:l, -l:i-	23, 15	2	U+005e U+006c U+003a
-é:w	éːw	memdé:wi, mé:we-	27, 15	2	U+00e9 U+003a U+0077
-____	____	ĕh____kān__, o-ar”____maybe_ya:r_	17, 44	2	U+005f U+005f U+005f U+005f
-oooo	oooo	poo-oos, hoo-oot	17, 44	2	U+006f U+006f U+006f U+006f
+é:w	eː w	memdé:wi, mé:we-	27, 15	2	U+00e9 U+003a U+0077
+____	NULL	ĕh____kān__, o-ar”____maybe_ya:r_	17, 44	2	U+005f U+005f U+005f U+005f
+oooo	oː	poo-oos, hoo-oot	17, 44	2	U+006f U+006f U+006f U+006f
 tʃ$	tʃ	ʐuitʃ, peeˈr˗kaːtʃ	61, 17	2	U+0074 U+0283 U+0024
-^mw	mw	mwitjik_superscript_w_and_j, mwat	425, 18	2	U+005e U+006d U+0077
-òw	òw	lòwím_cá, tôòw_rẽr	119, 19	2	U+00f2 U+0077
-y!	yǃ	hoyoy!__Take_it!_Grasp_it!, hopey!__Ascend!_	20	2	U+0079 U+0021
-Ts	<?>	iTsa_, eTstand	24, 20	2	U+0054 U+0073
-lw$	lw	archilw, blw	21, 225	2	U+006c U+0077 U+0024
-rs$	rs	wing_feathers, dohó-dtransformers	21, 120	2	U+0072 U+0073 U+0024
+^mw	mʷ	mwitjik_superscript_w_and_j, mwat	425, 18	2	U+005e U+006d U+0077
+òw	o w	lòwím_cá, tôòw_rẽr	119, 19	2	U+00f2 U+0077
+y!	NULL	hoyoy!__Take_it!_Grasp_it!, hopey!__Ascend!_	20	2	U+0079 U+0021
+Ts	ts	iTsa_, eTstand	24, 20	2	U+0054 U+0073
+lw$	lʷ	archilw, blw	21, 225	2	U+006c U+0077 U+0024
+rs$	r s	wing_feathers, dohó-dtransformers	21, 120	2	U+0072 U+0073 U+0024
 ^k:	kː	k:t	23	2	U+005e U+006b U+003a
 ə:	əː	cə:hə-, əjə:kəkəh	23	2	U+0259 U+003a
-ë:	ëː	wë:kë-, hë:tik	23	2	U+00eb U+003a
-^I:$	<?>	I:	24, 47	2	U+005e U+0049 U+003a U+0024
-ŭs$	ŭs	sha-num-kŭs, tŭs	44, 24	2	U+016d U+0073 U+0024
-:n	ːn	oja-:ni, saka-:ni-	25	2	U+003a U+006e
+ë:	əː	wë:kë-, hë:tik	23	2	U+00eb U+003a
+^I:$	ɪː	I:	24, 47	2	U+005e U+0049 U+003a U+0024
+ŭs$	u s	sha-num-kŭs, tŭs	44, 24	2	U+016d U+0073 U+0024
+:n	n	oja-:ni, saka-:ni-	25	2	U+003a U+006e
 c:$	cː	To:u-c:, kac:-	25	2	U+0063 U+003a U+0024
-X$	<?>	tšopoX, manaX-	25, 41	2	U+0058 U+0024
-hw$	hw	ponnihw	26	2	U+0068 U+0077 U+0024
-ssh	ssh	pāwusshakk, tusshikāl	26	2	U+0073 U+0073 U+0068
-ēw	ēw	chēwl, yēwanɨ_	26, 258	2	U+0113 U+0077
-ōsh	ōsh	lōsh-ně, wōshākinisht	26, 47	2	U+014d U+0073 U+0068
+X$	x	tšopoX, manaX-	25, 41	2	U+0058 U+0024
+hw$	hʷ	ponnihw	26	2	U+0068 U+0077 U+0024
+ssh	ʃ	pāwusshakk, tusshikāl	26	2	U+0073 U+0073 U+0068
+ēw	eː w	chēwl, yēwanɨ_	26, 258	2	U+0113 U+0077
+ōsh	oː ʃ	lōsh-ně, wōshākinisht	26, 47	2	U+014d U+0073 U+0068
 ^h$	h	-h, h	27, 36	2	U+005e U+0068 U+0024
 t:$	tː	wot:, nit:	29	2	U+0074 U+003a U+0024
-^D	<?>	Doxid, Diutsu	62, 29	2	U+005e U+0044
+^D	d	Doxid, Diutsu	62, 29	2	U+005e U+0044
 ˈo$	o	kˈo, coˈo	381, 30	2	U+02c8 U+006f U+0024
-P$	<?>	wois-mol_P, PÚRULP	240, 30	2	U+0050 U+0024
-ɩ	ɩ	naw-kinɩnɩn_LL	30	2	U+0269
-LL$	<?>	pu:la>n_LL, naw-kinɩnɩn_LL	30	2	U+004c U+004c U+0024
-Cs$	<?>	só-pŭ_Cs, yuk=wáN-shi_Cs	30	2	U+0043 U+0073 U+0024
-ms$	ms	ëms, ɂichipay_kuurems	35, 30	2	U+006d U+0073 U+0024
-\h	<?>	o\hWa, ?ha\hpu\	31	2	U+005c U+0068
-^lw	lw	lwai, lwa^	31, 102	2	U+005e U+006c U+0077
-čs	čs	ɂčsàkwīla, ɂčsá	31	2	U+010d U+0073
-^qq	qq	qquendyaye, qqór	31, 101	2	U+005e U+0071 U+0071
-ᶏ	<?>	sᶏkmāka, hàtᶏmā·la	31	2	U+1d8f
-ū:	ūː	ɂū:βa, pà:tū:či	31	2	U+016b U+003a
-^ɂɂ	<?>	ɂɂî·la, ɂɂí·	31	2	U+005e U+0242 U+0242
-ī:	īː	nwī:ri, ì:hmī:ya_ñhya	31	2	U+012b U+003a
-thw	thw	mathwaay, ɂamat_kathwaan	32, 35	2	U+0074 U+0068 U+0077
-^ţ	ţ	ţxpa, ţkši	33	2	U+005e U+0163
-Í	<?>	ɂiɂíÍłʸ, PÍMPVM	33, 240	2	U+00cd
-^chw	chw	chwiw, chwa	34, 39	2	U+005e U+0063 U+0068 U+0077
-?h	<?>	kw+?hiw, e?héepé	34, 59	2	U+003f U+0068
-uuu$	uuu	tuw=tuw=h--h+uu--u, híhuuu	34, 59	2	U+0075 U+0075 U+0075 U+0024
-*	<?>	hant_*cahji, iiqui_*coto	37	2	U+002a
-^cs	cs	csipx	37	2	U+005e U+0063 U+0073
-^xʃ	xʃ	xʃap	40, 39	2	U+005e U+0078 U+0283
-Hw	<?>	takHwi, nukHwaxa_	42, 40	2	U+0048 U+0077
-^ks	ks	ksani, ksen	100, 40	2	U+005e U+006b U+0073
-ōs$	ōs	al-lōs, mōs	44, 47	2	U+014d U+0073 U+0024
-èw	èw	wèwutsoi, idèwi	58, 45	2	U+00e8 U+0077
-"""s"	<?>	"-cakkwih_""stab, -kicah_-kicaah_""squeeze"	46	2	U+0022 U+0073
-éʃ	éʃ	ʃéʃineʒiu, dhiwéʃi	60, 48	2	U+00e9 U+0283
-é:$	éː	winté:, nué:	124, 48	2	U+00e9 U+003a U+0024
-ówh	ówh	oówhaa, kówhee	52	2	U+00f3 U+0077 U+0068
-tʃh	tʃh	patʃha, karitʃhũĩ	54	2	U+0074 U+0283 U+0068
-^íː	íː	íːri, íːha	56	2	U+005e U+00ed U+02d0
+P$	p	wois-mol_P, PÚRULP	240, 30	2	U+0050 U+0024
+ɩ	ɪ	naw-kinɩnɩn_LL	30	2	U+0269
+_LL$	NULL	pu:la>n_LL, naw-kinɩnɩn_LL	30	2	U+004c U+004c U+0024
+_Cs$	NULL	só-pŭ_Cs, yuk=wáN-shi_Cs	30	2	U+0043 U+0073 U+0024
+ms$	m s	ëms, ɂichipay_kuurems	35, 30	2	U+006d U+0073 U+0024
+\h	h	o\hWa, ?ha\hpu\	31	2	U+005c U+0068
+^lw	lʷ	lwai, lwa^	31, 102	2	U+005e U+006c U+0077
+čs	ts s	ɂčsàkwīla, ɂčsá	31	2	U+010d U+0073
+^qq	qː	qquendyaye, qqór	31, 101	2	U+005e U+0071 U+0071
+ᶏ	ã	sᶏkmāka, hàtᶏmā·la	31	2	U+1d8f
+ū:	uː	ɂū:βa, pà:tū:či	31	2	U+016b U+003a
+^ɂɂ	ʔ	ɂɂî·la, ɂɂí·	31	2	U+005e U+0242 U+0242
+ī:	iː	nwī:ri, ì:hmī:ya_ñhya	31	2	U+012b U+003a
+thw	θʷ	mathwaay, ɂamat_kathwaan	32, 35	2	U+0074 U+0068 U+0077
+^ţ	tʲ	ţxpa, ţkši	33	2	U+005e U+0163
+Í	ɨ	ɂiɂíÍłʸ, PÍMPVM	33, 240	2	U+00cd
+^chw	tʃʷ	chwiw, chwa	34, 39	2	U+005e U+0063 U+0068 U+0077
+?h	h	kw+?hiw, e?héepé	34, 59	2	U+003f U+0068
+uuu$	uː	tuw=tuw=h--h+uu--u, híhuuu	34, 59	2	U+0075 U+0075 U+0075 U+0024
+*	NULL	hant_*cahji, iiqui_*coto	37	2	U+002a
+^cs	ts	csipx	37	2	U+005e U+0063 U+0073
+^xʃ	x ʃ	xʃap	40, 39	2	U+005e U+0078 U+0283
+Hw	hʷ	takHwi, nukHwaxa_	42, 40	2	U+0048 U+0077
+^ks	k s	ksani, ksen	100, 40	2	U+005e U+006b U+0073
+ōs$	oː s	al-lōs, mōs	44, 47	2	U+014d U+0073 U+0024
+èw	e w	wèwutsoi, idèwi	58, 45	2	U+00e8 U+0077
+éʃ	e ʃ	ʃéʃineʒiu, dhiwéʃi	60, 48	2	U+00e9 U+0283
+é:$	eː	winté:, nué:	124, 48	2	U+00e9 U+003a U+0024
+ówh	o w̥	oówhaa, kówhee	52	2	U+00f3 U+0077 U+0068
+tʃh	tʃʰ	patʃha, karitʃhũĩ	54	2	U+0074 U+0283 U+0068
+^íː	iː	íːri, íːha	56	2	U+005e U+00ed U+02d0
 ˈm	m	ŋuřu_ˈmɑɡɑlɑ, toloˈmare	209, 57	2	U+02c8 U+006d
 ˈx	x	kaˈxiha, aˈxiyi	57	2	U+02c8 U+0078
 ^ˈh	h	ˈhaka_kaholere_, ˈhito	57	2	U+005e U+02c8 U+0068
 ^ˈw	w	ˈwalo, ˈworuku_ˈŋiyɑŋɑ	212, 57	2	U+005e U+02c8 U+0077
 ˈw	w	koˈwae, baˈwiuáˈ	130, 57	2	U+02c8 U+0077
 ^ˈn	n	ˈnotxi, ˈnatse	57	2	U+005e U+02c8 U+006e
-éé$	éé	déé, heᵰéé	69, 59	2	U+00e9 U+00e9 U+0024
-^	<?>	ó, ú_	59	2	U+005e U+f24d
-¢	<?>	haníi¢o_, ku¢u	64, 59	2	U+00a2
-^é$	é	é	60, 106	2	U+005e U+00e9 U+0024
-^áː	áː	áːsine, áːpi	60	2	U+005e U+00e1 U+02d0
-^éː	éː	éːdi, éːni	60	2	U+005e U+00e9 U+02d0
-ẓ$	ẓ	kʰuwaẓaẓ, kʰaɨẓ	61	2	U+1e93 U+0024
-^ɨɨ$	ɨɨ	ɨɨ	364, 61	2	U+005e U+0268 U+0268 U+0024
+éé$	eː	déé, heᵰéé	69, 59	2	U+00e9 U+00e9 U+0024
+^	n	ó, ú_	59	2	U+005e U+f24d
+¢	tʃ	haníi¢o_, ku¢u	64, 59	2	U+00a2
+^é$	e	é	60, 106	2	U+005e U+00e9 U+0024
+^áː	aː	áːsine, áːpi	60	2	U+005e U+00e1 U+02d0
+^éː	eː	éːdi, éːni	60	2	U+005e U+00e9 U+02d0
+ẓ$	ʐ	kʰuwaẓaẓ, kʰaɨẓ	61	2	U+1e93 U+0024
+^ɨɨ$	ɨː	ɨɨ	364, 61	2	U+005e U+0268 U+0268 U+0024
 ʐ$	ʐ	kanɨʐ, aukaʐ	61	2	U+0290 U+0024
-nˀ	nˀ	kʰa-ẓanˀdaʔautʰ-ĩĩa-n	61	2	U+006e U+02c0
 ^ʐ	ʐ	ʐuitʃ, ʐamt	61	2	U+005e U+0290
 ɪ$	ɪ	ˈkɑwɪ, naböɪ	70, 208	2	U+026a U+0024
-əə	əə	tukəənə_, ni-mməməə-ja-n	353, 73	2	U+0259 U+0259
-ïs	ïs	kïseerekna_, kïrïsa	73, 77	2	U+00ef U+0073
-ɲh	ɲh	rooΦore_ɲhe, kir̃waɲhe	78	2	U+0272 U+0068
-r̃w	r̃w	kir̃waɲhe, kar̃wa_	78	2	U+0072 U+0303 U+0077
+əə	əː	tukəənə_, ni-mməməə-ja-n	353, 73	2	U+0259 U+0259
+ïs	ɨ s	kïseerekna_, kïrïsa	73, 77	2	U+00ef U+0073
+ɲh	ɲ̊	rooΦore_ɲhe, kir̃waɲhe	78	2	U+0272 U+0068
+r̃w	rʷ	kir̃waɲhe, kar̃wa_	78	2	U+0072 U+0303 U+0077
 kw$	kʷ	cɔkw, bykw	120, 79	2	U+006b U+0077 U+0024
-zs	zs	quypquas_zsquansuca, tzscho	82, 107	2	U+007a U+0073
-^ãã	ãã	ããrĩpeerérã_, ããg_he	138, 91	2	U+005e U+00e3 U+00e3
-ŋŋ	ŋŋ	ŋãŋŋre, ŋaŋŋaŋdhun	206, 91	2	U+014b U+014b
+zs	ts	quypquas_zsquansuca, tzscho	82, 107	2	U+007a U+0073
+^ãã	ãː	ããrĩpeerérã_, ããg_he	138, 91	2	U+005e U+00e3 U+00e3
+ŋŋ	ŋː	ŋãŋŋre, ŋaŋŋaŋdhun	206, 91	2	U+014b U+014b
 ^ɛ̃	ɛ̃	-ɛ̃tɔ̃, ɛ̃ŋΦi-to-sa-yaΦã_	364, 91	2	U+005e U+025b U+0303
-äs	äs	mäst, _tjäsikje	93, 130	2	U+00e4 U+0073
-óː	óː	póːnaː, hororóː-to	96	2	U+00f3 U+02d0
-ǝ̃́	ə̃́	deibǝ̃́_, tǝ̃hǝ̃́y	97, 120	2	U+01dd U+0303 U+0301
-ə̃́	ə̃́	-kə̃́é_, kə̃́i_	97	2	U+0259 U+0303 U+0301
+äs	æ s	mäst, _tjäsikje	93, 130	2	U+00e4 U+0073
+óː	oː	póːnaː, hororóː-to	96	2	U+00f3 U+02d0
+ǝ̃́	ə̃	deibǝ̃́_, tǝ̃hǝ̃́y	97, 120	2	U+01dd U+0303 U+0301
+ə̃́	ə̃	-kə̃́é_, kə̃́i_	97	2	U+0259 U+0303 U+0301
 ǝ̃$	ə̃	kǝ̃, onǝ̃	97, 444	2	U+01dd U+0303 U+0024
-ǘ$	<?>	instǘ, tsíhidǘ	97, 437	2	U+01d8 U+0024
+ǘ$	y	instǘ, tsíhidǘ	97, 437	2	U+01d8 U+0024
 ɒ$	ɒ	yɒ, ñɒ	97	2	U+0252 U+0024
-^bʃ	bʃ	bʃántse, bʃendɨ́-ɕe_	99	2	U+005e U+0062 U+0283
-^bɕ	bɕ	bɕnɨ-bé, bɕá-xa	99	2	U+005e U+0062 U+0255
-Q	<?>	chiviya_loan_Quechua, mandorɨ́-ʃa_loan_Quechua	101, 99	2	U+0051
-õʰ	õʰ	bõʰtõ_laho, bõʰtõ	102	2	U+00f5 U+02b0
+^bʃ	b ʃ	bʃántse, bʃendɨ́-ɕe_	99	2	U+005e U+0062 U+0283
+^bɕ	b ɕ	bɕnɨ-bé, bɕá-xa	99	2	U+005e U+0062 U+0255
+Q	q	chiviya_loan_Quechua, mandorɨ́-ʃa_loan_Quechua	101, 99	2	U+0051
+ʰt	ʰt	
+ʰ	NULL
 ^ʰw	ʰw	ʰwalẽ, ʰwãlã	102	2	U+005e U+02b0 U+0077
-ę$	ę	ǫ́nǫ́nę, waa_píyǽ̨nę	103	2	U+0119 U+0024
-ẽẽ	ẽẽ	wẽẽñæ̃_wį́į́ñæ̨, pẽẽ_nahe	162, 103	2	U+1ebd U+1ebd
-æ̃æ̃$	æ̃æ̃	a-wẽ-bõ_æ̃æ̃, tæ̃_wæ̃æ̃	103	2	U+00e6 U+0303 U+00e6 U+0303 U+0024
-æ̨	æ̨	baga_gámį́æ̨_, pǽ̨ǽ̨næ̨_	103	2	U+00e6 U+0328
+ę$	ẽ	ǫ́nǫ́nę, waa_píyǽ̨nę	103	2	U+0119 U+0024
+ẽẽ	ẽː	wẽẽñæ̃_wį́į́ñæ̨, pẽẽ_nahe	162, 103	2	U+1ebd U+1ebd
+æ̃æ̃$	æ̃ː	a-wẽ-bõ_æ̃æ̃, tæ̃_wæ̃æ̃	103	2	U+00e6 U+0303 U+00e6 U+0303 U+0024
+æ̨	æ̃	baga_gámį́æ̨_, pǽ̨ǽ̨næ̨_	103	2	U+00e6 U+0328
 ɨ:	ɨː	wɨ:či, tɨntɨ:je	353, 104	2	U+0268 U+003a
-´sh$	<?>	tyãawe´sh, cjã´sh	106	2	U+00b4 U+0073 U+0068 U+0024
-üw	üw	na-anetüwe_, yüwü:dü_	110, 258	2	U+00fc U+0077
-ɟ	ɟ	kiʔɟe, iwaɟɛ	111, 110	2	U+025f
-^öw	öw	öwá, öwawa	110, 258	2	U+005e U+00f6 U+0077
-ʉ̂	ʉ̂	wʉ̂d, nʉ̂h	110, 117	2	U+0289 U+0302
+´sh$	ʃ	tyãawe´sh, cjã´sh	106	2	U+00b4 U+0073 U+0068 U+0024
+üw	y w	na-anetüwe_, yüwü:dü_	110, 258	2	U+00fc U+0077
+ɟ	dʒ	kiʔɟe, iwaɟɛ	111, 110	2	U+025f
+^öw	œ w	öwá, öwawa	110, 258	2	U+005e U+00f6 U+0077
+ʉ̂	ʉ	wʉ̂d, nʉ̂h	110, 117	2	U+0289 U+0302
 ^ʉ$	ʉ	ʉ	141, 112	2	U+005e U+0289 U+0024
-^ḍ	ḍ	ḍzaḍzoaco, ḍzaanatana	112	2	U+005e U+1e0d
-âh$	âh	tâh, pâh	123, 117	2	U+00e2 U+0068 U+0024
-âh	âh	kâh-at-daʔ, kâh-at-naʔ	117	2	U+00e2 U+0068
-ɨ̌̃	ɨ̃̌	wɨ̌̃h, dɨ̌̃g	123, 117	2	U+0268 U+030c U+0303
-–	<?>	xâák_xep_–_scrape_e.g._manioc, tɨk_–_čí	119, 384	2	U+2013
-òw$	òw	nẽèg_õòw, bu’_õòw	119	2	U+00f2 U+0077 U+0024
-ə̌	ə̌	w’ə̌t, cə̌pmæh	120	2	U+0259 U+030c
-ǔh	ǔh	mǔh=teg_, mǔh-teg	120	2	U+01d4 U+0068
+^ḍ	ɖ	ḍzaḍzoaco, ḍzaanatana	112	2	U+005e U+1e0d
+âh$	a h	tâh, pâh	123, 117	2	U+00e2 U+0068 U+0024
+âh	a h	kâh-at-daʔ, kâh-at-naʔ	117	2	U+00e2 U+0068
+ɨ̌̃	ɨ̃	wɨ̌̃h, dɨ̌̃g	123, 117	2	U+0268 U+030c U+0303
+–	+	xâák_xep_–_scrape_e.g._manioc, tɨk_–_čí	119, 384	2	U+2013
+_–_	+
+òw$	o w	nẽèg_õòw, bu’_õòw	119	2	U+00f2 U+0077 U+0024
+ə̌	ə	w’ə̌t, cə̌pmæh	120	2	U+0259 U+030c
+ǔh	u h	mǔh=teg_, mǔh-teg	120	2	U+01d4 U+0068
 æ̃́	æ̃́	hũyæ̃́w, hũtæ̃́h	120	2	U+00e6 U+0303 U+0301
-ǽ$	<?>	kǽ, cǽ	123, 120	2	U+01fd U+0024
-ǽw$	<?>	hǽw, wɔhwǽw	120	2	U+01fd U+0077 U+0024
-ów$	ów	bohów, thvmél+thàmpmvr_kàlk-ków	240, 120	2	U+00f3 U+0077 U+0024
-ǔh$	ǔh	nǔh, mǔh	120	2	U+01d4 U+0068 U+0024
-æ̂	æ̂	wæ̂g, jæ̂Ɂ	123	2	U+00e6 U+0302
-ĩ̌	ĩ̌	hĩ̌h, pĩ̌d	123	2	U+0129 U+030c
+ǽ$	æ	kǽ, cǽ	123, 120	2	U+01fd U+0024
+ǽw$	æ w	hǽw, wɔhwǽw	120	2	U+01fd U+0077 U+0024
+ów$	o w	bohów, thvmél+thàmpmvr_kàlk-ków	240, 120	2	U+00f3 U+0077 U+0024
+ǔh$	u h	nǔh, mǔh	120	2	U+01d4 U+0068 U+0024
+æ̂	æ	wæ̂g, jæ̂Ɂ	123	2	U+00e6 U+0302
+ĩ̌	ĩ	hĩ̌h, pĩ̌d	123	2	U+0129 U+030c
 ɛ̃̂	ɛ̃̂	bɛ̃̂t, dɛ̃̂b	123	2	U+025b U+0303 U+0302
-ûh$	ûh	pu_pûh, cûh	123	2	U+00fb U+0068 U+0024
-ɔ̌$	ɔ̌	wædhɔ̌	123	2	U+0254 U+030c U+0024
-ɔ̂	ɔ̂	c’ɔ̂c, jɔ̂j	123	2	U+0254 U+0302
-ɯ̌	ɯ̌	wɯhɯ̌t, bɯ̌g	123	2	U+026f U+030c
-ɤ̌	ɤ̌	wɤ̌b, pɤpɤ̌p	123	2	U+0264 U+030c
-ũ̂	ũ̂	hũ̂t, dũ̂h	123	2	U+0169 U+0302
-ës$	ës	uënës, danës	124	2	U+00eb U+0073 U+0024
-csh	csh	shicshina, shicshi	129, 127	2	U+0063 U+0073 U+0068
-wsh	wsh	kawshima_paraka, pawshi	370, 129	2	U+0077 U+0073 U+0068
-^jw	jw	jwätü, jwau	130	2	U+005e U+006a U+0077
-Eh	<?>	kuõihkuEhuh, pEhũh	130	2	U+0045 U+0068
-ʉʉ$	ʉʉ	bʉʉ, ʉsʉʉ	146, 133	2	U+0289 U+0289 U+0024
-^ṍ	ṍ	ṍpũ, ṍre_	134, 145	2	U+005e U+1e4d
-ᵾh	<?>	cõ_bᵾhᵾsehe_, gᵾhraricᵾri	135, 144	2	U+1d7e U+0068
+ûh$	u h	pu_pûh, cûh	123	2	U+00fb U+0068 U+0024
+ɔ̌$	ɔ	wædhɔ̌	123	2	U+0254 U+030c U+0024
+ɔ̂	ɔ	c’ɔ̂c, jɔ̂j	123	2	U+0254 U+0302
+ɯ̌	ɯ	wɯhɯ̌t, bɯ̌g	123	2	U+026f U+030c
+ɤ̌	ɤ	wɤ̌b, pɤpɤ̌p	123	2	U+0264 U+030c
+ũ̂	u	hũ̂t, dũ̂h	123	2	U+0169 U+0302
+ës$	e s	uënës, danës	124	2	U+00eb U+0073 U+0024
+csh	tʃ	shicshina, shicshi	129, 127	2	U+0063 U+0073 U+0068
+wsh	w ʃ	kawshima_paraka, pawshi	370, 129	2	U+0077 U+0073 U+0068
+^jw	jʷ	jwätü, jwau	130	2	U+005e U+006a U+0077
+Eh	e h	kuõihkuEhuh, pEhũh	130	2	U+0045 U+0068
+ʉʉ$	ʉː	bʉʉ, ʉsʉʉ	146, 133	2	U+0289 U+0289 U+0024
+^ṍ	õ	ṍpũ, ṍre_	134, 145	2	U+005e U+1e4d
+ᵾh	ʉ h	cõ_bᵾhᵾsehe_, gᵾhraricᵾri	135, 144	2	U+1d7e U+0068
 ũ̵$	ũ̵	ɨbu-gũ̵, gɨtagũ̵	136	2	U+0169 U+0335 U+0024
-^ʻb	ʼb	ʻbãã, ʻbĩ́dĩ	140	2	U+005e U+02bb U+0062
+^ʻb	b	ʻbãã, ʻbĩ́dĩ	140	2	U+005e U+02bb U+0062
 ^ˈp	p	ˈpĩ, ˈpĩdõ	140, 145	2	U+005e U+02c8 U+0070
-íí$	íí	bíí, chíí	140, 158	2	U+00ed U+00ed U+0024
-ʌ̃̀$	ʌ̃̀	ĩkʰĩ́ʌ̃̀, oᵽɛ̨́ŋʌ̃̀	143	2	U+028c U+0303 U+0300 U+0024
-ʌ̀$	ʌ̀	kʰaᵽégʌ̀, dɨᵽɨ́gʌ̀	143	2	U+028c U+0300 U+0024
-ĩ̀	ĩ̀	ñɛ̃mɛ̃́ňĩ̀tʰì, ɨ́tʰá_mĩhĩ̀dà	143	2	U+0129 U+0300
-ũ̀$	ũ̀	ñã́mĩ́_mãkʰɨ_muipũ̀, ɨ̃́mɨ̃́ňẽkʰò_mãkʰɨ̆̃_muiᵽũ̀	143	2	U+0169 U+0300 U+0024
-ĩ̀$	ĩ̀	wídɛ́řikʰaᵽĩ̀, kʰánĩ́ňĩ-kʰápĩ̀	143	2	U+0129 U+0300 U+0024
-^ës	ës	ësë, ësë_caso	148	2	U+005e U+00eb U+0073
+íí$	iː	bíí, chíí	140, 158	2	U+00ed U+00ed U+0024
+ʌ̃̀$	ʌ̃	ĩkʰĩ́ʌ̃̀, oᵽɛ̨́ŋʌ̃̀	143	2	U+028c U+0303 U+0300 U+0024
+ʌ̀$	ʌ	kʰaᵽégʌ̀, dɨᵽɨ́gʌ̀	143	2	U+028c U+0300 U+0024
+ĩ̀	ĩ	ñɛ̃mɛ̃́ňĩ̀tʰì, ɨ́tʰá_mĩhĩ̀dà	143	2	U+0129 U+0300
+ũ̀$	ũ	ñã́mĩ́_mãkʰɨ_muipũ̀, ɨ̃́mɨ̃́ňẽkʰò_mãkʰɨ̆̃_muiᵽũ̀	143	2	U+0169 U+0300 U+0024
+ĩ̀$	ĩ	wídɛ́řikʰaᵽĩ̀, kʰánĩ́ňĩ-kʰápĩ̀	143	2	U+0129 U+0300 U+0024
+^ës	e s	ësë, ësë_caso	148	2	U+005e U+00eb U+0073
 ^tˀ	tˀ	tˀãyã, tˀomi-kˀo	149	2	U+005e U+0074 U+02c0
 ^pˀ	pˀ	pˀakʷa, pˀa-kˀɨ	149	2	U+005e U+0070 U+02c0
-^ɯ́	ɯ́	ɯ́.aitaɯ, ɯ́.aiθaɯ	266, 157	2	U+005e U+026f U+0301
-m̵	m̵	áʔii-m̵a, oxóóm̵a_	158	2	U+006d U+0335
+^ɯ́	ɯ	ɯ́.aitaɯ, ɯ́.aiθaɯ	266, 157	2	U+005e U+026f U+0301
+m̵	m	áʔii-m̵a, oxóóm̵a_	158	2	U+006d U+0335
 tʲ	tʲ	hïtʲááxo, nïïʔtʲa	158	2	U+0074 U+02b2
-ṍṍ	ṍṍ	ñon̵ṍṍya, nan̵ṍṍpa	158	2	U+1e4d U+1e4d
-ã́ã́	ã́ã́	hã́ã́čoβa, hõɸã́ã́ʔï	158	2	U+00e3 U+0301 U+00e3 U+0301
-@$	<?>	ngarrambal@, thIw@	218, 159	2	U+0040 U+0024
-**	<?>	-ganyb-_ma-ga**njben	166, 168	2	U+002a U+002a
-n̠	n̠	biyin̠d̠i, win̠d̠u	171	2	U+006e U+0320
-d̠	d̠	biyin̠d̠i, win̠d̠u	171	2	U+0064 U+0320
-^B	<?>	Badu, Bowna	176, 216	2	U+005e U+0042
-Õ	<?>	yoojunÕnungain, jinÕbala	176	2	U+00d5
-^<w	<?>	<woobaba:loo>, <wondongoo	176	2	U+005e U+003c U+0077
+ṍṍ	õː	ñon̵ṍṍya, nan̵ṍṍpa	158	2	U+1e4d U+1e4d
+ã́ã́	ãː	hã́ã́čoβa, hõɸã́ã́ʔï	158	2	U+00e3 U+0301 U+00e3 U+0301
+@$	ə	ngarrambal@, thIw@	218, 159	2	U+0040 U+0024
+**	NULL	-ganyb-_ma-ga**njben	166, 168	2	U+002a U+002a
+n̠	n̪	biyin̠d̠i, win̠d̠u	171	2	U+006e U+0320
+d̠	d̪	biyin̠d̠i, win̠d̠u	171	2	U+0064 U+0320
+^B	β	Badu, Bowna	176, 216	2	U+005e U+0042
+Õ	õ	yoojunÕnungain, jinÕbala	176	2	U+00d5
+^<w	w	<woobaba:loo>, <wondongoo	176	2	U+005e U+003c U+0077
 ^ˈŋ	ŋ	ˈŋɑyɑ__ˈŋume, ˈŋuřu	208, 209	2	U+005e U+02c8 U+014b
 ˈŋ	ŋ	ˈŋɑyɑ__ˈŋume, ˈworuku_ˈŋiyɑŋɑ	212, 208	2	U+02c8 U+014b
-bh$	bh	rrabhirrabh, ngkaabh	222	2	U+0062 U+0068 U+0024
-dw	dw	arrndwm, bu?ũdwa-	227, 379	2	U+0064 U+0077
-Ú	<?>	PÚRULP, THÚRVRR	240	2	U+00da
-^RR	<?>	RRAPÉRR, RRICHÉNTVY	240	2	U+005e U+0052 U+0052
-ṛ̌$	ṛ̌	hi-ṛ̌, βiṛ̌	253	2	U+1e5b U+030c U+0024
-^ə̄	ə̄	ə̄ma_, ə̄išaɨ_	258	2	U+005e U+0259 U+0304
-ïw	ïw	mïwu, aptïwi	352	2	U+00ef U+0077
-^ëë	ëë	ëënï, ëëkënë	353	2	U+005e U+00eb U+00eb
-ű$	<?>	ifű, itaű	354	2	U+0171 U+0024
-i̯i̯	i̯i̯	eči̯i̯ke, i̯ta_ki̯i̯šĩ̯	368	2	U+0069 U+032f U+0069 U+032f
-i̯i̯$	i̯i̯	mi̯i̯, nioi_kui̯i̯	368	2	U+0069 U+032f U+0069 U+032f U+0024
-^ˀɨ	ˀɨ	ˀɨtsiŋ, ˀɨtap	369	2	U+005e U+02c0 U+0268
-whw	whw	inyawhwa, ayawhwa	370	2	U+0077 U+0068 U+0077
-ĵ$	ĵ	ŋóĵ, neĵ	384	2	U+0135 U+0024
-$$	<?>	-qwa$	1	1	U+0024 U+0024
-ɛɛ	ɛɛ	avɛɛna	1	1	U+025b U+025b
-^ε	ɛ	εskwεεla	1	1	U+005e U+03b5
-vv	vv	yuv-vēl-yahsh	1	1	U+0076 U+0076
-hsh$	hsh	yuv-vēl-yahsh	1	1	U+0068 U+0073 U+0068 U+0024
-īss	īss	hīssavel	2	1	U+012b U+0073 U+0073
-^xʷ	xʷ	xʷálxʷal	2	1	U+005e U+0078 U+02b7
-xʷ	xʷ	xʷálxʷal	2	1	U+0078 U+02b7
-$w	w	á$wut	3	1	U+0024 U+0077
-TT$	<?>	YT-T	4	1	U+0054 U+0054 U+0024
-hi:k_,_be_alive,_get_well,_be_well”	<???>	hi:k_,_be_alive,_get_well,_be_well”	4	1	U+0068 U+0069 U+003a U+006b U+005f U+002c U+005f U+0062 U+0065 U+005f U+0061 U+006c U+0069 U+0076 U+0065 U+002c U+005f U+0067 U+0065 U+0074 U+005f U+0077 U+0065 U+006c U+006c U+002c U+005f U+0062 U+0065 U+005f U+0077 U+0065 U+006c U+006c U+201d
-hi:k_,_be_alive_or_well”	<???>	hi:k_,_be_alive_or_well”	4	1	U+0068 U+0069 U+003a U+006b U+005f U+002c U+005f U+0062 U+0065 U+005f U+0061 U+006c U+0069 U+0076 U+0065 U+005f U+006f U+0072 U+005f U+0077 U+0065 U+006c U+006c U+201d
-A:h	<?>	ngOhA:h-q_turn_w	4	1	U+0041 U+003a U+0068
-Oh$	<?>	wOh	4	1	U+004f U+0068 U+0024
-Y:h	<?>	nY:ht_	4	1	U+0059 U+003a U+0068
-iii$	iii	chichiii-	5	1	U+0069 U+0069 U+0069 U+0024
-^y:$	yː	y:	6	1	U+005e U+0079 U+003a U+0024
-^Os	<?>	Osa	6	1	U+005e U+004f U+0073
-UU	<?>	hUUpy	6	1	U+0055 U+0055
-^c:	cː	-c:u-_	8	1	U+005e U+0063 U+003a
-^=	<?>	=ngwy	8	1	U+005e U+003d
-t:s	tsː	tot:si-S	8	1	U+0074 U+003a U+0073
-"""h"	<?>	"yangwi-q:ai_""have_in_hand"	8	1	U+0022 U+0068
-nː	nː	tynːa-s	8	1	U+006e U+02d0
-ts:$	tsː	qwanatsits:	8	1	U+0074 U+0073 U+003a U+0024
-Ish	<?>	wIshiakaichokU	8	1	U+0049 U+0073 U+0068
-t:sh	tːsh	ot:shA	8	1	U+0074 U+003a U+0073 U+0068
-qq	qq	nAHsaa-qqanI	8	1	U+0071 U+0071
-”s	<?>	no”no”si	9	1	U+201d U+0073
-^aaa	aaa	aaara_	9	1	U+005e U+0061 U+0061 U+0061
-Ų	<?>	tŲpá-sǫǫ-cI	9	1	U+0172
-SS	<?>	kuSSi_	11	1	U+0053 U+0053
-OO$	<?>	kwOO	11	1	U+004f U+004f U+0024
-^gg	gg	ggutta_	11	1	U+005e U+0067 U+0067
-^bb	bb	bbooze	11	1	U+005e U+0062 U+0062
-ooo$	ooo	moohooo	11	1	U+006f U+006f U+006f U+0024
-^dd	dd	ddookoo_tuni	11	1	U+005e U+0064 U+0064
-H:	<?>	caxavasuyk__H:_	12	1	U+0048 U+003a
-I:	<?>	a:pk__H_I:_ata:p__H:	12	1	U+0049 U+003a
-üü$	üü	tasimüü	13	1	U+00fc U+00fc U+0024
-phʰ	pʰ	lophʰoţ	14	1	U+0070 U+0068 U+02b0
-tʱ	tʱ	šaxtʱil	14	1	U+0074 U+02b1
-ŋh	ŋh	šeŋhi	14	1	U+014b U+0068
-ch:	chː	och:uku-	15	1	U+0063 U+0068 U+003a
-ì:$	ìː	wangì:-	15	1	U+00ec U+003a U+0024
-ós:	ósː	Tós:ewe-	15	1	U+00f3 U+0073 U+003a
-^é:w	éːw	é:wy-	15	1	U+005e U+00e9 U+003a U+0077
-ó:s	óːs	kó:somu-	15	1	U+00f3 U+003a U+0073
-éh:	éhː	péh:una-	15	1	U+00e9 U+0068 U+003a
-cs$	cs	gics-	16	1	U+0063 U+0073 U+0024
-šš	šš	kušše	16	1	U+0161 U+0161
-^$s	s	-$su:n-nga	17	1	U+005e U+0024 U+0073
-*$	<?>	ang-on*	17	1	U+002a U+0024
-^$w	w	$wa:r	17	1	U+005e U+0024 U+0077
-ˈr˗	ˈr˗	peeˈr˗kaːtʃ	17	1	U+02c8 U+0072 U+02d7
-^āh	āh	āh-nā-nāv-sahCH	17	1	U+005e U+0101 U+0068
-Ɨ	<?>	wivƗč	18	1	U+0197
-\s	<?>	he\si	19	1	U+005c U+0073
-éww	éww	seléwwa	19	1	U+00e9 U+0077 U+0077
-???	<?>	muhtitihris???_	20	1	U+003f U+003f U+003f
-d!	dǃ	hopey!__Ascend!_	20	1	U+0064 U+0021
-_!$	_ǃ	lippay_hide_!	20	1	U+005f U+0021 U+0024
-t!	tǃ	hoyoy!__Take_it!_Grasp_it!	20	1	U+0074 U+0021
-t!$	tǃ	hoyoy!__Take_it!_Grasp_it!	20	1	U+0074 U+0021 U+0024
-şʸşʸ	<?>	haşʸşʸan	20	1	U+015f U+02b8 U+015f U+02b8
-şʸ$	<?>	hučeknişʸ	20	1	U+015f U+02b8 U+0024
+bh$	bʱ	rrabhirrabh, ngkaabh	222	2	U+0062 U+0068 U+0024
+dw	dʷ	arrndwm, bu?ũdwa-	227, 379	2	U+0064 U+0077
+Ú	u	PÚRULP, THÚRVRR	240	2	U+00da
+^RR	rː	RRAPÉRR, RRICHÉNTVY	240	2	U+005e U+0052 U+0052
+ṛ̌$	ɽ	hi-ṛ̌, βiṛ̌	253	2	U+1e5b U+030c U+0024
+^ə̄	əː	ə̄ma_, ə̄išaɨ_	258	2	U+005e U+0259 U+0304
+ïw	ɨ w	mïwu, aptïwi	352	2	U+00ef U+0077
+^ëë	eː	ëënï, ëëkënë	353	2	U+005e U+00eb U+00eb
+ű$	u	ifű, itaű	354	2	U+0171 U+0024
+i̯i̯	j	eči̯i̯ke, i̯ta_ki̯i̯šĩ̯	368	2	U+0069 U+032f U+0069 U+032f
+i̯i̯$	j	mi̯i̯, nioi_kui̯i̯	368	2	U+0069 U+032f U+0069 U+032f U+0024
+^ˀɨ	ʔ ɨ	ˀɨtsiŋ, ˀɨtap	369	2	U+005e U+02c0 U+0268
+whw	w hʷ	inyawhwa, ayawhwa	370	2	U+0077 U+0068 U+0077
+ĵ$	dʒ	ŋóĵ, neĵ	384	2	U+0135 U+0024
+*$	NULL	ang-on*	17	1	U+002a U+0024
+*k)e:	k eː	*k)e:	47	1	U+002a U+006b U+0029 U+0065 U+003a
+*ò)mlhū	o m l̥ uː	*ò)mlhū	31	1	U+002a U+00f2 U+0029 U+006d U+006c U+0068 U+016b
+-:-	NULL	hokoh-:-a-	25	1	U+003a
+:h	h	ha.:hen	30	1	U+003a U+0068
+:m	m	Toke-:muH-	25	1	U+003a U+006d
+==	+	xa==tay_	34	1	U+003d U+003d
+=h=h	NULL	miy=kw-x+al=u=h-=h+uuy	34	1	U+003d U+0068 U+003d U+0068
+=w	+ w	yuk=wáN-shi_Cs	30	1	U+003d U+0077
+>w	w	alā>wi_	44	1	U+003e U+0077
+???	NULL	muhtitihris???_	20	1	U+003f U+003f U+003f
+?w	w	x?wa?=msqhaan	34	1	U+003f U+0077
+?́$	NULL	matshíva?nú?́	59	1	U+003f U+0301 U+0024
+@h	ə j	hop@hi_	159	1	U+0040 U+0068
+@h$	ə h	ŋuwahtyirr@h	218	1	U+0040 U+0068 U+0024
+@s	ə s	$akaw@si_	159	1	U+0040 U+0073
+A:h	aː h	ngOhA:h-q_turn_w	4	1	U+0041 U+003a U+0068
+_B:$	NULL	ipi_B:	40	1	U+0042 U+003a U+0024
+Ch	tʃ	Amat_Chamem_Kachumpap	35	1	U+0043 U+0068
+E:	eː	pE:nik	47	1	U+0045 U+003a
+Esh	e ʃ	kEshmU	47	1	U+0045 U+0073 U+0068
+F	f	kopvrrlh_FW_lagoons	221	1	U+0046
+__H:_	NULL	caxavasuyk__H:_	12	1	U+0048 U+003a
+Hsh	ʃ	loxkHsho	42	1	U+0048 U+0073 U+0068
+I:	NULL	a:pk__H_I:_ata:p__H:	12	1	U+0049 U+003a
+Is$	i s	o:pIs	24	1	U+0049 U+0073 U+0024
+Ish	i ʃ	wIshiakaichokU	8	1	U+0049 U+0073 U+0068
+Iw	i w	thIw@	159	1	U+0049 U+0077
+O:w	oː w	sO:win	45	1	U+004f U+003a U+0077
+OO$	oː	kwOO	11	1	U+004f U+004f U+0024
+Oh$	o h	wOh	4	1	U+004f U+0068 U+0024
+Os	o s	cacOsxaj	37	1	U+004f U+0073
+Ow	o w	pOwac_	29	1	U+004f U+0077
+O|	o	iti_cO|cazx_	37	1	U+004f U+007c
+SS	sː	kuSSi_	11	1	U+0053 U+0053
+TT$	tː	YT-T	4	1	U+0054 U+0054 U+0024
+Tsh	tʃ	*Tshoot	24	1	U+0054 U+0073 U+0068
+UU	uː	hUUpy	6	1	U+0055 U+0055
+Uw	u w	k<Uwap<	24	1	U+0055 U+0077
+_WW?	NULL	íípií_WW?	68	1	U+0057 U+0057
+Y:h	yː	nY:ht_	4	1	U+0059 U+003a U+0068
+\:h	h	pa\:hmi	31	1	U+005c U+003a U+0068
+\s	s	he\si	19	1	U+005c U+0073
+\sw	sʷ	wa\sway	33	1	U+005c U+0073 U+0077
+^*s	s	*sa:pa	45	1	U+005e U+002a U+0073
+^:$	NULL	pa\lqcho^:	31	1	U+005e U+003a U+0024
+^:h	h	vthe^:hi\	31	1	U+005e U+003a U+0068
+^:l$	l	:l-	23	1	U+005e U+003a U+006c U+0024
+^:m	m	:mo	353	1	U+005e U+003a U+006d
+^:s	s	ni^:sa	31	1	U+005e U+003a U+0073
+^:s$	s	:s-	23	1	U+005e U+003a U+0073 U+0024
+^=	NULL	=ngwy	8	1	U+005e U+003d
+^??$	NULL	??	164	1	U+005e U+003f U+003f U+0024
+^?w	w	?wa^	31	1	U+005e U+003f U+0077
+^Hsh	h ʃ	Hshahp	43	1	U+005e U+0048 U+0073 U+0068
+^O:w	oː w	O:we:ic	244	1	U+005e U+004f U+003a U+0077
+^Os	o s	Osa	6	1	U+005e U+004f U+0073
+^R	r	Riya-djuŋgaliwarrway	216	1	U+005e U+0052
+^Sw	sʷ	SwaL	33	1	U+005e U+0053 U+0077
+^U	u	Ultan_	21	1	U+005e U+0055
+^Uhm	u ʰm	Uhmū	31	1	U+005e U+0055 U+0068
+^V	v	Vra-mi	56	1	U+005e U+0056
+^aaa	aː	aaara_	9	1	U+005e U+0061 U+0061 U+0061
+ˀb	ˀb
+^aː	aː	aːnaci	353	1	U+005e U+0061 U+02d0
 ^b:	bː	b:ppaj	21	1	U+005e U+0062 U+003a
-^k:$	kː	k:	21	1	U+005e U+006b U+003a U+0024
+^bb	bː	bbooze	11	1	U+005e U+0062 U+0062
+^bs	b s	bsiesesuca	82	1	U+005e U+0062 U+0073
+^c:	cː	-c:u-_	8	1	U+005e U+0063 U+003a
+^chch	tʃː	chchi:	31	1	U+005e U+0063 U+0068 U+0063 U+0068
 ^d:$	dː	d:	21	1	U+005e U+0064 U+003a U+0024
-^U	<?>	Ultan_	21	1	U+005e U+0055
-^mm$	mm	mm	21	1	U+005e U+006d U+006d U+0024
-^ə:	əː	ə:ləw	21	1	U+005e U+0259 U+003a
-ăh$	ăh	me-wăh	21	1	U+0103 U+0068 U+0024
-ëw$	ëw	ëlëw	21	1	U+00eb U+0077 U+0024
-^y:	yː	y:ny-	22	1	U+005e U+0079 U+003a
-^_$	_	_	23	1	U+005e U+005f U+0024
-^:s$	ːs	:s-	23	1	U+005e U+003a U+0073 U+0024
-cc$	cc	kcc	23	1	U+0063 U+0063 U+0024
-ls$	ls	hls-	23	1	U+006c U+0073 U+0024
-^n:$	nː	n:-	23	1	U+005e U+006e U+003a U+0024
-s:$	sː	us:	23	1	U+0073 U+003a U+0024
-^:l$	ːl	:l-	23	1	U+005e U+003a U+006c U+0024
+^dd	dː	ddookoo_tuni	11	1	U+005e U+0064 U+0064
+^dʸ	dʲ	dʸih	106	1	U+005e U+0064 U+02b8
+^d̨	ɖ	d̨i̵u	61	1	U+005e U+0064 U+0328
+^eee	eː	eeewarbö	70	1	U+005e U+0065 U+0065 U+0065
+^gg	gː	ggutta_	11	1	U+005e U+0067 U+0067
+^gs	g s	gsmbinyi	170	1	U+005e U+0067 U+0073
 ^h:	hː	h:c:e-	23	1	U+005e U+0068 U+003a
-^j:	jː	j:p-	23	1	U+005e U+006a U+003a
-^ps$	ps	ps-	23	1	U+005e U+0070 U+0073 U+0024
-^lw:s$	lwːs	lw:s	23	1	U+005e U+006c U+0077 U+003a U+0073 U+0024
-^s:h$	sːh	s:h	23	1	U+005e U+0073 U+003a U+0068 U+0024
-Tsh	<?>	*Tshoot	24	1	U+0054 U+0073 U+0068
-ăă	ăă	slă-ăt	24	1	U+0103 U+0103
-Is$	<?>	o:pIs	24	1	U+0049 U+0073 U+0024
-α	<?>	nαp<	24	1	U+03b1
-Uw	<?>	k<Uwap<	24	1	U+0055 U+0077
-n:$	nː	yn:-	25	1	U+006e U+003a U+0024
-:m	ːm	Toke-:muH-	25	1	U+003a U+006d
-j:$	jː	hyj:-	25	1	U+006a U+003a U+0024
-k:$	kː	Tyk:-	25	1	U+006b U+003a U+0024
-:	<?>	hokoh-:-a-	25	1	U+003a
-yyy	yyy	kyy-yt	26	1	U+0079 U+0079 U+0079
-^uuu	uuu	uuu-t	26	1	U+005e U+0075 U+0075 U+0075
-ōh$	ōh	shitōh	26	1	U+014d U+0068 U+0024
-kk$	kk	pāwusshakk	26	1	U+006b U+006b U+0024
-^āsh	āsh	āshawwütt	26	1	U+005e U+0101 U+0073 U+0068
-^üsh	üsh	üshükal	26	1	U+005e U+00fc U+0073 U+0068
-āh$	āh	takkāh	26	1	U+0101 U+0068 U+0024
-^Ā	<?>	Āpōnōlīmak	26	1	U+005e U+0100
-ü:h	üːh	tü:hatt	26	1	U+00fc U+003a U+0068
-īsh	īsh	wīshat	26	1	U+012b U+0073 U+0068
-^āw	āw	āwating_pān	26	1	U+005e U+0101 U+0077
-üssh	üssh	üttüsshal	26	1	U+00fc U+0073 U+0073 U+0068
-é:s	éːs	làšašé:si	27	1	U+00e9 U+003a U+0073
-^ó:	óː	ó:gal	27	1	U+005e U+00f3 U+003a
-d:	dː	mod:ak_	29	1	U+0064 U+003a
-öh	öh	wöhöcit	29	1	U+00f6 U+0068
-öö	öö	Tööd	29	1	U+00f6 U+00f6
-òh	òh	hòhuimuc	29	1	U+00f2 U+0068
-ĕsh$	ĕsh	he-pĕsh	29	1	U+0115 U+0073 U+0068 U+0024
-őw	<?>	pőwac	29	1	U+0151 U+0077
-Ow	<?>	pOwac_	29	1	U+004f U+0077
-:h	ːh	ha.:hen	30	1	U+003a U+0068
-ŭs	ŭs	ōn-tip-pŭs_CS	30	1	U+016d U+0073
-ōs	ōs	chum-pōs_MO	30	1	U+014d U+0073
-=w	<?>	yuk=wáN-shi_Cs	30	1	U+003d U+0077
-ąw$	<?>	lil_nąw	30	1	U+0105 U+0077 U+0024
-ösh	ösh	nösh_C	30	1	U+00f6 U+0073 U+0068
-ûs	ûs	hûslawe_B	30	1	U+00fb U+0073
-ŭh$	ŭh	nŭh	30	1	U+016d U+0068 U+0024
-^:h	ːh	vthe^:hi\	31	1	U+005e U+003a U+0068
-\:h	<?>	pa\:hmi	31	1	U+005c U+003a U+0068
-^chch	chch	chchi:	31	1	U+005e U+0063 U+0068 U+0063 U+0068
-a::	aː	mya::khti^:la_	31	1	U+0061 U+003a U+003a
-^:$	<?>	pa\lqcho^:	31	1	U+005e U+003a U+0024
-â:	âː	hàlkrâ:pa	31	1	U+00e2 U+003a
-β$	β	hàmsɂīβ	31	1	U+03b2 U+0024
+^hʷ	hʷ	hʷape_	369	1	U+005e U+0068 U+02b7
+^i:i:$	iː iː	i:i:	33	1	U+005e U+0069 U+003a U+0069 U+003a U+0024
+^iii	iː	iii_kis-e	382	1	U+005e U+0069 U+0069 U+0069
+^j:	iː	j:p-	23	1	U+005e U+006a U+003a
+^k:$	kː	k:	21	1	U+005e U+006b U+003a U+0024
 ^khʷ	kʷʰ	khʷíwa	31	1	U+005e U+006b U+0068 U+02b7
-ᶏh	<?>	čnᶏhpŭka	31	1	U+1d8f U+0068
-ɂh	<?>	kθàrɂhāna	31	1	U+0242 U+0068
+^kws	kʷ s	kwstuut	34	1	U+005e U+006b U+0077 U+0073
+^kwsh	kʷ ʃ	kwshama	33	1	U+005e U+006b U+0077 U+0073 U+0068
+^kʰʷ	kʷʰ	kʰʷá	143	1	U+005e U+006b U+02b0 U+02b7
 ^kʷ$	kʷ	kʷ	31	1	U+005e U+006b U+02b7 U+0024
-^ɂs	<?>	ɂsá	31	1	U+005e U+0242 U+0073
-chs	chs	?chsa	31	1	U+0063 U+0068 U+0073
-^:s	ːs	ni^:sa	31	1	U+005e U+003a U+0073
-^ì:h	ìːh	ì:hmī:ya_ñhya	31	1	U+005e U+00ec U+003a U+0068
-ā:	āː	myā:khtî:la	31	1	U+0101 U+003a
-î:	îː	myā:khtî:la	31	1	U+00ee U+003a
-û:	ûː	skû:la_hnáqča	31	1	U+00fb U+003a
-ō:	ōː	màkyō:ra	31	1	U+014d U+003a
-^ì:	ìː	ì:pòqpôqa	31	1	U+005e U+00ec U+003a
-ì:s	ìːs	čì:sôni	31	1	U+00ec U+003a U+0073
-ò:$	òː	pà:tmārčò:	31	1	U+00f2 U+003a U+0024
-ū:$	ūː	smá:lktū:	31	1	U+016b U+003a U+0024
-^Uh	<?>	Uhmū	31	1	U+005e U+0055 U+0068
-*ò)mlhū	<???>	*ò)mlhū	31	1	U+002a U+00f2 U+0029 U+006d U+006c U+0068 U+016b
-í:$	íː	thí:	31	1	U+00ed U+003a U+0024
-^û:	ûː	û:li	31	1	U+005e U+00fb U+003a
-^ū:	ūː	ū:va	31	1	U+005e U+016b U+003a
-ù:	ùː	kù:yûkyûka	31	1	U+00f9 U+003a
-^ìs	ìs	ìsOmā:	31	1	U+005e U+00ec U+0073
-ā:$	āː	ìsOmā:	31	1	U+0101 U+003a U+0024
-θ$	θ	kqWáθ	31	1	U+03b8 U+0024
-^ī:	īː	ī:tâpstâpsīča	31	1	U+005e U+012b U+003a
-^?w	<?>	?wa^	31	1	U+005e U+003f U+0077
-ps$	ps	waaps	32	1	U+0070 U+0073 U+0024
-pā-kwahCH__Merriam_:)	<???>	pā-kwahCH__Merriam_:)	32	1	U+0070 U+0101 U+002d U+006b U+0077 U+0061 U+0068 U+0043 U+0048 U+005f U+005f U+004d U+0065 U+0072 U+0072 U+0069 U+0061 U+006d U+005f U+003a U+0029
-^Sw	<?>	SwaL	33	1	U+005e U+0053 U+0077
-pʃ	pʃ	xpʃu	33	1	U+0070 U+0283
-^msh	msh	mshya:	33	1	U+005e U+006d U+0073 U+0068
-^i:i:$	iːiː	i:i:	33	1	U+005e U+0069 U+003a U+0069 U+003a U+0024
-^kwsh	kwsh	kwshama	33	1	U+005e U+006b U+0077 U+0073 U+0068
-\sw	<?>	wa\sway	33	1	U+005c U+0073 U+0077
-·s$	·s	ɂu·s	33	1	U+00b7 U+0073 U+0024
-·w	·w	xsa·wk	33	1	U+00b7 U+0077
-ţ	ţ	màţkawá·	33	1	U+0163
-łʸ$	łʲ	ɂiɂíÍłʸ	33	1	U+0142 U+02b8 U+0024
-==	<?>	xa==tay_	34	1	U+003d U+003d
-?w	<?>	x?wa?=msqhaan	34	1	U+003f U+0077
-^kws	kws	kwstuut	34	1	U+005e U+006b U+0077 U+0073
-=h=h	<?>	miy=kw-x+al=u=h-=h+uuy	34	1	U+003d U+0068 U+003d U+0068
-w!	wǃ	maadaw!__chanyoo=_	35	1	U+0077 U+0021
-Ch	<?>	Amat_Chamem_Kachumpap	35	1	U+0043 U+0068
-vh	vh	nyavhay_ahvay	35	1	U+0076 U+0068
-hsh	hsh	mehshi	36	1	U+0068 U+0073 U+0068
-^éw$	éw	éw	36	1	U+005e U+00e9 U+0077 U+0024
-éhw	éhw	méhwa	36	1	U+00e9 U+0068 U+0077
-^óh	óh	óhka	36	1	U+005e U+00f3 U+0068
-Os	<?>	cacOsxaj	37	1	U+004f U+0073
-O|	<?>	iti_cO|cazx_	37	1	U+004f U+007c
-o|	o|	eenim_co|cni	37	1	U+006f U+007c
-aaa$	aaa	caaa	37	1	U+0061 U+0061 U+0061 U+0024
-şw	<?>	wéşweş	38	1	U+015f U+0077
-şş	<?>	káşşi	38	1	U+015f U+015f
-toq-lom_from_tak-lom_Wash_:)	<???>	toq-lom_from_tak-lom_Wash_:)	39	1	U+0074 U+006f U+0071 U+002d U+006c U+006f U+006d U+005f U+0066 U+0072 U+006f U+006d U+005f U+0074 U+0061 U+006b U+002d U+006c U+006f U+006d U+005f U+0057 U+0061 U+0073 U+0068 U+005f U+003a U+0029
-B:$	<?>	ipi_B:	40	1	U+0042 U+003a U+0024
-shh	shh	shashham	40	1	U+0073 U+0068 U+0068
-ks$	ks	al-as-ko-woks	40	1	U+006b U+0073 U+0024
-js$	js	majs	40	1	U+006a U+0073 U+0024
-^qsh	qsh	qshi	41	1	U+005e U+0071 U+0073 U+0068
+^k̃	k	k̃ĩnõ	103	1	U+005e U+006b U+0303
 ^l$	l	l	41	1	U+005e U+006c U+0024
-qʰ	qʰ	pšeqʰe	41	1	U+0071 U+02b0
-^pw	pw	pwew	41	1	U+005e U+0070 U+0077
-xʃ	xʃ	kaxʃap	41	1	U+0078 U+0283
-^psh	psh	pshelpshe	41	1	U+005e U+0070 U+0073 U+0068
-^ł$	ł	ł	41	1	U+005e U+0142 U+0024
-msh$	msh	anisnemsh	42	1	U+006d U+0073 U+0068 U+0024
-Hsh	<?>	loxkHsho	42	1	U+0048 U+0073 U+0068
-e!	eǃ	iwatije!_	42	1	U+0065 U+0021
-qsh$	qsh	aqsh	43	1	U+0071 U+0073 U+0068 U+0024
-lʃ	lʃ	ʔal-ʃɨ-Vn_>_ʔalʃɨhɨn_	43	1	U+006c U+0283
-^ŏ	ŏ	ŏCH-wahn	43	1	U+005e U+014f
-^Hsh	<?>	Hshahp	43	1	U+005e U+0048 U+0073 U+0068
-ïs$	ïs	pïs	43	1	U+00ef U+0073 U+0024
-^ïw$	ïw	ïw	43	1	U+005e U+00ef U+0077 U+0024
-^čw	čw	čwin	43	1	U+005e U+010d U+0077
-^ŏsh	ŏsh	ŏsh-kŭk	43	1	U+005e U+014f U+0073 U+0068
-^ĕh	ĕh	ĕh____kān__	44	1	U+005e U+0115 U+0068
->w	<?>	alā>wi_	44	1	U+003e U+0077
-ās	ās	wo-lāstanding_up”_	44	1	U+0101 U+0073
-^ooo	ooo	o-oot	44	1	U+005e U+006f U+006f U+006f
-^ě$	ě	ě	44	1	U+005e U+011b U+0024
-ŭŭ	ŭŭ	poo-kung_nŭ-ŭ____	44	1	U+016d U+016d
-ooo	ooo	ah-bo-oo-nat	44	1	U+006f U+006f U+006f
-^*s	<?>	*sa:pa	45	1	U+005e U+002a U+0073
-O:w	<?>	sO:win	45	1	U+004f U+003a U+0077
-uʷ$	uʷ	tsiuʷ	45	1	U+0075 U+02b7 U+0024
-)	<???>	)	46	1	U+0029
-^ŭ$	ŭ	ŭ	46	1	U+005e U+016d U+0024
-*k)e:	<???>	*k)e:	47	1	U+002a U+006b U+0029 U+0065 U+003a
-Esh	<?>	kEshmU	47	1	U+0045 U+0073 U+0068
-E:	<?>	pE:nik	47	1	U+0045 U+003a
-ē:$	ēː	tē:	47	1	U+0113 U+003a U+0024
-^α$	<?>	α	47	1	U+005e U+03b1 U+0024
-…	<?>	úhni:…-kaa	48	1	U+2026
-^é:ʒ	éːʒ	é:ʒi	48	1	U+005e U+00e9 U+003a U+0292
-^ɺ	ɺ	ɺiko	52	1	U+005e U+027a
-^rh	rh	rhóa_	52	1	U+005e U+0072 U+0068
-^ɻ	ɻ	ɻápa	52	1	U+005e U+027b
-t̠	t̠	kuwhéet̠i	52	1	U+0074 U+0320
-n:h	nːh	hn:hnu	53	1	U+006e U+003a U+0068
-^íí$	íí	íí	54	1	U+005e U+00ed U+00ed U+0024
-^tʃh	tʃh	tʃha	54	1	U+005e U+0074 U+0283 U+0068
-^V	<?>	Vra-mi	56	1	U+005e U+0056
-^ʒ	ʒ	ʒíːtu	56	1	U+005e U+0292
-éːs	éːs	kéːsu	56	1	U+00e9 U+02d0 U+0073
-ˌm	m	kaˌmaika	57	1	U+02cc U+006d
-^ˈo	o	ˈowi	57	1	U+005e U+02c8 U+006f
-ˈts	ts	kalaˈtsero	57	1	U+02c8 U+0074 U+0073
-^ˈz	z	ˈzoa	57	1	U+005e U+02c8 U+007a
-^ˈe	e	ˈenore	57	1	U+005e U+02c8 U+0065
-^éw	éw	éwa	58	1	U+005e U+00e9 U+0077
-ùw	ùw	pùwài_	58	1	U+00f9 U+0077
-í́	í	kedávií́?	59	1	U+00ed U+0301
-?́$	<?>	matshíva?nú?́	59	1	U+003f U+0301 U+0024
-ó!	óǃ	kó!píidú	59	1	U+00f3 U+0021
-^∫	∫	∫óhó_	59	1	U+005e U+222b
-	<?>	aóogí	59	1	U+f24d
-ϕ	<?>	oϕíináú	59	1	U+03d5
-^ɲh	ɲh	ɲhá	60	1	U+005e U+0272 U+0068
-éwh	éwh	di-éwhe	60	1	U+00e9 U+0077 U+0068
-éːw	éːw	ɲéːwi	60	1	U+00e9 U+02d0 U+0077
-ˀd	ˀd	-ẓuwaɨ-ˀdi_	61	1	U+02c0 U+0064
-^aˀ	aˀ	aˀbatʰa-n	61	1	U+005e U+0061 U+02c0
-ɽ$	ɽ	bakɨɽ	61	1	U+027d U+0024
+^lw:s$	l ɯː s	lw:s	23	1	U+005e U+006c U+0077 U+003a U+0073 U+0024
+^mm$	mː	mm	21	1	U+005e U+006d U+006d U+0024
+^msh	m ʃ	mshya:	33	1	U+005e U+006d U+0073 U+0068
+^n:$	nː	n:-	23	1	U+005e U+006e U+003a U+0024
+^ooo	oː	o-oot	44	1	U+005e U+006f U+006f U+006f
+^oʰ	oʰ	oʰkõ	102	1	U+005e U+006f U+02b0
+^ps$	p s	ps-	23	1	U+005e U+0070 U+0073 U+0024
+^psh	p ʃ	pshelpshe	41	1	U+005e U+0070 U+0073 U+0068
+^pw	pʷ	pwew	41	1	U+005e U+0070 U+0077
+^qsh	q ʃ	qshi	41	1	U+005e U+0071 U+0073 U+0068
+^rh	r̥	rhóa_	52	1	U+005e U+0072 U+0068
+^rrr	rː	rrrapa	180	1	U+005e U+0072 U+0072 U+0072
+^s:h$	sː h	s:h	23	1	U+005e U+0073 U+003a U+0068 U+0024
+^tʂ	ʈʂ	tʂɨʂɨ	124	1	U+005e U+0074 U+0282
+^tʃh	tʃʰ	tʃha	54	1	U+005e U+0074 U+0283 U+0068
 ^t͡ʃʰ	tʃʰ	t͡ʃʰipʰirari	61	1	U+005e U+0074 U+0361 U+0283 U+02b0
+^uuu	uː	uuu-t	26	1	U+005e U+0075 U+0075 U+0075
+^uˀ	u ʔ	uˀu	369	1	U+005e U+0075 U+02c0
+^wʰ	wʰ	wʰo	130	1	U+005e U+0077 U+02b0
+^xʷ	xʷ	xʷálxʷal	2	1	U+005e U+0078 U+02b7
+^y:	yː	y:ny-	22	1	U+005e U+0079 U+003a
+^y:$	yː	y:	6	1	U+005e U+0079 U+003a U+0024
+^zh	ʒ	zhili	127	1	U+005e U+007a U+0068
 ^z̨	z̨	z̨amaka	61	1	U+005e U+007a U+0328
-ŗ	<?>	supaŗa	61	1	U+0157
-^d̨	d̨	d̨i̵u	61	1	U+005e U+0064 U+0328
-i̵	i̵	d̨i̵u	61	1	U+0069 U+0335
-z̧	z̧	niz̧u	61	1	U+007a U+0327
-tʰs	tsʰ	ɨpátʰsïʔxákʰo	68	1	U+0074 U+02b0 U+0073
-βʰ	βʰ	áiiβʰétʸso	68	1	U+03b2 U+02b0
-tʸs	tsʲ	áiiβʰétʸso	68	1	U+0074 U+02b8 U+0073
-sʰ	sʰ	tsʰɨ́sʰɨɨ-ne	68	1	U+0073 U+02b0
-ĉ	<?>	kwa-ĉe	68	1	U+0109
-WW	<?>	íípií_WW?	68	1	U+0057 U+0057
-ss$	ss	culli-_+class	68	1	U+0073 U+0073 U+0024
-^ḯḯ	<?>	ḯḯkʰo-kʷa	68	1	U+005e U+1e2f U+1e2f
-čč	čč	-aččo	69	1	U+010d U+010d
-^eee	eee	eeewarbö	70	1	U+005e U+0065 U+0065 U+0065
-ös	ös	wösök	70	1	U+00f6 U+0073
-^ö$	ö	ö	70	1	U+005e U+00f6 U+0024
-ɯ:	ɯː	ɛʔnepɯ:rɤ	71	1	U+026f U+003a
-Ʒ	<?>	enƷi	71	1	U+01b7
-ʔʃ	ʔʃ	aʔʃituŋ	71	1	U+0294 U+0283
-’s	<?>	ihu’se	72	1	U+2019 U+0073
+^àw	a w	àwo	421	1	U+005e U+00e0 U+0077
+^ã́$	ã	ã́-	145	1	U+005e U+00e3 U+0301 U+0024
+^ä$	æ	ä	130	1	U+005e U+00e4 U+0024
+^æ̃$	æ̃	æ̃	103	1	U+005e U+00e6 U+0303 U+0024
+^æ̃æ̃	æ̃ː	æ̃æ̃_wo	103	1	U+005e U+00e6 U+0303 U+00e6 U+0303
+^é:w	eː w	é:wy-	15	1	U+005e U+00e9 U+003a U+0077
+^é:ʒ	eː ʒ	é:ʒi	48	1	U+005e U+00e9 U+003a U+0292
+^éw	e w	éwa	58	1	U+005e U+00e9 U+0077
+^éw$	e w	éw	36	1	U+005e U+00e9 U+0077 U+0024
+^ês	e s	êskol	119	1	U+005e U+00ea U+0073
+^êê	eː	ê-ê_	110	1	U+005e U+00ea U+00ea
+^ësh	e ʃ	ëshë	124	1	U+005e U+00eb U+0073 U+0068
+^ëw	e w	ëwok	352	1	U+005e U+00eb U+0077
+^ì:	iː	ì:pòqpôqa	31	1	U+005e U+00ec U+003a
+^ì:h	iː h	ì:hmī:ya_ñhya	31	1	U+005e U+00ec U+003a U+0068
+^ìs	i s	ìsOmā:	31	1	U+005e U+00ec U+0073
+^íí$	iː	íí	54	1	U+005e U+00ed U+00ed U+0024
+^ïw$	i w	ïw	43	1	U+005e U+00ef U+0077 U+0024
+^ï̃ï̃	ĩ	ï̃ï̃nóóčo	158	1	U+005e U+00ef U+0303 U+00ef U+0303
+^ò	o	òjor	91	1	U+005e U+00f2
+^ó:	oː	ó:gal	27	1	U+005e U+00f3 U+003a
+^óh	o h	óhka	36	1	U+005e U+00f3 U+0068
+^ós	o s	óso	145	1	U+005e U+00f3 U+0073
+^õõ$	õː	õõ	387	1	U+005e U+00f5 U+00f5 U+0024
+^ö$	œ	ö	70	1	U+005e U+00f6 U+0024
+^ú$	u	ú	140	1	U+005e U+00fa U+0024
+^û	u	ûb	117	1	U+005e U+00fb
+^û:	uː	û:li	31	1	U+005e U+00fb U+003a
+^ûh	u h	ûhuri	141	1	U+005e U+00fb U+0068
+^ü$	y	ü	387	1	U+005e U+00fc U+0024
+^üsh	y ʃ	üshükal	26	1	U+005e U+00fc U+0073 U+0068
+^Ā	aː	Āpōnōlīmak	26	1	U+005e U+0100
+^āh	aː h	āh-nā-nāv-sahCH	17	1	U+005e U+0101 U+0068
+^āsh	aː ʃ	āshawwütt	26	1	U+005e U+0101 U+0073 U+0068
+^āw	aː w	āwating_pān	26	1	U+005e U+0101 U+0077
+^ą́	ã	ą́mǫ	103	1	U+005e U+0105 U+0301
+^č:	tʃː	č:mu_	104	1	U+005e U+010d U+003a
+^čw	tʃʷ	čwin	43	1	U+005e U+010d U+0077
+^ē	eː	ēkādɨ_	258	1	U+005e U+0113
+^ĕh	e h	ĕh____kān__	44	1	U+005e U+0115 U+0068
+^ě$	e	ě	44	1	U+005e U+011b U+0024
+^ĩĩ$	ĩː	ĩĩ	103	1	U+005e U+0129 U+0129 U+0024
+^ī	iː	īga-	200	1	U+005e U+012b
+^ī:	iː	ī:tâpstâpsīča	31	1	U+005e U+012b U+003a
+^ł$	ɬ	ł	41	1	U+005e U+0142 U+0024
+^ŋw	ŋʷ	ŋwəĵe	384	1	U+005e U+014b U+0077
+^ŏ	o	ŏCH-wahn	43	1	U+005e U+014f
+^ŏsh	o ʃ	ŏsh-kŭk	43	1	U+005e U+014f U+0073 U+0068
+^ū:	uː	ū:va	31	1	U+005e U+016b U+003a
+^ŭ$	u	ŭ	46	1	U+005e U+016d U+0024
+^ž	ʒ	žakská	97	1	U+005e U+017e
+^ǫ́ǫ́	õː	ǫ́ǫ́mæ̨	103	1	U+005e U+01eb U+0301 U+01eb U+0301
+^ǽ̨	æ̃	ǽ̨mǫtái	103	1	U+005e U+01fd U+0328
+^ɂs	ʔ	ɂsá	31	1	U+005e U+0242 U+0073
+^ɑˀ	ɑ ʔ	ɑˀe	369	1	U+005e U+0251 U+02c0
+^ɑ̃	ɑ̃	ɑ̃sithɑ	162	1	U+005e U+0251 U+0303
+^ɔ$	ɔ	ɔ-	364	1	U+005e U+0254 U+0024
+^ɕ	ɕ	ɕɨ́-ɕe	99	1	U+005e U+0255
+^ə:	əː	ə:ləw	21	1	U+005e U+0259 U+003a
+^əə	əː	-əəwa-	73	1	U+005e U+0259 U+0259
+^ə̃$	ə̃	ə̃	97	1	U+005e U+0259 U+0303 U+0024
+^ɛ̃́	ɛ̃́	ɛ̃́mṍã́mɨ̃̀	143	1	U+005e U+025b U+0303 U+0301
+^ɣ	ɣ	ɣak-uwa	349	1	U+005e U+0263
+^ɨ̃́ɨ̃́$	ɨ̃ː	ɨ̃́ɨ̃́-	133	1	U+005e U+0268 U+0303 U+0301 U+0268 U+0303 U+0301 U+0024
+^ɯ	ɯ	ɯ.aiθaɯ	156	1	U+005e U+026f
+^ɲh	ɲ̊	ɲhá	60	1	U+005e U+0272 U+0068
+^ɳ	ɳ	ɳeni-tsi-ŋu	354	1	U+005e U+0273
+^ɺ	ɺ	ɺiko	52	1	U+005e U+027a
+^ɻ	ɻ	ɻápa	52	1	U+005e U+027b
+^ʌ$	ʌ	ʌ	97	1	U+005e U+028c U+0024
+^ʒ	ʒ	ʒíːtu	56	1	U+005e U+0292
+^ʦ	ts	ʦapea	144	1	U+005e U+02a6
+^ʨ	tɕ	ʨoae	112	1	U+005e U+02a8
+^ʰy	ʰj	ʰyowã	102	1	U+005e U+02b0 U+0079
+^ʻt	ˀt	ʻtɨro	140	1	U+005e U+02bb U+0074
+^ˀe$	ʔ e	ˀe	369	1	U+005e U+02c0 U+0065 U+0024
+^ˀɑ$	ʔ ɑ	ˀɑ	369	1	U+005e U+02c0 U+0251 U+0024
+^ˀɨ$	ʔ ɨ	ˀɨ	369	1	U+005e U+02c0 U+0268 U+0024
+^ˈb	b	ˈbĩ́	140	1	U+005e U+02c8 U+0062
+^ˈe	e	ˈenore	57	1	U+005e U+02c8 U+0065
+^ˈl	l	ˈlɛṇɡɑ	212	1	U+005e U+02c8 U+006c
+^ˈo	o	ˈowi	57	1	U+005e U+02c8 U+006f
+^ˈz	z	ˈzoa	57	1	U+005e U+02c8 U+007a
+^ˈã$	ã	ˈã	140	1	U+005e U+02c8 U+00e3 U+0024
+^ˍp	p	ˍpicé	104	1	U+005e U+02cd U+0070
+^α$	ɑ	α	47	1	U+005e U+03b1 U+0024
+^ε	ɛ	εskwεεla	1	1	U+005e U+03b5
+^ᵾ	ʉ	ᵾta	133	1	U+005e U+1d7e
+^ḯḯ	ɨː	ḯḯkʰo-kʷa	68	1	U+005e U+1e2f U+1e2f
+^ẽ́	ẽ	ẽ́jãn	94	1	U+005e U+1ebd U+0301
+^ẽẽ	ẽː	ẽẽpi_	349	1	U+005e U+1ebd U+1ebd
+^ỹ$	ỹ	ỹ-	379	1	U+005e U+1ef9 U+0024
+^–	NULL	–ika	200	1	U+005e U+2013
+^∫	ʃ	∫óhó_	59	1	U+005e U+222b
+_hide!$	NULL	lippay_hide_!	20	1	U+005f U+0021 U+0024
+_ˀ	+ ʔ	akwama_ˀe	369	1	U+005f U+02c0
+a::	aː	mya::khti^:la_	31	1	U+0061 U+003a U+003a
+aaa$	aː	caaa	37	1	U+0061 U+0061 U+0061 U+0024
+aː$	aː	póːnaː	96	1	U+0061 U+02d0 U+0024
+a̤	a	wesəda̤-ʔá	455	1	U+0061 U+0324
+bsh	b ʃ	tabshi	100	1	U+0062 U+0073 U+0068
+bʃ	b ʃ	xabʃatʃána	99	1	U+0062 U+0283
+ca_nahwere_)	ts a + n a ʰw e r e	ca_nahwere_)	371	1	U+0063 U+0061 U+005f U+006e U+0061 U+0068 U+0077 U+0065 U+0072 U+0065 U+005f U+0029
+cc$	ts	kcc	23	1	U+0063 U+0063 U+0024
+ch:	tʃː	och:uku-	15	1	U+0063 U+0068 U+003a
+chs	tʃ s	?chsa	31	1	U+0063 U+0068 U+0073
+chw$	tʃʷ	ngarrchw	221	1	U+0063 U+0068 U+0077 U+0024
+cs$	ts	gics-	16	1	U+0063 U+0073 U+0024
+c̆	tʃ	kea-bic̆o_	403	1	U+0063 U+0306
+d:	dː	mod:ak_	29	1	U+0064 U+003a
+dhw$	d ʰw	andhw	227	1	U+0064 U+0068 U+0077 U+0024
+e!	e	iwatije!_	42	1	U+0065 U+0021
+eeee$	eː	mee-ee	203	1	U+0065 U+0065 U+0065 U+0065 U+0024
+fh	fʰ	pofhkindiheh_	97	1	U+0066 U+0068
+gsh	gsh	piígsha	114	1	U+0067 U+0073 U+0068
+hsh	h ʃ	mehshi	36	1	U+0068 U+0073 U+0068
+hsh$	h ʃ	yuv-vēl-yahsh	1	1	U+0068 U+0073 U+0068 U+0024
+ibeišĩ__)	i b ei ʃ ĩ	ibeišĩ__)	368	1	U+0069 U+0062 U+0065 U+0069 U+0161 U+0129 U+005f U+005f U+0029
+iii$	iː	chichiii-	5	1	U+0069 U+0069 U+0069 U+0024
+iː$	iː	garriː	184	1	U+0069 U+02d0 U+0024
+i̡	ĩ	hi̡m	107	1	U+0069 U+0321
+i̵	ɨ	d̨i̵u	61	1	U+0069 U+0335
+j:$	j	hyj:-	25	1	U+006a U+003a U+0024
+jalnjul_TC)	j a l n j u l	jalnjul_TC)	202	1	U+006a U+0061 U+006c U+006e U+006a U+0075 U+006c U+005f U+0054 U+0043 U+0029
+jh$	dʒ	djabburdenjhrdenjh	218	1	U+006a U+0068 U+0024
+js$	j s	majs	40	1	U+006a U+0073 U+0024
+j̃	j	cotiwaj̃a	136	1	U+006a U+0303
+k:$	kː	Tyk:-	25	1	U+006b U+003a U+0024
+kk$	kː	pāwusshakk	26	1	U+006b U+006b U+0024
+ks$	k s	al-as-ko-woks	40	1	U+006b U+0073 U+0024
+kʰʷ	kʷʰ	diádžáíkʰʷà	143	1	U+006b U+02b0 U+02b7
+ls$	l s	hls-	23	1	U+006c U+0073 U+0024
+lʃ	l ʃ	ʔal-ʃɨ-Vn_>_ʔalʃɨhɨn_	43	1	U+006c U+0283
+msh	m ʃ	tamshi	129	1	U+006d U+0073 U+0068
+msh$	m ʃ	anisnemsh	42	1	U+006d U+0073 U+0068 U+0024
+mː	mː	bamːa	184	1	U+006d U+02d0
+n:$	nː	yn:-	25	1	U+006e U+003a U+0024
+n:h	nː h	hn:hnu	53	1	U+006e U+003a U+0068
+nhs	n̥ s	monhsodyáávojo	158	1	U+006e U+0068 U+0073
 nʲ	nʲ	mu’nʲuhɯ_	72	1	U+006e U+02b2
-^əə	əə	-əəwa-	73	1	U+005e U+0259 U+0259
-ˈp	p	təpiɾi_təˈpəːˈɾi	77	1	U+02c8 U+0070
+nˀ$	nˀ	nããnˀ	118	1	U+006e U+02c0 U+0024
+nː	nː	tynːa-s	8	1	U+006e U+02d0
+ooo	oː	ah-bo-oo-nat	44	1	U+006f U+006f U+006f
+ooo$	oː	moohooo	11	1	U+006f U+006f U+006f U+0024
+o|	o	eenim_co|cni	37	1	U+006f U+007c
+phʰ	pʰ	lophʰoţ	14	1	U+0070 U+0068 U+02b0
+ps$	p s	waaps	32	1	U+0070 U+0073 U+0024
+pʃ	p ʃ	xpʃu	33	1	U+0070 U+0283
+qq	qː	nAHsaa-qqanI	8	1	U+0071 U+0071
+qsh$	q ʃ	aqsh	43	1	U+0071 U+0073 U+0068 U+0024
+qʰ	qʰ	pšeqʰe	41	1	U+0071 U+02b0
+raïdï}	r a ɨ d ɨ	raïdï}	156	1	U+0072 U+0061 U+00ef U+0064 U+00ef U+007d
+rh$	r̥	k@rh	218	1	U+0072 U+0068 U+0024
+rsh	r ʃ	boorshi	100	1	U+0072 U+0073 U+0068
+rː	rː	kurːbara	184	1	U+0072 U+02d0
+s:$	sː	us:	23	1	U+0073 U+003a U+0024
+shh	ʃ h	shashham	40	1	U+0073 U+0068 U+0068
+ss$	sː	culli-_+class	68	1	U+0073 U+0073 U+0024
+sʰ	sʰ	tsʰɨ́sʰɨɨ-ne	68	1	U+0073 U+02b0
+s̆	ʃ	bakwis̆i_	403	1	U+0073 U+0306
+t:s	tsː	tot:si-S	8	1	U+0074 U+003a U+0073
+t:sh	tː ʃ	ot:shA	8	1	U+0074 U+003a U+0073 U+0068
+thw$	tʷʰ	pethw	221	1	U+0074 U+0068 U+0077 U+0024
+ts:$	tsː	qwanatsits:	8	1	U+0074 U+0073 U+003a U+0024
+tʰs	tsʰ	ɨpátʰsïʔxákʰo	68	1	U+0074 U+02b0 U+0073
+tʱ	tʰ	šaxtʱil	14	1	U+0074 U+02b1
+tʸh$	tʲʰ	atʸh	106	1	U+0074 U+02b8 U+0068 U+0024
+tʸs	tsʲ	áiiβʰétʸso	68	1	U+0074 U+02b8 U+0073
+t̠	tʲ	kuwhéet̠i	52	1	U+0074 U+0320
+u!$	uǃ	bagu!	167	1	U+0075 U+0021 U+0024
+uʷ	u w	duʷí	143	1	U+0075 U+02b7
+uʷ$	u w	tsiuʷ	45	1	U+0075 U+02b7 U+0024
+u̱	u	cantyu̱chiy	125	1	U+0075 U+0331
+v:	vː	generic_fish_v:jo	144	1	U+0076 U+003a
+vh	vʰ	nyavhay_ahvay	35	1	U+0076 U+0068
+vv	vː	yuv-vēl-yahsh	1	1	U+0076 U+0076
+w!	w	maadaw!__chanyoo=_	35	1	U+0077 U+0021
+wˀ$	wˀ	dʉwˀ	117	1	U+0077 U+02c0 U+0024
+xh	ʃ	juuxha_	158	1	U+0078 U+0068
+xʃ	x ʃ	kaxʃap	41	1	U+0078 U+0283
+xʷ	xʷ	xʷálxʷal	2	1	U+0078 U+02b7
+yyy	yː	kyy-yt	26	1	U+0079 U+0079 U+0079
+z̧	ʐ	niz̧u	61	1	U+007a U+0327
+´sh	ʃ	du´shu	101	1	U+00b4 U+0073 U+0068
+´w	w	ŭ´we-	106	1	U+00b4 U+0077
+·s$	s	ɂu·s	33	1	U+00b7 U+0073 U+0024
+·w	w	xsa·wk	33	1	U+00b7 U+0077
+ß	β	hɨɾɨʔßa	465	1	U+00df
+â:	aː	hàlkrâ:pa	31	1	U+00e2 U+003a
+âs$	a s	kâs	119	1	U+00e2 U+0073 U+0024
+ã:	ãː	tjmã:tiʔ_	349	1	U+00e3 U+003a
+ã̀	ã	ñĩ́kʰã́_õ̀ã̀ňõ̀	143	1	U+00e3 U+0300
+ã̂ː	ãː	ʔã̂ːj	123	1	U+00e3 U+0302 U+02d0
+ã̇	ã̇	peyã̇w	120	1	U+00e3 U+0307
+äh	æ h	bähenõ	387	1	U+00e4 U+0068
+ä́	æ	canä́f	93	1	U+00e4 U+0301
+å	a	otonånõko	351	1	U+00e5
+æ̃̀	æ̃	hæ̃̀yah	120	1	U+00e6 U+0303 U+0300
+æ̧$	æ̃	tíwæ̧	103	1	U+00e6 U+0327 U+0024
+é:s	eː s	làšašé:si	27	1	U+00e9 U+003a U+0073
+éh:	eː	péh:una-	15	1	U+00e9 U+0068 U+003a
+éhw	e w	méhwa	36	1	U+00e9 U+0068 U+0077
+éwh	e wʰ	di-éwhe	60	1	U+00e9 U+0077 U+0068
+éww	e wː	seléwwa	19	1	U+00e9 U+0077 U+0077
+éːs	eː s	kéːsu	56	1	U+00e9 U+02d0 U+0073
+éːw	eː w	ɲéːwi	60	1	U+00e9 U+02d0 U+0077
+êh$	e h	dêh	123	1	U+00ea U+0068 U+0024
+ês$	e s	pês	119	1	U+00ea U+0073 U+0024
+êw$	e w	bêw	117	1	U+00ea U+0077 U+0024
+ëw$	e w	ëlëw	21	1	U+00eb U+0077 U+0024
+ëë$	eː	jëë	122	1	U+00eb U+00eb U+0024
+ë́	e	quë́rí	409	1	U+00eb U+0301
+ì:$	iː	wangì:-	15	1	U+00ec U+003a U+0024
+ì:s	iː s	čì:sôni	31	1	U+00ec U+003a U+0073
+í:$	iː	thí:	31	1	U+00ed U+003a U+0024
+í́	i	kedávií́?	59	1	U+00ed U+0301
+î:	iː	myā:khtî:la	31	1	U+00ee U+003a
+îh	i h	wîho	141	1	U+00ee U+0068
+îh$	i h	wîh	123	1	U+00ee U+0068 U+0024
+ïs$	i s	pïs	43	1	U+00ef U+0073 U+0024
+ò:$	oː	pà:tmārčò:	31	1	U+00f2 U+003a U+0024
+òh	o h	hòhuimuc	29	1	U+00f2 U+0068
+ó!	o	kó!píidú	59	1	U+00f3 U+0021
+ó:s	oː s	kó:somu-	15	1	U+00f3 U+003a U+0073
+óh$	o h	ʔóh	120	1	U+00f3 U+0068 U+0024
+ós$	o s	çoós	119	1	U+00f3 U+0073 U+0024
+ós:	o sː	Tós:ewe-	15	1	U+00f3 U+0073 U+003a
+óss	o sː	kapóssĩ	100	1	U+00f3 U+0073 U+0073
+õ̀	õ	ñĩ́kʰã́_õ̀ã̀ňõ̀	143	1	U+00f5 U+0300
+õ̀̀$	õ	nɛ̃́ňõ̀̀	143	1	U+00f5 U+0300 U+0300 U+0024
+õ̂	õ	mõ̂n	107	1	U+00f5 U+0302
+ö:	øː	chö:dedü_	258	1	U+00f6 U+003a
+ö:$	øː	wö:	258	1	U+00f6 U+003a U+0024
+öh	ø h	wöhöcit	29	1	U+00f6 U+0068
+ös	ø s	wösök	70	1	U+00f6 U+0073
+ösh	ø ʃ	nösh_C	30	1	U+00f6 U+0073 U+0068
+öw	ø w	pöwí_	110	1	U+00f6 U+0077
+öö	øː	Tööd	29	1	U+00f6 U+00f6
+ø̃	ø̃	mømø̃m_	371	1	U+00f8 U+0303
+ù:	uː	kù:yûkyûka	31	1	U+00f9 U+003a
+ùw	u w	pùwài_	58	1	U+00f9 U+0077
+úú$	uː	ojúú	158	1	U+00fa U+00fa U+0024
+û:	uː	skû:la_hnáqča	31	1	U+00fb U+003a
+ûs	u s	hûslawe_B	30	1	U+00fb U+0073
+ü:$	yː	hü:	258	1	U+00fc U+003a U+0024
+ü:h	yː h	tü:hatt	26	1	U+00fc U+003a U+0068
+üssh	y s ʃ	üttüsshal	26	1	U+00fc U+0073 U+0073 U+0068
+üü$	yː	tasimüü	13	1	U+00fc U+00fc U+0024
+ü̃	u	džodü̃__	97	1	U+00fc U+0303
+ü̃h	u h	tofĩtü̃h_	97	1	U+00fc U+0303 U+0068
+ā:	aː	myā:khtî:la	31	1	U+0101 U+003a
+ā:$	aː	ìsOmā:	31	1	U+0101 U+003a U+0024
+āh$	aː h	takkāh	26	1	U+0101 U+0068 U+0024
+ās	aː s	wo-lāstanding_up”_	44	1	U+0101 U+0073
+ā̃	ã	ʧā̃p	117	1	U+0101 U+0303
+ăh$	a h	me-wăh	21	1	U+0103 U+0068 U+0024
+ăă	aː	slă-ăt	24	1	U+0103 U+0103
+ąh	ã h	lanąąha	112	1	U+0105 U+0068
+ąw$	ã w	lil_nąw	30	1	U+0105 U+0077 U+0024
+ąą$	ãː	amąą	112	1	U+0105 U+0105 U+0024
+ą́	ã	ñą́ñą́	103	1	U+0105 U+0301
+ą́$	ã	ñą́ñą́	103	1	U+0105 U+0301 U+0024
+ą́ą́	ãː	ką́ą́ta_	103	1	U+0105 U+0301 U+0105 U+0301
+ĉ	tʃ	kwa-ĉe	68	1	U+0109
+čw	tʃ w	či-čwi-ye	78	1	U+010d U+0077
+čč	tʃː	-aččo	69	1	U+010d U+010d
+đ	ð	nađañʉ	134	1	U+0111
+ē:$	eː	tē:	47	1	U+0113 U+003a U+0024
+ĕsh$	e ʃ	he-pĕsh	29	1	U+0115 U+0073 U+0068 U+0024
+ěw$	e w	yěw	120	1	U+011b U+0077 U+0024
+ĩʰt	ĩ ʰt	bĩʰtu_	102	1	U+0129 U+02b0
+ĩ́ĩ́$	ĩː	jĩ́ĩ́-	133	1	U+0129 U+0301 U+0129 U+0301 U+0024
+ĩ̂	ĩ	bĩ̂d	123	1	U+0129 U+0302
+ĩ̂:	ĩː	sĩ̂:m	119	1	U+0129 U+0302 U+003a
+ĩ̃	ĩ	bũbĩ_bãĩ̃pɨ̃_kãã-kɨ̃_	140	1	U+0129 U+0303
+īsh	i ʃ	wīshat	26	1	U+012b U+0073 U+0068
+īss	i sː	hīssavel	2	1	U+012b U+0073 U+0073
+īī$	iː	dīī	117	1	U+012b U+012b U+0024
+ĭs	i s	potsĭsámaama	100	1	U+012d U+0073
+į	ĩ	wǽ̨ŋǫ́ŋį_	103	1	U+012f
+į́į́	ĩ	wẽẽñæ̃_wį́į́ñæ̨	103	1	U+012f U+0301 U+012f U+0301
+ı̃	ĩ	chı̃xã	110	1	U+0131 U+0303
+łʸ$	ɬʲ	ɂiɂíÍłʸ	33	1	U+0142 U+02b8 U+0024
+ń	n	huarańtei_	381	1	U+0144
+ŋh	ŋ̊	šeŋhi	14	1	U+014b U+0068
+ŋ̟̟̟$	ŋ̟	tsiŋ̟̟̟	369	1	U+014b U+031f U+031f U+031f U+0024
+ŋ̥	ŋ̊	rakɯ́ŋ̥o_	266	1	U+014b U+0325
+ō:	oː	màkyō:ra	31	1	U+014d U+003a
+ōh$	o h	shitōh	26	1	U+014d U+0068 U+0024
+ōs	o s	chum-pōs_MO	30	1	U+014d U+0073
+őw	o w	pőwac	29	1	U+0151 U+0077
+ŗ	ɽ	supaŗa	61	1	U+0157
+ś	ʂ	thaśa	90	1	U+015b
+şw	ɕʷ	wéşweş	38	1	U+015f U+0077
+şş	ɕː	káşşi	38	1	U+015f U+015f
+şʸ$	ɕʲ	hučeknişʸ	20	1	U+015f U+02b8 U+0024
+şʸşʸ	ɕʲː	haşʸşʸan	20	1	U+015f U+02b8 U+015f U+02b8
+šš	ʃː	kušše	16	1	U+0161 U+0161
+ţ	tʲ	màţkawá·	33	1	U+0163
+ū:$	uː	smá:lktū:	31	1	U+016b U+003a U+0024
+ŭh$	u h	nŭh	30	1	U+016d U+0068 U+0024
+ŭs	u s	ōn-tip-pŭs_CS	30	1	U+016d U+0073
+ŭŭ	uː	poo-kung_nŭ-ŭ____	44	1	U+016d U+016d
+ű	u	keűti	354	1	U+0171
+Ų	ũ	tŲpá-sǫǫ-cI	9	1	U+0172
+Ɨ	ɨ	wivƗč	18	1	U+0197
+Ɯ	ɯ	pƜi	107	1	U+019c
+Ɯ$	ɯ	tƜ	107	1	U+019c U+0024
+ƫ	tʲ	diƫal	222	1	U+01ab
+Ʒ	ʒ	enƷi	71	1	U+01b7
+ǒ$	o	bǒ	120	1	U+01d2 U+0024
+ǔʃ$	u ʃ	dǔʃ	119	1	U+01d4 U+0283 U+0024
+ǖ	yː	pjǖdá	108	1	U+01d6
+ǝ́:	əː	pǝ́:d	119	1	U+01dd U+0301 U+003a
+ǝ́́	ə	b’ǝ́́ʔ	123	1	U+01dd U+0301 U+0301
+ǫ́w	õ w	ǫ́nǫ́wa	103	1	U+01eb U+0301 U+0077
+ǽ̃	æ̃	pǽ̃y	120	1	U+01fd U+0303
+ǽ̨ǽ̨	æ̃ː	pǽ̨ǽ̨næ̨_	103	1	U+01fd U+0328 U+01fd U+0328
+Ɂ$	ʔ	jæ̂Ɂ	123	1	U+0241 U+0024
+ɂh	ʔʰ	kθàrɂhāna	31	1	U+0242 U+0068
+ɑ̃	ɑ̃	ahwɑ̃j	369	1	U+0251 U+0303
+ɑ̃$	ɑ̃	kujɑ̃	369	1	U+0251 U+0303 U+0024
+ɒ	ɒ	hikɒ_	97	1	U+0252
+ɒ́$	ɒ	tɒ́	97	1	U+0252 U+0301 U+0024
+ɒ̃	ɒ̃	kɒ̃ǝ̃ta	97	1	U+0252 U+0303
+ɒ̃$	ɒ̃	ĩɒ̃	97	1	U+0252 U+0303 U+0024
+ɔ̂$	ɔ	hɔ̂	123	1	U+0254 U+0302 U+0024
+əə$	əː	bəə	107	1	U+0259 U+0259 U+0024
 əː	əː	təpiɾi_təˈpəːˈɾi	77	1	U+0259 U+02d0
-ˈɾ	ɾ	təpiɾi_təˈpəːˈɾi	77	1	U+02c8 U+027e
-čw	čw	či-čwi-ye	78	1	U+010d U+0077
-^F	<?>	From__on	78	1	U+005e U+0046
-^bs	bs	bsiesesuca	82	1	U+005e U+0062 U+0073
-ʌ̈	ʌ̈	hʌ̈rr	87	1	U+028c U+0308
-ˈĩ$	ĩ	ʉ̃rˈĩ	90	1	U+02c8 U+0129 U+0024
-ˈu$	u	hĩrˈu	90	1	U+02c8 U+0075 U+0024
-ˈĩ	ĩ	puchchˈĩra	90	1	U+02c8 U+0129
-ś	ś	thaśa	90	1	U+015b
-^ò	ò	òjor	91	1	U+005e U+00f2
+ə̃́$	ə̃́	tə̃́	97	1	U+0259 U+0303 U+0301 U+0024
+ɛɛ	ɛː	avɛɛna	1	1	U+025b U+025b
+ɛɛ$	ɛː	pɛɛ	364	1	U+025b U+025b U+0024
+ɛ̀$	ɛ	hĩ́nĩ́ňikʰɛ̀	143	1	U+025b U+0300 U+0024
+ɛ̃̀$	ɛ̃	kʰɛ̃́ɛ̃̀	143	1	U+025b U+0303 U+0300 U+0024
+ɛ̨́	ɛ̃	oᵽɛ̨́ŋʌ̃̀	143	1	U+025b U+0328 U+0301
+ɤ̂	ɤ	hɤ̂w	123	1	U+0264 U+0302
+ɨ:$	ɨː	wɨ:	161	1	U+0268 U+003a U+0024
+ɨ́ɨ́$	ɨː	bɨ́ɨ́	140	1	U+0268 U+0301 U+0268 U+0301 U+0024
+ɨ̃́ɨ̃́	ɨ̃ː	kɨ̃́ɨ̃́_	143	1	U+0268 U+0303 U+0301 U+0268 U+0303 U+0301
+ɨ̃́ɨ̃́$	ɨ̃ː	hoɨ̃́ɨ̃́	143	1	U+0268 U+0303 U+0301 U+0268 U+0303 U+0301 U+0024
+ɨ̆̃	ɨ̃	ɨ̃́mɨ̃́ňẽkʰò_mãkʰɨ̆̃_muiᵽũ̀	143	1	U+0268 U+0306 U+0303
+ɨ̋	ɨ̃	pɨ̋ga	140	1	U+0268 U+030b
+ɯ:	ɯː	ɛʔnepɯ:rɤ	71	1	U+026f U+003a
+ɯ̂	ɯ	cɯ̂p	123	1	U+026f U+0302
+ɯ̃	ɯ̃	bɯ̃h	123	1	U+026f U+0303
 ɲ$	ɲ	tə̃ɲ	91	1	U+0272 U+0024
 ɸ$	ɸ	kanáeɸ	93	1	U+0278 U+0024
-ä́	ä́	canä́f	93	1	U+00e4 U+0301
-^ẽ́	ẽ́	ẽ́jãn	94	1	U+005e U+1ebd U+0301
-aː$	aː	póːnaː	96	1	U+0061 U+02d0 U+0024
-oth_Arawak_loans)	<???>	oth_Arawak_loans)	96	1	U+006f U+0074 U+0068 U+005f U+0041 U+0072 U+0061 U+0077 U+0061 U+006b U+005f U+006c U+006f U+0061 U+006e U+0073 U+0029
-^ž	ž	žakská	97	1	U+005e U+017e
-ü̃	ü̃	džodü̃__	97	1	U+00fc U+0303
-ü̃h	ü̃h	tofĩtü̃h_	97	1	U+00fc U+0303 U+0068
-^ə̃$	ə̃	ə̃	97	1	U+005e U+0259 U+0303 U+0024
-ɒ̃$	ɒ̃	ĩɒ̃	97	1	U+0252 U+0303 U+0024
-ɒ	ɒ	hikɒ_	97	1	U+0252
-ɒ̃	ɒ̃	kɒ̃ǝ̃ta	97	1	U+0252 U+0303
-ɒ́$	ɒ́	tɒ́	97	1	U+0252 U+0301 U+0024
-^ʌ$	ʌ	ʌ	97	1	U+005e U+028c U+0024
-ə̃́$	ə̃́	tə̃́	97	1	U+0259 U+0303 U+0301 U+0024
-ʌʌ$	ʌʌ	pʌʌ	97	1	U+028c U+028c U+0024
-fh	fh	pofhkindiheh_	97	1	U+0066 U+0068
-bʃ	bʃ	xabʃatʃána	99	1	U+0062 U+0283
-^ɕ	ɕ	ɕɨ́-ɕe	99	1	U+005e U+0255
-ĭs	ĭs	potsĭsámaama	100	1	U+012d U+0073
-rsh	rsh	boorshi	100	1	U+0072 U+0073 U+0068
-"^""$"	<?>	""""	100	1	U+005e U+0022 U+0024
-bsh	bsh	tabshi	100	1	U+0062 U+0073 U+0068
-óss	óss	kapóssĩ	100	1	U+00f3 U+0073 U+0073
-´sh	<?>	du´shu	101	1	U+00b4 U+0073 U+0068
-ĩʰ	ĩʰ	bĩʰtu_	102	1	U+0129 U+02b0
-ʰt	ʰt	ʰka-ʰtau	102	1	U+02b0 U+0074
-^oʰ	oʰ	oʰkõ	102	1	U+005e U+006f U+02b0
-^aʰ	aʰ	aʰkuke	102	1	U+005e U+0061 U+02b0
-ẽʰ	ẽʰ	bẽʰlã_ʰtɨ̃_ʰtɨ̃	102	1	U+1ebd U+02b0
-^ʰy	ʰy	ʰyowã	102	1	U+005e U+02b0 U+0079
-į́į́	<?>	wẽẽñæ̃_wį́į́ñæ̨	103	1	U+012f U+0301 U+012f U+0301
-^æ̃$	æ̃	æ̃	103	1	U+005e U+00e6 U+0303 U+0024
-^æ̃æ̃	æ̃æ̃	æ̃æ̃_wo	103	1	U+005e U+00e6 U+0303 U+00e6 U+0303
-ǫ́w	ǫ́w	ǫ́nǫ́wa	103	1	U+01eb U+0301 U+0077
-^ǽ̨	<?>	ǽ̨mǫtái	103	1	U+005e U+01fd U+0328
-^ĩĩ$	ĩĩ	ĩĩ	103	1	U+005e U+0129 U+0129 U+0024
-^k̃	k̃	k̃ĩnõ	103	1	U+005e U+006b U+0303
-ǽ̨ǽ̨	<?>	pǽ̨ǽ̨næ̨_	103	1	U+01fd U+0328 U+01fd U+0328
-^ą́	<?>	ą́mǫ	103	1	U+005e U+0105 U+0301
-ą́	<?>	ñą́ñą́	103	1	U+0105 U+0301
-ą́$	<?>	ñą́ñą́	103	1	U+0105 U+0301 U+0024
-æ̧$	æ̧	tíwæ̧	103	1	U+00e6 U+0327 U+0024
-ą́ą́	<?>	ką́ą́ta_	103	1	U+0105 U+0301 U+0105 U+0301
-į	<?>	wǽ̨ŋǫ́ŋį_	103	1	U+012f
-^ǫ́ǫ́	ǫ́ǫ́	ǫ́ǫ́mæ̨	103	1	U+005e U+01eb U+0301 U+01eb U+0301
-^č:	čː	č:mu_	104	1	U+005e U+010d U+003a
-^ˍp	ˍp	ˍpicé	104	1	U+005e U+02cd U+0070
-´w	<?>	ŭ´we-	106	1	U+00b4 U+0077
-^dʸ	dʲ	dʸih	106	1	U+005e U+0064 U+02b8
-tʸh$	tʲh	atʸh	106	1	U+0074 U+02b8 U+0068 U+0024
-əə$	əə	bəə	107	1	U+0259 U+0259 U+0024
-i̡	i̡	hi̡m	107	1	U+0069 U+0321
-Ɯ$	<?>	tƜ	107	1	U+019c U+0024
-Ɯ	<?>	pƜi	107	1	U+019c
-õ̂	õ̂	mõ̂n	107	1	U+00f5 U+0302
-ǖ	<?>	pjǖdá	108	1	U+01d6
-ʊ̃	ʊ̃	pʰʊ̃dičʰičʰi	108	1	U+028a U+0303
-öw	öw	pöwí_	110	1	U+00f6 U+0077
-ı̃	ı̃	chı̃xã	110	1	U+0131 U+0303
-^êê	êê	ê-ê_	110	1	U+005e U+00ea U+00ea
-^ʨ	tɕ	ʨoae	112	1	U+005e U+02a8
-ąh	<?>	lanąąha	112	1	U+0105 U+0068
-ḑ	<?>	ohaḑzi	112	1	U+1e11
-ąą$	<?>	amąą	112	1	U+0105 U+0105 U+0024
-gsh	gsh	piígsha	114	1	U+0067 U+0073 U+0068
-^û	û	ûb	117	1	U+005e U+00fb
-īī$	īī	dīī	117	1	U+012b U+012b U+0024
-wˀ$	wˀ	dʉwˀ	117	1	U+0077 U+02c0 U+0024
-ʉ̂$	ʉ̂	bʉ̂	117	1	U+0289 U+0302 U+0024
-êw$	êw	bêw	117	1	U+00ea U+0077 U+0024
-ʉ:	ʉː	pʉ:lʉt	117	1	U+0289 U+003a
-ā̃	ã̄	ʧā̃p	117	1	U+0101 U+0303
-ԑw	<?>	ʔԑwe	118	1	U+0511 U+0077
-ԑԑ	<?>	kԑԑbm	118	1	U+0511 U+0511
-nˀ$	nˀ	nããnˀ	118	1	U+006e U+02c0 U+0024
-âs$	âs	kâs	119	1	U+00e2 U+0073 U+0024
-ós$	ós	çoós	119	1	U+00f3 U+0073 U+0024
-ês$	ês	pês	119	1	U+00ea U+0073 U+0024
-ǝ́:	ə́ː	pǝ́:d	119	1	U+01dd U+0301 U+003a
-‘w	<?>	dâw_ãày_yõór_‘woman_medicine’	119	1	U+2018 U+0077
-ǔʃ$	ǔʃ	dǔʃ	119	1	U+01d4 U+0283 U+0024
-ĩ̂:	ĩ̂ː	sĩ̂:m	119	1	U+0129 U+0302 U+003a
-^ês	ês	êskol	119	1	U+005e U+00ea U+0073
-ǽ̃	<?>	pǽ̃y	120	1	U+01fd U+0303
-ěw$	ěw	yěw	120	1	U+011b U+0077 U+0024
-ã̇	ã̇	peyã̇w	120	1	U+00e3 U+0307
-ǒ$	ǒ	bǒ	120	1	U+01d2 U+0024
-óh$	óh	ʔóh	120	1	U+00f3 U+0068 U+0024
-æ̃̀	æ̃̀	hæ̃̀yah	120	1	U+00e6 U+0303 U+0300
-ëë$	ëë	jëë	122	1	U+00eb U+00eb U+0024
-Ɂ$	Ɂ	jæ̂Ɂ	123	1	U+0241 U+0024
-ɔ̂$	ɔ̂	hɔ̂	123	1	U+0254 U+0302 U+0024
-ǝ́́	ə́	b’ǝ́́ʔ	123	1	U+01dd U+0301 U+0301
-êh$	êh	dêh	123	1	U+00ea U+0068 U+0024
-ã̂ː	ã̂ː	ʔã̂ːj	123	1	U+00e3 U+0302 U+02d0
-ɤ̂	ɤ̂	hɤ̂w	123	1	U+0264 U+0302
-ĩ̂	ĩ̂	bĩ̂d	123	1	U+0129 U+0302
-ɯ̂	ɯ̂	cɯ̂p	123	1	U+026f U+0302
-îh$	îh	wîh	123	1	U+00ee U+0068 U+0024
-ɯ̃	ɯ̃	bɯ̃h	123	1	U+026f U+0303
-^tʂ	ʈʂ	tʂɨʂɨ	124	1	U+005e U+0074 U+0282
-ʂ	ʂ	tʂɨʂɨ	124	1	U+0282
-^ësh	ësh	ëshë	124	1	U+005e U+00eb U+0073 U+0068
-u̱	u̠	cantyu̱chiy	125	1	U+0075 U+0331
-ṵ	ṵ	pṵriy	125	1	U+1e75
-^zh	zh	zhili	127	1	U+005e U+007a U+0068
-msh	msh	tamshi	129	1	U+006d U+0073 U+0068
-ˈu	u	huˈuh	130	1	U+02c8 U+0075
-^ä$	ä	ä	130	1	U+005e U+00e4 U+0024
-ˈ$	<?>	baˈwiuáˈ	130	1	U+02c8 U+0024
-$	<?>	ic	130	1	U+f7f3 U+0024
-^wʰ	wʰ	wʰo	130	1	U+005e U+0077 U+02b0
-^ɨ̃́ɨ̃́$	ɨ̃́ɨ̃́	ɨ̃́ɨ̃́-	133	1	U+005e U+0268 U+0303 U+0301 U+0268 U+0303 U+0301 U+0024
-ĩ́ĩ́$	ĩ́ĩ́	jĩ́ĩ́-	133	1	U+0129 U+0301 U+0129 U+0301 U+0024
-^ᵾ	<?>	ᵾta	133	1	U+005e U+1d7e
-đ	đ	nađañʉ	134	1	U+0111
-с	<?>	wai_wẽhẽriсe	135	1	U+0441
-j̃	j̃	cotiwaj̃a	136	1	U+006a U+0303
-ʉ̃ʉ̃	ʉ̃ʉ̃	sʉ̃ʉ̃ĩ́	138	1	U+0289 U+0303 U+0289 U+0303
-ʉ̃́$	ʉ̃́	gãrʉ̃́gʉ̃́	138	1	U+0289 U+0303 U+0301 U+0024
-ĩ̃	ĩ	bũbĩ_bãĩ̃pɨ̃_kãã-kɨ̃_	140	1	U+0129 U+0303
-ɨ̋	ɨ̋	pɨ̋ga	140	1	U+0268 U+030b
-^ˈb	b	ˈbĩ́	140	1	U+005e U+02c8 U+0062
-ɨ́ɨ́$	ɨ́ɨ́	bɨ́ɨ́	140	1	U+0268 U+0301 U+0268 U+0301 U+0024
-^ʻt	ʼt	ʻtɨro	140	1	U+005e U+02bb U+0074
-^ˈã$	ã	ˈã	140	1	U+005e U+02c8 U+00e3 U+0024
-^ú$	ú	ú	140	1	U+005e U+00fa U+0024
-ʔ̃	ʔ̃	wiʔ̃ró	141	1	U+0294 U+0303
-Z$	<?>	akó-puti-sité-ro_water-blow-scatter-NMZ	141	1	U+005a U+0024
-^ûh	ûh	ûhuri	141	1	U+005e U+00fb U+0068
-îh	îh	wîho	141	1	U+00ee U+0068
-ʉ̃ʉ̃$	ʉ̃ʉ̃	sʉ̃ʉ̃	142	1	U+0289 U+0303 U+0289 U+0303 U+0024
-õ̀	õ̀	ñĩ́kʰã́_õ̀ã̀ňõ̀	143	1	U+00f5 U+0300
-ã̀	ã̀	ñĩ́kʰã́_õ̀ã̀ňõ̀	143	1	U+00e3 U+0300
-ɛ̨́	ɛ̨́	oᵽɛ̨́ŋʌ̃̀	143	1	U+025b U+0328 U+0301
-ẽ̀	ẽ̀	ɨ̃́mɨ̃́ňẽ̀kʰò	143	1	U+1ebd U+0300
-ẽ̀$	ẽ̀	ᵽɛkʰámẽ̀	143	1	U+1ebd U+0300 U+0024
-ɨ̃́ɨ̃́	ɨ̃́ɨ̃́	kɨ̃́ɨ̃́_	143	1	U+0268 U+0303 U+0301 U+0268 U+0303 U+0301
-ɨ̃́ɨ̃́$	ɨ̃́ɨ̃́	hoɨ̃́ɨ̃́	143	1	U+0268 U+0303 U+0301 U+0268 U+0303 U+0301 U+0024
-kʰʷ	kʷʰ	diádžáíkʰʷà	143	1	U+006b U+02b0 U+02b7
-^kʰʷ	kʷʰ	kʰʷá	143	1	U+005e U+006b U+02b0 U+02b7
-ɛ̃̀$	ɛ̃̀	kʰɛ̃́ɛ̃̀	143	1	U+025b U+0303 U+0300 U+0024
-uʷ	uʷ	duʷí	143	1	U+0075 U+02b7
-ɨ̆̃	ɨ̃̆	ɨ̃́mɨ̃́ňẽkʰò_mãkʰɨ̆̃_muiᵽũ̀	143	1	U+0268 U+0306 U+0303
-õ̀̀$	õ̀	nɛ̃́ňõ̀̀	143	1	U+00f5 U+0300 U+0300 U+0024
-^ɛ̃́	ɛ̃́	ɛ̃́mṍã́mɨ̃̀	143	1	U+005e U+025b U+0303 U+0301
-ɛ̀$	ɛ̀	hĩ́nĩ́ňikʰɛ̀	143	1	U+025b U+0300 U+0024
-ᵾs	<?>	cõ_bᵾhᵾsehe_	144	1	U+1d7e U+0073
-v:	vː	generic_fish_v:jo	144	1	U+0076 U+003a
-^ʦ	ts	ʦapea	144	1	U+005e U+02a6
-^ã́$	ã́	ã́-	145	1	U+005e U+00e3 U+0301 U+0024
-^ós	ós	óso	145	1	U+005e U+00f3 U+0073
-˜	<?>	kʷah˜e_yaʔo_	149	1	U+02dc
-ʔsˀ	ʔsˀ	sˀɨʔsˀɨ	149	1	U+0294 U+0073 U+02c0
-raïdï}	<???>	raïdï}	156	1	U+0072 U+0061 U+00ef U+0064 U+00ef U+007d
-^ɯ	ɯ	ɯ.aiθaɯ	156	1	U+005e U+026f
-úú$	úú	ojúú	158	1	U+00fa U+00fa U+0024
-xh	xh	juuxha_	158	1	U+0078 U+0068
-^ï̃ï̃	ï̃ï̃	ï̃ï̃nóóčo	158	1	U+005e U+00ef U+0303 U+00ef U+0303
-nhs	nhs	monhsodyáávojo	158	1	U+006e U+0068 U+0073
-Iw	<?>	thIw@	159	1	U+0049 U+0077
-@s	<?>	$akaw@si_	159	1	U+0040 U+0073
-@h	<?>	hop@hi_	159	1	U+0040 U+0068
-ɨ:$	ɨː	wɨ:	161	1	U+0268 U+003a U+0024
-^ɑ̃	ɑ̃	ɑ̃sithɑ	162	1	U+005e U+0251 U+0303
-badɨdiminutive)	<???>	badɨdiminutive)	163	1	U+0062 U+0061 U+0064 U+0268 U+0064 U+0069 U+006d U+0069 U+006e U+0075 U+0074 U+0069 U+0076 U+0065 U+0029
-bad-having_a_same-sex_siblingɨ?ɨanimacy)	<???>	bad-having_a_same-sex_siblingɨ?ɨanimacy)	163	1	U+0062 U+0061 U+0064 U+002d U+0068 U+0061 U+0076 U+0069 U+006e U+0067 U+005f U+0061 U+005f U+0073 U+0061 U+006d U+0065 U+002d U+0073 U+0065 U+0078 U+005f U+0073 U+0069 U+0062 U+006c U+0069 U+006e U+0067 U+0268 U+003f U+0268 U+0061 U+006e U+0069 U+006d U+0061 U+0063 U+0079 U+0029
-from_Spanish_plato)	<???>	from_Spanish_plato)	163	1	U+0066 U+0072 U+006f U+006d U+005f U+0053 U+0070 U+0061 U+006e U+0069 U+0073 U+0068 U+005f U+0070 U+006c U+0061 U+0074 U+006f U+0029
-^??$	<?>	??	164	1	U+005e U+003f U+003f U+0024
-u!$	uǃ	bagu!	167	1	U+0075 U+0021 U+0024
-^gs	gs	gsmbinyi	170	1	U+005e U+0067 U+0073
-‑$	<?>	nyumbul̠‑	171	1	U+2011 U+0024
-^rrr	rrr	rrrapa	180	1	U+005e U+0072 U+0072 U+0072
-mː	mː	bamːa	184	1	U+006d U+02d0
-iː$	iː	garriː	184	1	U+0069 U+02d0 U+0024
-rː	rː	kurːbara	184	1	U+0072 U+02d0
-Ḏ	<?>	piḎpurr	191	1	U+1e0e
-^–	<?>	–ika	200	1	U+005e U+2013
-^ī	ī	īga-	200	1	U+005e U+012b
-jalnjul_TC)	<???>	jalnjul_TC)	202	1	U+006a U+0061 U+006c U+006e U+006a U+0075 U+006c U+005f U+0054 U+0043 U+0029
-eeee$	eeee	mee-ee	203	1	U+0065 U+0065 U+0065 U+0065 U+0024
-ḷ$	l̩	kumbɪḷ	212	1	U+1e37 U+0024
-^ˈl	l	ˈlɛṇɡɑ	212	1	U+005e U+02c8 U+006c
-^R	<?>	Riya-djuŋgaliwarrway	216	1	U+005e U+0052
-jh$	jh	djabburdenjhrdenjh	218	1	U+006a U+0068 U+0024
-rh$	rh	k@rh	218	1	U+0072 U+0068 U+0024
-@h$	<?>	ŋuwahtyirr@h	218	1	U+0040 U+0068 U+0024
-F	<?>	kopvrrlh_FW_lagoons	221	1	U+0046
-chw$	chw	ngarrchw	221	1	U+0063 U+0068 U+0077 U+0024
-thw$	thw	pethw	221	1	U+0074 U+0068 U+0077 U+0024
+ɽ$	ɽ	bakɨɽ	61	1	U+027d U+0024
 ʀ$	ʀ	mbieʀ	222	1	U+0280 U+0024
-ƫ	tʲ	diƫal	222	1	U+01ab
-dhw$	dhw	andhw	227	1	U+0064 U+0068 U+0077 U+0024
-^O:w	<?>	O:we:ic	244	1	U+005e U+004f U+003a U+0077
-ö:	öː	chö:dedü_	258	1	U+00f6 U+003a
-^ē	ē	ēkādɨ_	258	1	U+005e U+0113
-ü:$	üː	hü:	258	1	U+00fc U+003a U+0024
-ö:$	öː	wö:	258	1	U+00f6 U+003a U+0024
-ŋ̥	ŋ̊	rakɯ́ŋ̥o_	266	1	U+014b U+0325
-ã:	ãː	tjmã:tiʔ_	349	1	U+00e3 U+003a
-^ɣ	ɣ	ɣak-uwa	349	1	U+005e U+0263
-^ẽẽ	ẽẽ	ẽẽpi_	349	1	U+005e U+1ebd U+1ebd
+ʂ	ʂ	tʂɨʂɨ	124	1	U+0282
+ʉ:	ʉː	pʉ:lʉt	117	1	U+0289 U+003a
+ʉ̂$	ʉ	bʉ̂	117	1	U+0289 U+0302 U+0024
+ʉ̃ʉ̃	ʉ̃ː	sʉ̃ʉ̃ĩ́	138	1	U+0289 U+0303 U+0289 U+0303
+ʉ̃ʉ̃$	ʉː	sʉ̃ʉ̃	142	1	U+0289 U+0303 U+0289 U+0303 U+0024
+ʉ̃́$	ʉ	gãrʉ̃́gʉ̃́	138	1	U+0289 U+0303 U+0301 U+0024
+ʊ̃	ʊ̃	pʰʊ̃dičʰičʰi	108	1	U+028a U+0303
+ʌʌ$	ʌː	pʌʌ	97	1	U+028c U+028c U+0024
+ʌ̈	ʌ	hʌ̈rr	87	1	U+028c U+0308
+ʔsˀ	ʔ sˀ	sˀɨʔsˀɨ	149	1	U+0294 U+0073 U+02c0
+ʔʃ	ʔ ʃ	aʔʃituŋ	71	1	U+0294 U+0283
+ʔ̃	ʔ	wiʔ̃ró	141	1	U+0294 U+0303
+ʰt	ʰt	ʰka-ʰtau	102	1	U+02b0 U+0074
+ˀd	ˀd	-ẓuwaɨ-ˀdi_	61	1	U+02c0 U+0064
+ˀi	ʔ i	jaɨtata-ˀi_	369	1	U+02c0 U+0069
+ˈ$	NULL	baˈwiuáˈ	130	1	U+02c8 U+0024
+ˈ	NULL	baˈwiuáˈ	130	1	U+02c8 U+0024
+ˈp	p	təpiɾi_təˈpəːˈɾi	77	1	U+02c8 U+0070
+ˈr˗	r +	peeˈr˗kaːtʃ	17	1	U+02c8 U+0072 U+02d7
 ˈs	s	pi:ˈsulu_	349	1	U+02c8 U+0073
-å	ḁ	otonånõko	351	1	U+00e5
-^ëw	ëw	ëwok	352	1	U+005e U+00eb U+0077
-^:m	ːm	:mo	353	1	U+005e U+003a U+006d
-^aː	aː	aːnaci	353	1	U+005e U+0061 U+02d0
-ű	<?>	keűti	354	1	U+0171
-^ɳ	ɳ	ɳeni-tsi-ŋu	354	1	U+005e U+0273
-ṣ̌$	ṣ̌	matoṣ̌-	362	1	U+1e63 U+030c U+0024
-^ɔ$	ɔ	ɔ-	364	1	U+005e U+0254 U+0024
-ɛɛ$	ɛɛ	pɛɛ	364	1	U+025b U+025b U+0024
-ibeišĩ__)	<???>	ibeišĩ__)	368	1	U+0069 U+0062 U+0065 U+0069 U+0161 U+0129 U+005f U+005f U+0029
-^ˀɑ$	ˀɑ	ˀɑ	369	1	U+005e U+02c0 U+0251 U+0024
-^ɑˀ	ɑˀ	ɑˀe	369	1	U+005e U+0251 U+02c0
-_ˀ	_ˀ	akwama_ˀe	369	1	U+005f U+02c0
-ˀi	ˀi	jaɨtata-ˀi_	369	1	U+02c0 U+0069
-^uˀ	uˀ	uˀu	369	1	U+005e U+0075 U+02c0
-^ˀe$	ˀe	ˀe	369	1	U+005e U+02c0 U+0065 U+0024
-^ˀɨ$	ˀɨ	ˀɨ	369	1	U+005e U+02c0 U+0268 U+0024
-ŋ̟̟̟$	ŋ̟	tsiŋ̟̟̟	369	1	U+014b U+031f U+031f U+031f U+0024
-ɑ̃$	ɑ̃	kujɑ̃	369	1	U+0251 U+0303 U+0024
-^hʷ	hʷ	hʷape_	369	1	U+005e U+0068 U+02b7
-ɑ̃	ɑ̃	ahwɑ̃j	369	1	U+0251 U+0303
-ca_nahwere_)	<???>	ca_nahwere_)	371	1	U+0063 U+0061 U+005f U+006e U+0061 U+0068 U+0077 U+0065 U+0072 U+0065 U+005f U+0029
-ø̃	ø̃	mømø̃m_	371	1	U+00f8 U+0303
-^ỹ$	ỹ	ỹ-	379	1	U+005e U+1ef9 U+0024
-ń	ń	huarańtei_	381	1	U+0144
-ḿ	<?>	diveḿba__	381	1	U+1e3f
-^iii	iii	iii_kis-e	382	1	U+005e U+0069 U+0069 U+0069
-ἑ	<?>	mἑt	384	1	U+1f11
-έ$	<?>	yuká-krέ	384	1	U+03ad U+0024
-φ	<?>	múφu	384	1	U+03c6
-^ŋw	ŋw	ŋwəĵe	384	1	U+005e U+014b U+0077
-^ü$	ü	ü	387	1	U+005e U+00fc U+0024
-äh	äh	bähenõ	387	1	U+00e4 U+0068
-^õõ$	õõ	õõ	387	1	U+005e U+00f5 U+00f5 U+0024
-c̆	c̆	kea-bic̆o_	403	1	U+0063 U+0306
-s̆	s̆	bakwis̆i_	403	1	U+0073 U+0306
-ë́	ë́	quë́rí	409	1	U+00eb U+0301
-ḥ	ḥ	aḥue	417	1	U+1e25
-^àw	àw	àwo	421	1	U+005e U+00e0 U+0077
-a̤	a̤	wesəda̤-ʔá	455	1	U+0061 U+0324
-ß	ß	hɨɾɨʔßa	465	1	U+00df
+ˈts	ts	kalaˈtsero	57	1	U+02c8 U+0074 U+0073
+ˈu	u	huˈuh	130	1	U+02c8 U+0075
+ˈu$	u	hĩrˈu	90	1	U+02c8 U+0075 U+0024
+ˈĩ	ĩ	puchchˈĩra	90	1	U+02c8 U+0129
+ˈĩ$	ĩ	ʉ̃rˈĩ	90	1	U+02c8 U+0129 U+0024
+ˈɾ	ɾ	təpiɾi_təˈpəːˈɾi	77	1	U+02c8 U+027e
+ˌm	m	kaˌmaika	57	1	U+02cc U+006d
+˜	NULL	kʷah˜e_yaʔo_	149	1	U+02dc
+έ$	ɛ	yuká-krέ	384	1	U+03ad U+0024
+α	ɑ	nαp<	24	1	U+03b1
+β$	β	hàmsɂīβ	31	1	U+03b2 U+0024
+βʰ	βʰ	áiiβʰétʸso	68	1	U+03b2 U+02b0
+θ$	θ	kqWáθ	31	1	U+03b8 U+0024
+φ	ɱ	múφu	384	1	U+03c6
+ϕ	ɱ	oϕíináú	59	1	U+03d5
+с	cc	wai_wẽhẽriсe	135	1	U+0441
+ԑw	ɛ w	ʔԑwe	118	1	U+0511 U+0077
+ԑԑ	ɛː	kԑԑbm	118	1	U+0511 U+0511
+ᵾs	ʉ s	cõ_bᵾhᵾsehe_	144	1	U+1d7e U+0073
+ᶏh	ã h	čnᶏhpŭka	31	1	U+1d8f U+0068
+Ḏ	ð	piḎpurr	191	1	U+1e0e
+ḑ	dʲ	ohaḑzi	112	1	U+1e11
+ḥ	h	aḥue	417	1	U+1e25
+ḷ$	ɭ	kumbɪḷ	212	1	U+1e37 U+0024
+ḿ	m	diveḿba__	381	1	U+1e3f
+ṣ̌$	ʂ	matoṣ̌-	362	1	U+1e63 U+030c U+0024
+ṵ	u	pṵriy	125	1	U+1e75
+ʰl	ʰl
+ẽ̀	ẽ	ɨ̃́mɨ̃́ňẽ̀kʰò	143	1	U+1ebd U+0300
+ẽ̀$	ẽ	ᵽɛkʰámẽ̀	143	1	U+1ebd U+0300 U+0024
+ἑ	ɛ̃	mἑt	384	1	U+1f11
+‑$	NULL	nyumbul̠‑	171	1	U+2011 U+0024
+’s	ˀs	ihu’se	72	1	U+2019 U+0073
+”s	s	no”no”si	9	1	U+201d U+0073
+…	NULL	úhni:…-kaa	48	1	U+2026
+	n	aóogí	59	1	U+f24d
+$	NULL	ic	130	1	U+f7f3 U+0024

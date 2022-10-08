@@ -32,6 +32,7 @@ class Dataset(BaseDataset):
     concept_class = HGConcept
     form_spec = FormSpec(
         replacements=[
+            ("From 'two' on, the numbers are borrowed from Portuguese, English, Dutch, according to which nation the group is dwelling in.", ""),
             ("[", ""),
             ("]", ""),
             ("0", ""),
@@ -52,22 +53,38 @@ class Dataset(BaseDataset):
             ("6:", ""),
             ("1:", ""),
             ("2:", ""),
+            ("maybe", ""),
             ("$", ""),
             ('"', ""),
+            ("Quechua", ""),
+            ("$", ""),
+            ("SG OB", ""),
+            ("NB", ""),
+            ("^", ""),
+            ("JPH", ""),
+            ("Jivaro?", ""),
+            ("CHM", ""),
+            ("Nom. Class", ""),
+            ("Nom. class", ""),
             ("no special term", ""),
             (" no name ever recorded", ""),
             ("compounded", ""),
             ("generic basket: ", ""),
             ("“breathe", ""),
             ("to be red", ""),
+            ('""', ""),
             ("ngl turn off", ""),
+            (">", ""),
+            ("<", ""),
             (" ", "_"),
 
             ],
-        brackets={"(": ")", "{": "}", "“": "”", "'": "'", "ʼ": "ʼ"},
+        brackets={
+            "(": ")", "{": "}", "“": "”", "'": "'", "ʼ": "ʼ", "[": "]",
+            "‘": "’"},
         first_form_only=True,
         separators=(";", "/", ",", "~", "&", ),
-        missing_data=("?", "[missing]", "missing", "#NAME?", "X", "[absent]", "-", "--", "...")
+        missing_data=(")", "_", "??", "?", "[missing]", "missing", "#NAME?", "X", "[absent]", "-", "--", "...")
     )
 
     def _get(self, path, log):
