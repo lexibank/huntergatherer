@@ -19,7 +19,7 @@
         {
             "rdf:about": "https://github.com/lexibank/huntergatherer",
             "rdf:type": "prov:Entity",
-            "dc:created": "139597e",
+            "dc:created": "v1.0-3-g92cd881",
             "dc:title": "Repository"
         },
         {
