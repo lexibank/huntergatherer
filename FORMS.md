@@ -17,7 +17,7 @@ These methods use the attributes of a `FormSpec` instance to configure their beh
   Iterable of strings that are used to mark missing data
 - `strip_inside_brackets`: `True`
   Flag signaling whether to strip content in brackets (**and** strip leading and trailing whitespace)
-- `replacements`: `[("From 'two' on, the numbers are borrowed from Portuguese, English, Dutch, according to which nation the group is dwelling in.", ''), ('[', ''), (']', ''), ('0', ''), ('[none]', ''), ('[not cultivated]', ''), ('1', ''), ('2', ''), ('3', ''), ('4', ''), ('5', ''), ('6', ''), ('7', ''), ('8', ''), ('9', ''), ('3:', ''), ('4:', ''), ('5:', ''), ('6:', ''), ('1:', ''), ('2:', ''), ('maybe', ''), ('$', ''), ('"', ''), ('Quechua', ''), ('$', ''), ('SG OB', ''), ('NB', ''), ('^', ''), ('JPH', ''), ('Jivaro?', ''), ('CHM', ''), ('Nom. Class', ''), ('Nom. class', ''), ('no special term', ''), (' no name ever recorded', ''), ('compounded', ''), ('generic basket: ', ''), ('“breathe', ''), ('to be red', ''), ('""', ''), ('ngl turn off', ''), ('>', ''), ('<', ''), (' ', '_')]`
+- `replacements`: `[("From 'two' on, the numbers are borrowed from Portuguese, English, Dutch, according to which nation the group is dwelling in.", ''), ('[', ''), ('̀', ''), ('ũ̵', 'ʉ̃'), ('́', ''), ('̣', ''), ('̃', ''), (']', ''), ('0', ''), ('[none]', ''), ('[not cultivated]', ''), ('1', ''), ('2', ''), ('3', ''), ('4', ''), ('5', ''), ('6', ''), ('7', ''), ('8', ''), ('9', ''), ('3:', ''), ('4:', ''), ('5:', ''), ('6:', ''), ('1:', ''), ('2:', ''), ('maybe', ''), ('$', ''), ('"', ''), ('Quechua', ''), ('$', ''), ('SG OB', ''), ('NB', ''), ('^', ''), ('JPH', ''), ('Jivaro?', ''), ('CHM', ''), ('Nom. Class', ''), ('Nom. class', ''), ('no special term', ''), (' no name ever recorded', ''), ('compounded', ''), ('generic basket: ', ''), ('“breathe', ''), ('to be red', ''), ('""', ''), ('ngl turn off', ''), ('>', ''), ('<', ''), (' ', '_')]`
   List of pairs (`source`, `target`) used to replace occurrences of `source` in formswith `target` (before stripping content in brackets)
 - `first_form_only`: `True`
   Flag signaling whether at most one form should be returned from `split` - effectively ignoring any spelling variants, etc.
@@ -28,5 +28,5 @@ These methods use the attributes of a `FormSpec` instance to configure their beh
 
 ### Replacement of invalid lexemes
 
-Source lexemes may be impossible to interpret correctly. 646 such lexemes are listed
+Source lexemes may be impossible to interpret correctly. 809 such lexemes are listed
 in [`etc/lexemes.csv`](etc/lexemes.csv) and replaced as specified in this file.

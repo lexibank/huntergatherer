@@ -19,13 +19,13 @@
         {
             "rdf:about": "https://github.com/lexibank/huntergatherer",
             "rdf:type": "prov:Entity",
-            "dc:created": "496e6c4",
+            "dc:created": "139597e",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.5",
+            "dc:created": "v4.6",
             "dc:title": "Glottolog"
         },
         {

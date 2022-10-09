@@ -34,6 +34,11 @@ class Dataset(BaseDataset):
         replacements=[
             ("From 'two' on, the numbers are borrowed from Portuguese, English, Dutch, according to which nation the group is dwelling in.", ""),
             ("[", ""),
+            ("\u0300", ""),
+            ("\u0075\u0335\u0303", "ʉ̃"),
+            ("\u0301", ""),
+            ("\u0323", ""),
+            ("\u0303", ""),
             ("]", ""),
             ("0", ""),
             ("[none]", ""),
