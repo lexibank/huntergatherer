@@ -57,6 +57,7 @@ Jane Hill | | | Author, Editor
 Patrick McConvell | | | Author, Editor
 Robert Forkel | @xrotwang | code | Other
 Christoph Rzymski | @chrzyki | patron | Other
+Johann-Mattis List | @lingulist | orthography profile | Other
 
 
 

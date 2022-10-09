@@ -45,6 +45,7 @@ $h	h
 -_you_plur$	NULL
 .	NULL
 /	NULL
+:	NULL
 :a$	NULL
 :h	h
 :i$	i
@@ -325,6 +326,7 @@ Ys	y s
 ^ii	iː
 ^ii$	iː
 ^iii	iː
+^iː	iː
 ^i̯	i
 ^j	j
 ^j$	j
@@ -369,12 +371,16 @@ Ys	y s
 ^ms	m s
 ^msh	m ʃ
 ^mw	mʷ
+^mʷ	mʷ
 ^n	n
 ^n$	n
 ^n:$	nː
+^napuracüe__,_,_,_	n a p u r a c y e
 ^naxetü__-,_,_	n a x e t y
+^naĩ_,_	n a ĩ
 ^nh	nʰ
 ^nn	nː
+^noswe_s”,_nosso	n o sʷ e
 ^nw	n w
 ^nʸ	nʲ
 ^o	o
@@ -388,6 +394,7 @@ Ys	y s
 ^p	p
 ^p$	p
 ^pe-var”__-	p e + v a r
+^peyã̇w	p e j ã w
 ^ph	pʰ
 ^pp	pː
 ^ps	p s
@@ -466,6 +473,8 @@ Ys	y s
 ^z	z
 ^zh	ʒ
 ^z̨	z̨
+^z̨amaka	ʐ a m a k a
+^~gɨtagũ̵	g ɨ t a g ʉ̃
 ^¢	tʃ
 ^´	ʔ
 ^à	a
@@ -486,6 +495,7 @@ Ys	y s
 ^æ̃	æ̃
 ^æ̃$	æ̃
 ^æ̃æ̃	æ̃ː
+^æ̨	æ̃
 ^ç	ɕ
 ^è	e
 ^é	e
@@ -623,6 +633,7 @@ Ys	y s
 ^ə̃$	ə̃
 ^ə̄	əː
 ^ɛ	ɛ
+^ɛ̂	ɛ
 ^ɛ̃	ɛ̃
 ^ɛ̃́	ɛ̃
 ^ɟ	ɟ
@@ -630,6 +641,8 @@ Ys	y s
 ^ɤ	ɤ
 ^ɨ	ɨ
 ^ɨ$	ɨ
+^ɨbu-gũ̵	ɨ b u + g ʉ̃
+^ɨmɨňekʰò_mãkʰɨ̆_muiᵽu	ɨ m ɨ n e kʰ o
 ^ɨɨ	ɨː
 ^ɨɨ$	ɨː
 ^ɨ́	ɨ
@@ -778,6 +791,7 @@ aaa$	aː
 aˀ	a ʔ
 aː	aː
 aː$	aː
+âː	aː
 a̤	a
 b	b
 b$	b
@@ -834,6 +848,7 @@ ee	eː
 ee$	eː
 eeee$	eː
 eː	eː
+ę	ẽ
 f	f
 f$	f
 ff	fː
@@ -934,6 +949,7 @@ ms$	m s
 msh	m ʃ
 msh$	m ʃ
 mw	mʷ
+mʷ	mʷ
 mː	mː
 m̈	m
 m̉	m̥
@@ -944,6 +960,7 @@ n:	nː
 n:$	nː
 n:h	nː h
 ng	ŋ
+ng:	ŋː
 nh	nʰ
 nh$	nʰ
 nhs	n̥ s
@@ -968,6 +985,7 @@ o$	o
 o:	oː
 o:$	oː
 oi	oi
+oi̯	oi
 oo	oː
 oo$	oː
 ooo	oː
@@ -1085,6 +1103,7 @@ uʷ$	u w
 uˀ	u ʔ
 uː	uː
 u̱	u
+ũ̵	ʉ̃
 v	v
 v$	v
 v:	vː
@@ -1181,14 +1200,6 @@ z̧	ʐ
 ã̀	ã
 ã̀$	ã
 ã́	ã
-^z̨amaka	ʐ a m a k a
-^peyã̇w	p e j ã w
-^ɨbu-gũ̵	ɨ b u + g ʉ̃
-ɨɨ̃	ɨ̃ː
-oi̯	oi
-ʉʉ̀	ʉː
-ɨɨ́	ɨː
-ng:	ŋː
 ã́$	ã
 ã́ã́	ãː
 ã̂ː	ãː
@@ -1213,6 +1224,7 @@ ng:	ŋː
 æ̃́	æ̃
 æ̌	æ
 æ̧$	æ̃
+æ̨	æ̃
 æ̨$	æ̃
 ç	ç
 ç$	ç
@@ -1263,6 +1275,7 @@ ng:	ŋː
 ë́	e
 ì	i
 ì$	i
+ì:	iː
 ì:$	iː
 ì:s	iː s
 ìs	i s
@@ -1451,6 +1464,7 @@ ng:	ŋː
 į	ĩ
 į́	ĩ
 į́į́	ĩ
+ı	ɪ
 ı̃	ĩ
 ĵ	dʒ
 ĵ$	dʒ
@@ -1618,12 +1632,14 @@ ng:	ŋː
 ɛ̀$	ɛ
 ɛ́	ɛ
 ɛ́$	ɛ
+ɛ̂	ɛ
 ɛ̃	ɛ̃
 ɛ̃$	ɛ̃
 ɛ̃̀$	ɛ̃
 ɛ̃́	ɛ̃́
 ɛ̃́$	ɛ̃́
 ɛ̃̂	ɛ̃
+ɛ̨	ɛ̃
 ɛ̨́	ɛ̃
 ɟ	dʒ
 ɟ$	ɟ
@@ -1639,6 +1655,9 @@ ng:	ŋː
 ɨ:$	ɨː
 ɨɨ	ɨː
 ɨɨ$	ɨː
+ɨɨ́	ɨː
+ɨɨ̂	ɨː
+ɨɨ̃	ɨ̃ː
 ɨˊ$	ɨ
 ɨ̀	ɨ
 ɨ̀$	ɨ
@@ -1695,6 +1714,7 @@ ng:	ŋː
 ʉ:	ʉː
 ʉʉ	ʉ
 ʉʉ$	ʉː
+ʉʉ̀	ʉː
 ʉ̀	ʉ
 ʉ̀$	ʉ
 ʉ́	ʉ
@@ -1742,27 +1762,6 @@ ng:	ŋː
 ʰw	ʰw
 ʸ	NULL
 ˀ	ʔ
-ì:	iː
-ũ̵	ʉ̃
-ı	ɪ
-iː	iː
-^iː	iː
-ɛ̂	ɛ
-^ɛ̂	ɛ
-ę	ẽ
-:	NULL
-âː	aː
-ɨɨ̂	ɨː
-^napuracüe__,_,_,_	n a p u r a c y e
-^naĩ_,_	n a ĩ
-ɛ̨	ɛ̃
-^mʷ	mʷ
-^noswe_s”,_nosso	n o sʷ e
-^ɨmɨňekʰò_mãkʰɨ̆_muiᵽu	ɨ m ɨ n e kʰ o
-mʷ	mʷ
-^æ̨	æ̃
-æ̨	æ̃
-^~gɨtagũ̵	g ɨ t a g ʉ̃
 ˀb	ˀb
 ˀd	ˀd
 ˀg	ˀg
