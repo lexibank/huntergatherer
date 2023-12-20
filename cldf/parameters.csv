@@ -105,7 +105,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Semantic_category,Database_ID
 106_legfoot,leg/foot,2098,FOOT OR LEG,body,580
 107_liedown,lie down,215,LIE DOWN,motion,449
 108_lightning,lightning,1654,LIGHTNING,environment,450
-109_livebealive,live/be alive,,,body,451
+109_livebealive,live/be alive,1422,BE ALIVE,body,451
 110_liver,liver,1224,LIVER,body,452
 111_long,long,1203,LONG,quality,453
 113_louse,louse,1392,LOUSE,fauna,454
@@ -253,7 +253,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Semantic_category,Database_ID
 48_blowflymaggots,blowfly maggots,,,flora-fauna,254
 49_blowflyhousefly,blowfly/housefly,1504,FLY (INSECT),flora-fauna,45
 50_bluegrouse,blue grouse,,,flora-fauna,19
-51_bluetonguelizard,blue-tongue lizard,,,flora-fauna,255
+51_bluetonguelizard,blue-tongue lizard,3021,BLUE TONGUED SKINK,flora-fauna,255
 52_bluewingedkookaburra,blue-winged kookaburra,,,flora-fauna,256
 53_bluebone,bluebone,,,flora-fauna,257
 54_boa,boa,,,flora-fauna,142
@@ -416,7 +416,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Semantic_category,Database_ID
 215_opossum,opossum,309,OPOSSUM,flora-fauna,196
 216_owllarge,owl (large),735,OWL,flora-fauna,197
 217_pacalowland,paca (lowland),316,PACA,flora-fauna,198
-218_pacufish,pacu fish,,,flora-fauna,199
+218_pacufish,pacu fish,3922,PACU,flora-fauna,199
 219_palmforroofthatch,palm for roof thatch,,,flora-fauna,200
 220_pandanuspalm,pandanus palm,,,flora-fauna,309
 221_paperbark,paperbark,,,flora-fauna,310
@@ -482,7 +482,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Semantic_category,Database_ID
 281_spinifex,spinifex,,,flora-fauna,332
 282_spoonbillsyellowbilledspoonbillblackbilledspoonbill,"spoonbills (yellow-billed spoonbill, black-billed spoonbill)",,,flora-fauna,333
 283_spottedskunk,spotted skunk,,,flora-fauna,99
-284_squash,squash,,,flora-fauna,218
+284_squash,squash,864,PUMPKIN,flora-fauna,218
 285_squirrel,squirrel,1628,SQUIRREL,flora-fauna,219
 286_stingraygeneric,stingray (generic),1910,STINGRAY,flora-fauna,220
 287_stripefaceddunnart,stripe-faced dunnart,,,flora-fauna,335
@@ -499,7 +499,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Semantic_category,Database_ID
 298_tick,tick,1527,TICK,flora-fauna,224
 299_tigershark,tiger shark,,,flora-fauna,344
 300_tigerfish,tigerfish,,,flora-fauna,225
-301_tinamou,tinamou,,,flora-fauna,226
+301_tinamou,tinamou,3921,TINAMOU,flora-fauna,226
 302_toad,toad,894,TOAD,flora-fauna,100
 303_tobacco,tobacco,974,TOBACCO,flora-fauna,227
 304_torresiancrow,torresian crow,,,flora-fauna,345
@@ -532,7 +532,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Semantic_category,Database_ID
 331_wildsunflower,wild sunflower,,,flora-fauna,115
 332_williewagtail,willie wagtail,,,flora-fauna,349
 333_willow,willow,818,WILLOW,flora-fauna,116
-334_witchettygrub,witchetty grub,,,flora-fauna,350
+334_witchettygrub,witchetty grub,3011,GRUB,flora-fauna,350
 335_woma,woma,,,flora-fauna,351
 336_woodratroundtail,"wood rat, round-tail",,,flora-fauna,117
 337_woodpecker,woodpecker,2447,WOODPECKER,flora-fauna,239
@@ -584,7 +584,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Semantic_category,Database_ID
 41_club,club ,1763,CLUB,subsistence tool,621
 42_clubnullanulla,club (nulla-nulla) ,,,subsistence tool,774
 43_coca,coca ,137,COCA,flora-fauna,153
-44_coca,coca ,,,narcotics,717
+44_coca,coca ,137,COCA,narcotics,717
 45_cookfood,cook food ,1100,COOK (SOMETHING),food,623
 46_cookinearthoven,cook in earth oven ,,,food,775
 47_corn,corn ,506,MAIZE,food,700
@@ -707,7 +707,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Semantic_category,Database_ID
 165_spearfighting,spear (fighting) ,,,subsistence tool,802
 166_spearfishing,spear (fishing) ,841,FISHING SPEAR,subsistence tool,803
 167_spearthrower,spearthrower ,2677,SPEARTHROWER,subsistence tool,804
-168_speartip,speartip ,3255,POINT (POINTED END),subsistence tool,805
+168_speartip,speartip ,2992,TIP (OF OBJECT),subsistence tool,805
 169_spiritchild,spirit child ,,,culture-mythology,815
 170_starchtapiocaother,"starch (tapioca, other) ",,,food,750
 171_stirringstick,stirring stick ,,,food,682

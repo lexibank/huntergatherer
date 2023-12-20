@@ -84,8 +84,8 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 91,Kaingang,kain1272,Kaingang,kgp,South America,-27.7671,-52.5394,Nuclear-Macro-Je
 92,Cuiva,cuib1242,Cuiba,cui,South America,6.19829,-69.8197,Guahiboan
 93,Guayabero,guay1257,Guayabero,guo,South America,2.8969,-71.844,Guahiboan
-94,Macaguan,maca1259,Macaguán,mbn,South America,6.34582,-71.2671,Guahiboan
-96,Sikuani,guah1255,Guahibo,guh,South America,5.81736,-68.9839,Guahiboan
+94,Macaguan,maca1259,Hitnu,mbn,South America,6.34582,-71.2671,Guahiboan
+96,Sikuani,guah1255,Sikuani,guh,South America,5.81736,-68.9839,Guahiboan
 97,Andoke,ando1256,Andoque,ano,South America,-0.53751,-72.0869,Andoque
 98,Central Aymara,cent2142,Central Aymara,ayr,South America,-17.0,-68.5,Aymaran
 99,Camsa,cams1241,Camsá,kbh,South America,1.14537,-76.8931,Camsá
@@ -180,7 +180,7 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 195,Gurindji,guri1247,Gurindji,gue,Australia,-17.0329,130.379,Pama-Nyungan
 196,Jaru,jaru1254,Jaru,ddj,Australia,-18.3288,128.262,Pama-Nyungan
 197,Mudburra,mudb1240,Mudburra,mwd,Australia,-16.7694,132.329,Pama-Nyungan
-198,Walmajarri,walm1241,Walmajarri,wmt,Australia,-19.7229,126.113,Pama-Nyungan
+198,Walmajarri,walm1241,Walmajarri-Juwaliny,wmt,Australia,-19.7229,126.113,Pama-Nyungan
 199,Warlpiri,warl1254,Warlpiri,wbp,Australia,-20.1008,131.05,Pama-Nyungan
 200,Paakantyi,darl1243,Paakantyi,drl,Australia,-32.7021,142.695,Pama-Nyungan
 201,Kuuk Thaayorre,thay1249,Thayore,thd,Australia,-14.8159,142.034,Pama-Nyungan
@@ -189,7 +189,7 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 204,Dhangu,dhan1270,Dhangu,dhg,Australia,-11.9493,135.752,Pama-Nyungan
 205,Djinang,djin1253,Djinang,dji,Australia,-12.462,134.82,Pama-Nyungan
 206,Gupapuyngu,gupa1247,Gupapuyngu,guf,Australia,-12.2868,135.337,Pama-Nyungan
-207,Ritharrngu,rita1239,Ritarungo,rit,Australia,-13.4559,135.259,Pama-Nyungan
+207,Ritharrngu,rita1239,Ritharrngu,rit,Australia,-13.4559,135.259,Pama-Nyungan
 208,Gunin,kwin1241,Kwini,gww,Australia,-14.2515,126.562,Worrorran
 209,Ngarinyin,ngar1284,Ngarinyin,ung,Australia,-16.4006,126.433,Worrorran
 210,Unggumi,ungg1243,Unggumi,xgu,Australia,-15.65,124.67,Worrorran
@@ -281,7 +281,7 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 423,Trió,,,tri,,,,
 424,Panare,enap1235,Panare,pbh,South America,6.95035,-65.8483,Cariban
 425,Moré,,,ite,,,,
-426,Tapakura,kite1238,Kitemoka-Tapakura,,,,,Chapacuran
+426,Tapakura,kite1238,,,,,,
 427,Kitemoka,kite1237,Kitemoka,,South America,-16.0,-62.75,Chapacuran
 428,Pech,pech1241,Pech,pay,North America,15.8033,-85.558,Chibchan
 429,Rama,rama1270,Rama,rma,North America,11.5007,-83.8571,Chibchan
@@ -290,7 +290,7 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 434,Embera,embe1260,Emberá-Catío,,South America,7.52721,-76.7476,Chocoan
 436,Amarakaeri,amar1274,Amarakaeri,amr,South America,-12.4931,-70.5533,Harakmbut
 437,Muniche,muni1258,Muniche,myr,South America,-5.7441796,-76.426712,Muniche
-438,Omurano,omur1241,Omurano,omu,South America,-4.816667,-75.4,Omurano
+438,Omurano,omur1241,Omurano,omu,South America,-4.09028,-76.01,Omurano
 439,Aikanã,aika1237,Aikanã,tba,South America,-12.6695,-60.5353,Aikanã
 440,Kanoê,kano1245,Kanoê,kxo,South America,-12.1789,-64.5812,Kanoê
 441,Yurakare,,,yuz,,,,

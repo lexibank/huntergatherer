@@ -19,19 +19,19 @@
         {
             "rdf:about": "https://github.com/lexibank/huntergatherer",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0-6-g63f2bae",
+            "dc:created": "v1.0-9-g6d83825",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.6",
+            "dc:created": "v4.8",
             "dc:title": "Glottolog"
         },
         {
             "rdf:about": "https://github.com/concepticon/concepticon-data",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.6.0",
+            "dc:created": "v3.1.0",
             "dc:title": "Concepticon"
         },
         {
@@ -48,7 +48,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.9.9"
+            "dc:description": "3.9.16"
         },
         {
             "dc:title": "python-packages",
@@ -63,7 +63,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 64607,
+            "dc:extent": 64556,
             "tableSchema": {
                 "columns": [
                     {
@@ -190,7 +190,7 @@
                     {
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#glottocode",
-                        "valueUrl": "http://glottolog.org/resource/languoid/id/{Glottocode}",
+                        "valueUrl": "http://glottolog.org/resource/languoid/id/{glottolog_id}",
                         "name": "Glottocode"
                     },
                     {
@@ -256,7 +256,7 @@
                     {
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#concepticonReference",
-                        "valueUrl": "http://concepticon.clld.org/parameters/{Concepticon_ID}",
+                        "valueUrl": "http://concepticon.clld.org/parameters/{concepticon_id}",
                         "name": "Concepticon_ID"
                     },
                     {

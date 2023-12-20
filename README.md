@@ -26,26 +26,26 @@ Conceptlists in Concepticon:
 
 [![CLDF validation](https://github.com/lexibank/huntergatherer/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/huntergatherer/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 99%](https://img.shields.io/badge/Glottolog-99%25-brightgreen.svg "Glottolog: 99%")
-![Concepticon: 81%](https://img.shields.io/badge/Concepticon-81%25-yellowgreen.svg "Concepticon: 81%")
+![Concepticon: 82%](https://img.shields.io/badge/Concepticon-82%25-yellowgreen.svg "Concepticon: 82%")
 ![Source: 68%](https://img.shields.io/badge/Source-68%25-orange.svg "Source: 68%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 324
 - **Concepts:** 744
-- **Lexemes:** 64,607
+- **Lexemes:** 64,556
 - **Sources:** 3,573
 - **Synonymy:** 1.01
 - **Invalid lexemes:** 0
-- **Tokens:** 360,106
-- **Segments:** 229 (0 BIPA errors, 0 CLTS sound class errors, 229 CLTS modified)
-- **Inventory size (avg):** 26.38
+- **Tokens:** 356,828
+- **Segments:** 229 (0 BIPA errors, 0 CTLS sound class errors, 229 CLTS modified)
+- **Inventory size (avg):** 26.18
 
 ## Possible Improvements:
 
 
 
-- Entries missing sources: 20727/64607 (32.08%)
+- Entries missing sources: 20721/64556 (32.10%)
 
 # Contributors
 
