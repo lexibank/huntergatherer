@@ -30,6 +30,7 @@ class Dataset(BaseDataset):
     id = "huntergatherer"
     lexeme_class = HGLexeme
     concept_class = HGConcept
+    writer_options = dict(keep_languages=False,keep_parameters=False)
     form_spec = FormSpec(
         replacements=[
             ("From 'two' on, the numbers are borrowed from Portuguese, English, Dutch, according to which nation the group is dwelling in.", ""),
