@@ -1,6 +1,6 @@
 {
     "id": "413",
-    "name": "Deni",
+    "name": "Den\u00ed",
     "tables": {
         "flora": {
             "header": [
@@ -46,8 +46,7 @@
                 "Dangerous",
                 "Ethnobiology Notes",
                 "Species Notes",
-                "General Notes",
-                "Created By"
+                "General Notes"
             ],
             "rows": [
                 [
@@ -96,8 +95,7 @@
                     "",
                     "",
                     "",
-                    "",
-                    "Maria Castillo"
+                    ""
                 ]
             ]
         }

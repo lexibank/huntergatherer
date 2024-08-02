@@ -13,7 +13,6 @@ colorlog==6.8.2
 csvw==3.3.0
 exceptiongroup==1.2.2
 gitdb==4.0.11
-greenlet==3.0.3
 idna==3.7
 iniconfig==2.0.0
 isodate==0.6.1

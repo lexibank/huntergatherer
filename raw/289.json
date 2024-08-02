@@ -1,6 +1,6 @@
 {
     "id": "289",
-    "name": "Anguthimri",
+    "name": "Mpakwithi",
     "tables": {
         "grammar": {
             "header": [
@@ -8,11 +8,8 @@
                 "Grammatical Feature",
                 "Grammatical Feature: Notes",
                 "Feature Status",
-                "Phonemicized Form",
-                "Orthographic Form",
                 "Grammatical Notes",
                 "Source",
-                "Created By",
                 "Etymology Notes",
                 "General Notes",
                 "Phylogenetic Code"
@@ -25,9 +22,6 @@
                         "Pre-/post-nasalized stops"
                     ],
                     "Analysis posits that the stop is the most relevant underlying phoneme. Comment in notes on whether the nasal contour is understood as a phonetic (allophonic) effect, or is phonologically contrastive. ",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -47,9 +41,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -59,9 +50,6 @@
                         "Palatalized stops"
                     ],
                     "Phonemic contrast",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -81,9 +69,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -92,9 +77,6 @@
                         "/grammar/feature/5",
                         "Phonemic glottalization/laryngealization of vowels"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -115,9 +97,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -127,9 +106,6 @@
                         "No codas"
                     ],
                     "*(C)VC [no also equals highly constrained]",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -149,9 +125,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -166,9 +139,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -178,9 +148,6 @@
                         "Contrastive stress"
                     ],
                     "Does stress occur on different syllables with meaning difference?",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -200,9 +167,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -217,9 +181,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -228,9 +189,6 @@
                         "/grammar/feature/13",
                         "Vowel harmony"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -251,9 +209,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -263,9 +218,6 @@
                         "Inflection manifested by replacement of segmental or suprasegmental phonemes"
                     ],
                     "Stem change, tone",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -285,9 +237,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -297,9 +246,6 @@
                         "Prefixing/suffixing inflectional morph: strongly prefixing"
                     ],
                     "There are many more prefixes than suffixes",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -319,9 +265,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -331,9 +274,6 @@
                         "Prefixing/suffixing inflectional morph: roughly equal or one weakly preferred"
                     ],
                     "The numbers of suffixes and prefixes are not notably different",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -353,9 +293,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -365,9 +302,6 @@
                         "Reduplication: partial"
                     ],
                     "Only part of the morpheme is reduplicated",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -387,9 +321,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -399,9 +330,6 @@
                         "Productive VV serialization (without compounding)"
                     ],
                     "Verb roots can be combined in a single predicate without markers of subordination (distinct from subordinating construction) or distinct inflection",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -421,9 +349,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -433,9 +358,6 @@
                         "Verb-adjunct (aka light verb) constructions"
                     ],
                     "There is a set of semantically weak verbs used in complex verbal constructions, e.g. 'take a nap'",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -455,9 +377,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -467,9 +386,6 @@
                         "Incorporation of nouns into verbs is a productive intransitivizing process"
                     ],
                     "Verb contains nominal segment",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -489,9 +405,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -501,9 +414,6 @@
                         "Noun classes/genders"
                     ],
                     "Nouns are organized into sets with distinct morphological treatment; usually affects all nouns and involves agreement within the NP",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -523,9 +433,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -535,9 +442,6 @@
                         "Noun classifiers (distinct from noun classes/genders)"
                     ],
                     "Nouns are organized into sets, but only a limited set of nouns may be implicated, with no or limited agreement marking. If only numeral classifiers exist, indicate yes but explain.",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -557,9 +461,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -568,9 +469,6 @@
                         "/grammar/feature/33",
                         "Sex is a relevant category in noun class(ification) system for inanimates"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -591,9 +489,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -608,9 +503,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -619,9 +511,6 @@
                         "/grammar/feature/36",
                         "Shape is a relevant category in the noun class(ification) system for animates"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -642,9 +531,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -654,9 +540,6 @@
                         "\"Repeater\" classifiers"
                     ],
                     "Where no distinct classifier exists, a copy of the noun itself may function in the morphosyntactic classifier \"slot\"",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -676,9 +559,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -688,9 +568,6 @@
                         "Classifiers used as derivational suffixes to derive nouns"
                     ],
                     "Verb + classifier = 'thing for doing V, thing that does V, etc.'",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -710,9 +587,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -721,9 +595,6 @@
                         "/grammar/feature/42",
                         "Plural affix on noun"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -744,9 +615,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -755,9 +623,6 @@
                         "/grammar/feature/44",
                         "Plural marked by reduplication of noun"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -778,9 +643,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -789,9 +651,6 @@
                         "/grammar/feature/46",
                         "Plural marked on human or animate nouns only"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -812,9 +671,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -824,9 +680,6 @@
                         "Unique associative plural marker"
                     ],
                     "e.g. 'John and his associates', 'John and them'",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -846,9 +699,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -858,9 +708,6 @@
                         "Marker of definiteness distinct from demonstratives"
                     ],
                     "Focus on articles/markers whose primary function is to mark definiteness",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -880,9 +727,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -897,9 +741,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -908,9 +749,6 @@
                         "/grammar/feature/53",
                         "Inclusive/exclusive: in verbal inflection (bound)"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -931,9 +769,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -942,9 +777,6 @@
                         "/grammar/feature/55",
                         "Other contrasts in demonstratives (visibility, elevation, etc.)"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -965,9 +797,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -976,9 +805,6 @@
                         "/grammar/feature/57",
                         "Gender in 3pl pronouns"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -999,9 +825,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -1011,9 +834,6 @@
                         "Formal/informal distinction in pronouns"
                     ],
                     "Polite pronominal variants or differential avoidance of pronouns",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -1033,9 +853,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -1045,9 +862,6 @@
                         "Adpositions mark core NPs"
                     ],
                     "Prepositions or postpositions mark subjects, objects, beneficiaries/recipients",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -1067,9 +881,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -1079,9 +890,6 @@
                         "Case: only non-core arguments morphologically marked"
                     ],
                     "Subjects, objects, beneficiaries/recipients NOT marked, but other grammatical relations are",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -1101,9 +909,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -1118,9 +923,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -1129,9 +931,6 @@
                         "/grammar/feature/66",
                         "Case: suffix or postpositional clitic"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -1152,9 +951,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -1163,9 +959,6 @@
                         "/grammar/feature/68",
                         "Case: infix or inpositional clitic"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -1186,9 +979,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -1203,9 +993,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -1215,9 +1002,6 @@
                         "Case: comitative = instrumental"
                     ],
                     "Same marking for 'with a person' and 'with an instrument'",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -1237,9 +1021,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -1249,9 +1030,6 @@
                         "Base-5"
                     ],
                     "At least some part of the system involves base-5",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -1271,9 +1049,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -1283,9 +1058,6 @@
                         "Other base (specify)"
                     ],
                     "4, 20, etc.",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -1305,9 +1077,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -1317,9 +1086,6 @@
                         "Numerals do not go above 5"
                     ],
                     "'Many' or some other non-exact term used",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -1339,9 +1105,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -1351,9 +1114,6 @@
                         "Tense or aspect inflection on non-verbal predicates"
                     ],
                     "i.e. nominal or adjectival",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -1373,9 +1133,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -1385,9 +1142,6 @@
                         "Pronominal possessive affixes: prefix on N"
                     ],
                     "alienable/inalienable?",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -1407,9 +1161,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -1419,9 +1170,6 @@
                         "Head/dependent marking in possessive NP: dependent"
                     ],
                     "e.g. 'the boy-'s dog'",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -1441,9 +1189,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -1453,9 +1198,6 @@
                         "Possessive classifiers"
                     ],
                     "There are special classifiers that occur with possessed entities",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -1475,9 +1217,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -1487,9 +1226,6 @@
                         "Morphological marking of alienable possession"
                     ],
                     "Where inalienable possession differs from alienable, the latter takes a morphological marker (may include an associated free particle/pronoun)",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -1509,9 +1245,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -1521,9 +1254,6 @@
                         "Inalienable possession of kin terms"
                     ],
                     "'my-father' but *father",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -1543,9 +1273,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -1555,9 +1282,6 @@
                         "Generic human nouns are obligatorily bound/possessed"
                     ],
                     "Human nouns must co-occur with another noun (e.g. Hup-man, NonIndian-woman, but *man)",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -1577,9 +1301,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -1589,9 +1310,6 @@
                         "Gender inflection on adjectives within the NP"
                     ],
                     "There is gender agreement/concord (animate/inanimate or masc/fem, etc.) within the NP, e.g. la casa blanca, el perro blanco",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -1611,9 +1329,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -1623,9 +1338,6 @@
                         "Productive nominalizing morphology: agentive (sing/singer)"
                     ],
                     "There is a morpheme which derives an agent or subject from a verb",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -1645,9 +1357,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -1657,9 +1366,6 @@
                         "Productive verbalizing morphology"
                     ],
                     "There is a morpheme which derives a verb from a noun or adjective",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -1679,9 +1385,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -1691,9 +1394,6 @@
                         "Dedicated past marker(s)"
                     ],
                     "Past tense is regularly morphologically marked on the verb or elsewhere",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -1713,9 +1413,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -1730,9 +1427,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -1741,9 +1435,6 @@
                         "/grammar/feature/102",
                         "Dedicated future or non-past marker(s)"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -1764,9 +1455,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -1775,9 +1463,6 @@
                         "/grammar/feature/104",
                         "Tense-aspect affixes: suffix"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -1798,9 +1483,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -1809,9 +1491,6 @@
                         "/grammar/feature/106",
                         "Tense-aspect suppletion"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -1832,9 +1511,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -1844,9 +1520,6 @@
                         "Polite imperative morpheme"
                     ],
                     "There is a distinct morpheme for polite imperative constructions (specify if it has other functions in the language)",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -1866,9 +1539,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -1878,9 +1548,6 @@
                         "Dedicated hortative morpheme or verb form (1pl or 3rd person imperative)"
                     ],
                     "as opposed to imperative; the person in control of desired state of affairs is not the addressee; ex: 'Let's sing' / 'Let him sing'",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -1900,9 +1567,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -1911,9 +1575,6 @@
                         "/grammar/feature/112",
                         "Situational possibility: verbal construction"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -1934,9 +1595,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -1951,9 +1609,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -1962,9 +1617,6 @@
                         "/grammar/feature/115",
                         "Epistemic possibility: verbal construction"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -1985,9 +1637,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -1997,9 +1646,6 @@
                         "Marking of expected/unexpected action or result"
                     ],
                     "There is inflectional marking of expected/unexpected",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -2019,9 +1665,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2031,9 +1674,6 @@
                         "Verbal habitual"
                     ],
                     "Modal expressing habituality",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -2053,9 +1693,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2065,9 +1702,6 @@
                         "Reality status marking on verbs"
                     ],
                     "There are dedicated morpheme(s) for realis/irrealis 'actualized/unactualized events'",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -2087,9 +1721,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2099,9 +1730,6 @@
                         "Directional elements affixed to the verb"
                     ],
                     "There are grammaticalized elements indicating movement away, toward, there and back, etc.",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -2121,9 +1749,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2133,9 +1758,6 @@
                         "Grammaticalized nonvisual"
                     ],
                     "Indicates information has been sensed firsthand but not visually (usually heard; also smelled, tasted, felt)",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -2155,9 +1777,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2167,9 +1786,6 @@
                         "Grammaticalized reportive"
                     ],
                     "Indicates speaker is not responsible for veracity of statement, merely reporting; 'allegedly'",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -2189,9 +1805,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2206,9 +1819,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2217,9 +1827,6 @@
                         "/grammar/feature/130",
                         "Evidentiality: verb affix or clitic"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -2240,9 +1847,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2251,9 +1855,6 @@
                         "/grammar/feature/132",
                         "Evidentiality: separate particle"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -2274,9 +1875,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2285,9 +1883,6 @@
                         "/grammar/feature/134",
                         "Verbal number suppletion"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -2308,9 +1903,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2319,9 +1911,6 @@
                         "/grammar/feature/136",
                         "No fixed basic constituent order"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -2342,9 +1931,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2353,9 +1939,6 @@
                         "/grammar/feature/138",
                         "VS in transitive clauses"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -2376,9 +1959,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2393,9 +1973,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2404,9 +1981,6 @@
                         "/grammar/feature/141",
                         "Preposition-Noun"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -2427,9 +2001,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2439,9 +2010,6 @@
                         "Gen-Noun"
                     ],
                     "Possessive phrase composed of a free possessor and its possessum has possessor first (e.g. John's book)",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -2461,9 +2029,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2473,9 +2038,6 @@
                         "Adj-Noun"
                     ],
                     "Adjective precedes the noun",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -2495,9 +2057,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2506,9 +2065,6 @@
                         "/grammar/feature/147",
                         "Dem-Noun"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -2529,9 +2085,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2540,9 +2093,6 @@
                         "/grammar/feature/149",
                         "Num-Noun"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -2563,9 +2113,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2575,9 +2122,6 @@
                         "Noun-Rel"
                     ],
                     "Relative clause follows noun that it modifies",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -2597,9 +2141,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2609,9 +2150,6 @@
                         "Re<Noun>l (internally headed relative)"
                     ],
                     "e.g. 'the dog cat chased-NMZR got away' ('the cat that the dog chased got away')",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -2631,9 +2169,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2643,9 +2178,6 @@
                         "Question word is clause initial"
                     ],
                     "'what', 'who', etc. come first in interrogative clause",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -2665,9 +2197,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2677,9 +2206,6 @@
                         "Alignment of case marking in full NPs: nominative-accusative w/ marked nominative"
                     ],
                     "Subjects of transitive and intransitive clauses share a marker, while objects of transitives are unmarked",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -2699,9 +2225,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2711,9 +2234,6 @@
                         "Alignment of case marking in full NPs: tripartite"
                     ],
                     "Intransitive subjects, transitive subjects, and transitive objects all receive distinct case markers",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -2733,9 +2253,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2744,9 +2261,6 @@
                         "/grammar/feature/161",
                         "Alignment of case marking of pronouns: marked accusative"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -2767,9 +2281,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2784,9 +2295,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2795,9 +2303,6 @@
                         "/grammar/feature/164",
                         "Alignment of case marking of pronouns: tripartite"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -2818,9 +2323,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2830,9 +2332,6 @@
                         "Alignment of verbal person-marking: nominative-accusative"
                     ],
                     "Same as above, for pronominal affixes/clitics on verbs",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -2852,9 +2351,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2863,9 +2359,6 @@
                         "/grammar/feature/168",
                         "Alignment of verbal person-marking: active-inactive"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -2886,9 +2379,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2898,9 +2388,6 @@
                         "Alignment of verbal person-marking: split"
                     ],
                     "More than one of the above systems is represented in person marking, depending on e.g. person (e.g. 1/2 vs. 3), tense-aspect value, main vs. subordinate clause type, etc.",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -2920,9 +2407,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2932,9 +2416,6 @@
                         "Pronominal subjects: prefixes on verb"
                     ],
                     "Pronominal subjects are marked as verbal prefixes (free pronouns may be another option)",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -2954,9 +2435,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2966,9 +2444,6 @@
                         "Pronominal subjects: clitics on variable host"
                     ],
                     "Pronominal subjects are clitics that can attach to verbs, nominal constituents, etc.",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -2988,9 +2463,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3000,9 +2472,6 @@
                         "Person marking on intransitive verbs"
                     ],
                     "Intransitive verbs take person-marking clitics/affixes",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -3022,9 +2491,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3034,9 +2500,6 @@
                         "Person-marking (of objects) on transitive verbs"
                     ],
                     "Transitive verbs take object (P) markers",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -3056,9 +2519,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3068,9 +2528,6 @@
                         "3rd person zero in verbal person marking: objects"
                     ],
                     "3rd person objects are not overtly marked within the verbal person-marking system",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -3090,9 +2547,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3102,9 +2556,6 @@
                         "Possessive affixes/clitics on nouns are same as verbal person markers"
                     ],
                     "Where nouns take possessive affixes, these are the same as the person-marking affixes ",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -3124,9 +2575,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3136,9 +2584,6 @@
                         "Ditransitive constructions: indirect object"
                     ],
                     "In ditransitives (e.g. 'John gives a book to Bill'), the theme (book) is treated in the same way as are objects of transitives, while the recipient/beneficiary (Bill) is treated differently",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -3158,9 +2603,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3170,9 +2612,6 @@
                         "Ditransitive constructions: secondary object"
                     ],
                     "In ditransitives, the recipient/beneficiary is treated in the same way as are objects of transitives, while the theme (book) is treated differently",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -3192,9 +2631,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3204,9 +2640,6 @@
                         "Reflexive: dedicated morpheme"
                     ],
                     "Verb becomes reflexive through use of reflexive morpheme associated with the verb (may be attached to the verb root). This morpheme is used only to mean reflexive. ",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -3226,9 +2659,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3238,9 +2668,6 @@
                         "Passive"
                     ],
                     "Passive voice usually involves a change to the verb, while the object of the active voice verb is promoted to subject in the passive voice, and the former subject is deleted/demoted",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -3260,9 +2687,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3272,9 +2696,6 @@
                         "Other intransitivizing morphology"
                     ],
                     "There is/are some other mechanism(s) for reducing valency",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -3294,9 +2715,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3306,9 +2724,6 @@
                         "Applicative: other"
                     ],
                     "Applicative adds some other object argument to the verb ",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -3328,9 +2743,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3340,9 +2752,6 @@
                         "Causative: suffix"
                     ],
                     "Causative is morphological and is attached after the root of the verb",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -3362,9 +2771,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3374,9 +2780,6 @@
                         "Causative: serial verb or analytical construction"
                     ],
                     "Causative construction that involves periphrasis or serialization",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -3396,9 +2799,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3408,9 +2808,6 @@
                         "Causative: dedicated sociative"
                     ],
                     "Indicates that causer participates in event",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -3430,9 +2827,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3442,9 +2836,6 @@
                         "Clausal negator is a preposed element"
                     ],
                     "Clausal negator is a preposed element",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -3464,9 +2855,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3476,9 +2864,6 @@
                         "Negatives: affix"
                     ],
                     "Negatives: affix",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -3498,9 +2883,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3510,9 +2892,6 @@
                         "Negatives: auxiliary verb"
                     ],
                     "Negatives: auxiliary verb",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -3532,9 +2911,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3543,9 +2919,6 @@
                         "/grammar/feature/208",
                         "Distinct negative form for 'NP does not exist'"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -3566,9 +2939,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3578,9 +2948,6 @@
                         "Polar questions: interrogative particle"
                     ],
                     "Yes/no questions distinguished from declaratives by interrogative particle",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -3600,9 +2967,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3612,9 +2976,6 @@
                         "Polar questions: word order"
                     ],
                     "Yes/no questions distinguished from declaratives by word order (esp. subject-verb inversion) ",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -3634,9 +2995,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3646,9 +3004,6 @@
                         "Content questions: word order differs from declaratives"
                     ],
                     "Content questions distinguished from declaratives by word order (esp. subject-verb inversion) as well as by presence of Q-word (who, what, etc.)",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -3668,9 +3023,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3680,9 +3032,6 @@
                         "Predicate adjectives: nominal"
                     ],
                     "Adjectives act like nouns in predicative position",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -3702,9 +3051,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3714,9 +3060,6 @@
                         "Headless relative clauses"
                     ],
                     "Compare Eng 'the one that fell' (but in Eng 'one' could be considered a head)",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -3736,9 +3079,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3753,9 +3093,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3764,9 +3101,6 @@
                         "/grammar/feature/221",
                         "Relativizer is a verbal affix"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -3787,9 +3121,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3799,9 +3130,6 @@
                         "Grammaticalized verbal desiderative"
                     ],
                     "Indicates that the subject desires to carry out the action denoted by the verb (distinct from verb 'want', but may be grammaticalized from it)",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -3821,9 +3149,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3833,9 +3158,6 @@
                         "Morphologically marked switch-reference system"
                     ],
                     "There are special markers to indicate same vs. different subject when two clauses are combined",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -3855,9 +3177,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3866,9 +3185,6 @@
                         "/grammar/feature/236",
                         "Does verb root reduplication have an iterative function?"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -3889,9 +3205,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3900,9 +3213,6 @@
                         "/grammar/feature/238",
                         "Does adjective root reduplication mean \u2018real\u2019 X?"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -3923,9 +3233,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3934,9 +3241,6 @@
                         "/grammar/feature/240",
                         "Does verb root reduplication have a pluractional function?"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -3957,9 +3261,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3968,9 +3269,6 @@
                         "/grammar/feature/242",
                         "Does adjective root reduplication mean \u2018fake\u2019 X?"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -3991,9 +3289,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -4002,9 +3297,6 @@
                         "/grammar/feature/244",
                         "Does the language have ergative and instrumental syncretism?"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -4025,9 +3317,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -4036,9 +3325,6 @@
                         "/grammar/feature/246",
                         "Is the locative related to the ergative with vowel change?"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -4059,9 +3345,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -4070,9 +3353,6 @@
                         "/grammar/feature/248",
                         "Is case marked on all (non-pronominal) words in an NP?"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -4093,9 +3373,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -4104,9 +3381,6 @@
                         "/grammar/feature/250",
                         "Does ergative mark discourse functions of focus/unexpectedness?"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -4127,9 +3401,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -4138,9 +3409,6 @@
                         "/grammar/feature/252",
                         "Does the language have a minimal/augment system?"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -4161,9 +3429,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -4172,9 +3437,6 @@
                         "/grammar/feature/254",
                         "Does the language mark dual on nouns?"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -4195,9 +3457,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -4206,9 +3465,6 @@
                         "/grammar/feature/256",
                         "Does the language have group/collective nominal suffixes?"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -4229,9 +3485,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -4240,9 +3493,6 @@
                         "/grammar/feature/258",
                         "Does the language have suppletive plural adjectives?"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -4263,9 +3513,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -4274,9 +3521,6 @@
                         "/grammar/feature/260",
                         "Are the bound pronouns distinct from the free pronouns?"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -4297,9 +3541,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -4308,9 +3549,6 @@
                         "/grammar/feature/262",
                         "Does the language mark generational distinctions in pronouns?"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -4331,9 +3569,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -4342,9 +3577,6 @@
                         "/grammar/feature/264",
                         "Is there an inclusive/exclusive distinction in the dual?"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -4365,9 +3597,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -4376,9 +3605,6 @@
                         "/grammar/feature/266",
                         "Is there a gender distinction in third person dual pronouns?"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -4399,9 +3625,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -4410,9 +3633,6 @@
                         "/grammar/feature/268",
                         "Are there object clitic pronouns?"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -4433,9 +3653,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -4444,9 +3661,6 @@
                         "/grammar/feature/270",
                         "When there are both object and subject clitic pronouns, does the object pronoun follow the subject one?"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -4467,9 +3681,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -4479,9 +3690,6 @@
                         "Is there a topic position?"
                     ],
                     "include the position in the \u2018form\u2019 notes",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -4501,9 +3709,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -4518,9 +3723,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -4529,9 +3731,6 @@
                         "/grammar/feature/275",
                         "Are there second position clausal clitics?"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -4552,9 +3751,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -4563,9 +3759,6 @@
                         "/grammar/feature/277",
                         "Are there predicative clitics (e.g. Darkinyung grammar p35)"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -4586,9 +3779,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -4603,9 +3793,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -4614,9 +3801,6 @@
                         "/grammar/feature/280",
                         "Does reflexive/reciprocal change the conjugation class?"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -4637,9 +3821,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -4648,9 +3829,6 @@
                         "/grammar/feature/282",
                         "Is the passive typically used only with adversative semantics?"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -4671,9 +3849,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -4682,9 +3857,6 @@
                         "/grammar/feature/284",
                         "Is there a distinct present tense verbal suffix?"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -4705,9 +3877,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -4716,9 +3885,6 @@
                         "/grammar/feature/286",
                         "Is there a punctual aspect suffix?"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -4739,9 +3905,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -4750,9 +3913,6 @@
                         "/grammar/feature/288",
                         "Is tense marked on nouns?"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -4773,9 +3933,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -4784,9 +3941,6 @@
                         "/grammar/feature/290",
                         "Is a negative command formed from a nominalised verb (eg. \"no talking!\")?"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -4807,9 +3961,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -4818,9 +3969,6 @@
                         "/grammar/feature/292",
                         "Does the language have body part compound verbs?"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -4841,9 +3989,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -4852,9 +3997,6 @@
                         "/grammar/feature/294",
                         "Is there a verb 'be'?"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -4875,9 +4017,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -4886,9 +4025,6 @@
                         "/grammar/feature/296",
                         "Is there a conjugation for uninflecting verbs?"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -4909,9 +4045,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -4926,9 +4059,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -4937,9 +4067,6 @@
                         "/grammar/feature/299",
                         "Does the language have suppletive plural nouns?"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -4960,9 +4087,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -4971,9 +4095,6 @@
                         "/grammar/feature/300",
                         "Is word order fixed in noun phrases?"
                     ],
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",
@@ -4994,9 +4115,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -5011,9 +4129,6 @@
                     "",
                     "",
                     "",
-                    "",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -5023,9 +4138,6 @@
                         "Prestopped segments"
                     ],
                     "list which segments in the \u2018form\u2019 column",
-                    "",
-                    "",
-                    "",
                     "",
                     "",
                     "",

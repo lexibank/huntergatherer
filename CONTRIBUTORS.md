@@ -2,10 +2,10 @@
 
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
-Claire Bowern | | | Author, Other
-Patience Epps | | | Author, Other
-Jane Hill | | | Author, Other
-Patrick McConvell | | | Author, Other
+Claire Bowern | | | Author
+Patience Epps | | | Author
+Jane Hill | | | Author
+Patrick McConvell | | | Author
 Robert Forkel | @xrotwang | code | Editor
 Christoph Rzymski | @chrzyki | patron | Editor
 Johann-Mattis List | @lingulist | orthography profile | Editor

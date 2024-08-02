@@ -8,11 +8,8 @@
                 "Grammatical Feature",
                 "Grammatical Feature: Notes",
                 "Feature Status",
-                "Phonemicized Form",
-                "Orthographic Form",
                 "Grammatical Notes",
                 "Source",
-                "Created By",
                 "Etymology Notes",
                 "General Notes",
                 "Phylogenetic Code"
@@ -27,10 +24,7 @@
                     "Analysis posits that the stop is the most relevant underlying phoneme. Comment in notes on whether the nasal contour is understood as a phonetic (allophonic) effect, or is phonologically contrastive. ",
                     "yes",
                     "",
-                    "",
-                    "",
                     "2",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -44,10 +38,7 @@
                     "Phonemic contrast [NOT counting glottal stop/fricative]",
                     "no",
                     "",
-                    "",
-                    "",
                     "2",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -61,10 +52,7 @@
                     "Phonemic contrast",
                     "yes",
                     "",
-                    "",
-                    "",
                     "2",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -81,9 +69,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -95,10 +80,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "2",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -115,9 +97,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -130,9 +109,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "x"
@@ -149,9 +125,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -164,9 +137,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -183,9 +153,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -198,9 +165,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -217,9 +181,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -232,9 +193,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -251,9 +209,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -266,9 +221,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -285,9 +237,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "1"
                 ],
                 [
@@ -300,9 +249,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -319,9 +265,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -334,9 +277,6 @@
                     "yes",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -353,9 +293,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -368,9 +305,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "x"
@@ -387,9 +321,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -402,9 +333,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "x"
@@ -421,9 +349,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -436,9 +361,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "x"
@@ -455,9 +377,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -470,9 +389,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "x"
@@ -489,9 +405,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -503,10 +416,7 @@
                     "Nouns are organized into sets with distinct morphological treatment; usually affects all nouns and involves agreement within the NP",
                     "yes",
                     "",
-                    "",
-                    "",
                     "4",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -520,10 +430,7 @@
                     "Note the (approximate) total number of noun classes/genders",
                     "yes",
                     "",
-                    "",
-                    "",
                     "4",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -540,9 +447,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -554,10 +458,7 @@
                     "Masculine, feminine, neuter",
                     "yes",
                     "",
-                    "",
-                    "",
                     "4",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -571,10 +472,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "4",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -588,10 +486,7 @@
                     "Animate/inanimate, human/non-human",
                     "yes",
                     "",
-                    "",
-                    "",
                     "4",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -605,10 +500,7 @@
                     "add in notes section whether gender is present in other PNs or not in any PNs; consider with reference to pronouns and person marking only",
                     "yes",
                     "",
-                    "",
-                    "",
                     "12",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -622,10 +514,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "4",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -639,10 +528,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "4",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -659,9 +545,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -674,9 +557,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "x"
@@ -693,9 +573,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -710,9 +587,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -724,10 +598,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "14",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -744,9 +615,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -759,9 +627,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -778,9 +643,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -795,9 +657,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -809,10 +668,7 @@
                     "Pronouns use a nominal plural affix not specific to pronouns",
                     "no",
                     "",
-                    "",
-                    "",
                     "12",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -829,9 +685,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -846,9 +699,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -860,10 +710,7 @@
                     "Focus on articles/markers whose primary function is to mark definiteness",
                     "no",
                     "",
-                    "",
-                    "",
                     "7",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -880,9 +727,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -894,10 +738,7 @@
                     "Inclusive  =us + you, exclusive = us but not you",
                     "yes",
                     "",
-                    "",
-                    "",
                     "12",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -911,10 +752,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "91",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -928,10 +766,7 @@
                     "Note the number of distances in the demonstrative system",
                     "yes",
                     "",
-                    "",
-                    "",
                     "7",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -945,10 +780,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "7",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -962,10 +794,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "12",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -979,10 +808,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "12",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -996,10 +822,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "12",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -1016,9 +839,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1030,10 +850,7 @@
                     "e.g. English 'himself', Spanish 'se'; distinct form(s) from basic (non-reflexive) pronominals; distinct from reflexive verbal affix",
                     "no",
                     "",
-                    "",
-                    "",
                     "123",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -1050,9 +867,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -1064,10 +878,7 @@
                     "Note the number of grammatical relations that may be morphologically marked on the noun",
                     "yes",
                     "",
-                    "",
-                    "",
                     "13",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -1081,10 +892,7 @@
                     "Subjects, objects, beneficiaries/recipients NOT marked, but other grammatical relations are",
                     "no",
                     "",
-                    "",
-                    "",
                     "13",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -1098,10 +906,7 @@
                     "All NPs marked if in appropriate syntactic relation; no distinction in marking based on semantics (type of entity)",
                     "yes",
                     "",
-                    "",
-                    "",
                     "13",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -1115,10 +920,7 @@
                     "Semantically defined subset of NPs marked for case, e.g. animates",
                     "no",
                     "",
-                    "",
-                    "",
                     "13",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -1132,10 +934,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "13",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -1149,10 +948,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "13",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -1166,10 +962,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "13",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -1186,9 +979,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -1201,9 +991,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -1220,9 +1007,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1235,9 +1019,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "x"
@@ -1254,9 +1035,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1269,9 +1047,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "x"
@@ -1288,9 +1063,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1303,9 +1075,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "x"
@@ -1322,9 +1091,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1337,9 +1103,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "x"
@@ -1356,9 +1119,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -1371,9 +1131,6 @@
                     "yes",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -1390,9 +1147,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "1"
                 ],
                 [
@@ -1405,9 +1159,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -1424,9 +1175,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1439,9 +1187,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "x"
@@ -1458,9 +1203,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1472,10 +1214,7 @@
                     "Where inalienable possession differs from alienable, the former takes a morphological marker (may include an associated free particle/pronoun)",
                     "yes",
                     "",
-                    "",
-                    "",
                     "4",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -1492,9 +1231,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1509,9 +1245,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1523,10 +1256,7 @@
                     "'my-father' but *father",
                     "yes",
                     "",
-                    "",
-                    "",
                     "4",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -1540,10 +1270,7 @@
                     "'my-leg' but *leg",
                     "yes",
                     "",
-                    "",
-                    "",
                     "4",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -1560,9 +1287,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1575,9 +1299,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "x"
@@ -1594,9 +1315,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1609,9 +1327,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "x"
@@ -1628,9 +1343,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1643,9 +1355,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "x"
@@ -1662,9 +1371,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1676,10 +1382,7 @@
                     "'John and Mary went to market' is marked differently from 'John went to market with Mary'",
                     "no",
                     "",
-                    "",
-                    "",
                     "20",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -1693,10 +1396,7 @@
                     "Past tense is regularly morphologically marked on the verb or elsewhere",
                     "yes",
                     "",
-                    "",
-                    "",
                     "141",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -1713,9 +1413,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1730,9 +1427,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1744,10 +1438,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "29",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -1761,10 +1452,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "4",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -1778,10 +1466,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "4",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -1798,9 +1483,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -1815,9 +1497,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1829,10 +1508,7 @@
                     "There is a special morpheme (or morphemes, or a bare verb root where inflection is normally expected) used to signal imperative (command) mood",
                     "yes",
                     "",
-                    "",
-                    "",
                     "143",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -1849,9 +1525,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -1863,10 +1536,7 @@
                     "There are different strategies for marking negation in imperative and declarative clauses",
                     "yes",
                     "",
-                    "",
-                    "",
                     "157",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -1883,9 +1553,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1897,10 +1564,7 @@
                     "Inflectional marking of capacity to do something",
                     "yes",
                     "",
-                    "",
-                    "",
                     "4",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -1917,9 +1581,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1934,9 +1595,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1948,10 +1606,7 @@
                     "Modal expressing hypothesis",
                     "yes",
                     "",
-                    "",
-                    "",
                     "4",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -1968,9 +1623,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1983,9 +1635,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "x"
@@ -2002,9 +1651,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -2017,9 +1663,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "x"
@@ -2036,9 +1679,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -2053,9 +1693,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -2067,10 +1704,7 @@
                     "There are dedicated morpheme(s) for realis/irrealis 'actualized/unactualized events'",
                     "yes",
                     "",
-                    "",
-                    "",
                     "4",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -2087,9 +1721,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -2102,9 +1733,6 @@
                     "yes",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -2121,9 +1749,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -2136,9 +1761,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "x"
@@ -2155,9 +1777,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -2172,9 +1791,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -2186,10 +1802,7 @@
                     "Indicate presence of adjacent representation of repeated discourse",
                     "yes",
                     "",
-                    "",
-                    "",
                     "162",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -2206,9 +1819,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -2221,9 +1831,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "x"
@@ -2240,9 +1847,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -2255,9 +1859,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "x"
@@ -2274,9 +1875,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -2289,9 +1887,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "x"
@@ -2308,9 +1903,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -2325,9 +1917,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -2339,10 +1928,7 @@
                     "Verb precedes subject",
                     "yes",
                     "",
-                    "",
-                    "",
                     "92",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -2356,10 +1942,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "106",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -2373,10 +1956,7 @@
                     "Verb precedes object",
                     "yes",
                     "",
-                    "",
-                    "",
                     "109",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -2393,9 +1973,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2410,9 +1987,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2424,10 +1998,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "13",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -2444,9 +2015,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2459,9 +2027,6 @@
                     "n/a",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -2478,9 +2043,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2492,10 +2054,7 @@
                     "Adjective follows the noun",
                     "yes",
                     "",
-                    "",
-                    "",
                     "191",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -2509,10 +2068,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "15",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -2529,9 +2085,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2544,9 +2097,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "x"
@@ -2563,9 +2113,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -2578,9 +2125,6 @@
                     "n/a",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -2597,9 +2141,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2612,9 +2153,6 @@
                     "n/a",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -2631,9 +2169,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2645,10 +2180,7 @@
                     "'what', 'who', etc. come first in interrogative clause",
                     "yes",
                     "",
-                    "",
-                    "",
                     "27",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -2662,10 +2194,7 @@
                     "Objects of transitive clauses ('P') have a unique marker, while subjects of transitive ('A') and intransitive ('S') clauses are unmarked or share a different marker from that occurring on objects",
                     "no",
                     "",
-                    "",
-                    "",
                     "13",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -2679,10 +2208,7 @@
                     "Subjects of transitive and intransitive clauses share a marker, while objects of transitives are unmarked",
                     "no",
                     "",
-                    "",
-                    "",
                     "13",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -2696,10 +2222,7 @@
                     "Subjects of intransitive clauses and objects of transitives share a unique marker, while subjects of transitive clauses are unmarked or have a different marker",
                     "yes",
                     "",
-                    "",
-                    "",
                     "13",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -2713,10 +2236,7 @@
                     "Intransitive subjects, transitive subjects, and transitive objects all receive distinct case markers",
                     "no",
                     "",
-                    "",
-                    "",
                     "13",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -2730,10 +2250,7 @@
                     "Subjects of intransitive clauses are treated two different ways: like subjects of transitives if they are more agent-like (e.g. he jumped), and like objects of transitives if they are more patient-like (e.g. he fell asleep)",
                     "no",
                     "",
-                    "",
-                    "",
                     "13",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -2747,10 +2264,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "13",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -2764,10 +2278,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "13",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -2781,10 +2292,7 @@
                     "yes, no, mixed, other",
                     "yes",
                     "",
-                    "",
-                    "",
                     "13",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -2798,10 +2306,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "13",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -2815,10 +2320,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "13",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -2832,10 +2334,7 @@
                     "Same as above, for pronominal affixes/clitics on verbs",
                     "no",
                     "",
-                    "",
-                    "",
                     "91",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -2849,10 +2348,7 @@
                     "yes, no, mixed, other",
                     "yes",
                     "",
-                    "",
-                    "",
                     "91",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -2866,10 +2362,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "91",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -2883,10 +2376,7 @@
                     "Marking of A and P depends on their relative ranking on a hierarchy (usually 1>2>3 or 2>1>3)",
                     "no",
                     "",
-                    "",
-                    "",
                     "91",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -2900,10 +2390,7 @@
                     "More than one of the above systems is represented in person marking, depending on e.g. person (e.g. 1/2 vs. 3), tense-aspect value, main vs. subordinate clause type, etc.",
                     "no",
                     "",
-                    "",
-                    "",
                     "91",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -2917,10 +2404,7 @@
                     "Pronominal subjects are free pronouns that occur in the same position as full NP subjects",
                     "yes",
                     "",
-                    "",
-                    "",
                     "12",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -2934,10 +2418,7 @@
                     "Pronominal subjects are marked as verbal prefixes (free pronouns may be another option)",
                     "yes",
                     "",
-                    "",
-                    "",
                     "91",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -2954,9 +2435,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2969,9 +2447,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -2988,9 +2463,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -3002,10 +2474,7 @@
                     "Intransitive verbs take person-marking clitics/affixes",
                     "yes",
                     "",
-                    "",
-                    "",
                     "92",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -3019,10 +2488,7 @@
                     "Transitive verbs take subject (A) markers",
                     "yes",
                     "",
-                    "",
-                    "",
                     "106",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -3036,10 +2502,7 @@
                     "Transitive verbs take object (P) markers",
                     "yes",
                     "",
-                    "",
-                    "",
                     "106",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -3053,10 +2516,7 @@
                     "3rd person subjects are not overtly marked within the verbal person-marking system",
                     "no",
                     "",
-                    "",
-                    "",
                     "106",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -3070,10 +2530,7 @@
                     "3rd person objects are not overtly marked within the verbal person-marking system",
                     "no",
                     "",
-                    "",
-                    "",
                     "106",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -3090,9 +2547,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -3104,10 +2558,7 @@
                     "Where nouns take possessive affixes, these are the same as the person-marking affixes ",
                     "no",
                     "",
-                    "",
-                    "",
                     "107",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -3121,10 +2572,7 @@
                     "For any person, verbal person markers exhibit different forms depending on the gender (masc/fem, animate/inanimate, etc.) of the referent",
                     "yes",
                     "",
-                    "",
-                    "",
                     "123",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -3138,10 +2586,7 @@
                     "In ditransitives (e.g. 'John gives a book to Bill'), the theme (book) is treated in the same way as are objects of transitives, while the recipient/beneficiary (Bill) is treated differently",
                     "yes",
                     "",
-                    "",
-                    "",
                     "17",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -3155,10 +2600,7 @@
                     "In ditransitives (e.g. 'John gives Bill a book'), both the theme (book) and the recipient/beneficiary (Bill) is treated in the same way as are objects of transitives",
                     "no",
                     "",
-                    "",
-                    "",
                     "17",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -3172,10 +2614,7 @@
                     "In ditransitives, the recipient/beneficiary is treated in the same way as are objects of transitives, while the theme (book) is treated differently",
                     "no",
                     "",
-                    "",
-                    "",
                     "17",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -3189,10 +2628,7 @@
                     "Verb becomes reciprocal through use of reciprocal morpheme associated with the verb (may be attached to the verb root). This morpheme is only used to mean reciprocal.",
                     "no",
                     "",
-                    "",
-                    "",
                     "123",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -3206,10 +2642,7 @@
                     "Verb becomes reflexive through use of reflexive morpheme associated with the verb (may be attached to the verb root). This morpheme is used only to mean reflexive. ",
                     "no",
                     "",
-                    "",
-                    "",
                     "123",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -3223,10 +2656,7 @@
                     "Verb becomes reciprocal or reflexive through use of a morpheme that means either reciprocal or reflexive which attaches to the root of the verb",
                     "yes",
                     "",
-                    "",
-                    "",
                     "123",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -3243,9 +2673,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3258,9 +2685,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "x"
@@ -3277,9 +2701,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3292,9 +2713,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "x"
@@ -3311,9 +2729,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3326,9 +2741,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "x"
@@ -3345,9 +2757,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3360,9 +2769,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "x"
@@ -3379,9 +2785,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3394,9 +2797,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "x"
@@ -3413,9 +2813,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3430,9 +2827,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3444,10 +2838,7 @@
                     "Clausal negator is a preposed element",
                     "yes",
                     "",
-                    "",
-                    "",
                     "135",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -3461,10 +2852,7 @@
                     "Clausal negator is a postposed element",
                     "no",
                     "",
-                    "",
-                    "",
                     "135",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -3478,10 +2866,7 @@
                     "Negatives: affix",
                     "yes",
                     "",
-                    "",
-                    "",
                     "135",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -3495,10 +2880,7 @@
                     "Negatives: particle",
                     "yes",
                     "",
-                    "",
-                    "",
                     "135",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -3512,10 +2894,7 @@
                     "Negatives: auxiliary verb",
                     "no",
                     "",
-                    "",
-                    "",
                     "135",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -3529,10 +2908,7 @@
                     "Standard (non-emphatic) negation typically requires two morphemes, e.g. French 'ne V pas'",
                     "no",
                     "",
-                    "",
-                    "",
                     "135",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -3546,10 +2922,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "135",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -3566,9 +2939,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3580,10 +2950,7 @@
                     "Yes/no questions distinguished from declaratives by interrogative particle",
                     "yes",
                     "",
-                    "",
-                    "",
                     "32",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -3600,9 +2967,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -3617,9 +2981,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -3631,10 +2992,7 @@
                     "Yes/no questions distinguished from declaratives by intonation only",
                     "yes",
                     "",
-                    "",
-                    "",
                     "23",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -3648,10 +3006,7 @@
                     "Content questions distinguished from declaratives by word order (esp. subject-verb inversion) as well as by presence of Q-word (who, what, etc.)",
                     "yes",
                     "",
-                    "",
-                    "",
                     "31",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -3668,9 +3023,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -3682,10 +3034,7 @@
                     "Adjectives act like nouns in predicative position",
                     "yes",
                     "",
-                    "",
-                    "",
                     "69",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -3699,10 +3048,7 @@
                     "Predicate nominals may occur without a copula (i.e. grammatical in some circumstances, if not all)",
                     "yes",
                     "",
-                    "",
-                    "",
                     "70",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -3719,9 +3065,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -3734,9 +3077,6 @@
                     "n/a",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -3753,9 +3093,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3768,9 +3105,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "x"
@@ -3787,9 +3121,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3801,10 +3132,7 @@
                     "Indicates that the subject desires to carry out the action denoted by the verb (distinct from verb 'want', but may be grammaticalized from it)",
                     "yes",
                     "",
-                    "",
-                    "",
                     "4",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -3821,9 +3149,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3836,9 +3161,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "x"
@@ -3855,9 +3177,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3870,9 +3189,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "x"
@@ -3889,9 +3205,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3904,9 +3217,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "x"
@@ -3923,9 +3233,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3938,9 +3245,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "x"
@@ -3957,9 +3261,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3972,9 +3273,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "x"
@@ -3991,9 +3289,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4005,10 +3300,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "13",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -4022,10 +3314,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "13",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -4039,10 +3328,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "47",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -4056,10 +3342,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "15",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -4073,10 +3356,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "15",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -4090,10 +3370,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "172",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -4107,10 +3384,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "35",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -4127,9 +3401,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4142,9 +3413,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "x"
@@ -4161,9 +3429,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4176,9 +3441,6 @@
                     "yes",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -4195,9 +3457,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "1"
                 ],
                 [
@@ -4210,9 +3469,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "x"
@@ -4229,9 +3485,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4244,9 +3497,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "x"
@@ -4263,9 +3513,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "1"
                 ],
                 [
@@ -4277,10 +3524,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "12, 91",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -4294,10 +3538,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "12",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -4311,10 +3552,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "12",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -4328,10 +3566,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "25",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -4345,10 +3580,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "12",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -4362,10 +3594,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "12",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -4379,10 +3608,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "12",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -4396,10 +3622,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "35",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -4416,9 +3639,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "1"
                 ],
                 [
@@ -4431,9 +3651,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -4450,9 +3667,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4464,10 +3678,7 @@
                     "include the position in the \u2018form\u2019 notes",
                     "yes",
                     "",
-                    "fronted",
-                    "",
                     "67",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -4484,9 +3695,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4498,10 +3706,7 @@
                     "related to, and maybe equivalent to, HG 206-207 (not equivalent if verbal negation is being treated separately from clausal negation)",
                     "yes",
                     "",
-                    "",
-                    "",
                     "135",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -4515,10 +3720,7 @@
                     "related to, and maybe equivalent to, HG 203 (not equivalent if verbal negation is being treated separately from clausal negation)",
                     "yes",
                     "",
-                    "",
-                    "",
                     "135",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -4535,9 +3737,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4550,9 +3749,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -4569,9 +3765,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4583,10 +3776,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "195",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -4600,10 +3790,7 @@
                     "=yes to any of HG 188-190; not necessarily; e.g. YN has a reflexive marker but it doesn\u2019t go on the verb.",
                     "yes",
                     "",
-                    "",
-                    "",
                     "123",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -4617,10 +3804,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "123",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -4634,10 +3818,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "123",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -4654,9 +3835,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4671,9 +3849,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4685,10 +3860,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "135",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -4705,9 +3877,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4722,9 +3891,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4736,10 +3902,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "4",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -4756,9 +3919,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -4770,10 +3930,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "157",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -4787,10 +3944,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "157",
-                    "Done-Austin",
                     "",
                     "",
                     "0"
@@ -4804,10 +3958,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "162",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -4824,9 +3975,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4839,9 +3987,6 @@
                     "yes",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "1"
@@ -4858,9 +4003,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4873,9 +4015,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "x"
@@ -4892,9 +4031,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4907,9 +4043,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "x"
@@ -4926,9 +4059,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4941,9 +4071,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "x"
@@ -4960,9 +4087,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4975,9 +4099,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "x"
@@ -4994,9 +4115,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -5011,9 +4129,6 @@
                     "",
                     "",
                     "",
-                    "Done-Austin",
-                    "",
-                    "",
                     "1"
                 ],
                 [
@@ -5026,9 +4141,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Austin",
                     "",
                     "",
                     "x"

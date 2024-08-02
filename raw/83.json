@@ -46,8 +46,7 @@
                 "Dangerous",
                 "Ethnobiology Notes",
                 "Species Notes",
-                "General Notes",
-                "Created By"
+                "General Notes"
             ],
             "rows": [
                 [
@@ -96,8 +95,7 @@
                     "",
                     "",
                     "",
-                    "",
-                    "Maria Castillo"
+                    ""
                 ]
             ]
         },
@@ -107,11 +105,8 @@
                 "Grammatical Feature",
                 "Grammatical Feature: Notes",
                 "Feature Status",
-                "Phonemicized Form",
-                "Orthographic Form",
                 "Grammatical Notes",
                 "Source",
-                "Created By",
                 "Etymology Notes",
                 "General Notes",
                 "Phylogenetic Code"
@@ -126,10 +121,7 @@
                     "Analysis posits that the stop is the most relevant underlying phoneme. Comment in notes on whether the nasal contour is understood as a phonetic (allophonic) effect, or is phonologically contrastive. ",
                     "no",
                     "",
-                    "",
-                    "",
                     "Margery 1982:34, 38",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -143,10 +135,7 @@
                     "Phonemic contrast [NOT counting glottal stop/fricative]",
                     "no",
                     "",
-                    "",
-                    "",
                     "Margery 1982:34",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -160,10 +149,7 @@
                     "Phonemic contrast",
                     "no",
                     "",
-                    "",
-                    "",
                     "Margery 1982:34",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -177,10 +163,7 @@
                     "Does the language have long and short vowels?",
                     "no",
                     "",
-                    "",
-                    "",
                     "Margery 1982:34-5",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -194,10 +177,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "Margery 1982:34-5",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -214,9 +194,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -229,9 +206,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -248,9 +222,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -261,11 +232,8 @@
                     ],
                     "Note how many contrastive tones",
                     "yes",
-                    "",
-                    "",
                     "two tones:low and high",
                     "Margery 1982:37-8",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -282,9 +250,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -297,9 +262,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -316,9 +278,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -331,9 +290,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -350,9 +306,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -365,9 +318,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -384,9 +334,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -399,9 +346,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -418,9 +362,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -433,9 +374,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -452,9 +390,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -467,9 +402,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -486,9 +418,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -501,9 +430,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -520,9 +446,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -535,9 +458,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -554,9 +474,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -569,9 +486,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -588,9 +502,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -601,11 +512,8 @@
                     ],
                     "Nouns are organized into sets with distinct morphological treatment; usually affects all nouns and involves agreement within the NP",
                     "yes",
-                    "",
-                    "",
                     "There exists 6 noun clases:humans, flat things, rounded things, elongated things, sets and trees. However, this noun classes are not completely consistent since, for instance, in the human class are also included some animals.",
                     "Bertoglia 1983:5",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -619,10 +527,7 @@
                     "Note the (approximate) total number of noun classes/genders",
                     "6",
                     "",
-                    "",
-                    "",
                     "Bertoglia 1983:5",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -639,9 +544,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -653,10 +555,7 @@
                     "Masculine, feminine, neuter",
                     "no",
                     "",
-                    "",
-                    "",
                     "Bertoglia 1983:3-13",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -670,10 +569,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "Bertoglia 1983:3-13",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -687,10 +583,7 @@
                     "Animate/inanimate, human/non-human",
                     "no",
                     "",
-                    "",
-                    "",
                     "Bertoglia 1983:3-13",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -704,10 +597,7 @@
                     "add in notes section whether gender is present in other PNs or not in any PNs; consider with reference to pronouns and person marking only",
                     "no",
                     "",
-                    "",
-                    "",
                     "Bourland 1976:56",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -721,10 +611,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "Bertoglia 1983:3-13",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -738,10 +625,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "Bertoglia 1983:3-13",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -758,9 +642,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -773,9 +654,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -792,9 +670,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -806,10 +681,7 @@
                     "Often occurs in a small subset of nouns if a single entity is referred to, e.g. insects that normally occur in groups",
                     "no",
                     "",
-                    "",
-                    "",
                     "Bourland 1976:54",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -823,10 +695,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "Bourland 1976:54",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -840,10 +709,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "Bourland 1976:54",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -857,10 +723,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "Bourland 1976:54",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -874,10 +737,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "Bourland 1976:54",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -891,10 +751,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "Bourland 1976:54",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -908,10 +765,7 @@
                     "Pronouns use a nominal plural affix not specific to pronouns",
                     "no",
                     "",
-                    "",
-                    "",
                     "Bourland 1976:54-56",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -928,9 +782,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -942,10 +793,7 @@
                     "Definite = particular referent known to both speaker and addressee; specific = particular referent known to speaker only",
                     "no",
                     "",
-                    "",
-                    "",
                     "Bourland 1976:53-54",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -962,9 +810,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -979,9 +824,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -993,10 +835,7 @@
                     "Inclusive  =us + you, exclusive = us but not you",
                     "yes",
                     "",
-                    "",
-                    "",
                     "Bourland 1976:56",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -1013,9 +852,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -1028,9 +864,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -1047,9 +880,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -1061,10 +891,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "Bourland 1976:56",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -1078,10 +905,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "Bourland 1976:56",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -1095,10 +919,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "Bourland 1976:56",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -1112,10 +933,7 @@
                     "Polite pronominal variants or differential avoidance of pronouns",
                     "no",
                     "",
-                    "",
-                    "",
                     "Bourland 1976:56",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -1132,9 +950,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -1149,9 +964,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -1162,11 +974,8 @@
                     ],
                     "Note the number of grammatical relations that may be morphologically marked on the noun",
                     "5",
-                    "",
-                    "",
                     "There are five case which are morphologically marked. These cases do not include nominative and accusa which are not morphologically marked.",
                     "Bourland 1976:85",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -1179,11 +988,8 @@
                     ],
                     "Subjects, objects, beneficiaries/recipients NOT marked, but other grammatical relations are",
                     "yes",
-                    "",
-                    "",
                     "Dative is marked morphologically in contrast to nominative and accusative cases which are not. Other non-core cases are morphologicalli marked.",
                     "Bourland 1976:85",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -1200,9 +1006,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -1217,9 +1020,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -1231,10 +1031,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "Bourland 19865:85",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -1248,10 +1045,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "Bourland 19865:85",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -1265,10 +1059,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "Bourland 19865:85",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -1282,10 +1073,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "Bourland 19865:85",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -1299,10 +1087,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "Bourland 19865:85",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -1316,10 +1101,7 @@
                     "Same marking for 'with a person' and 'with an instrument'",
                     "no",
                     "",
-                    "",
-                    "",
                     "Bourland 19865:85",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -1333,10 +1115,7 @@
                     "At least some part of the system involves base-2",
                     "no",
                     "",
-                    "",
-                    "",
                     "Bertoglia 1983:4-5",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -1350,10 +1129,7 @@
                     "At least some part of the system involves base-5",
                     "yes",
                     "",
-                    "",
-                    "",
                     "Bertoglia 1983:4-5",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -1367,10 +1143,7 @@
                     "At least some part of the system involves base-10",
                     "yes",
                     "",
-                    "",
-                    "",
                     "Bertoglia 1983:4-5",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -1387,9 +1160,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -1404,9 +1174,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -1418,10 +1185,7 @@
                     "'Many' or some other non-exact term used",
                     "no",
                     "",
-                    "",
-                    "",
                     "Bertoglia 1983:4-5",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -1435,10 +1199,7 @@
                     "'Many' or some other non-exact term used",
                     "yes",
                     "",
-                    "",
-                    "",
                     "Bertoglia 1983:4-5",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -1455,9 +1216,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -1472,9 +1230,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -1486,10 +1241,7 @@
                     "alienable/inalienable?",
                     "no",
                     "",
-                    "",
-                    "",
                     "Bourland 1976:57",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -1502,11 +1254,8 @@
                     ],
                     "alienable/inalienable?",
                     "yes",
-                    "/-t\u0283a/",
-                    "",
                     "",
                     "Bourland 1976:57",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -1520,10 +1269,7 @@
                     "e.g. 'the boy-'s dog'",
                     "yes",
                     "",
-                    "",
-                    "",
                     "Bourland 1976:57",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -1537,10 +1283,7 @@
                     "e.g. 'the boy his-dog'",
                     "no",
                     "",
-                    "",
-                    "",
                     "Bourland 1976:57",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -1557,9 +1300,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -1572,9 +1312,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -1591,9 +1328,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -1606,9 +1340,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -1625,9 +1356,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -1640,9 +1368,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -1659,9 +1384,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -1673,10 +1395,7 @@
                     "There are underived adjectives which do not have counterparts in other word classes",
                     "yes",
                     "",
-                    "",
-                    "",
                     "Bourland 1976:55",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -1693,9 +1412,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -1708,9 +1424,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -1727,9 +1440,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -1742,9 +1452,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -1761,9 +1468,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -1778,9 +1482,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -1791,11 +1492,8 @@
                     ],
                     "Past tense is regularly morphologically marked on the verb or elsewhere",
                     "yes",
-                    "",
-                    "",
                     "These are verbal suffixes which also trigger an change in the tematic verbal vowel",
                     "Margery 1985:106-15",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -1808,11 +1506,8 @@
                     ],
                     "e.g. distant vs. recent past",
                     "yes",
-                    "{-\u00e9} with high tone; {-l/-l\u00eb}",
-                    "",
                     "There are two past tenses: past tense which reffers to previous events in the same day and past tense which refferes to events further back in the past than the present day.",
                     "Margery 1985:106-15",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -1825,11 +1520,8 @@
                     ],
                     "e.g. imminent vs. distant future",
                     "no",
-                    "",
-                    "",
                     "Apart from the morphological future tense, there is a preiprhastic future tense (Margery 1985:123-4)",
                     "Margery 1985:116-7",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -1842,11 +1534,8 @@
                     ],
                     "",
                     "yes",
-                    "{-r\u00e1}",
-                    "",
                     "",
                     "Margery 1985:116-7",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -1860,10 +1549,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "Margery 1985:106-17",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -1877,10 +1563,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "Margery 1985:106-17",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -1893,11 +1576,8 @@
                     ],
                     "",
                     "no",
-                    "",
-                    "",
                     "However, there are is tense suffix which has high tone but tone by itself does not mark tense",
                     "Margery 1985:106-17",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -1910,11 +1590,8 @@
                     ],
                     "",
                     "yes",
-                    "",
-                    "",
                     "It only occurs with few verbs",
                     "Margery 1985:106-17",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -1927,11 +1604,8 @@
                     ],
                     "There is a special morpheme (or morphemes, or a bare verb root where inflection is normally expected) used to signal imperative (command) mood",
                     "yes",
-                    "",
-                    "",
                     "There are some other strategies to convey imperative meaning among which the use of the infinitive form seems to be the most common (Margery 1985:128-32). ",
                     "Bourland 1976:65",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -1948,9 +1622,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -1963,9 +1634,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -1982,9 +1650,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -1995,11 +1660,8 @@
                     ],
                     "Inflectional marking of capacity to do something",
                     "yes",
-                    "{-mi\u0303}",
-                    "",
                     "",
                     "Margery 1985:132",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -2013,10 +1675,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "Margery 1985:132-3",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -2029,11 +1688,8 @@
                     ],
                     "",
                     "yes",
-                    "",
-                    "",
                     "Using the same sufix {-mi\u0303} in other morphosyntactic environments",
                     "Margery 1985:132-3",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -2050,9 +1706,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2065,9 +1718,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -2084,9 +1734,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2099,9 +1746,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -2118,9 +1762,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2131,11 +1772,8 @@
                     ],
                     "Modal expressing habituality",
                     "no",
-                    "{-ke\u0303}",
-                    "",
                     "a verbal suffix is used to mark habituality",
                     "Margery 1985:117; Bourland 1976:59",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -2152,9 +1790,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2167,9 +1802,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -2186,9 +1818,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2199,11 +1828,8 @@
                     ],
                     "There are grammaticalized elements indicating movement away, toward, there and back, etc.",
                     "yes",
-                    "",
-                    "",
                     "There are around five of these suffixes",
                     "Margery 1985:104",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -2220,9 +1846,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2235,9 +1858,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -2254,9 +1874,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2269,9 +1886,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -2288,9 +1902,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2303,9 +1914,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -2322,9 +1930,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2337,9 +1942,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -2356,9 +1958,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2371,9 +1970,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -2390,9 +1986,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2405,9 +1998,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -2424,9 +2014,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2441,9 +2028,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2455,10 +2039,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "Margery 1985:102",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -2472,10 +2053,7 @@
                     "Verb precedes object",
                     "no",
                     "",
-                    "",
-                    "",
                     "Margery 1985:102",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -2489,10 +2067,7 @@
                     "Object precedes subject",
                     "no",
                     "",
-                    "",
-                    "",
                     "Margery 1985:102",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -2509,9 +2084,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2526,9 +2098,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2540,10 +2109,7 @@
                     "Possessive phrase composed of a free possessor and its possessum has possessor first (e.g. John's book)",
                     "no",
                     "",
-                    "",
-                    "",
                     "Bourland 1976:57",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -2556,11 +2122,8 @@
                     ],
                     "Possessive phrase composed of a free possessor and its possessum has possessum first (e.g. 'book of John')",
                     "yes",
-                    "",
-                    "",
                     "but the possessor is not free since it has the genitive suffix /-t\u0283a/.",
                     "Bourland 1976:57",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -2577,9 +2140,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2591,10 +2151,7 @@
                     "Adjective follows the noun",
                     "yes",
                     "",
-                    "",
-                    "",
                     "Bourland 1976:55",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -2608,10 +2165,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "Bourland 1976:53-54",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -2625,10 +2179,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "Bourland 1976:53-54",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -2645,9 +2196,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2660,9 +2208,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -2679,9 +2224,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2694,9 +2236,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -2713,9 +2252,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2728,9 +2264,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -2747,9 +2280,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2762,9 +2292,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -2781,9 +2308,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2796,9 +2320,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -2815,9 +2336,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2830,9 +2348,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -2849,9 +2364,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2864,9 +2376,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -2883,9 +2392,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2898,9 +2404,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -2917,9 +2420,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2932,9 +2432,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -2951,9 +2448,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -2966,9 +2460,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -2985,9 +2476,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3000,9 +2488,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -3019,9 +2504,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3034,9 +2516,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -3053,9 +2532,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3068,9 +2544,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -3087,9 +2560,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3101,10 +2571,7 @@
                     "Intransitive verbs take person-marking clitics/affixes",
                     "no",
                     "",
-                    "",
-                    "",
                     "Margery 1985:103",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -3118,10 +2585,7 @@
                     "Transitive verbs take subject (A) markers",
                     "no",
                     "",
-                    "",
-                    "",
                     "Margery 1985:103",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -3135,10 +2599,7 @@
                     "Transitive verbs take object (P) markers",
                     "no",
                     "",
-                    "",
-                    "",
                     "Margery 1985:103",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -3151,11 +2612,8 @@
                     ],
                     "3rd person subjects are not overtly marked within the verbal person-marking system",
                     "yes",
-                    "",
-                    "",
                     "But notice that subject or objects are not cross marked on the verb",
                     "Margery 1985:103",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -3169,10 +2627,7 @@
                     "3rd person objects are not overtly marked within the verbal person-marking system",
                     "yes",
                     "",
-                    "",
-                    "",
                     "Margery 1985:103",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -3185,11 +2640,8 @@
                     ],
                     "Verbal person marking exists, but number is (or can) be marked separately",
                     "yes",
-                    "{-d}",
-                    "",
                     "Only number is maked in the verb (person is not)",
                     "Margery 1985:145-52",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -3202,11 +2654,8 @@
                     ],
                     "Where nouns take possessive affixes, these are the same as the person-marking affixes ",
                     "no",
-                    "",
-                    "",
                     "Nouns take the genitive suffix /-t\u0283a/",
                     "Bourland 1976:57",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -3223,9 +2672,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3238,9 +2684,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -3257,9 +2700,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3272,9 +2712,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -3291,9 +2728,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3304,11 +2738,8 @@
                     ],
                     "Verb becomes reflexive through use of reflexive morpheme associated with the verb (may be attached to the verb root). This morpheme is used only to mean reflexive. ",
                     "yes",
-                    "/jen-, jem-/",
-                    "",
                     "",
                     "Bourland 1976:71-72",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -3325,9 +2756,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3340,9 +2768,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -3359,9 +2784,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3374,9 +2796,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -3393,9 +2812,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3408,9 +2824,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -3427,9 +2840,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3442,9 +2852,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -3461,9 +2868,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3476,9 +2880,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -3495,9 +2896,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3510,9 +2908,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -3529,9 +2924,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3543,10 +2935,7 @@
                     "Clausal negator is a preposed element",
                     "yes",
                     "",
-                    "",
-                    "",
                     "Bourland 1976:85",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -3560,10 +2949,7 @@
                     "Clausal negator is a postposed element",
                     "no",
                     "",
-                    "",
-                    "",
                     "Bourland 1976:85",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -3580,9 +2966,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3594,10 +2977,7 @@
                     "Negatives: particle",
                     "yes",
                     "",
-                    "",
-                    "",
                     "Bourland 1976:85",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -3614,9 +2994,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3629,9 +3006,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -3648,9 +3022,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3665,9 +3036,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3678,11 +3046,8 @@
                     ],
                     "Yes/no questions distinguished from declaratives by interrogative particle",
                     "yes",
-                    "/-na\u0303/",
-                    "",
                     "",
                     "Bourland 1976:86",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -3699,9 +3064,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3713,10 +3075,7 @@
                     "Yes/no questions distinguished from declaratives by word order (esp. subject-verb inversion) ",
                     "no",
                     "",
-                    "",
-                    "",
                     "Bourland 1976:86",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -3730,10 +3089,7 @@
                     "Yes/no questions distinguished from declaratives by intonation only",
                     "no",
                     "",
-                    "",
-                    "",
                     "Bourland 1976:86",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -3750,9 +3106,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3765,9 +3118,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -3784,9 +3134,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3799,9 +3146,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -3818,9 +3162,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3833,9 +3174,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -3852,9 +3190,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3867,9 +3202,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -3886,9 +3218,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3900,10 +3229,7 @@
                     "Indicates that the subject desires to carry out the action denoted by the verb (distinct from verb 'want', but may be grammaticalized from it)",
                     "no",
                     "",
-                    "",
-                    "",
                     "Margery 1985:126-8",
-                    "Daniel Valle",
                     "",
                     "",
                     ""
@@ -3920,9 +3246,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3937,9 +3260,6 @@
                     "",
                     "",
                     "",
-                    "Daniel Valle",
-                    "",
-                    "",
                     ""
                 ],
                 [
@@ -3952,9 +3272,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Daniel Valle",
                     "",
                     "",
                     ""

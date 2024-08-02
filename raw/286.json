@@ -8,11 +8,8 @@
                 "Grammatical Feature",
                 "Grammatical Feature: Notes",
                 "Feature Status",
-                "Phonemicized Form",
-                "Orthographic Form",
                 "Grammatical Notes",
                 "Source",
-                "Created By",
                 "Etymology Notes",
                 "General Notes",
                 "Phylogenetic Code"
@@ -27,10 +24,7 @@
                     "Analysis posits that the stop is the most relevant underlying phoneme. Comment in notes on whether the nasal contour is understood as a phonetic (allophonic) effect, or is phonologically contrastive. ",
                     "no",
                     "",
-                    "",
-                    "",
                     "15",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -44,10 +38,7 @@
                     "Phonemic contrast [NOT counting glottal stop/fricative]",
                     "no",
                     "",
-                    "",
-                    "",
                     "15",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -61,10 +52,7 @@
                     "Phonemic contrast",
                     "yes",
                     "",
-                    "",
-                    "",
                     "14",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -78,10 +66,7 @@
                     "Does the language have long and short vowels?",
                     "yes",
                     "",
-                    "",
-                    "",
                     "14",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -95,10 +80,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "15",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -112,10 +94,7 @@
                     "Onset consists of more than one consonant phoneme",
                     "no",
                     "",
-                    "",
-                    "",
                     "35",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -129,10 +108,7 @@
                     "*(C)VC [no also equals highly constrained]",
                     "no",
                     "",
-                    "",
-                    "",
                     "35",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -146,10 +122,7 @@
                     "Do all syllables end in a consonant?",
                     "no",
                     "",
-                    "",
-                    "",
                     "35",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -163,10 +136,7 @@
                     "Note how many contrastive tones",
                     "No",
                     "",
-                    "",
-                    "",
                     "44",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -180,10 +150,7 @@
                     "Does stress occur on different syllables with meaning difference?",
                     "No",
                     "",
-                    "",
-                    "",
                     "41",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -200,9 +167,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -217,9 +181,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -231,10 +192,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "14-39",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -251,9 +209,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -268,9 +223,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "1"
                 ],
                 [
@@ -282,10 +234,7 @@
                     "Morphological complexity in verbs - multiple inflectional affixes in a single verb word",
                     "yes",
                     "",
-                    "",
-                    "",
                     "336",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -299,10 +248,7 @@
                     "There are many more prefixes than suffixes",
                     "no",
                     "",
-                    "",
-                    "",
                     "39",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -316,10 +262,7 @@
                     "There are many more suffixes than prefixes",
                     "yes",
                     "",
-                    "",
-                    "",
                     "39",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -333,10 +276,7 @@
                     "The numbers of suffixes and prefixes are not notably different",
                     "no",
                     "",
-                    "",
-                    "",
                     "39",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -350,10 +290,7 @@
                     "The full morpheme is reduplicated",
                     "yes",
                     "",
-                    "",
-                    "",
                     "37-38",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -367,10 +304,7 @@
                     "Only part of the morpheme is reduplicated",
                     "yes",
                     "",
-                    "",
-                    "",
                     "37-38",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -387,9 +321,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -401,10 +332,7 @@
                     "Verb roots can be combined in a single predicate without markers of subordination (distinct from subordinating construction) or distinct inflection",
                     "yes",
                     "",
-                    "",
-                    "",
                     "204",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -418,10 +346,7 @@
                     "Serial verb constructions involve chaining of roots together in one morphophonological word",
                     "yes",
                     "",
-                    "",
-                    "",
                     "200-202",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -438,9 +363,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -453,9 +375,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -472,9 +391,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -486,10 +402,7 @@
                     "Like noun incorporation, but incorporated  elements are not nouns",
                     "yes",
                     "",
-                    "",
-                    "",
                     "200-202",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -506,9 +419,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -521,9 +431,6 @@
                     "n/a",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -540,9 +447,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -555,9 +459,6 @@
                     "n/a",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -574,9 +475,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -591,9 +489,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -605,10 +500,7 @@
                     "add in notes section whether gender is present in other PNs or not in any PNs; consider with reference to pronouns and person marking only",
                     "no",
                     "",
-                    "",
-                    "",
                     "124",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -625,9 +517,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -640,9 +529,6 @@
                     "n/a",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -659,9 +545,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -674,9 +557,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -693,9 +573,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -707,10 +584,7 @@
                     "Often occurs in a small subset of nouns if a single entity is referred to, e.g. insects that normally occur in groups",
                     "yes",
                     "",
-                    "",
-                    "",
                     "99-101",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -724,10 +598,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "99-101, 103, 104",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -744,9 +615,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -758,10 +626,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "70",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -775,10 +640,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "102-105",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -792,10 +654,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "102",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -809,10 +668,7 @@
                     "Pronouns use a nominal plural affix not specific to pronouns",
                     "no",
                     "",
-                    "",
-                    "",
                     "123",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -826,10 +682,7 @@
                     "e.g. 'John and his associates', 'John and them'",
                     "yes",
                     "",
-                    "-buy",
-                    "",
                     "103",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -843,10 +696,7 @@
                     "Definite = particular referent known to both speaker and addressee; specific = particular referent known to speaker only",
                     "no",
                     "",
-                    "",
-                    "",
                     "128",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -860,10 +710,7 @@
                     "Focus on articles/markers whose primary function is to mark definiteness",
                     "yes",
                     "",
-                    "",
-                    "",
                     "128",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -877,10 +724,7 @@
                     "or marker",
                     "no",
                     "",
-                    "",
-                    "",
                     "128",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -894,10 +738,7 @@
                     "Inclusive  =us + you, exclusive = us but not you",
                     "yes",
                     "",
-                    "-naN",
-                    "",
                     "123",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -911,10 +752,7 @@
                     "",
                     "yes",
                     "",
-                    "-naN",
-                    "",
                     "123",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -928,10 +766,7 @@
                     "Note the number of distances in the demonstrative system",
                     "yes",
                     "",
-                    "\u014bina, \u014bana",
-                    "",
                     "128, 135",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -945,10 +780,7 @@
                     "",
                     "yes",
                     "",
-                    "yi\u014bgal, ya\u02d0yN-, ya\u02d0nhdhu",
-                    "",
                     "135",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -962,10 +794,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "124",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -979,10 +808,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "124",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -996,10 +822,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "123",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -1013,10 +836,7 @@
                     "Polite pronominal variants or differential avoidance of pronouns",
                     "no",
                     "",
-                    "",
-                    "",
                     "123, 126",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -1030,10 +850,7 @@
                     "e.g. English 'himself', Spanish 'se'; distinct form(s) from basic (non-reflexive) pronominals; distinct from reflexive verbal affix",
                     "no",
                     "",
-                    "",
-                    "",
                     "123, 126",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -1050,9 +867,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -1064,10 +878,7 @@
                     "Note the number of grammatical relations that may be morphologically marked on the noun",
                     "yes",
                     "",
-                    "-gu/-DHu, \u2205, -gu, -ga/-DHa, -DHi ",
-                    "",
                     "82-84",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -1081,10 +892,7 @@
                     "Subjects, objects, beneficiaries/recipients NOT marked, but other grammatical relations are",
                     "no",
                     "",
-                    "",
-                    "",
                     "81",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -1098,10 +906,7 @@
                     "All NPs marked if in appropriate syntactic relation; no distinction in marking based on semantics (type of entity)",
                     "yes",
                     "",
-                    "",
-                    "",
                     "81",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -1115,10 +920,7 @@
                     "Semantically defined subset of NPs marked for case, e.g. animates",
                     "no",
                     "",
-                    "",
-                    "",
                     "81",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -1132,10 +934,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "82-84",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -1149,10 +948,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "82-84",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -1166,10 +962,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "82-84",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -1183,10 +976,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "82-84",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -1200,10 +990,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "82-84",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -1217,10 +1004,7 @@
                     "Same marking for 'with a person' and 'with an instrument'",
                     "no",
                     "",
-                    "",
-                    "",
                     "82-84, 107",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -1234,10 +1018,7 @@
                     "At least some part of the system involves base-2",
                     "yes",
                     "",
-                    "",
-                    "",
                     "73",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -1251,10 +1032,7 @@
                     "At least some part of the system involves base-5",
                     "no",
                     "",
-                    "",
-                    "",
                     "73",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -1268,10 +1046,7 @@
                     "At least some part of the system involves base-10",
                     "yes",
                     "",
-                    "",
-                    "",
                     "73",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -1285,10 +1060,7 @@
                     "4, 20, etc.",
                     "no",
                     "",
-                    "",
-                    "",
                     "73",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -1302,10 +1074,7 @@
                     "e.g. two = 'eye-quantity'",
                     "no",
                     "",
-                    "",
-                    "",
                     "73",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -1319,10 +1088,7 @@
                     "'Many' or some other non-exact term used",
                     "yes",
                     "",
-                    "",
-                    "",
                     "73",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -1336,10 +1102,7 @@
                     "'Many' or some other non-exact term used",
                     "yes",
                     "",
-                    "",
-                    "",
                     "73",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -1356,9 +1119,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -1373,9 +1133,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -1387,10 +1144,7 @@
                     "alienable/inalienable?",
                     "no",
                     "",
-                    "",
-                    "",
                     "130",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -1404,10 +1158,7 @@
                     "alienable/inalienable?",
                     "yes",
                     "",
-                    "",
-                    "",
                     "130",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -1421,10 +1172,7 @@
                     "e.g. 'the boy-'s dog'",
                     "yes",
                     "",
-                    "",
-                    "",
                     "230",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -1438,10 +1186,7 @@
                     "e.g. 'the boy his-dog'",
                     "no",
                     "",
-                    "",
-                    "",
                     "230",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -1458,9 +1203,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -1472,10 +1214,7 @@
                     "Where inalienable possession differs from alienable, the former takes a morphological marker (may include an associated free particle/pronoun)",
                     "no",
                     "",
-                    "",
-                    "",
                     "231",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -1489,10 +1228,7 @@
                     "Where inalienable possession differs from alienable, the latter takes a morphological marker (may include an associated free particle/pronoun)",
                     "yes",
                     "",
-                    "",
-                    "",
                     "230-231",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -1509,9 +1245,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1523,10 +1256,7 @@
                     "'my-father' but *father",
                     "no",
                     "",
-                    "",
-                    "",
                     "230-232",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -1540,10 +1270,7 @@
                     "'my-leg' but *leg",
                     "yes",
                     "",
-                    "",
-                    "",
                     "230-232",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -1557,10 +1284,7 @@
                     "Human nouns must co-occur with another noun (e.g. Hup-man, NonIndian-woman, but *man)",
                     "no",
                     "",
-                    "",
-                    "",
                     "230-232",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -1574,10 +1298,7 @@
                     "There are underived adjectives which do not have counterparts in other word classes",
                     "n/a",
                     "",
-                    "",
-                    "",
                     "70",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -1594,9 +1315,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -1608,10 +1326,7 @@
                     "There is a morpheme which derives an event from a verb",
                     "no",
                     "",
-                    "",
-                    "",
                     "199-200",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -1625,10 +1340,7 @@
                     "There is a morpheme which derives an agent or subject from a verb",
                     "yes",
                     "",
-                    "-wara; -Dha\u02d0y-n ",
-                    "",
                     "200",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -1642,10 +1354,7 @@
                     "There is a morpheme which derives a patient or object from a verb",
                     "no",
                     "",
-                    "",
-                    "",
                     "199-200",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -1659,10 +1368,7 @@
                     "There is a morpheme which derives a verb from a noun or adjective",
                     "no",
                     "",
-                    "",
-                    "",
                     "118",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -1676,10 +1382,7 @@
                     "'John and Mary went to market' is marked differently from 'John went to market with Mary'",
                     "yes",
                     "",
-                    "",
-                    "",
                     "249; 107",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -1693,10 +1396,7 @@
                     "Past tense is regularly morphologically marked on the verb or elsewhere",
                     "yes",
                     "",
-                    "NH, a -> iy, y, n, i",
-                    "",
                     "158",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -1710,10 +1410,7 @@
                     "e.g. distant vs. recent past",
                     "no",
                     "",
-                    "",
-                    "",
                     "158",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -1727,10 +1424,7 @@
                     "e.g. imminent vs. distant future",
                     "no",
                     "",
-                    "",
-                    "",
                     "158",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -1744,10 +1438,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "158",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -1761,10 +1452,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "183",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -1778,10 +1466,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "183",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -1795,10 +1480,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "183",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -1812,10 +1494,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "158; 183-184",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -1829,10 +1508,7 @@
                     "There is a special morpheme (or morphemes, or a bare verb root where inflection is normally expected) used to signal imperative (command) mood",
                     "yes",
                     "",
-                    "-DHa, ga, \u02d0, ya\u02d0, ra",
-                    "",
                     "158-160",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -1846,10 +1522,7 @@
                     "There is a distinct morpheme for polite imperative constructions (specify if it has other functions in the language)",
                     "no",
                     "",
-                    "",
-                    "",
                     "158",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -1863,10 +1536,7 @@
                     "There are different strategies for marking negation in imperative and declarative clauses",
                     "yes",
                     "",
-                    "gara\u02d0 (prohibative), wa\u014ba\u02d0y (declarative negation)",
-                    "",
                     "160",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -1880,10 +1550,7 @@
                     "as opposed to imperative; the person in control of desired state of affairs is not the addressee; ex: 'Let's sing' / 'Let him sing'",
                     "no",
                     "",
-                    "",
-                    "",
                     "159",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -1900,9 +1567,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -1915,9 +1579,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -1934,9 +1595,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -1948,10 +1606,7 @@
                     "Modal expressing hypothesis",
                     "yes",
                     "",
-                    "-i",
-                    "",
                     "162",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -1968,9 +1623,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -1982,10 +1634,7 @@
                     "",
                     "yes",
                     "",
-                    "-gila; -ga",
-                    "",
                     "256",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -2002,9 +1651,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2019,9 +1665,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2033,10 +1676,7 @@
                     "Modal expressing habituality",
                     "yes",
                     "",
-                    "-\u014bila-y",
-                    "",
                     "191-192",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -2053,9 +1693,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "1"
                 ],
                 [
@@ -2067,10 +1704,7 @@
                     "There are dedicated morpheme(s) for realis/irrealis 'actualized/unactualized events'",
                     "yes",
                     "",
-                    "-aga",
-                    "",
                     "160-161",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -2084,10 +1718,7 @@
                     "Note whether these inflectional markers are positive or negative",
                     "yes",
                     "",
-                    "manda\u014bgul (pos), ga:mbada (neg)",
-                    "",
                     "242",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -2101,10 +1732,7 @@
                     "There are grammaticalized elements indicating movement away, toward, there and back, etc.",
                     "no",
                     "",
-                    "",
-                    "",
                     "141",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -2118,10 +1746,7 @@
                     "Indicates information has been witnessed visually - indicate only if an overt marker",
                     "yes",
                     "",
-                    "-gara",
-                    "",
                     "275",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -2135,10 +1760,7 @@
                     "Indicates information has been sensed firsthand but not visually (usually heard; also smelled, tasted, felt)",
                     "yes",
                     "",
-                    "-gara",
-                    "",
                     "275",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -2152,10 +1774,7 @@
                     "Indicates information has not been experienced firsthand, but inferred from some kind of evidence - indicate only if an overt marker.",
                     "no",
                     "",
-                    "",
-                    "",
                     "275-277",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -2169,10 +1788,7 @@
                     "Indicates speaker is not responsible for veracity of statement, merely reporting; 'allegedly'",
                     "yes",
                     "",
-                    "",
-                    "",
                     "276",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -2186,10 +1802,7 @@
                     "Indicate presence of adjacent representation of repeated discourse",
                     "yes",
                     "",
-                    "-DHan",
-                    "",
                     "275",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -2203,10 +1816,7 @@
                     "Any other evidential values not represented above",
                     "yes",
                     "",
-                    "",
-                    "",
                     "275-277",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -2220,10 +1830,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "275",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -2237,10 +1844,7 @@
                     "Includes portmanteau morphs",
                     "no",
                     "",
-                    "",
-                    "",
                     "161",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -2254,10 +1858,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "275-277",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -2271,10 +1872,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "275-277",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -2291,9 +1889,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2308,9 +1903,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2322,10 +1914,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "236",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -2339,10 +1928,7 @@
                     "Verb precedes subject",
                     "yes",
                     "",
-                    "",
-                    "",
                     "224",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -2356,10 +1942,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "222",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -2373,10 +1956,7 @@
                     "Verb precedes object",
                     "yes",
                     "",
-                    "",
-                    "",
                     "224",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -2390,10 +1970,7 @@
                     "Object precedes subject",
                     "yes",
                     "",
-                    "",
-                    "",
                     "224",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -2410,9 +1987,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2424,10 +1998,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "83",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -2441,10 +2012,7 @@
                     "Possessive phrase composed of a free possessor and its possessum has possessor first (e.g. John's book)",
                     "yes",
                     "",
-                    "",
-                    "",
                     "230",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -2461,9 +2029,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -2475,10 +2040,7 @@
                     "Adjective precedes the noun",
                     "yes",
                     "",
-                    "",
-                    "",
                     "234",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -2492,10 +2054,7 @@
                     "Adjective follows the noun",
                     "yes",
                     "",
-                    "",
-                    "",
                     "225",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -2509,10 +2068,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "139",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -2529,9 +2085,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -2544,9 +2097,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Emily",
                     "",
                     "",
                     "x"
@@ -2563,9 +2113,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -2577,10 +2124,7 @@
                     "Relative clause follows noun that it modifies",
                     "yes",
                     "",
-                    "",
-                    "",
                     "294-301",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -2594,10 +2138,7 @@
                     "Relative clause precedes noun that it modifies",
                     "yes",
                     "",
-                    "",
-                    "",
                     "294-301",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -2611,10 +2152,7 @@
                     "e.g. 'the dog cat chased-NMZR got away' ('the cat that the dog chased got away')",
                     "yes",
                     "",
-                    "-ba",
-                    "",
                     "296-300",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -2628,10 +2166,7 @@
                     "e.g. 'what is running, the dog chased that cat'",
                     "yes",
                     "",
-                    "",
-                    "",
                     "294-301",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -2645,10 +2180,7 @@
                     "'what', 'who', etc. come first in interrogative clause",
                     "yes",
                     "",
-                    "",
-                    "",
                     "148",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -2662,10 +2194,7 @@
                     "Objects of transitive clauses ('P') have a unique marker, while subjects of transitive ('A') and intransitive ('S') clauses are unmarked or share a different marker from that occurring on objects",
                     "no",
                     "",
-                    "",
-                    "",
                     "83",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -2679,10 +2208,7 @@
                     "Subjects of transitive and intransitive clauses share a marker, while objects of transitives are unmarked",
                     "no",
                     "",
-                    "",
-                    "",
                     "83",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -2696,10 +2222,7 @@
                     "Subjects of intransitive clauses and objects of transitives share a unique marker, while subjects of transitive clauses are unmarked or have a different marker",
                     "yes",
                     "",
-                    "",
-                    "",
                     "83",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -2713,10 +2236,7 @@
                     "Intransitive subjects, transitive subjects, and transitive objects all receive distinct case markers",
                     "no",
                     "",
-                    "",
-                    "",
                     "83",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -2730,10 +2250,7 @@
                     "Subjects of intransitive clauses are treated two different ways: like subjects of transitives if they are more agent-like (e.g. he jumped), and like objects of transitives if they are more patient-like (e.g. he fell asleep)",
                     "no",
                     "",
-                    "",
-                    "",
                     "83",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -2747,10 +2264,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "122",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -2764,10 +2278,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "122",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -2781,10 +2292,7 @@
                     "yes, no, mixed, other",
                     "yes",
                     "",
-                    "",
-                    "",
                     "121",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -2798,10 +2306,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "120-127",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -2815,10 +2320,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "120-127",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -2835,9 +2337,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2850,9 +2349,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -2869,9 +2365,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2884,9 +2377,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -2903,9 +2393,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2917,10 +2404,7 @@
                     "Pronominal subjects are free pronouns that occur in the same position as full NP subjects",
                     "yes",
                     "",
-                    "",
-                    "",
                     "88",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -2934,10 +2418,7 @@
                     "Pronominal subjects are marked as verbal prefixes (free pronouns may be another option)",
                     "no",
                     "",
-                    "",
-                    "",
                     "123, 126",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -2951,10 +2432,7 @@
                     "Pronominal subjects are marked as verbal suffixes (free pronouns may be another option)",
                     "no",
                     "",
-                    "",
-                    "",
                     "124",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -2968,10 +2446,7 @@
                     "Pronominal subjects are clitics that can attach to verbs, nominal constituents, etc.",
                     "yes",
                     "",
-                    "",
-                    "",
                     "124-125",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -2985,10 +2460,7 @@
                     "Pronominal subjects are free pronouns but do not normally occur in the position expected for full NP subjects",
                     "no",
                     "",
-                    "",
-                    "",
                     "120 on",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -3005,9 +2477,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -3020,9 +2489,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -3039,9 +2505,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -3054,9 +2517,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -3073,9 +2533,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "1"
                 ],
                 [
@@ -3088,9 +2545,6 @@
                     "n/a",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -3107,9 +2561,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -3124,9 +2575,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -3138,10 +2586,7 @@
                     "In ditransitives (e.g. 'John gives a book to Bill'), the theme (book) is treated in the same way as are objects of transitives, while the recipient/beneficiary (Bill) is treated differently",
                     "yes",
                     "",
-                    "",
-                    "",
                     "131, 134",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -3155,10 +2600,7 @@
                     "In ditransitives (e.g. 'John gives Bill a book'), both the theme (book) and the recipient/beneficiary (Bill) is treated in the same way as are objects of transitives",
                     "yes",
                     "",
-                    "",
-                    "",
                     "131-132",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -3172,10 +2614,7 @@
                     "In ditransitives, the recipient/beneficiary is treated in the same way as are objects of transitives, while the theme (book) is treated differently",
                     "no",
                     "",
-                    "",
-                    "",
                     "131-134",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -3189,10 +2628,7 @@
                     "Verb becomes reciprocal through use of reciprocal morpheme associated with the verb (may be attached to the verb root). This morpheme is only used to mean reciprocal.",
                     "yes",
                     "",
-                    "-la-y ",
-                    "",
                     "166",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -3206,10 +2642,7 @@
                     "Verb becomes reflexive through use of reflexive morpheme associated with the verb (may be attached to the verb root). This morpheme is used only to mean reflexive. ",
                     "yes",
                     "",
-                    "-Dhili-y ",
-                    "",
                     "166",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -3223,10 +2656,7 @@
                     "Verb becomes reciprocal or reflexive through use of a morpheme that means either reciprocal or reflexive which attaches to the root of the verb",
                     "no",
                     "",
-                    "",
-                    "",
                     "166",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -3243,9 +2673,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3260,9 +2687,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3274,10 +2698,7 @@
                     "There is/are some other mechanism(s) for reducing valency",
                     "yes",
                     "",
-                    "",
-                    "",
                     "151",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -3294,9 +2715,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -3311,9 +2729,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -3325,10 +2740,7 @@
                     "Causative is morphological and is attached before the root of the verb",
                     "no",
                     "",
-                    "",
-                    "",
                     "163",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -3342,10 +2754,7 @@
                     "Causative is morphological and is attached after the root of the verb",
                     "yes",
                     "",
-                    "-ma-l ",
-                    "",
                     "163, 165",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -3359,10 +2768,7 @@
                     "Morphological causative other than simple prefix/suffix",
                     "no",
                     "",
-                    "",
-                    "",
                     "163-166",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -3376,10 +2782,7 @@
                     "Causative construction that involves periphrasis or serialization",
                     "no",
                     "",
-                    "",
-                    "",
                     "163",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -3393,10 +2796,7 @@
                     "Indicates that the causer does not directly cause the action of the verb to be realized, but does so by inducing someone else to carry out the action, e.g. 'John had the house painted.'",
                     "no",
                     "",
-                    "",
-                    "",
                     "163",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -3410,10 +2810,7 @@
                     "Indicates that causer participates in event",
                     "no",
                     "",
-                    "",
-                    "",
                     "163",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -3427,10 +2824,7 @@
                     "There is/are some other mechanism(s) for increasing valency",
                     "yes",
                     "",
-                    "-ba-l",
-                    "",
                     "163",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -3444,10 +2838,7 @@
                     "Clausal negator is a preposed element",
                     "yes",
                     "",
-                    "wa\u014ba\u02d0y",
-                    "",
                     "239",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -3461,10 +2852,7 @@
                     "Clausal negator is a postposed element",
                     "no",
                     "",
-                    "",
-                    "",
                     "239",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -3478,10 +2866,7 @@
                     "Negatives: affix",
                     "no",
                     "",
-                    "",
-                    "",
                     "239",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -3495,10 +2880,7 @@
                     "Negatives: particle",
                     "yes",
                     "",
-                    "wa\u014ba\u02d0y",
-                    "",
                     "239",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -3512,10 +2894,7 @@
                     "Negatives: auxiliary verb",
                     "no",
                     "",
-                    "",
-                    "",
                     "239",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -3529,10 +2908,7 @@
                     "Standard (non-emphatic) negation typically requires two morphemes, e.g. French 'ne V pas'",
                     "no",
                     "",
-                    "",
-                    "",
                     "239",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -3549,9 +2925,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3566,9 +2939,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3580,10 +2950,7 @@
                     "Yes/no questions distinguished from declaratives by interrogative particle",
                     "no",
                     "",
-                    "",
-                    "",
                     "259",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -3597,10 +2964,7 @@
                     "Yes/no questions distinguished from declaratives by interrogative verb morphology ",
                     "no",
                     "",
-                    "",
-                    "",
                     "259",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -3614,10 +2978,7 @@
                     "Yes/no questions distinguished from declaratives by word order (esp. subject-verb inversion) ",
                     "no",
                     "",
-                    "",
-                    "",
                     "259",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -3631,10 +2992,7 @@
                     "Yes/no questions distinguished from declaratives by intonation only",
                     "no",
                     "",
-                    "",
-                    "",
                     "259",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -3648,10 +3006,7 @@
                     "Content questions distinguished from declaratives by word order (esp. subject-verb inversion) as well as by presence of Q-word (who, what, etc.)",
                     "no",
                     "",
-                    "",
-                    "",
                     "259",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -3665,10 +3020,7 @@
                     "Adjectives act like verbs in predicative position",
                     "no",
                     "",
-                    "",
-                    "",
                     "70",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -3682,10 +3034,7 @@
                     "Adjectives act like nouns in predicative position",
                     "yes",
                     "",
-                    "",
-                    "",
                     "70",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -3699,10 +3048,7 @@
                     "Predicate nominals may occur without a copula (i.e. grammatical in some circumstances, if not all)",
                     "yes",
                     "",
-                    "",
-                    "",
                     "234",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -3716,10 +3062,7 @@
                     "Compare Eng 'the one that fell' (but in Eng 'one' could be considered a head)",
                     "yes",
                     "",
-                    "",
-                    "",
                     "299",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -3733,10 +3076,7 @@
                     "Relative clauses that form a constituent with a head noun (in a single noun phrase) are rare or nonexistent; some descriptions may refer to adjoined or correlative clauses.",
                     "no",
                     "",
-                    "",
-                    "",
                     "294-301",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -3753,9 +3093,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -3767,10 +3104,7 @@
                     "",
                     "yes",
                     "",
-                    "-ba ",
-                    "",
                     "294-301",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -3784,10 +3118,7 @@
                     "The same morpheme marks a relative clause and is a nominalizer on verbs (and/or other word classes)",
                     "no",
                     "",
-                    "",
-                    "",
                     "291",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -3804,9 +3135,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3819,9 +3147,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -3838,9 +3163,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3855,9 +3177,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3869,10 +3188,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "70",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -3886,10 +3202,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "270",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -3903,10 +3216,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "70",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -3920,10 +3230,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "70",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -3937,10 +3244,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "70",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -3954,10 +3258,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "70",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -3971,10 +3272,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "70",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -3988,10 +3286,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "70",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -4005,10 +3300,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "85",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -4022,10 +3314,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "86",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -4039,10 +3328,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "82-84",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -4056,10 +3342,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "230",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -4073,10 +3356,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "230",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -4093,9 +3373,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -4110,9 +3387,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4124,10 +3398,7 @@
                     "yes to any of HG 95-97 entails yes to this; yep; this is more general but not just about derivation (would also include proprietive, for example, not necessarily derivation that changes word class) ",
                     "yes",
                     "",
-                    "",
-                    "",
                     "82-119",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -4144,9 +3415,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -4161,9 +3429,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -4175,10 +3440,7 @@
                     "",
                     "yes",
                     "",
-                    "-bula",
-                    "",
                     "102",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -4192,10 +3454,7 @@
                     "",
                     "yes",
                     "",
-                    "-gal",
-                    "",
                     "99-101",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -4209,10 +3468,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "103-105",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -4229,9 +3485,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -4246,9 +3499,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -4260,10 +3510,7 @@
                     "yes to any of HG 173-175 entails yes to this; not necessarily? - CB",
                     "yes",
                     "",
-                    "",
-                    "",
                     "120",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -4277,10 +3524,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "85",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -4294,10 +3538,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "123, 126",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -4311,10 +3552,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "123, 126",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -4328,10 +3566,7 @@
                     "",
                     "yes",
                     "",
-                    "-minjaN 'what'; -\u014ba\u02d0ndi 'who'",
-                    "",
                     "264",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -4345,10 +3580,7 @@
                     "",
                     "yes",
                     "",
-                    "-naN",
-                    "",
                     "123",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -4362,10 +3594,7 @@
                     "",
                     "yes",
                     "",
-                    "-naN",
-                    "",
                     "123",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -4379,10 +3608,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "126",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -4396,10 +3622,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "124",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -4413,10 +3636,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "124",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -4430,10 +3650,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "121, 130",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -4447,10 +3664,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "131",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -4467,9 +3681,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -4481,10 +3692,7 @@
                     "include the position in the \u2018form\u2019 notes",
                     "yes",
                     "",
-                    "clause-initial",
-                    "",
                     "130",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -4498,10 +3706,7 @@
                     "related to, and maybe equivalent to, HG 206-207 (not equivalent if verbal negation is being treated separately from clausal negation)",
                     "yes",
                     "",
-                    "wa\u014ba\u02d0y",
-                    "",
                     "239",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -4515,10 +3720,7 @@
                     "related to, and maybe equivalent to, HG 203 (not equivalent if verbal negation is being treated separately from clausal negation)",
                     "yes",
                     "",
-                    "",
-                    "",
                     "239",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -4532,10 +3734,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "129-133",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -4549,10 +3748,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "122, 124",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -4569,9 +3765,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -4583,10 +3776,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "242-244",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -4600,10 +3790,7 @@
                     "=yes to any of HG 188-190; not necessarily; e.g. YN has a reflexive marker but it doesn\u2019t go on the verb.",
                     "yes",
                     "",
-                    "-Dhili-y; -la-y ",
-                    "",
                     "166",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -4617,10 +3804,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "166",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -4634,10 +3818,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "166",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -4654,9 +3835,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -4671,9 +3849,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4685,10 +3860,7 @@
                     "",
                     "yes",
                     "",
-                    "-\u027da",
-                    "",
                     "160-161",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -4702,10 +3874,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "196",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -4719,10 +3888,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "183-197",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -4736,10 +3902,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "195-196",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -4756,9 +3919,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -4770,10 +3930,7 @@
                     "",
                     "yes",
                     "",
-                    "-ya:, -ra, -ga, -gara:",
-                    "",
                     "159-160",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -4787,10 +3944,7 @@
                     "",
                     "no",
                     "",
-                    "gara\u02d0",
-                    "",
                     "141, 239",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -4807,9 +3961,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4821,10 +3972,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "202",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -4841,9 +3989,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -4855,10 +4000,7 @@
                     "",
                     "yes",
                     "",
-                    "ga-",
-                    "",
                     "225",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -4872,10 +4014,7 @@
                     "",
                     "yes",
                     "",
-                    "-y-, -l-, -r-",
-                    "",
                     "153",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -4892,9 +4031,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -4907,9 +4043,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Emily",
                     "",
                     "",
                     "x"
@@ -4926,9 +4059,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4943,9 +4073,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -4957,10 +4084,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "232",
-                    "Done-Emily",
                     "",
                     "",
                     "1"
@@ -4974,10 +4098,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "236",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -4991,10 +4112,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "236",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
@@ -5011,9 +4129,6 @@
                     "",
                     "",
                     "",
-                    "Done-Emily",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -5026,9 +4141,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Emily",
                     "",
                     "",
                     "0"
