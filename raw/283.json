@@ -8,11 +8,8 @@
                 "Grammatical Feature",
                 "Grammatical Feature: Notes",
                 "Feature Status",
-                "Phonemicized Form",
-                "Orthographic Form",
                 "Grammatical Notes",
                 "Source",
-                "Created By",
                 "Etymology Notes",
                 "General Notes",
                 "Phylogenetic Code"
@@ -27,10 +24,7 @@
                     "Analysis posits that the stop is the most relevant underlying phoneme. Comment in notes on whether the nasal contour is understood as a phonetic (allophonic) effect, or is phonologically contrastive. ",
                     "maybe",
                     "",
-                    "",
-                    "",
                     "38-39",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -47,9 +41,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -64,9 +55,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -78,10 +66,7 @@
                     "Does the language have long and short vowels?",
                     "yes",
                     "",
-                    "",
-                    "",
                     "35-36",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -98,9 +83,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -112,10 +94,7 @@
                     "Onset consists of more than one consonant phoneme",
                     "no",
                     "",
-                    "",
-                    "",
                     "40",
-                    "done-Hannah",
                     "",
                     "",
                     "0"
@@ -129,10 +108,7 @@
                     "*(C)VC [no also equals highly constrained]",
                     "no",
                     "",
-                    "",
-                    "",
                     "40",
-                    "done-Hannah",
                     "",
                     "",
                     "0"
@@ -149,9 +125,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -163,10 +136,7 @@
                     "Note how many contrastive tones",
                     "no",
                     "",
-                    "",
-                    "",
                     "42",
-                    "done-Hannah",
                     "",
                     "",
                     "0"
@@ -180,10 +150,7 @@
                     "Does stress occur on different syllables with meaning difference?",
                     "no",
                     "",
-                    "",
-                    "",
                     "41-42",
-                    "done-Hannah",
                     "",
                     "",
                     "0"
@@ -200,9 +167,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -215,9 +179,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -234,9 +195,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -248,10 +206,7 @@
                     "Verb combines two or more categories (tense, aspect, mood, person, number, etc.) in portmanteau morphemes{ [ignore proclitics unless they are fused with values other than person/number]",
                     "no",
                     "",
-                    "(-u) indicative/interrogative past punctiliar (all classes); (-ku) indicative/interogative future punctiliar (all classes); (-in) indicative/interrogative present continuous (all classes); (-ma) indicative/interrogative past continuous (all classes); (-ma",
-                    "",
                     "166-167",
-                    "done-Hannah",
                     "",
                     "",
                     "0"
@@ -268,9 +223,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -282,10 +234,7 @@
                     "Morphological complexity in verbs - multiple inflectional affixes in a single verb word",
                     "yes",
                     "",
-                    "",
-                    "",
                     "167",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -302,9 +251,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -316,10 +262,7 @@
                     "There are many more suffixes than prefixes",
                     "yes",
                     "",
-                    "",
-                    "",
                     "15",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -336,9 +279,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -351,9 +291,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -370,9 +307,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -385,9 +319,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -404,9 +335,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -419,9 +347,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -438,9 +363,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -453,9 +375,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "0"
@@ -472,9 +391,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -487,9 +403,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -506,9 +419,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -521,9 +431,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "0"
@@ -540,9 +447,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -555,9 +459,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -574,9 +475,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -589,9 +487,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -608,9 +503,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -623,9 +515,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -642,9 +531,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -657,9 +543,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -676,9 +559,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -691,9 +571,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -710,9 +587,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -725,9 +599,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "0"
@@ -744,9 +615,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -761,9 +629,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -775,10 +640,7 @@
                     "",
                     "no",
                     "",
-                    "\"pin\u0320i\" (many)",
                     "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "0"
@@ -795,9 +657,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -810,9 +669,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "0"
@@ -829,9 +685,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -844,9 +697,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -863,9 +713,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -880,9 +727,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -894,10 +738,7 @@
                     "Inclusive  =us + you, exclusive = us but not you",
                     "yes",
                     "",
-                    "see 256-257",
-                    "",
                     "104-110",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -911,10 +752,7 @@
                     "",
                     "yes",
                     "",
-                    "bound: exclusive marker (-tju) added to free pronouns (after case indicator -nya for object/accessory pronouns) (117).  See 251-252, 256-257 ",
-                    "",
                     "104-110; 114-115",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -928,10 +766,7 @@
                     "Note the number of distances in the demonstrative system",
                     "yes",
                     "",
-                    "(ngaatja/ngaatjanya 'this close by'), (palatja/palatjanya 'that a distance from the speaker'), (nyarratja/nyarratjanya 'that a greater distance from the speaker')",
-                    "",
                     "105",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -948,9 +783,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -962,10 +794,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "103-120; 130-120",
-                    "done-Hannah",
                     "",
                     "",
                     "0"
@@ -979,10 +808,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "103-120; 130-120",
-                    "done-Hannah",
                     "",
                     "",
                     "0"
@@ -996,10 +822,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "103-120; 130-120",
-                    "done-Hannah",
                     "",
                     "",
                     "0"
@@ -1016,9 +839,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1030,10 +850,7 @@
                     "e.g. English 'himself', Spanish 'se'; distinct form(s) from basic (non-reflexive) pronominals; distinct from reflexive verbal affix",
                     "yes",
                     "",
-                    "Reciprocal/Possessive: (-n\u0320atju) 1st sg, (-ngkun) 2nd sg, (-ngku) 2nd sg imp, (-ngku) 3rd sg, (-lingku) 1st du incl, (-litjungku) 1st du excl, (-ngkupulan) 2nd du, (-ngkuplua) 2nd du imp, (-ngkupula) 3rd du, (-langku) 1st pl incl, (-latjungku) 1st pl excl",
-                    "",
                     "120-121",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -1050,9 +867,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -1064,10 +878,7 @@
                     "Note the number of grammatical relations that may be morphologically marked on the noun",
                     "yes",
                     "",
-                    "syntactic: ergative: (-lu; allomorphs -tu, -t\u0320u, -tju), nominative: (\u2205; proper noun ending in V + -nya; proper noun/collective noun stem ending in C + -nga or -pa; common noun stem/pronoun ending in C + -pa; see 159), dative: (-ku), accessory: (-ngka; all",
-                    "",
                     "43; 45; 50-62",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -1081,10 +892,7 @@
                     "Subjects, objects, beneficiaries/recipients NOT marked, but other grammatical relations are",
                     "no",
                     "",
-                    "",
-                    "",
                     "45",
-                    "done-Hannah",
                     "",
                     "",
                     "0"
@@ -1098,10 +906,7 @@
                     "All NPs marked if in appropriate syntactic relation; no distinction in marking based on semantics (type of entity)",
                     "yes",
                     "",
-                    "",
-                    "",
                     "50",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -1115,10 +920,7 @@
                     "Semantically defined subset of NPs marked for case, e.g. animates",
                     "yes",
                     "",
-                    "",
-                    "",
                     "50",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -1132,10 +934,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "45",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -1152,9 +951,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -1167,9 +963,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "0"
@@ -1186,9 +979,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1201,9 +991,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "0"
@@ -1220,9 +1007,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -1235,9 +1019,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -1254,9 +1035,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1269,9 +1047,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -1288,9 +1063,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1305,9 +1077,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1319,10 +1088,7 @@
                     "'Many' or some other non-exact term used",
                     "no info",
                     "",
-                    "",
-                    "",
                     "246",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -1339,9 +1105,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1354,9 +1117,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "0"
@@ -1373,9 +1133,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1387,10 +1144,7 @@
                     "alienable/inalienable?",
                     "no",
                     "",
-                    "",
-                    "",
                     "111",
-                    "done-Hannah",
                     "",
                     "",
                     "0"
@@ -1404,10 +1158,7 @@
                     "alienable/inalienable?",
                     "yes",
                     "",
-                    "see 61",
-                    "",
                     "111; 120-122",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -1421,10 +1172,7 @@
                     "e.g. 'the boy-'s dog'",
                     "no info",
                     "",
-                    "see 261",
                     "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -1441,9 +1189,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1456,9 +1201,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -1475,9 +1217,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -1490,9 +1229,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -1509,9 +1245,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1524,9 +1257,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -1543,9 +1273,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1558,9 +1285,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -1577,9 +1301,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1592,9 +1313,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "0"
@@ -1611,9 +1329,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1626,9 +1341,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -1645,9 +1357,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1659,10 +1368,7 @@
                     "There is a morpheme which derives a verb from a noun or adjective",
                     "yes",
                     "",
-                    "transitive verbalisers: (-tju) 'put', (-pu) 'force', (-n\u0320t\u0320a) 'cause', (-tjinga) 'cause', (-ma) 'make'; intransitive verbalisers: (-wangka) 'talk', (-ma) 'sound', (-tjalka) 'fast', (-ya) 'went', (-wan\u0320i) 'around', (-ngara) 'stand', (-rri) 'become' (someti",
-                    "",
                     "137-145",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -1679,9 +1385,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1693,10 +1396,7 @@
                     "Past tense is regularly morphologically marked on the verb or elsewhere",
                     "yes",
                     "",
-                    "(-u) indicative/interrogative punctiliar; (-ma) indicative/interrogative continuous; (-la-nytja) past habituative continuous",
-                    "",
                     "168-169; 174-175",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -1713,9 +1413,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -1730,9 +1427,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -1744,10 +1438,7 @@
                     "",
                     "yes",
                     "",
-                    "(-ku) indicative/interrogative future punctiliar; (-malpa) indicative/interrogative future continuous",
-                    "",
                     "168-169",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -1764,9 +1455,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -1779,9 +1467,6 @@
                     "yes",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -1798,9 +1483,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -1815,9 +1497,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -1829,10 +1508,7 @@
                     "There is a special morpheme (or morphemes, or a bare verb root where inflection is normally expected) used to signal imperative (command) mood",
                     "no",
                     "",
-                    "(-wa) imperative punctiliar (wa class), (-rra) imperative punctiliar (rra class), (-la) imperative punctiliar (la class), (-\u2205) imperative punctiliar (\u2205 class); (-ma) imperative continous (all classes)",
-                    "",
                     "168-169",
-                    "done-Hannah",
                     "",
                     "",
                     "0"
@@ -1846,10 +1522,7 @@
                     "There is a distinct morpheme for polite imperative constructions (specify if it has other functions in the language)",
                     "no",
                     "",
-                    "",
-                    "",
                     "201",
-                    "done-Hannah",
                     "",
                     "",
                     "0"
@@ -1863,10 +1536,7 @@
                     "There are different strategies for marking negation in imperative and declarative clauses",
                     "no",
                     "",
-                    "",
-                    "",
                     "195",
-                    "done-Hannah",
                     "",
                     "",
                     "0"
@@ -1880,10 +1550,7 @@
                     "as opposed to imperative; the person in control of desired state of affairs is not the addressee; ex: 'Let's sing' / 'Let him sing'",
                     "yes",
                     "",
-                    "(-\u2205-nytjaku) punctiliar; (-la-nytjaku) continuous",
-                    "",
                     "174; 197",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -1900,9 +1567,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1915,9 +1579,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -1934,9 +1595,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1948,10 +1606,7 @@
                     "Modal expressing hypothesis",
                     "no",
                     "",
-                    "",
-                    "",
                     "69",
-                    "done-Hannah",
                     "",
                     "",
                     "0"
@@ -1968,9 +1623,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1985,9 +1637,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1999,10 +1648,7 @@
                     "There is inflectional marking of expected/unexpected",
                     "yes",
                     "",
-                    "(-lka) contrary to expectation",
-                    "",
                     "214",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -2019,9 +1665,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -2033,10 +1676,7 @@
                     "Modal expressing habituality",
                     "yes",
                     "",
-                    "(-in) present continuous; (-la-nytja) past habituative continuous",
-                    "",
                     "81?; 170?; 174-175; 199-200?",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -2050,10 +1690,7 @@
                     "There is a single morpheme or verb form to mean '(be careful lest) X happens'",
                     "yes",
                     "",
-                    "avoidance case: (-ngkamarra)",
-                    "",
                     "60",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -2070,9 +1707,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -2084,10 +1718,7 @@
                     "Note whether these inflectional markers are positive or negative",
                     "yes",
                     "",
-                    "",
-                    "",
                     "69",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -2101,10 +1732,7 @@
                     "There are grammaticalized elements indicating movement away, toward, there and back, etc.",
                     "no",
                     "",
-                    "(ma 'away from'), (ngalya 'toward'), (wati 'across'), (parra 'around')",
-                    "",
                     "77; 84; 89; 151",
-                    "done-Hannah",
                     "",
                     "",
                     "0"
@@ -2121,9 +1749,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -2136,9 +1761,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -2155,9 +1777,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -2169,10 +1788,7 @@
                     "Indicates speaker is not responsible for veracity of statement, merely reporting; 'allegedly'",
                     "yes",
                     "",
-                    "(-kunyu) 'report'",
-                    "",
                     "215",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -2189,9 +1805,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -2204,9 +1817,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -2223,9 +1833,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -2238,9 +1845,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -2257,9 +1861,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -2272,9 +1873,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -2291,9 +1889,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -2306,9 +1901,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -2325,9 +1917,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "1"
                 ],
                 [
@@ -2340,9 +1929,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -2359,9 +1945,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -2374,9 +1957,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -2393,9 +1973,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -2408,9 +1985,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -2427,9 +2001,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "1"
                 ],
                 [
@@ -2442,9 +2013,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -2461,9 +2029,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -2476,9 +2041,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -2495,9 +2057,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -2510,9 +2069,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -2529,9 +2085,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -2544,9 +2097,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -2563,9 +2113,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -2578,9 +2125,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -2597,9 +2141,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -2612,9 +2153,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -2631,9 +2169,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -2646,9 +2181,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -2665,9 +2197,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2682,9 +2211,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2696,10 +2222,7 @@
                     "Subjects of intransitive clauses and objects of transitives share a unique marker, while subjects of transitive clauses are unmarked or have a different marker",
                     "yes",
                     "",
-                    "",
-                    "",
                     "51-53",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -2716,9 +2239,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2731,9 +2251,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -2750,9 +2267,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2767,9 +2281,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2781,10 +2292,7 @@
                     "yes, no, mixed, other",
                     "yes",
                     "",
-                    "",
-                    "",
                     "103-107",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -2798,10 +2306,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "103-107",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -2818,9 +2323,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -2832,10 +2334,7 @@
                     "Same as above, for pronominal affixes/clitics on verbs",
                     "yes",
                     "",
-                    "",
-                    "",
                     "51; 53; 114-115",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -2852,9 +2351,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2867,9 +2363,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -2886,9 +2379,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2903,9 +2393,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2917,10 +2404,7 @@
                     "Pronominal subjects are free pronouns that occur in the same position as full NP subjects",
                     "yes",
                     "",
-                    "",
-                    "",
                     "103",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -2937,9 +2421,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2954,9 +2435,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2968,10 +2446,7 @@
                     "Pronominal subjects are clitics that can attach to verbs, nominal constituents, etc.",
                     "yes",
                     "",
-                    "",
-                    "",
                     "15; 49; 114-115",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -2985,10 +2460,7 @@
                     "Pronominal subjects are free pronouns but do not normally occur in the position expected for full NP subjects",
                     "yes",
                     "",
-                    "",
-                    "",
                     "103",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -3002,10 +2474,7 @@
                     "Intransitive verbs take person-marking clitics/affixes",
                     "yes",
                     "",
-                    "",
-                    "",
                     "15; 49; 114-115",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -3019,10 +2488,7 @@
                     "Transitive verbs take subject (A) markers",
                     "yes",
                     "",
-                    "",
-                    "",
                     "15; 49; 114-115",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -3036,10 +2502,7 @@
                     "Transitive verbs take object (P) markers",
                     "yes",
                     "",
-                    "",
-                    "",
                     "15; 49; 114-115",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -3053,10 +2516,7 @@
                     "3rd person subjects are not overtly marked within the verbal person-marking system",
                     "yes",
                     "",
-                    "",
-                    "",
                     "15; 114-115",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -3070,10 +2530,7 @@
                     "3rd person objects are not overtly marked within the verbal person-marking system",
                     "yes",
                     "",
-                    "",
-                    "",
                     "15; 114-115",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -3090,9 +2547,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -3105,9 +2559,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "0"
@@ -3124,9 +2575,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -3138,10 +2586,7 @@
                     "In ditransitives (e.g. 'John gives a book to Bill'), the theme (book) is treated in the same way as are objects of transitives, while the recipient/beneficiary (Bill) is treated differently",
                     "yes",
                     "",
-                    "",
-                    "",
                     "54-55; 123-125",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -3158,9 +2603,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -3175,9 +2617,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -3189,10 +2628,7 @@
                     "Verb becomes reciprocal through use of reciprocal morpheme associated with the verb (may be attached to the verb root). This morpheme is only used to mean reciprocal.",
                     "no",
                     "",
-                    "",
-                    "",
                     "120",
-                    "done-Hannah",
                     "",
                     "",
                     "0"
@@ -3206,10 +2642,7 @@
                     "Verb becomes reflexive through use of reflexive morpheme associated with the verb (may be attached to the verb root). This morpheme is used only to mean reflexive. ",
                     "no",
                     "",
-                    "",
-                    "",
                     "120",
-                    "done-Hannah",
                     "",
                     "",
                     "0"
@@ -3223,10 +2656,7 @@
                     "Verb becomes reciprocal or reflexive through use of a morpheme that means either reciprocal or reflexive which attaches to the root of the verb",
                     "yes",
                     "",
-                    "(-n\u0320atju) 1st sg, (-ngkun) 2nd sg, (-ngku) 2nd sg imp, (-ngku) 3rd sg, (-lingku) 1st du incl, (-litjungku) 1st du excl, (-ngkupulan) 2nd du, (-ngkupula) 2nd du imp, (-ngkupula) 3rd du, (-langku) 1st pl incl, (-latjungku) 1st pl excl, (-ngkunyurra) 2nd pl,",
-                    "",
                     "15; 114-115; 120-121",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -3243,9 +2673,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3258,9 +2685,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -3277,9 +2701,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3292,9 +2713,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -3311,9 +2729,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3328,9 +2743,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -3342,10 +2754,7 @@
                     "Causative is morphological and is attached after the root of the verb",
                     "yes",
                     "",
-                    "transitive verbaliser (-n\u0320t\u0320a) 'cause'; transitive verbaliser (-tjinga) 'cause'",
-                    "",
                     "139-140; 146",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -3362,9 +2771,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -3377,9 +2783,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "0"
@@ -3396,9 +2799,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -3411,9 +2811,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -3430,9 +2827,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3444,10 +2838,7 @@
                     "Clausal negator is a preposed element",
                     "no info",
                     "",
-                    "wiya",
-                    "",
                     "78; 198",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -3461,10 +2852,7 @@
                     "Clausal negator is a postposed element",
                     "no info",
                     "",
-                    "wiya",
-                    "",
                     "78",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -3478,10 +2866,7 @@
                     "Negatives: affix",
                     "yes",
                     "",
-                    "(-pan\u0320i), dialectal forms (-maral) and (-wiya) (different from free form 'wiya')",
-                    "",
                     "78",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -3495,10 +2880,7 @@
                     "Negatives: particle",
                     "yes",
                     "",
-                    "wiya",
-                    "",
                     "78",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -3515,9 +2897,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3530,9 +2909,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -3549,9 +2925,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3563,10 +2936,7 @@
                     "Lexical expression or highly idiomatic phrase",
                     "yes",
                     "",
-                    "ngurrpa",
-                    "",
                     "252",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -3580,10 +2950,7 @@
                     "Yes/no questions distinguished from declaratives by interrogative particle",
                     "no info",
                     "",
-                    "",
-                    "",
                     "196; 216",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -3597,10 +2964,7 @@
                     "Yes/no questions distinguished from declaratives by interrogative verb morphology ",
                     "no",
                     "",
-                    "",
-                    "",
                     "196",
-                    "done-Hannah",
                     "",
                     "",
                     "0"
@@ -3617,9 +2981,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -3631,10 +2992,7 @@
                     "Yes/no questions distinguished from declaratives by intonation only",
                     "yes",
                     "",
-                    "",
-                    "",
                     "196-197",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -3648,10 +3006,7 @@
                     "Content questions distinguished from declaratives by word order (esp. subject-verb inversion) as well as by presence of Q-word (who, what, etc.)",
                     "no",
                     "",
-                    "",
-                    "",
                     "196; 216",
-                    "done-Hannah",
                     "",
                     "",
                     "0"
@@ -3668,9 +3023,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3685,9 +3037,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3699,10 +3048,7 @@
                     "Predicate nominals may occur without a copula (i.e. grammatical in some circumstances, if not all)",
                     "no info",
                     "",
-                    "",
-                    "",
                     "214",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -3719,9 +3065,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3734,9 +3077,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -3753,9 +3093,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3768,9 +3105,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -3787,9 +3121,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3802,9 +3133,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -3821,9 +3149,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -3835,10 +3160,7 @@
                     "There are special markers to indicate same vs. different subject when two clauses are combined",
                     "yes",
                     "",
-                    "(-lu/-\u2205) same participant, (-ngka) different participant",
-                    "",
                     "62-64",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -3852,10 +3174,7 @@
                     "Morphology (usually on verb) distinguishes between clauses denoting events that occur at the same time or in sequence",
                     "no",
                     "",
-                    "(-lu/-\u2205) same participant, (-ngka) different participant",
-                    "",
                     "62-64",
-                    "done-Hannah",
                     "",
                     "",
                     "0"
@@ -3872,9 +3191,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3887,9 +3203,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -3906,9 +3219,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3921,9 +3231,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -3940,9 +3247,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3955,9 +3259,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -3974,9 +3275,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3989,9 +3287,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -4008,9 +3303,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -4023,9 +3315,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "0"
@@ -4042,9 +3331,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4056,10 +3342,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "45, 47",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -4073,10 +3356,7 @@
                     "",
                     "no?",
                     "",
-                    "",
-                    "",
                     "45, 47",
-                    "done-Hannah",
                     "",
                     "",
                     "0"
@@ -4090,10 +3370,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "45-49; 61-70",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -4110,9 +3387,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4125,9 +3399,6 @@
                     "yes",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -4144,9 +3415,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4161,9 +3429,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4175,10 +3440,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "113-114",
-                    "done-Hannah",
                     "",
                     "",
                     "0"
@@ -4192,10 +3454,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "113-114",
-                    "done-Hannah",
                     "",
                     "",
                     "0"
@@ -4209,10 +3468,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "96",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -4229,9 +3485,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4246,9 +3499,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4260,10 +3510,7 @@
                     "yes to any of HG 173-175 entails yes to this; not necessarily? - CB",
                     "yes",
                     "",
-                    "Subject: (-n\u0320a) 1st sg, (-n) 2nd sg, (-\u2205) 2nd sg imp, (-\u2205) 3rd sg, (-li) 1st du incl, (-litju) 1st du excl, (-pulan) 2nd du, (-pula) 2nd du imp, (-pula) 3rd du, (-la) 1st pl incl, (-latju) 1st pl excl, (-nyurra) 2nd pl, (-ya) 2nd pl imp, (-ya) 3rd pl.  Ob",
-                    "",
                     "113-129",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -4277,10 +3524,7 @@
                     "",
                     "yes",
                     "",
-                    "Free form: ngayu + syntactic case (1st sg/du), ngayun + syntactic case (1st pl), nyurra + syntactic case (2nd sg/du), nyurran + syntactic case (2nd pl), ngaa + syntactic case (3rd sg/du), pala + syntactic case (3rd sg/du), nyarra + syntactic case (3rd sg/",
-                    "",
                     "103-104",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -4297,9 +3541,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4314,9 +3555,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4328,10 +3566,7 @@
                     "",
                     "yes",
                     "",
-                    "(ngana) who; (nyaa) what",
-                    "",
                     "196",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -4345,10 +3580,7 @@
                     "",
                     "yes",
                     "",
-                    "bound: exclusive marker (-tju) added to free pronouns (117).  See 251-252 for details.  Free form: ergative subject (A)/nominative subject (S): incl: ngayu + (-lu for erg, -nya for nom) + (-li); excl: ngayu + (-lu for erg, -nya for nom) + (-litju).  Nomin",
-                    "",
                     "104-112",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -4362,10 +3594,7 @@
                     "",
                     "yes",
                     "",
-                    "bound: exclusive marker (-tju) added to free pronouns (117).  See 251-252 for details.  Free form: free form pronouns + bound pronouns.  ergative subject (A)/nominative subject (S): incl: ngayun + (-tu for erg, -pa for nom) + (-la); excl: ngayun + (-tu fo",
-                    "",
                     "104-112",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -4379,10 +3608,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "104-120; 130-120",
-                    "done-Hannah",
                     "",
                     "",
                     "0"
@@ -4399,9 +3625,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "1"
                 ],
                 [
@@ -4416,9 +3639,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "1"
                 ],
                 [
@@ -4430,10 +3650,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "54; 95; 111; 118; 121-122",
-                    "done-Hannah",
                     "",
                     "",
                     "0"
@@ -4447,10 +3664,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "127-128",
-                    "done-Hannah",
                     "",
                     "",
                     "0"
@@ -4467,9 +3681,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "1"
                 ],
                 [
@@ -4484,9 +3695,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4498,10 +3706,7 @@
                     "related to, and maybe equivalent to, HG 206-207 (not equivalent if verbal negation is being treated separately from clausal negation)",
                     "no",
                     "",
-                    "(-pan\u0320i), dialectal forms (-maral) and (-wiya) (different from free form 'wiya')",
-                    "",
                     "78",
-                    "done-Hannah",
                     "",
                     "",
                     "0"
@@ -4518,9 +3723,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -4533,9 +3735,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -4552,9 +3751,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4569,9 +3765,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4583,10 +3776,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "15",
-                    "done-Hannah",
                     "",
                     "",
                     "0"
@@ -4603,9 +3793,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -4618,9 +3805,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -4637,9 +3821,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -4652,9 +3833,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -4671,9 +3849,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4685,10 +3860,7 @@
                     "",
                     "yes",
                     "",
-                    "(-in) indicative/interrogative continuous",
                     "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -4702,10 +3874,7 @@
                     "",
                     "yes",
                     "",
-                    "(wa) class: (-in) indicative/interrogative present, (-ma) indicative/interrogative past, (-malpa) indicative/interrogative future, (-ma) imperative, (-la) hortative/past habituative/nominalised forms/projected reason.  (rra) class: (-in) indicative/interr",
-                    "",
                     "167",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -4719,10 +3888,7 @@
                     "",
                     "yes",
                     "",
-                    "(wa) class: (-u) indicative/interrogative past, (-ku) indicative/interrogative future, (-wa) imperative, (-\u2205) hortative, (-\u2205) nominalised forms/projected reason.  (rra) class: (-u) indicative/interrogative past, (-ku) indicative/interrogative future, (-rr",
-                    "",
                     "167",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -4736,10 +3902,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "166-167",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -4756,9 +3919,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4771,9 +3931,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -4790,9 +3947,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4805,9 +3959,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -4824,9 +3975,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4839,9 +3987,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -4858,9 +4003,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4872,10 +4014,7 @@
                     "",
                     "yes",
                     "",
-                    "(wa) class: (-ng) Form A, (-ngku) Form B; (rra) class: (-n) Form A, (-nku) Form B; (la) class: (-n\u0320) Form A, (-l) Form B; (-\u2205) class: (-\u2205) Form A, (-\u2205) Form B (157)",
-                    "",
                     "15; 157-158",
-                    "done-Hannah",
                     "",
                     "",
                     "1"
@@ -4892,9 +4031,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4907,9 +4043,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -4926,9 +4059,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4941,9 +4071,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -4960,9 +4087,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4974,10 +4098,7 @@
                     "",
                     "no info",
                     "",
-                    "",
-                    "",
                     "47-48",
-                    "done-Hannah",
                     "",
                     "",
                     "x"
@@ -4994,9 +4115,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -5011,9 +4129,6 @@
                     "",
                     "",
                     "",
-                    "done-Hannah",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -5026,9 +4141,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "done-Hannah",
                     "",
                     "",
                     "0"

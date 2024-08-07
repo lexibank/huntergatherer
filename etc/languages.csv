@@ -255,10 +255,10 @@ ID,Name,Glottocode,Glottolog_Name
 267,Paraguayan Guaraní,para1311,Paraguayan Guaraní
 268,Kokama,coca1259,Cocama-Cocamilla
 269,"Wambaya [], Unknown Australia",wamb1258,
-270,"Garrwa [], Unknown Australia",,
+270,"Garrwa [], Unknown Australia",gara1269,
 271,"Yugambeh [], Unknown Australia",yuga1244,
 272,"Yorta Yorta [], Unknown Australia",yort1237,
-273,"Yir Yoront [], Unknown Australia",yiry1247,
+273,"Yir Yoront [], Unknown Australia",yiry1245,
 274,"Yindjibarndi [], Unknown Australia",yind1247,
 275,"Yanyuwa [], Unknown Australia",yany1243,
 276,"Yalarnnga [], Unknown Australia",yala1262,
@@ -266,15 +266,15 @@ ID,Name,Glottocode,Glottolog_Name
 278,"Wirangu [], Unknown Australia",wira1265,
 279,"Wemba-Wemba [], Unknown Australia",wemb1241,
 280,"Warumungu [], Unknown Australia",waru1265,
-281,"Wangkumara [], Unknown Australia",ngur1261,
+281,"Wangkumara [], Unknown Australia",wong1246,
 282,"Uradhi [], Unknown Australia",urad1238,
 283,"Pintupi [], Unknown Australia",pint1250,
 284,"Nyungar [], Unknown Australia",nyun1247,
 285,"Nhanta [], Unknown Australia",nhan1238,
-286,"Ngiyambaa [], Unknown Australia",ngiy1239,
-287,"Ngayawang [], Unknown Australia",,
+286,"Ngiyambaa [], Unknown Australia",wang1291,
+287,"Ngayawang [], Unknown Australia",lowe1402,
 288,"Muruwari [], Unknown Australia",muru1266,
-289,"Mpakwithi [], Unknown Australia",,
+289,"Mpakwithi [], Unknown Australia",angu1242,
 290,"Martuthunira [], Unknown Australia",mart1255,
 291,"Marrgany [], Unknown Australia",marg1253,
 293,"Kuku Yalanji [], Unknown Australia",kuku1273,
@@ -288,27 +288,27 @@ ID,Name,Glottocode,Glottolog_Name
 301,"Dyirbal [], Unknown Australia",dyir1250,
 302,"Duungidjawu [], Unknown Australia",duun1241,
 303,"Djabugay [], Unknown Australia",dyaa1242,
-304,"Dharuk [], Unknown Australia",,
+304,"Dharuk [], Unknown Australia",sydn1236,
 305,"Dharawal [], Unknown Australia",thur1254,
-306,"Darkinyung [], Unknown Australia",,
+306,"Darkinyung [], Unknown Australia",hawk1239,
 307,"Bularnu [], Unknown Australia",bula1255,
 308,"Biri [], Unknown Australia",biri1256,
 309,"Bidjara-Gungabula [], Unknown Australia",gung1248,
-310,"Batyala [], Unknown Australia",,
+310,"Batyala [], Unknown Australia",baty1234,
 311,"Alyawarr [], Unknown Australia",alya1239,
 312,"Wathawurrung [], Unknown Australia",wath1238,
 313,"Mathi-Mathi [], Unknown Australia",madh1244,
 314,"Hunter River and Lake Macquarie [], Unknown Australia",awab1243,
-315,"Thanggati [], Unknown Australia",,
-316,"Katthang [], Unknown Australia",,
+315,"Thanggati [], Unknown Australia",maly1234,
+316,"Katthang [], Unknown Australia",gath1234,
 317,"Panyjima [], Unknown Australia",pany1241,
 318,"Ngarinyeri [], Unknown Australia",narr1259,
 319,"Kurrama [], Unknown Australia",kurr1243,
 320,"Yingkarta [], Unknown Australia",ying1247,
-321,"Githabul [], Unknown Australia",,
+321,"Githabul [], Unknown Australia",cond1242,
 322,"Gunya [], Unknown Australia",guny1241,
 323,"Kunjen [], Unknown Australia",kunj1245,
-324,"WesternTorres [], Unknown Australia",,
+324,"WesternTorres [], Unknown Australia",kala1377,
 325,"Wakaya [], Unknown Australia",waga1260,
 326,"Yindjilindji [], Unknown Australia",yind1248,
 327,"Bandjalang [], Unknown Australia",band1339,
@@ -369,8 +369,8 @@ ID,Name,Glottocode,Glottolog_Name
 390,Pilagá,pila1245,Pilagá
 391,Toba,toba1269,Toba
 392,Lengua,leng1262,Lengua
-393,Sanapaná/Dialect Angaité,sana1281,Sanapaná
-394,Sanapaná/Dialect Enlhet,sana1281,Sanapaná
+393,Sanapaná/Dialect Angaité,anga1316,Sanapaná
+394,Sanapaná/Dialect Enlhet,toba1268,Sanapaná
 395,Wichí Lhamtés Güisnay,wich1264,Wichí Lhamtés Güisnay
 396,"Chorote, Iyojwa'ja ",iyoj1235,Iyojwa'ja Chorote
 397,Maca,maca1260,Maca
@@ -385,23 +385,23 @@ ID,Name,Glottocode,Glottolog_Name
 406,Asháninka,asha1243,Asháninka
 407,Machiguenga,mach1267,Machiguenga
 408,Caquinte,caqu1242,Caquinte
-409,Nomatsigenga,noma1263,Nomatsiguenga,
+409,Nomatsigenga,noma1263,Nomatsiguenga
 410,Iñapari,inap1242,Iñapari
-411,Manxineri,,
+411,Manxineri,mach1268,
 412,Jarawara,jara1276,Jarawara
-413,Dení,,
+413,Dení,deni1241,
 414,Kulina,kuli1255,Kulina Pano
-415,Paumarí,,
-416,Soruahá,,
+415,Paumarí,paum1247,
+416,Soruahá,suru1263,
 417,Tsafiki,colo1256,Tsafiki
-418,Awa Pit,,
+418,Awa Pit,awac1239,
 419,Shawi,chay1248,Shawi
 420,Jebero,jebe1250,Jebero
-421,Kariña,,
-422,Maquiritari,,
-423,Trió,
+421,Kariña,gali1262,
+422,Maquiritari,maqu1238,
+423,Trió,trio1238,
 424,Panare,enap1235,Panare
-425,Moré,,
+425,Moré,moss1236,
 426,Tapakura,kite1238,Kitemoka-Tapakura
 427,Kitemoka,kite1237,Kitemoka
 428,Pech,pech1241,Pech
@@ -409,31 +409,31 @@ ID,Name,Glottocode,Glottolog_Name
 430,Boruca,boru1252,Boruca
 431,Dorasque,dora1242,Dorasque
 432,Bribri,brib1243,Bribri
-433,Miskitu,,
+433,Miskitu,misk1235,
 434,Embera,embe1260,Emberá-Catío
-435,Huachapaeri,,
+435,Huachapaeri,huac1244,
 436,Amarakaeri,amar1274,Amarakaeri
 437,Muniche,muni1258,Muniche
 438,Omurano,omur1241,Omurano
 439,Aikanã,aika1237,Aikanã
 440,Kanoê,kano1245,Kanoê
-441,Yurakare,,
+441,Yurakare,yura1255,
 442,Kanamarí,kana1291,Katukína-Kanamarí
 443,Rikbaktsa,rikb1245,Rikbaktsa
 444,Arikapu,arik1265,Arikapú
 445,Sabane,saba1268,Sabanê
 446,Marubo,maru1252,Marúbo
-447,Kashibo,,,
+447,Kashibo,cash1252,
 448,Kapanawa,ship1253,Shipibo-Konibo-Kapanawa
 449,Kaxarari,kaxa1239,Kaxararí
-451,Amawaka,,,
-452,Mako,,
+451,Amawaka,amah1246,
+452,Mako,maco1239,
 453,Kueretu,cure1236,Kueretu
 454,Gavião,gavi1247,Gavião
 455,Mundurukú,mund1330,Mundurukú
 456,Aruá,arua1261,Aruá (Rondonia State)
 457,Akuntsu,akun1241,Akuntsu
-458,Mekéns,,
+458,Mekéns,saki1248,
 459,Wayoro,wayo1238,Wayoró
 460,Tupari,tupa1250,Tupari
 461,Makuráp,maku1278,Makuráp
@@ -441,9 +441,9 @@ ID,Name,Glottocode,Glottolog_Name
 463,Puruborá,puru1264,Puruborá
 464,Mawé,sate1243,Sateré-Mawé
 465,Parintintin,pari1258,Parintintín
-466,Urubu-Ka'apor,,
+466,Urubu-Ka'apor,urub1250,
 467,Emerillon,emer1243,Teko
-468,Pauserna,,
+468,Pauserna,pasu1244,
 469,Guarayu,guar1292,Guarayu
 470,Tupinamba,tupi1273,Tupinambá
 471,Arabela,arab1268,Arabela
@@ -451,9 +451,9 @@ ID,Name,Glottocode,Glottolog_Name
 473,Warekena do Xié,ware1255,Warekena do San Miguel
 474,Bahuana,bahu1238,Bahuanaic
 475,Banawa,bana1307,Banawa
-476,Guatuso,,
+476,Guatuso,male1297,
 477,Tunebo,tune1260,Tunebo
 478,Shuar,shua1257,Shuar
 479,Shiwiar,shiw1235,Shiwiar
-480,A'ɨwa,,
+480,A'ɨwa,abis1238,
 487,Matis,mati1255,Matís

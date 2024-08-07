@@ -8,11 +8,8 @@
                 "Grammatical Feature",
                 "Grammatical Feature: Notes",
                 "Feature Status",
-                "Phonemicized Form",
-                "Orthographic Form",
                 "Grammatical Notes",
                 "Source",
-                "Created By",
                 "Etymology Notes",
                 "General Notes",
                 "Phylogenetic Code"
@@ -27,10 +24,7 @@
                     "Analysis posits that the stop is the most relevant underlying phoneme. Comment in notes on whether the nasal contour is understood as a phonetic (allophonic) effect, or is phonologically contrastive. ",
                     "yes",
                     "",
-                    "",
-                    "",
                     "816",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -47,9 +41,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -64,9 +55,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "1"
                 ],
                 [
@@ -78,10 +66,7 @@
                     "Does the language have long and short vowels?",
                     "yes",
                     "",
-                    "",
-                    "",
                     "829",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -98,9 +83,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -112,10 +94,7 @@
                     "Onset consists of more than one consonant phoneme",
                     "no",
                     "",
-                    "",
-                    "",
                     "852",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -129,10 +108,7 @@
                     "*(C)VC [no also equals highly constrained]",
                     "no",
                     "",
-                    "",
-                    "",
                     "852",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -146,10 +122,7 @@
                     "Do all syllables end in a consonant?",
                     "no",
                     "",
-                    "",
-                    "",
                     "852",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -166,9 +139,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -181,9 +151,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -200,9 +167,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -217,9 +181,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -231,10 +192,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "839",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -248,10 +206,7 @@
                     "Verb combines two or more categories (tense, aspect, mood, person, number, etc.) in portmanteau morphemes{ [ignore proclitics unless they are fused with values other than person/number]",
                     "no",
                     "",
-                    "",
-                    "",
                     "915",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -268,9 +223,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -285,9 +237,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "1"
                 ],
                 [
@@ -299,10 +248,7 @@
                     "There are many more prefixes than suffixes",
                     "no",
                     "",
-                    "",
-                    "",
                     "862",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -316,10 +262,7 @@
                     "There are many more suffixes than prefixes",
                     "yes",
                     "",
-                    "",
-                    "",
                     "862",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -333,10 +276,7 @@
                     "The numbers of suffixes and prefixes are not notably different",
                     "no",
                     "",
-                    "",
-                    "",
                     "862",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -350,10 +290,7 @@
                     "The full morpheme is reduplicated",
                     "yes",
                     "",
-                    "",
-                    "",
                     "951",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -367,10 +304,7 @@
                     "Only part of the morpheme is reduplicated",
                     "yes",
                     "",
-                    "",
-                    "",
                     "952",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -384,10 +318,7 @@
                     "Noun compounds created from two noun phrases are common and systematically produced",
                     "yes",
                     "",
-                    "",
-                    "",
                     "823",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -404,9 +335,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -419,9 +347,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Amalia",
                     "",
                     "",
                     "x"
@@ -438,9 +363,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -453,9 +375,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Amalia",
                     "",
                     "",
                     "x"
@@ -472,9 +391,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -489,9 +405,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -503,10 +416,7 @@
                     "Nouns are organized into sets with distinct morphological treatment; usually affects all nouns and involves agreement within the NP",
                     "yes",
                     "",
-                    "",
-                    "",
                     "881",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -520,10 +430,7 @@
                     "Note the (approximate) total number of noun classes/genders",
                     "yes",
                     "",
-                    "",
-                    "",
                     "881",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -540,9 +447,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -554,10 +458,7 @@
                     "Masculine, feminine, neuter",
                     "no",
                     "",
-                    "",
-                    "",
                     "881",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -571,10 +472,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "881",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -588,10 +486,7 @@
                     "Animate/inanimate, human/non-human",
                     "no",
                     "",
-                    "",
-                    "",
                     "881",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -605,10 +500,7 @@
                     "add in notes section whether gender is present in other PNs or not in any PNs; consider with reference to pronouns and person marking only",
                     "no",
                     "",
-                    "",
-                    "",
                     "907",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -622,10 +514,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "881",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -639,10 +528,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "881",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -659,9 +545,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -674,9 +557,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Amalia",
                     "",
                     "",
                     "x"
@@ -693,9 +573,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -707,10 +584,7 @@
                     "Often occurs in a small subset of nouns if a single entity is referred to, e.g. insects that normally occur in groups",
                     "no",
                     "",
-                    "",
-                    "",
                     "881",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -724,10 +598,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "881",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -741,10 +612,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "881",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -758,10 +626,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "881",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -775,10 +640,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "881",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -795,9 +657,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -809,10 +668,7 @@
                     "Pronouns use a nominal plural affix not specific to pronouns",
                     "no",
                     "",
-                    "",
-                    "",
                     "881",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -829,9 +685,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -844,9 +697,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -863,9 +713,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -880,9 +727,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -894,10 +738,7 @@
                     "Inclusive  =us + you, exclusive = us but not you",
                     "yes",
                     "",
-                    "",
-                    "",
                     "907",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -914,9 +755,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -928,10 +766,7 @@
                     "Note the number of distances in the demonstrative system",
                     "yes",
                     "",
-                    "",
-                    "",
                     "879",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -945,10 +780,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "879",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -962,10 +794,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "907",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -979,10 +808,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "907",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -996,10 +822,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "907",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -1016,9 +839,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1030,10 +850,7 @@
                     "e.g. English 'himself', Spanish 'se'; distinct form(s) from basic (non-reflexive) pronominals; distinct from reflexive verbal affix",
                     "yes",
                     "",
-                    "",
-                    "",
                     "867",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -1047,10 +864,7 @@
                     "Prepositions or postpositions mark subjects, objects, beneficiaries/recipients",
                     "no",
                     "",
-                    "",
-                    "",
                     "881",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -1064,10 +878,7 @@
                     "Note the number of grammatical relations that may be morphologically marked on the noun",
                     "yes",
                     "",
-                    "",
-                    "",
                     "881",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -1081,10 +892,7 @@
                     "Subjects, objects, beneficiaries/recipients NOT marked, but other grammatical relations are",
                     "no",
                     "",
-                    "",
-                    "",
                     "881",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -1098,10 +906,7 @@
                     "All NPs marked if in appropriate syntactic relation; no distinction in marking based on semantics (type of entity)",
                     "no",
                     "",
-                    "",
-                    "",
                     "881",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -1115,10 +920,7 @@
                     "Semantically defined subset of NPs marked for case, e.g. animates",
                     "yes",
                     "",
-                    "",
-                    "",
                     "881",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -1132,10 +934,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "881",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -1149,10 +948,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "881",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -1166,10 +962,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "881",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -1183,10 +976,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "881",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -1200,10 +990,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "881",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -1217,10 +1004,7 @@
                     "Same marking for 'with a person' and 'with an instrument'",
                     "no",
                     "",
-                    "",
-                    "",
                     "895",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -1237,9 +1021,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1252,9 +1033,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Amalia",
                     "",
                     "",
                     "x"
@@ -1271,9 +1049,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1286,9 +1061,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Amalia",
                     "",
                     "",
                     "x"
@@ -1305,9 +1077,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1320,9 +1089,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Amalia",
                     "",
                     "",
                     "x"
@@ -1339,9 +1105,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1354,9 +1117,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -1373,9 +1133,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -1388,9 +1145,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -1407,9 +1161,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -1421,10 +1172,7 @@
                     "e.g. 'the boy-'s dog'",
                     "yes",
                     "",
-                    "",
-                    "",
                     "898",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -1438,10 +1186,7 @@
                     "e.g. 'the boy his-dog'",
                     "no",
                     "",
-                    "",
-                    "",
                     "898",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -1458,9 +1203,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1472,10 +1214,7 @@
                     "Where inalienable possession differs from alienable, the former takes a morphological marker (may include an associated free particle/pronoun)",
                     "no",
                     "",
-                    "",
-                    "",
                     "898",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -1489,10 +1228,7 @@
                     "Where inalienable possession differs from alienable, the latter takes a morphological marker (may include an associated free particle/pronoun)",
                     "yes",
                     "",
-                    "",
-                    "",
                     "898",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -1509,9 +1245,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1526,9 +1259,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1540,10 +1270,7 @@
                     "'my-leg' but *leg",
                     "yes",
                     "",
-                    "",
-                    "",
                     "898",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -1560,9 +1287,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -1575,9 +1299,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -1594,9 +1315,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -1611,9 +1329,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1625,10 +1340,7 @@
                     "There is a morpheme which derives an agent or subject from a verb",
                     "yes",
                     "",
-                    "",
-                    "",
                     "959",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -1645,9 +1357,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1659,10 +1368,7 @@
                     "There is a morpheme which derives a verb from a noun or adjective",
                     "yes",
                     "",
-                    "",
-                    "",
                     "955",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -1679,9 +1385,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1693,10 +1396,7 @@
                     "Past tense is regularly morphologically marked on the verb or elsewhere",
                     "yes",
                     "",
-                    "",
-                    "",
                     "912",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -1713,9 +1413,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -1730,9 +1427,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -1744,10 +1438,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "913",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -1761,10 +1452,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "910",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -1778,10 +1466,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "910",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -1795,10 +1480,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "910",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -1815,9 +1497,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1829,10 +1508,7 @@
                     "There is a special morpheme (or morphemes, or a bare verb root where inflection is normally expected) used to signal imperative (command) mood",
                     "yes",
                     "",
-                    "",
-                    "",
                     "868",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -1846,10 +1522,7 @@
                     "There is a distinct morpheme for polite imperative constructions (specify if it has other functions in the language)",
                     "no",
                     "",
-                    "",
-                    "",
                     "868",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -1863,10 +1536,7 @@
                     "There are different strategies for marking negation in imperative and declarative clauses",
                     "no",
                     "",
-                    "",
-                    "",
                     "874",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -1883,9 +1553,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1897,10 +1564,7 @@
                     "Inflectional marking of capacity to do something",
                     "yes",
                     "",
-                    "",
-                    "",
                     "924",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -1917,9 +1581,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1931,10 +1592,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "924",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -1951,9 +1609,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1966,9 +1621,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Amalia",
                     "",
                     "",
                     "x"
@@ -1985,9 +1637,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -2000,9 +1649,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Amalia",
                     "",
                     "",
                     "x"
@@ -2019,9 +1665,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -2033,10 +1676,7 @@
                     "Modal expressing habituality",
                     "no",
                     "",
-                    "",
-                    "",
                     "921",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -2053,9 +1693,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -2067,10 +1704,7 @@
                     "There are dedicated morpheme(s) for realis/irrealis 'actualized/unactualized events'",
                     "yes",
                     "",
-                    "",
-                    "",
                     "912",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -2087,9 +1721,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -2101,10 +1732,7 @@
                     "There are grammaticalized elements indicating movement away, toward, there and back, etc.",
                     "yes",
                     "",
-                    "",
-                    "",
                     "930",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -2121,9 +1749,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2136,9 +1761,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -2155,9 +1777,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2169,10 +1788,7 @@
                     "Indicates speaker is not responsible for veracity of statement, merely reporting; 'allegedly'",
                     "yes",
                     "",
-                    "",
-                    "",
                     "873",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -2186,10 +1802,7 @@
                     "Indicate presence of adjacent representation of repeated discourse",
                     "yes",
                     "",
-                    "",
-                    "",
                     "873",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -2206,9 +1819,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -2221,9 +1831,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Amalia",
                     "",
                     "",
                     "x"
@@ -2240,9 +1847,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -2255,9 +1859,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Amalia",
                     "",
                     "",
                     "x"
@@ -2274,9 +1875,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -2289,9 +1887,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Amalia",
                     "",
                     "",
                     "x"
@@ -2308,9 +1903,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -2322,10 +1914,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "874",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -2339,10 +1928,7 @@
                     "Verb precedes subject",
                     "yes",
                     "",
-                    "",
-                    "",
                     "874",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -2359,9 +1945,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2376,9 +1959,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2390,10 +1970,7 @@
                     "Object precedes subject",
                     "yes",
                     "",
-                    "",
-                    "",
                     "874",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -2410,9 +1987,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2427,9 +2001,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "1"
                 ],
                 [
@@ -2441,10 +2012,7 @@
                     "Possessive phrase composed of a free possessor and its possessum has possessor first (e.g. John's book)",
                     "no",
                     "",
-                    "",
-                    "",
                     "876",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -2458,10 +2026,7 @@
                     "Possessive phrase composed of a free possessor and its possessum has possessum first (e.g. 'book of John')",
                     "yes",
                     "",
-                    "",
-                    "",
                     "876",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -2475,10 +2040,7 @@
                     "Adjective precedes the noun",
                     "yes",
                     "",
-                    "",
-                    "",
                     "877",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -2492,10 +2054,7 @@
                     "Adjective follows the noun",
                     "yes",
                     "",
-                    "",
-                    "",
                     "877",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -2509,10 +2068,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "876",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -2526,10 +2082,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "876",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -2546,9 +2099,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -2561,9 +2111,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Amalia",
                     "",
                     "",
                     "x"
@@ -2580,9 +2127,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2595,9 +2139,6 @@
                     "n/a",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -2614,9 +2155,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2631,9 +2169,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2645,10 +2180,7 @@
                     "'what', 'who', etc. come first in interrogative clause",
                     "yes",
                     "",
-                    "",
-                    "",
                     "874",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -2662,10 +2194,7 @@
                     "Objects of transitive clauses ('P') have a unique marker, while subjects of transitive ('A') and intransitive ('S') clauses are unmarked or share a different marker from that occurring on objects",
                     "no",
                     "",
-                    "",
-                    "",
                     "885",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -2679,10 +2208,7 @@
                     "Subjects of transitive and intransitive clauses share a marker, while objects of transitives are unmarked",
                     "no",
                     "",
-                    "",
-                    "",
                     "885",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -2696,10 +2222,7 @@
                     "Subjects of intransitive clauses and objects of transitives share a unique marker, while subjects of transitive clauses are unmarked or have a different marker",
                     "yes",
                     "",
-                    "",
-                    "",
                     "885",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -2713,10 +2236,7 @@
                     "Intransitive subjects, transitive subjects, and transitive objects all receive distinct case markers",
                     "yes",
                     "",
-                    "",
-                    "",
                     "885",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -2730,10 +2250,7 @@
                     "Subjects of intransitive clauses are treated two different ways: like subjects of transitives if they are more agent-like (e.g. he jumped), and like objects of transitives if they are more patient-like (e.g. he fell asleep)",
                     "no",
                     "",
-                    "",
-                    "",
                     "885",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -2747,10 +2264,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "885",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -2764,10 +2278,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "885",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -2781,10 +2292,7 @@
                     "yes, no, mixed, other",
                     "no",
                     "",
-                    "",
-                    "",
                     "885",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -2798,10 +2306,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "885",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -2815,10 +2320,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "885",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -2835,9 +2337,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2850,9 +2349,6 @@
                     "n/a",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -2869,9 +2365,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2884,9 +2377,6 @@
                     "n/a",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -2903,9 +2393,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2918,9 +2405,6 @@
                     "yes",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -2937,9 +2421,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2952,9 +2433,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -2971,9 +2449,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2986,9 +2461,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -3005,9 +2477,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -3020,9 +2489,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -3039,9 +2505,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -3054,9 +2517,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -3073,9 +2533,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -3088,9 +2545,6 @@
                     "n/a",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -3107,9 +2561,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -3124,9 +2575,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -3138,10 +2586,7 @@
                     "In ditransitives (e.g. 'John gives a book to Bill'), the theme (book) is treated in the same way as are objects of transitives, while the recipient/beneficiary (Bill) is treated differently",
                     "no info",
                     "",
-                    "",
-                    "",
                     "867",
-                    "Done-Amalia",
                     "",
                     "",
                     "x"
@@ -3155,10 +2600,7 @@
                     "In ditransitives (e.g. 'John gives Bill a book'), both the theme (book) and the recipient/beneficiary (Bill) is treated in the same way as are objects of transitives",
                     "no info",
                     "",
-                    "",
-                    "",
                     "867",
-                    "Done-Amalia",
                     "",
                     "",
                     "x"
@@ -3172,10 +2614,7 @@
                     "In ditransitives, the recipient/beneficiary is treated in the same way as are objects of transitives, while the theme (book) is treated differently",
                     "yes",
                     "",
-                    "",
-                    "",
                     "867",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -3189,10 +2628,7 @@
                     "Verb becomes reciprocal through use of reciprocal morpheme associated with the verb (may be attached to the verb root). This morpheme is only used to mean reciprocal.",
                     "no",
                     "",
-                    "",
-                    "",
                     "867",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -3206,10 +2642,7 @@
                     "Verb becomes reflexive through use of reflexive morpheme associated with the verb (may be attached to the verb root). This morpheme is used only to mean reflexive. ",
                     "no",
                     "",
-                    "",
-                    "",
                     "867",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -3223,10 +2656,7 @@
                     "Verb becomes reciprocal or reflexive through use of a morpheme that means either reciprocal or reflexive which attaches to the root of the verb",
                     "no",
                     "",
-                    "",
-                    "",
                     "867",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -3243,9 +2673,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3258,9 +2685,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Amalia",
                     "",
                     "",
                     "x"
@@ -3277,9 +2701,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3291,10 +2712,7 @@
                     "Applicative adds a beneficiary/maleficiary object argument to the verb ",
                     "yes",
                     "",
-                    "",
-                    "",
                     "890",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -3311,9 +2729,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3325,10 +2740,7 @@
                     "Causative is morphological and is attached before the root of the verb",
                     "no",
                     "",
-                    "",
-                    "",
                     "956",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -3342,10 +2754,7 @@
                     "Causative is morphological and is attached after the root of the verb",
                     "yes",
                     "",
-                    "",
-                    "",
                     "956",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -3359,10 +2768,7 @@
                     "Morphological causative other than simple prefix/suffix",
                     "no",
                     "",
-                    "",
-                    "",
                     "956",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -3376,10 +2782,7 @@
                     "Causative construction that involves periphrasis or serialization",
                     "no info",
                     "",
-                    "",
-                    "",
                     "956",
-                    "Done-Amalia",
                     "",
                     "",
                     "x"
@@ -3393,10 +2796,7 @@
                     "Indicates that the causer does not directly cause the action of the verb to be realized, but does so by inducing someone else to carry out the action, e.g. 'John had the house painted.'",
                     "no info",
                     "",
-                    "",
-                    "",
                     "956",
-                    "Done-Amalia",
                     "",
                     "",
                     "x"
@@ -3410,10 +2810,7 @@
                     "Indicates that causer participates in event",
                     "no info",
                     "",
-                    "",
-                    "",
                     "956",
-                    "Done-Amalia",
                     "",
                     "",
                     "x"
@@ -3430,9 +2827,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3444,10 +2838,7 @@
                     "Clausal negator is a preposed element",
                     "yes",
                     "",
-                    "",
-                    "",
                     "874",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -3461,10 +2852,7 @@
                     "Clausal negator is a postposed element",
                     "no",
                     "",
-                    "",
-                    "",
                     "874",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -3478,10 +2866,7 @@
                     "Negatives: affix",
                     "no",
                     "",
-                    "",
-                    "",
                     "873",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -3495,10 +2880,7 @@
                     "Negatives: particle",
                     "yes",
                     "",
-                    "",
-                    "",
                     "873",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -3512,10 +2894,7 @@
                     "Negatives: auxiliary verb",
                     "no",
                     "",
-                    "",
-                    "",
                     "873",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -3529,10 +2908,7 @@
                     "Standard (non-emphatic) negation typically requires two morphemes, e.g. French 'ne V pas'",
                     "yes",
                     "",
-                    "",
-                    "",
                     "873",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -3549,9 +2925,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3563,10 +2936,7 @@
                     "Lexical expression or highly idiomatic phrase",
                     "yes",
                     "",
-                    "wayiga",
-                    "",
                     "871",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -3580,10 +2950,7 @@
                     "Yes/no questions distinguished from declaratives by interrogative particle",
                     "yes",
                     "",
-                    "",
-                    "",
                     "871",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -3597,10 +2964,7 @@
                     "Yes/no questions distinguished from declaratives by interrogative verb morphology ",
                     "no",
                     "",
-                    "",
-                    "",
                     "871",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -3614,10 +2978,7 @@
                     "Yes/no questions distinguished from declaratives by word order (esp. subject-verb inversion) ",
                     "yes",
                     "",
-                    "",
-                    "",
                     "871",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -3631,10 +2992,7 @@
                     "Yes/no questions distinguished from declaratives by intonation only",
                     "no",
                     "",
-                    "",
-                    "",
                     "871",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -3648,10 +3006,7 @@
                     "Content questions distinguished from declaratives by word order (esp. subject-verb inversion) as well as by presence of Q-word (who, what, etc.)",
                     "yes",
                     "",
-                    "",
-                    "",
                     "874",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -3665,10 +3020,7 @@
                     "Adjectives act like verbs in predicative position",
                     "no",
                     "",
-                    "",
-                    "",
                     "864",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -3682,10 +3034,7 @@
                     "Adjectives act like nouns in predicative position",
                     "yes",
                     "",
-                    "",
-                    "",
                     "864",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -3699,10 +3048,7 @@
                     "Predicate nominals may occur without a copula (i.e. grammatical in some circumstances, if not all)",
                     "yes",
                     "",
-                    "",
-                    "",
                     "864",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -3719,9 +3065,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3734,9 +3077,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Amalia",
                     "",
                     "",
                     "x"
@@ -3753,9 +3093,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3767,10 +3104,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "938",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -3787,9 +3121,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -3801,10 +3132,7 @@
                     "Indicates that the subject desires to carry out the action denoted by the verb (distinct from verb 'want', but may be grammaticalized from it)",
                     "yes",
                     "",
-                    "",
-                    "",
                     "869",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -3821,9 +3149,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3835,10 +3160,7 @@
                     "There are special markers to indicate same vs. different subject when two clauses are combined",
                     "yes",
                     "",
-                    "",
-                    "",
                     "923",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -3852,10 +3174,7 @@
                     "Morphology (usually on verb) distinguishes between clauses denoting events that occur at the same time or in sequence",
                     "yes",
                     "",
-                    "",
-                    "",
                     "936",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -3872,9 +3191,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3887,9 +3203,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -3906,9 +3219,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3920,10 +3230,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "953",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -3937,10 +3244,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "953",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -3957,9 +3261,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3972,9 +3273,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Amalia",
                     "",
                     "",
                     "x"
@@ -3991,9 +3289,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4005,10 +3300,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "890",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -4022,10 +3314,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "881",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -4039,10 +3328,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "881",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -4056,10 +3342,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "863",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -4073,10 +3356,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "863",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -4090,10 +3370,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "914",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -4107,10 +3384,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "889",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -4127,9 +3401,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "1"
                 ],
                 [
@@ -4142,9 +3413,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Amalia",
                     "",
                     "",
                     "x"
@@ -4161,9 +3429,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4175,10 +3440,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "881",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -4192,10 +3454,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "881",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -4212,9 +3471,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4227,9 +3483,6 @@
                     "n/a",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -4246,9 +3499,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -4261,9 +3511,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -4280,9 +3527,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -4294,10 +3538,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "907",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -4311,10 +3552,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "907",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -4328,10 +3566,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "870",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -4345,10 +3580,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "907",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -4362,10 +3594,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "907",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -4379,10 +3608,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "907",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -4399,9 +3625,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -4416,9 +3639,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -4430,10 +3650,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "890",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -4450,9 +3667,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -4467,9 +3681,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4481,10 +3692,7 @@
                     "include the position in the \u2018form\u2019 notes",
                     "yes",
                     "",
-                    "",
-                    "",
                     "874",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -4498,10 +3706,7 @@
                     "related to, and maybe equivalent to, HG 206-207 (not equivalent if verbal negation is being treated separately from clausal negation)",
                     "yes",
                     "",
-                    "",
-                    "",
                     "872",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -4515,10 +3720,7 @@
                     "related to, and maybe equivalent to, HG 203 (not equivalent if verbal negation is being treated separately from clausal negation)",
                     "yes",
                     "",
-                    "",
-                    "",
                     "874",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -4535,9 +3737,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4550,9 +3749,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -4569,9 +3765,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -4586,9 +3779,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -4600,10 +3790,7 @@
                     "=yes to any of HG 188-190; not necessarily; e.g. YN has a reflexive marker but it doesn\u2019t go on the verb.",
                     "no",
                     "",
-                    "",
-                    "",
                     "867",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -4617,10 +3804,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "867",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -4634,10 +3818,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "867",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -4654,9 +3835,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4668,10 +3846,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "955",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -4685,10 +3860,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "913",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -4702,10 +3874,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "922",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -4722,9 +3891,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -4736,10 +3902,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "915",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -4756,9 +3919,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -4770,10 +3930,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "874",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -4787,10 +3944,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "874",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -4807,9 +3961,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4822,9 +3973,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Amalia",
                     "",
                     "",
                     "x"
@@ -4841,9 +3989,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -4855,10 +4000,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "864",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -4872,10 +4014,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "909",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -4889,10 +4028,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "910",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -4906,10 +4042,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "928",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -4923,10 +4056,7 @@
                     "That is, are the words which designate kinship relations such as \u2018mother\u2019 and \u2018father\u2019 verbs in the language?",
                     "no",
                     "",
-                    "",
-                    "",
                     "929",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -4943,9 +4073,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4957,10 +4084,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "876",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"
@@ -4974,10 +4098,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "877",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -4991,10 +4112,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "878",
-                    "Done-Amalia",
                     "",
                     "",
                     "0"
@@ -5011,9 +4129,6 @@
                     "",
                     "",
                     "",
-                    "Done-Amalia",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -5025,10 +4140,7 @@
                     "list which segments in the \u2018form\u2019 column",
                     "yes",
                     "",
-                    "[dl]",
-                    "",
                     "824",
-                    "Done-Amalia",
                     "",
                     "",
                     "1"

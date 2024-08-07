@@ -21,32 +21,20 @@
     ],
     "contributors": [
         {
-            "name": "Claire Bowern",
-            "type": "Editor"
-        },
-        {
-            "name": "Patience Epps",
-            "type": "Editor"
-        },
-        {
-            "name": "Jane Hill",
-            "type": "Editor"
-        },
-        {
-            "name": "Patrick McConvell",
-            "type": "Editor"
-        },
-        {
             "name": "Robert Forkel",
-            "type": "Other"
+            "type": "Editor"
         },
         {
             "name": "Christoph Rzymski",
-            "type": "Other"
+            "type": "Editor"
         },
         {
             "name": "Johann-Mattis List",
-            "type": "Other"
+            "type": "Editor"
+        },
+        {
+            "name": "Carlos Barrientos",
+            "type": "Editor"
         }
     ],
     "communities": [

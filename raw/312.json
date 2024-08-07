@@ -8,11 +8,8 @@
                 "Grammatical Feature",
                 "Grammatical Feature: Notes",
                 "Feature Status",
-                "Phonemicized Form",
-                "Orthographic Form",
                 "Grammatical Notes",
                 "Source",
-                "Created By",
                 "Etymology Notes",
                 "General Notes",
                 "Phylogenetic Code"
@@ -27,10 +24,7 @@
                     "Analysis posits that the stop is the most relevant underlying phoneme. Comment in notes on whether the nasal contour is understood as a phonetic (allophonic) effect, or is phonologically contrastive. ",
                     "no",
                     "",
-                    "",
-                    "",
                     "66",
-                    "done",
                     "",
                     "",
                     "0"
@@ -44,10 +38,7 @@
                     "Phonemic contrast [NOT counting glottal stop/fricative]",
                     "no",
                     "",
-                    "",
-                    "",
                     "66",
-                    "done",
                     "",
                     "",
                     "0"
@@ -61,10 +52,7 @@
                     "Phonemic contrast",
                     "maybe",
                     "",
-                    "",
-                    "",
                     "66",
-                    "done",
                     "",
                     "",
                     "1"
@@ -78,10 +66,7 @@
                     "Does the language have long and short vowels?",
                     "no",
                     "",
-                    "",
-                    "",
                     "67",
-                    "done",
                     "",
                     "",
                     "0"
@@ -95,10 +80,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "67",
-                    "done",
                     "",
                     "",
                     "0"
@@ -112,10 +94,7 @@
                     "Onset consists of more than one consonant phoneme",
                     "no",
                     "",
-                    "",
-                    "",
                     "68",
-                    "done",
                     "",
                     "",
                     "0"
@@ -129,10 +108,7 @@
                     "*(C)VC [no also equals highly constrained]",
                     "no",
                     "",
-                    "",
-                    "",
                     "68",
-                    "done",
                     "",
                     "",
                     "0"
@@ -146,10 +122,7 @@
                     "Do all syllables end in a consonant?",
                     "no",
                     "",
-                    "",
-                    "",
                     "68",
-                    "done",
                     "",
                     "",
                     "0"
@@ -163,10 +136,7 @@
                     "Note how many contrastive tones",
                     "no",
                     "",
-                    "",
-                    "",
                     "67",
-                    "done",
                     "",
                     "",
                     "0"
@@ -180,10 +150,7 @@
                     "Does stress occur on different syllables with meaning difference?",
                     "no",
                     "",
-                    "",
-                    "",
                     "67",
-                    "done",
                     "",
                     "",
                     "0"
@@ -197,10 +164,7 @@
                     "In contrast to nasalization as a property of segments",
                     "no",
                     "",
-                    "",
-                    "",
                     "66",
-                    "done",
                     "",
                     "",
                     "0"
@@ -217,9 +181,6 @@
                     "",
                     "",
                     "",
-                    "done",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -231,10 +192,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "66",
-                    "done",
                     "",
                     "",
                     "0"
@@ -248,10 +206,7 @@
                     "Verb combines two or more categories (tense, aspect, mood, person, number, etc.) in portmanteau morphemes{ [ignore proclitics unless they are fused with values other than person/number]",
                     "yes",
                     "",
-                    "",
-                    "",
                     "77",
-                    "done",
                     "",
                     "",
                     "1"
@@ -265,10 +220,7 @@
                     "Stem change, tone",
                     "no",
                     "",
-                    "",
-                    "",
                     "77",
-                    "done",
                     "",
                     "",
                     "0"
@@ -282,10 +234,7 @@
                     "Morphological complexity in verbs - multiple inflectional affixes in a single verb word",
                     "no",
                     "",
-                    "",
-                    "",
                     "79",
-                    "done",
                     "",
                     "",
                     "0"
@@ -299,10 +248,7 @@
                     "There are many more prefixes than suffixes",
                     "no",
                     "",
-                    "",
-                    "",
                     "77",
-                    "done",
                     "",
                     "",
                     "0"
@@ -316,10 +262,7 @@
                     "There are many more suffixes than prefixes",
                     "yes",
                     "",
-                    "",
-                    "",
                     "77",
-                    "done",
                     "",
                     "",
                     "1"
@@ -333,10 +276,7 @@
                     "The numbers of suffixes and prefixes are not notably different",
                     "no",
                     "",
-                    "",
-                    "",
                     "77",
-                    "done",
                     "",
                     "",
                     "0"
@@ -350,10 +290,7 @@
                     "The full morpheme is reduplicated",
                     "yes",
                     "",
-                    "",
-                    "",
                     "84",
-                    "done",
                     "",
                     "",
                     "1"
@@ -367,10 +304,7 @@
                     "Only part of the morpheme is reduplicated",
                     "yes",
                     "",
-                    "",
-                    "",
                     "84",
-                    "done",
                     "",
                     "",
                     "1"
@@ -384,10 +318,7 @@
                     "Noun compounds created from two noun phrases are common and systematically produced",
                     "maybe",
                     "",
-                    "",
-                    "",
                     "84",
-                    "done",
                     "",
                     "",
                     "1"
@@ -401,10 +332,7 @@
                     "Verb roots can be combined in a single predicate without markers of subordination (distinct from subordinating construction) or distinct inflection",
                     "no",
                     "",
-                    "",
-                    "",
                     "85",
-                    "done",
                     "",
                     "",
                     "0"
@@ -418,10 +346,7 @@
                     "Serial verb constructions involve chaining of roots together in one morphophonological word",
                     "no",
                     "",
-                    "",
-                    "",
                     "85",
-                    "done",
                     "",
                     "",
                     "0"
@@ -435,10 +360,7 @@
                     "There is a set of semantically weak verbs used in complex verbal constructions, e.g. 'take a nap'",
                     "no",
                     "",
-                    "",
-                    "",
                     "85",
-                    "done",
                     "",
                     "",
                     "0"
@@ -452,10 +374,7 @@
                     "There are verbs that accompany main verbs of clauses and take grammatical marking not expressed by main verbs",
                     "no",
                     "",
-                    "",
-                    "",
                     "85",
-                    "done",
                     "",
                     "",
                     "0"
@@ -469,10 +388,7 @@
                     "Verb contains nominal segment",
                     "no",
                     "",
-                    "",
-                    "",
                     "85",
-                    "done",
                     "",
                     "",
                     "0"
@@ -486,10 +402,7 @@
                     "Like noun incorporation, but incorporated  elements are not nouns",
                     "no",
                     "",
-                    "",
-                    "",
                     "85",
-                    "done",
                     "",
                     "",
                     "0"
@@ -503,10 +416,7 @@
                     "Nouns are organized into sets with distinct morphological treatment; usually affects all nouns and involves agreement within the NP",
                     "no",
                     "",
-                    "",
-                    "",
                     "71",
-                    "done",
                     "",
                     "",
                     "0"
@@ -520,10 +430,7 @@
                     "Note the (approximate) total number of noun classes/genders",
                     "no",
                     "",
-                    "",
-                    "",
                     "71",
-                    "done",
                     "",
                     "",
                     "0"
@@ -537,10 +444,7 @@
                     "Nouns are organized into sets, but only a limited set of nouns may be implicated, with no or limited agreement marking. If only numeral classifiers exist, indicate yes but explain.",
                     "no",
                     "",
-                    "",
-                    "",
                     "71",
-                    "done",
                     "",
                     "",
                     "0"
@@ -557,9 +461,6 @@
                     "",
                     "",
                     "",
-                    "done",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -572,9 +473,6 @@
                     "n/a",
                     "",
                     "",
-                    "",
-                    "",
-                    "done",
                     "",
                     "",
                     "0"
@@ -591,9 +489,6 @@
                     "",
                     "",
                     "",
-                    "done",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -606,9 +501,6 @@
                     "n/a",
                     "",
                     "",
-                    "",
-                    "",
-                    "done",
                     "",
                     "",
                     "0"
@@ -625,9 +517,6 @@
                     "",
                     "",
                     "",
-                    "done",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -640,9 +529,6 @@
                     "n/a",
                     "",
                     "",
-                    "",
-                    "",
-                    "done",
                     "",
                     "",
                     "0"
@@ -659,9 +545,6 @@
                     "",
                     "",
                     "",
-                    "done",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -674,9 +557,6 @@
                     "n/a",
                     "",
                     "",
-                    "",
-                    "",
-                    "done",
                     "",
                     "",
                     "0"
@@ -693,9 +573,6 @@
                     "",
                     "",
                     "",
-                    "done",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -710,9 +587,6 @@
                     "",
                     "",
                     "",
-                    "done",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -724,10 +598,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "71",
-                    "done",
                     "",
                     "",
                     "0"
@@ -741,10 +612,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "71",
-                    "done",
                     "",
                     "",
                     "0"
@@ -758,10 +626,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "71",
-                    "done",
                     "",
                     "",
                     "0"
@@ -775,10 +640,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "71",
-                    "done",
                     "",
                     "",
                     "0"
@@ -792,10 +654,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "71",
-                    "done",
                     "",
                     "",
                     "0"
@@ -809,10 +668,7 @@
                     "Pronouns use a nominal plural affix not specific to pronouns",
                     "no",
                     "",
-                    "",
-                    "",
                     "72",
-                    "done",
                     "",
                     "",
                     "0"
@@ -829,9 +685,6 @@
                     "",
                     "",
                     "",
-                    "done",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -843,10 +696,7 @@
                     "Definite = particular referent known to both speaker and addressee; specific = particular referent known to speaker only",
                     "no",
                     "",
-                    "",
-                    "",
                     "84",
-                    "done",
                     "",
                     "",
                     "0"
@@ -860,10 +710,7 @@
                     "Focus on articles/markers whose primary function is to mark definiteness",
                     "no",
                     "",
-                    "",
-                    "",
                     "84",
-                    "done",
                     "",
                     "",
                     "0"
@@ -877,10 +724,7 @@
                     "or marker",
                     "no",
                     "",
-                    "",
-                    "",
                     "84",
-                    "done",
                     "",
                     "",
                     "0"
@@ -894,10 +738,7 @@
                     "Inclusive  =us + you, exclusive = us but not you",
                     "yes",
                     "",
-                    "",
-                    "",
                     "75",
-                    "done",
                     "",
                     "",
                     "1"
@@ -911,10 +752,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "78",
-                    "done",
                     "",
                     "",
                     "1"
@@ -928,10 +766,7 @@
                     "Note the number of distances in the demonstrative system",
                     "yes",
                     "",
-                    "",
-                    "",
                     "144",
-                    "done",
                     "",
                     "",
                     "1"
@@ -945,10 +780,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "144",
-                    "done",
                     "",
                     "",
                     "0"
@@ -962,10 +794,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "75",
-                    "done",
                     "",
                     "",
                     "0"
@@ -979,10 +808,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "75",
-                    "done",
                     "",
                     "",
                     "0"
@@ -996,10 +822,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "75",
-                    "done",
                     "",
                     "",
                     "0"
@@ -1013,10 +836,7 @@
                     "Polite pronominal variants or differential avoidance of pronouns",
                     "no",
                     "",
-                    "",
-                    "",
                     "75",
-                    "done",
                     "",
                     "",
                     "0"
@@ -1030,10 +850,7 @@
                     "e.g. English 'himself', Spanish 'se'; distinct form(s) from basic (non-reflexive) pronominals; distinct from reflexive verbal affix",
                     "no",
                     "",
-                    "",
-                    "",
                     "82",
-                    "done",
                     "",
                     "",
                     "0"
@@ -1047,10 +864,7 @@
                     "Prepositions or postpositions mark subjects, objects, beneficiaries/recipients",
                     "no",
                     "",
-                    "",
-                    "",
                     "71",
-                    "done",
                     "",
                     "",
                     "0"
@@ -1064,10 +878,7 @@
                     "Note the number of grammatical relations that may be morphologically marked on the noun",
                     "yes",
                     "",
-                    "",
-                    "",
                     "71",
-                    "done",
                     "",
                     "",
                     "1"
@@ -1081,10 +892,7 @@
                     "Subjects, objects, beneficiaries/recipients NOT marked, but other grammatical relations are",
                     "no",
                     "",
-                    "",
-                    "",
                     "71",
-                    "done",
                     "",
                     "",
                     "0"
@@ -1098,10 +906,7 @@
                     "All NPs marked if in appropriate syntactic relation; no distinction in marking based on semantics (type of entity)",
                     "yes",
                     "",
-                    "",
-                    "",
                     "72-73",
-                    "done",
                     "",
                     "",
                     "1"
@@ -1115,10 +920,7 @@
                     "Semantically defined subset of NPs marked for case, e.g. animates",
                     "no",
                     "",
-                    "",
-                    "",
                     "72-73",
-                    "done",
                     "",
                     "",
                     "0"
@@ -1132,10 +934,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "71",
-                    "done",
                     "",
                     "",
                     "1"
@@ -1149,10 +948,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "71",
-                    "done",
                     "",
                     "",
                     "0"
@@ -1166,10 +962,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "71",
-                    "done",
                     "",
                     "",
                     "0"
@@ -1183,10 +976,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "71",
-                    "done",
                     "",
                     "",
                     "0"
@@ -1200,10 +990,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "71",
-                    "done",
                     "",
                     "",
                     "0"
@@ -1217,10 +1004,7 @@
                     "Same marking for 'with a person' and 'with an instrument'",
                     "no info",
                     "",
-                    "",
-                    "",
                     "71",
-                    "done",
                     "",
                     "",
                     "x"
@@ -1234,10 +1018,7 @@
                     "At least some part of the system involves base-2",
                     "yes",
                     "",
-                    "",
-                    "",
                     "127, 144, 146",
-                    "done",
                     "",
                     "",
                     "1"
@@ -1254,9 +1035,6 @@
                     "",
                     "",
                     "",
-                    "done",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -1269,9 +1047,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "done",
                     "",
                     "",
                     "0"
@@ -1288,9 +1063,6 @@
                     "",
                     "",
                     "",
-                    "done",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -1302,10 +1074,7 @@
                     "e.g. two = 'eye-quantity'",
                     "no",
                     "",
-                    "",
-                    "",
                     "144, 146",
-                    "done",
                     "",
                     "",
                     "0"
@@ -1319,10 +1088,7 @@
                     "'Many' or some other non-exact term used",
                     "yes",
                     "",
-                    "",
-                    "",
                     "109",
-                    "done",
                     "",
                     "",
                     "1"
@@ -1336,10 +1102,7 @@
                     "'Many' or some other non-exact term used",
                     "yes",
                     "",
-                    "",
-                    "",
                     "109",
-                    "done",
                     "",
                     "",
                     "1"
@@ -1353,10 +1116,7 @@
                     "i.e. nominal or adjectival",
                     "no",
                     "",
-                    "",
-                    "",
                     "77",
-                    "done",
                     "",
                     "",
                     "0"
@@ -1370,10 +1130,7 @@
                     "i.e. nominal or adjectival",
                     "no",
                     "",
-                    "",
-                    "",
                     "77",
-                    "done",
                     "",
                     "",
                     "0"
@@ -1387,10 +1144,7 @@
                     "alienable/inalienable?",
                     "no",
                     "",
-                    "",
-                    "",
                     "82",
-                    "done",
                     "",
                     "",
                     "0"
@@ -1404,10 +1158,7 @@
                     "alienable/inalienable?",
                     "yes",
                     "",
-                    "",
-                    "",
                     "82",
-                    "done",
                     "",
                     "",
                     "1"
@@ -1421,10 +1172,7 @@
                     "e.g. 'the boy-'s dog'",
                     "yes",
                     "",
-                    "",
-                    "",
                     "74",
-                    "done",
                     "",
                     "",
                     "1"
@@ -1438,10 +1186,7 @@
                     "e.g. 'the boy his-dog'",
                     "yes",
                     "",
-                    "",
-                    "",
                     "74",
-                    "done",
                     "",
                     "",
                     "1"
@@ -1455,10 +1200,7 @@
                     "There are special classifiers that occur with possessed entities",
                     "no",
                     "",
-                    "",
-                    "",
                     "74",
-                    "done",
                     "",
                     "",
                     "0"
@@ -1475,9 +1217,6 @@
                     "",
                     "",
                     "",
-                    "done",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1490,9 +1229,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done",
                     "",
                     "",
                     "x"
@@ -1509,9 +1245,6 @@
                     "",
                     "",
                     "",
-                    "done",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1524,9 +1257,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done",
                     "",
                     "",
                     "x"
@@ -1543,9 +1273,6 @@
                     "",
                     "",
                     "",
-                    "done",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1557,10 +1284,7 @@
                     "Human nouns must co-occur with another noun (e.g. Hup-man, NonIndian-woman, but *man)",
                     "no",
                     "",
-                    "",
-                    "",
                     "79",
-                    "done",
                     "",
                     "",
                     "0"
@@ -1574,10 +1298,7 @@
                     "There are underived adjectives which do not have counterparts in other word classes",
                     "yes",
                     "",
-                    "",
-                    "",
                     "84",
-                    "done",
                     "",
                     "",
                     "1"
@@ -1594,9 +1315,6 @@
                     "",
                     "",
                     "",
-                    "done",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -1608,10 +1326,7 @@
                     "There is a morpheme which derives an event from a verb",
                     "no",
                     "",
-                    "",
-                    "",
                     "88-90",
-                    "done",
                     "",
                     "",
                     "0"
@@ -1625,10 +1340,7 @@
                     "There is a morpheme which derives an agent or subject from a verb",
                     "yes",
                     "",
-                    "",
-                    "",
                     "86",
-                    "done",
                     "",
                     "",
                     "1"
@@ -1642,10 +1354,7 @@
                     "There is a morpheme which derives a patient or object from a verb",
                     "no",
                     "",
-                    "",
-                    "",
                     "86-88",
-                    "done",
                     "",
                     "",
                     "0"
@@ -1659,10 +1368,7 @@
                     "There is a morpheme which derives a verb from a noun or adjective",
                     "maybe",
                     "",
-                    "",
-                    "",
                     "90",
-                    "done",
                     "",
                     "",
                     "1"
@@ -1679,9 +1385,6 @@
                     "",
                     "",
                     "",
-                    "done",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1693,10 +1396,7 @@
                     "Past tense is regularly morphologically marked on the verb or elsewhere",
                     "yes",
                     "",
-                    "",
-                    "",
                     "77-79",
-                    "done",
                     "",
                     "",
                     "1"
@@ -1710,10 +1410,7 @@
                     "e.g. distant vs. recent past",
                     "no",
                     "",
-                    "",
-                    "",
                     "79",
-                    "done",
                     "",
                     "",
                     "0"
@@ -1727,10 +1424,7 @@
                     "e.g. imminent vs. distant future",
                     "no",
                     "",
-                    "",
-                    "",
                     "79",
-                    "done",
                     "",
                     "",
                     "0"
@@ -1744,10 +1438,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "77",
-                    "done",
                     "",
                     "",
                     "1"
@@ -1761,10 +1452,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "77",
-                    "done",
                     "",
                     "",
                     "0"
@@ -1778,10 +1466,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "77",
-                    "done",
                     "",
                     "",
                     "1"
@@ -1795,10 +1480,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "77",
-                    "done",
                     "",
                     "",
                     "0"
@@ -1815,9 +1497,6 @@
                     "",
                     "",
                     "",
-                    "done",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1829,10 +1508,7 @@
                     "There is a special morpheme (or morphemes, or a bare verb root where inflection is normally expected) used to signal imperative (command) mood",
                     "yes",
                     "",
-                    "",
-                    "",
                     "80",
-                    "done",
                     "",
                     "",
                     "1"
@@ -1846,10 +1522,7 @@
                     "There is a distinct morpheme for polite imperative constructions (specify if it has other functions in the language)",
                     "no",
                     "",
-                    "",
-                    "",
                     "80",
-                    "done",
                     "",
                     "",
                     "0"
@@ -1863,10 +1536,7 @@
                     "There are different strategies for marking negation in imperative and declarative clauses",
                     "no",
                     "",
-                    "",
-                    "",
                     "81",
-                    "done",
                     "",
                     "",
                     "0"
@@ -1880,10 +1550,7 @@
                     "as opposed to imperative; the person in control of desired state of affairs is not the addressee; ex: 'Let's sing' / 'Let him sing'",
                     "no",
                     "",
-                    "",
-                    "",
                     "80",
-                    "done",
                     "",
                     "",
                     "0"
@@ -1900,9 +1567,6 @@
                     "",
                     "",
                     "",
-                    "done",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1915,9 +1579,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done",
                     "",
                     "",
                     "x"
@@ -1934,9 +1595,6 @@
                     "",
                     "",
                     "",
-                    "done",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1949,9 +1607,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done",
                     "",
                     "",
                     "x"
@@ -1968,9 +1623,6 @@
                     "",
                     "",
                     "",
-                    "done",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1983,9 +1635,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done",
                     "",
                     "",
                     "x"
@@ -2002,9 +1651,6 @@
                     "",
                     "",
                     "",
-                    "done",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -2017,9 +1663,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done",
                     "",
                     "",
                     "x"
@@ -2036,9 +1679,6 @@
                     "",
                     "",
                     "",
-                    "done",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -2051,9 +1691,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done",
                     "",
                     "",
                     "x"
@@ -2070,9 +1707,6 @@
                     "",
                     "",
                     "",
-                    "done",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -2085,9 +1719,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done",
                     "",
                     "",
                     "x"
@@ -2104,9 +1735,6 @@
                     "",
                     "",
                     "",
-                    "done",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -2119,9 +1747,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done",
                     "",
                     "",
                     "x"
@@ -2138,9 +1763,6 @@
                     "",
                     "",
                     "",
-                    "done",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -2153,9 +1775,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done",
                     "",
                     "",
                     "x"
@@ -2172,9 +1791,6 @@
                     "",
                     "",
                     "",
-                    "done",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -2187,9 +1803,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done",
                     "",
                     "",
                     "x"
@@ -2206,9 +1819,6 @@
                     "",
                     "",
                     "",
-                    "done",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -2221,9 +1831,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done",
                     "",
                     "",
                     "x"
@@ -2240,9 +1847,6 @@
                     "",
                     "",
                     "",
-                    "done",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -2255,9 +1859,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done",
                     "",
                     "",
                     "x"
@@ -2274,9 +1875,6 @@
                     "",
                     "",
                     "",
-                    "done",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -2288,10 +1886,7 @@
                     "",
                     "no info",
                     "",
-                    "",
-                    "",
                     "71",
-                    "done",
                     "",
                     "",
                     "x"
@@ -2308,9 +1903,6 @@
                     "",
                     "",
                     "",
-                    "done",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -2322,10 +1914,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "84",
-                    "done",
                     "",
                     "",
                     "0"
@@ -2339,10 +1928,7 @@
                     "Verb precedes subject",
                     "yes",
                     "",
-                    "",
-                    "",
                     "84",
-                    "done",
                     "",
                     "",
                     "1"
@@ -2356,10 +1942,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "84",
-                    "done",
                     "",
                     "",
                     "1"
@@ -2373,10 +1956,7 @@
                     "Verb precedes object",
                     "yes",
                     "",
-                    "",
-                    "",
                     "84",
-                    "done",
                     "",
                     "",
                     "1"
@@ -2390,10 +1970,7 @@
                     "Object precedes subject",
                     "yes",
                     "",
-                    "",
-                    "",
                     "84",
-                    "done",
                     "",
                     "",
                     "1"
@@ -2407,10 +1984,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "83",
-                    "done",
                     "",
                     "",
                     "0"
@@ -2424,10 +1998,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "83",
-                    "done",
                     "",
                     "",
                     "1"
@@ -2441,10 +2012,7 @@
                     "Possessive phrase composed of a free possessor and its possessum has possessor first (e.g. John's book)",
                     "yes",
                     "",
-                    "",
-                    "",
                     "74",
-                    "done",
                     "",
                     "",
                     "1"
@@ -2458,10 +2026,7 @@
                     "Possessive phrase composed of a free possessor and its possessum has possessum first (e.g. 'book of John')",
                     "no",
                     "",
-                    "",
-                    "",
                     "74",
-                    "done",
                     "",
                     "",
                     "0"
@@ -2475,10 +2040,7 @@
                     "Adjective precedes the noun",
                     "yes",
                     "",
-                    "",
-                    "",
                     "84",
-                    "done",
                     "",
                     "",
                     "1"
@@ -2492,10 +2054,7 @@
                     "Adjective follows the noun",
                     "no",
                     "",
-                    "",
-                    "",
                     "84",
-                    "done",
                     "",
                     "",
                     "0"
@@ -2509,10 +2068,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "79",
-                    "done",
                     "",
                     "",
                     "1"
@@ -2526,10 +2082,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "79",
-                    "done",
                     "",
                     "",
                     "0"
@@ -2543,10 +2096,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "71",
-                    "done",
                     "",
                     "",
                     "0"
@@ -2560,10 +2110,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "71",
-                    "done",
                     "",
                     "",
                     "1"
@@ -2580,9 +2127,6 @@
                     "",
                     "",
                     "",
-                    "done",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -2595,9 +2139,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done",
                     "",
                     "",
                     "x"
@@ -2614,9 +2155,6 @@
                     "",
                     "",
                     "",
-                    "done",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -2628,10 +2166,7 @@
                     "e.g. 'what is running, the dog chased that cat'",
                     "maybe",
                     "",
-                    "",
-                    "",
                     "82",
-                    "done",
                     "",
                     "",
                     "1"
@@ -2645,10 +2180,7 @@
                     "'what', 'who', etc. come first in interrogative clause",
                     "yes",
                     "",
-                    "",
-                    "",
                     "83",
-                    "done",
                     "",
                     "",
                     "1"
@@ -2662,10 +2194,7 @@
                     "Objects of transitive clauses ('P') have a unique marker, while subjects of transitive ('A') and intransitive ('S') clauses are unmarked or share a different marker from that occurring on objects",
                     "no",
                     "",
-                    "",
-                    "",
                     "72",
-                    "done",
                     "",
                     "",
                     "0"
@@ -2679,10 +2208,7 @@
                     "Subjects of transitive and intransitive clauses share a marker, while objects of transitives are unmarked",
                     "no",
                     "",
-                    "",
-                    "",
                     "72",
-                    "done",
                     "",
                     "",
                     "0"
@@ -2696,10 +2222,7 @@
                     "Subjects of intransitive clauses and objects of transitives share a unique marker, while subjects of transitive clauses are unmarked or have a different marker",
                     "yes",
                     "",
-                    "",
-                    "",
                     "72",
-                    "done",
                     "",
                     "",
                     "1"
@@ -2713,10 +2236,7 @@
                     "Intransitive subjects, transitive subjects, and transitive objects all receive distinct case markers",
                     "no",
                     "",
-                    "",
-                    "",
                     "72",
-                    "done",
                     "",
                     "",
                     "0"
@@ -2730,10 +2250,7 @@
                     "Subjects of intransitive clauses are treated two different ways: like subjects of transitives if they are more agent-like (e.g. he jumped), and like objects of transitives if they are more patient-like (e.g. he fell asleep)",
                     "no",
                     "",
-                    "",
-                    "",
                     "73",
-                    "done",
                     "",
                     "",
                     "0"
@@ -2747,10 +2264,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "82",
-                    "done",
                     "",
                     "",
                     "1"
@@ -2764,10 +2278,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "75",
-                    "done",
                     "",
                     "",
                     "0"
@@ -2781,10 +2292,7 @@
                     "yes, no, mixed, other",
                     "no",
                     "",
-                    "",
-                    "",
                     "75",
-                    "done",
                     "",
                     "",
                     "0"
@@ -2798,10 +2306,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "75",
-                    "done",
                     "",
                     "",
                     "0"
@@ -2815,10 +2320,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "75",
-                    "done",
                     "",
                     "",
                     "0"
@@ -2832,10 +2334,7 @@
                     "Same as above, for pronominal affixes/clitics on verbs",
                     "yes",
                     "",
-                    "",
-                    "",
                     "81",
-                    "done",
                     "",
                     "",
                     "1"
@@ -2849,10 +2348,7 @@
                     "yes, no, mixed, other",
                     "no",
                     "",
-                    "",
-                    "",
                     "81",
-                    "done",
                     "",
                     "",
                     "0"
@@ -2866,10 +2362,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "81",
-                    "done",
                     "",
                     "",
                     "0"
@@ -2883,10 +2376,7 @@
                     "Marking of A and P depends on their relative ranking on a hierarchy (usually 1>2>3 or 2>1>3)",
                     "no",
                     "",
-                    "",
-                    "",
                     "81",
-                    "done",
                     "",
                     "",
                     "0"
@@ -2900,10 +2390,7 @@
                     "More than one of the above systems is represented in person marking, depending on e.g. person (e.g. 1/2 vs. 3), tense-aspect value, main vs. subordinate clause type, etc.",
                     "no",
                     "",
-                    "",
-                    "",
                     "81",
-                    "done",
                     "",
                     "",
                     "0"
@@ -2917,10 +2404,7 @@
                     "Pronominal subjects are free pronouns that occur in the same position as full NP subjects",
                     "yes",
                     "",
-                    "",
-                    "",
                     "76",
-                    "done",
                     "",
                     "",
                     "1"
@@ -2934,10 +2418,7 @@
                     "Pronominal subjects are marked as verbal prefixes (free pronouns may be another option)",
                     "no",
                     "",
-                    "",
-                    "",
                     "77",
-                    "done",
                     "",
                     "",
                     "0"
@@ -2951,10 +2432,7 @@
                     "Pronominal subjects are marked as verbal suffixes (free pronouns may be another option)",
                     "no",
                     "",
-                    "",
-                    "",
                     "77",
-                    "done",
                     "",
                     "",
                     "0"
@@ -2968,10 +2446,7 @@
                     "Pronominal subjects are clitics that can attach to verbs, nominal constituents, etc.",
                     "yes",
                     "",
-                    "",
-                    "",
                     "77",
-                    "done",
                     "",
                     "",
                     "1"
@@ -2985,10 +2460,7 @@
                     "Pronominal subjects are free pronouns but do not normally occur in the position expected for full NP subjects",
                     "no",
                     "",
-                    "",
-                    "",
                     "74",
-                    "done",
                     "",
                     "",
                     "0"
@@ -3002,10 +2474,7 @@
                     "Intransitive verbs take person-marking clitics/affixes",
                     "yes",
                     "",
-                    "",
-                    "",
                     "77",
-                    "done",
                     "",
                     "",
                     "1"
@@ -3019,10 +2488,7 @@
                     "Transitive verbs take subject (A) markers",
                     "yes",
                     "",
-                    "",
-                    "",
                     "80",
-                    "done",
                     "",
                     "",
                     "1"
@@ -3036,10 +2502,7 @@
                     "Transitive verbs take object (P) markers",
                     "no",
                     "",
-                    "",
-                    "",
                     "82",
-                    "done",
                     "",
                     "",
                     "0"
@@ -3053,10 +2516,7 @@
                     "3rd person subjects are not overtly marked within the verbal person-marking system",
                     "no",
                     "",
-                    "",
-                    "",
                     "78",
-                    "done",
                     "",
                     "",
                     "0"
@@ -3070,10 +2530,7 @@
                     "3rd person objects are not overtly marked within the verbal person-marking system",
                     "no",
                     "",
-                    "",
-                    "",
                     "82",
-                    "done",
                     "",
                     "",
                     "0"
@@ -3087,10 +2544,7 @@
                     "Verbal person marking exists, but number is (or can) be marked separately",
                     "no",
                     "",
-                    "",
-                    "",
                     "82",
-                    "done",
                     "",
                     "",
                     "0"
@@ -3104,10 +2558,7 @@
                     "Where nouns take possessive affixes, these are the same as the person-marking affixes ",
                     "no",
                     "",
-                    "",
-                    "",
                     "76, 78",
-                    "done",
                     "",
                     "",
                     "0"
@@ -3121,10 +2572,7 @@
                     "For any person, verbal person markers exhibit different forms depending on the gender (masc/fem, animate/inanimate, etc.) of the referent",
                     "no",
                     "",
-                    "",
-                    "",
                     "78",
-                    "done",
                     "",
                     "",
                     "0"
@@ -3138,10 +2586,7 @@
                     "In ditransitives (e.g. 'John gives a book to Bill'), the theme (book) is treated in the same way as are objects of transitives, while the recipient/beneficiary (Bill) is treated differently",
                     "yes",
                     "",
-                    "",
-                    "",
                     "PN 82, full NP 72",
-                    "done",
                     "",
                     "",
                     "1"
@@ -3155,10 +2600,7 @@
                     "In ditransitives (e.g. 'John gives Bill a book'), both the theme (book) and the recipient/beneficiary (Bill) is treated in the same way as are objects of transitives",
                     "no",
                     "",
-                    "",
-                    "",
                     "72",
-                    "done",
                     "",
                     "",
                     "0"
@@ -3172,10 +2614,7 @@
                     "In ditransitives, the recipient/beneficiary is treated in the same way as are objects of transitives, while the theme (book) is treated differently",
                     "no",
                     "",
-                    "",
-                    "",
                     "72",
-                    "done",
                     "",
                     "",
                     "0"
@@ -3189,10 +2628,7 @@
                     "Verb becomes reciprocal through use of reciprocal morpheme associated with the verb (may be attached to the verb root). This morpheme is only used to mean reciprocal.",
                     "yes",
                     "",
-                    "",
-                    "",
                     "80",
-                    "done",
                     "",
                     "",
                     "1"
@@ -3206,10 +2642,7 @@
                     "Verb becomes reflexive through use of reflexive morpheme associated with the verb (may be attached to the verb root). This morpheme is used only to mean reflexive. ",
                     "no",
                     "",
-                    "",
-                    "",
                     "80",
-                    "done",
                     "",
                     "",
                     "0"
@@ -3223,10 +2656,7 @@
                     "Verb becomes reciprocal or reflexive through use of a morpheme that means either reciprocal or reflexive which attaches to the root of the verb",
                     "no",
                     "",
-                    "",
-                    "",
                     "80",
-                    "done",
                     "",
                     "",
                     "0"
@@ -3243,9 +2673,6 @@
                     "",
                     "",
                     "",
-                    "done",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3258,9 +2685,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done",
                     "",
                     "",
                     "x"
@@ -3277,9 +2701,6 @@
                     "",
                     "",
                     "",
-                    "done",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3292,9 +2713,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done",
                     "",
                     "",
                     "x"
@@ -3311,9 +2729,6 @@
                     "",
                     "",
                     "",
-                    "done",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3325,10 +2740,7 @@
                     "Causative is morphological and is attached before the root of the verb",
                     "no",
                     "",
-                    "",
-                    "",
                     "89-90",
-                    "done",
                     "",
                     "",
                     "0"
@@ -3342,10 +2754,7 @@
                     "Causative is morphological and is attached after the root of the verb",
                     "yes",
                     "",
-                    "",
-                    "",
                     "89-90",
-                    "done",
                     "",
                     "",
                     "1"
@@ -3359,10 +2768,7 @@
                     "Morphological causative other than simple prefix/suffix",
                     "no",
                     "",
-                    "",
-                    "",
                     "89-90",
-                    "done",
                     "",
                     "",
                     "0"
@@ -3376,10 +2782,7 @@
                     "Causative construction that involves periphrasis or serialization",
                     "no",
                     "",
-                    "",
-                    "",
                     "89-90",
-                    "done",
                     "",
                     "",
                     "0"
@@ -3396,9 +2799,6 @@
                     "",
                     "",
                     "",
-                    "done",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3413,9 +2813,6 @@
                     "",
                     "",
                     "",
-                    "done",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3427,10 +2824,7 @@
                     "There is/are some other mechanism(s) for increasing valency",
                     "no",
                     "",
-                    "",
-                    "",
                     "89-90",
-                    "done",
                     "",
                     "",
                     "0"
@@ -3444,10 +2838,7 @@
                     "Clausal negator is a preposed element",
                     "maybe",
                     "",
-                    "",
-                    "",
                     "74, 81",
-                    "done",
                     "",
                     "",
                     "1"
@@ -3461,10 +2852,7 @@
                     "Clausal negator is a postposed element",
                     "no",
                     "",
-                    "",
-                    "",
                     "81",
-                    "done",
                     "",
                     "",
                     "0"
@@ -3478,10 +2866,7 @@
                     "Negatives: affix",
                     "no",
                     "",
-                    "",
-                    "",
                     "81",
-                    "done",
                     "",
                     "",
                     "0"
@@ -3495,10 +2880,7 @@
                     "Negatives: particle",
                     "yes",
                     "",
-                    "",
-                    "",
                     "81",
-                    "done",
                     "",
                     "",
                     "1"
@@ -3512,10 +2894,7 @@
                     "Negatives: auxiliary verb",
                     "no",
                     "",
-                    "",
-                    "",
                     "81",
-                    "done",
                     "",
                     "",
                     "0"
@@ -3529,10 +2908,7 @@
                     "Standard (non-emphatic) negation typically requires two morphemes, e.g. French 'ne V pas'",
                     "no",
                     "",
-                    "",
-                    "",
                     "81",
-                    "done",
                     "",
                     "",
                     "0"
@@ -3546,10 +2922,7 @@
                     "",
                     "no info",
                     "",
-                    "",
-                    "",
                     "81",
-                    "done",
                     "",
                     "",
                     "x"
@@ -3563,10 +2936,7 @@
                     "Lexical expression or highly idiomatic phrase",
                     "yes",
                     "",
-                    "",
-                    "",
                     "118",
-                    "done",
                     "",
                     "",
                     "1"
@@ -3580,10 +2950,7 @@
                     "Yes/no questions distinguished from declaratives by interrogative particle",
                     "yes",
                     "",
-                    "",
-                    "",
                     "84",
-                    "done",
                     "",
                     "",
                     "1"
@@ -3597,10 +2964,7 @@
                     "Yes/no questions distinguished from declaratives by interrogative verb morphology ",
                     "no",
                     "",
-                    "",
-                    "",
                     "84",
-                    "done",
                     "",
                     "",
                     "0"
@@ -3614,10 +2978,7 @@
                     "Yes/no questions distinguished from declaratives by word order (esp. subject-verb inversion) ",
                     "no",
                     "",
-                    "",
-                    "",
                     "84",
-                    "done",
                     "",
                     "",
                     "0"
@@ -3631,10 +2992,7 @@
                     "Yes/no questions distinguished from declaratives by intonation only",
                     "no",
                     "",
-                    "",
-                    "",
                     "84",
-                    "done",
                     "",
                     "",
                     "0"
@@ -3648,10 +3006,7 @@
                     "Content questions distinguished from declaratives by word order (esp. subject-verb inversion) as well as by presence of Q-word (who, what, etc.)",
                     "no",
                     "",
-                    "",
-                    "",
                     "80",
-                    "done",
                     "",
                     "",
                     "0"
@@ -3668,9 +3023,6 @@
                     "",
                     "",
                     "",
-                    "done",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3685,9 +3037,6 @@
                     "",
                     "",
                     "",
-                    "done",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3699,10 +3048,7 @@
                     "Predicate nominals may occur without a copula (i.e. grammatical in some circumstances, if not all)",
                     "yes",
                     "",
-                    "",
-                    "",
                     "77",
-                    "done",
                     "",
                     "",
                     "1"
@@ -3719,9 +3065,6 @@
                     "",
                     "",
                     "",
-                    "done",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3734,9 +3077,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done",
                     "",
                     "",
                     "x"
@@ -3753,9 +3093,6 @@
                     "",
                     "",
                     "",
-                    "done",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3768,9 +3105,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done",
                     "",
                     "",
                     "x"
@@ -3787,9 +3121,6 @@
                     "",
                     "",
                     "",
-                    "done",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3802,9 +3133,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done",
                     "",
                     "",
                     "x"
@@ -3821,9 +3149,6 @@
                     "",
                     "",
                     "",
-                    "done",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3836,9 +3161,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done",
                     "",
                     "",
                     "x"
@@ -3855,9 +3177,6 @@
                     "",
                     "",
                     "",
-                    "done",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3869,10 +3188,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "84",
-                    "done",
                     "",
                     "",
                     "0"
@@ -3886,10 +3202,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "84",
-                    "done",
                     "",
                     "",
                     "0"
@@ -3903,10 +3216,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "84",
-                    "done",
                     "",
                     "",
                     "0"
@@ -3920,10 +3230,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "84",
-                    "done",
                     "",
                     "",
                     "0"
@@ -3937,10 +3244,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "84",
-                    "done",
                     "",
                     "",
                     "0"
@@ -3954,10 +3258,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "84",
-                    "done",
                     "",
                     "",
                     "0"
@@ -3971,10 +3272,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "84",
-                    "done",
                     "",
                     "",
                     "0"
@@ -3988,10 +3286,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "84",
-                    "done",
                     "",
                     "",
                     "0"
@@ -4005,10 +3300,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "72",
-                    "done",
                     "",
                     "",
                     "0"
@@ -4022,10 +3314,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "73",
-                    "done",
                     "",
                     "",
                     "1"
@@ -4039,10 +3328,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "73",
-                    "done",
                     "",
                     "",
                     "1"
@@ -4056,10 +3342,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "84",
-                    "done",
                     "",
                     "",
                     "0"
@@ -4073,10 +3356,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "84",
-                    "done",
                     "",
                     "",
                     "1"
@@ -4090,10 +3370,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "77",
-                    "done",
                     "",
                     "",
                     "0"
@@ -4107,10 +3384,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "72",
-                    "done",
                     "",
                     "",
                     "0"
@@ -4124,10 +3398,7 @@
                     "yes to any of HG 95-97 entails yes to this; yep; this is more general but not just about derivation (would also include proprietive, for example, not necessarily derivation that changes word class) ",
                     "yes",
                     "",
-                    "",
-                    "",
                     "85-86",
-                    "done",
                     "",
                     "",
                     "1"
@@ -4141,10 +3412,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "71",
-                    "done",
                     "",
                     "",
                     "0"
@@ -4158,10 +3426,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "71",
-                    "done",
                     "",
                     "",
                     "0"
@@ -4175,10 +3440,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "71",
-                    "done",
                     "",
                     "",
                     "0"
@@ -4192,10 +3454,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "71",
-                    "done",
                     "",
                     "",
                     "0"
@@ -4209,10 +3468,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "71",
-                    "done",
                     "",
                     "",
                     "0"
@@ -4226,10 +3482,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "77",
-                    "done",
                     "",
                     "",
                     "0"
@@ -4243,10 +3496,7 @@
                     "",
                     "no info",
                     "",
-                    "",
-                    "",
                     "84",
-                    "done",
                     "",
                     "",
                     "x"
@@ -4260,10 +3510,7 @@
                     "yes to any of HG 173-175 entails yes to this; not necessarily? - CB",
                     "yes",
                     "",
-                    "",
-                    "",
                     "78, 82",
-                    "done",
                     "",
                     "",
                     "1"
@@ -4277,10 +3524,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "75",
-                    "done",
                     "",
                     "",
                     "1"
@@ -4294,10 +3538,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "75",
-                    "done",
                     "",
                     "",
                     "0"
@@ -4311,10 +3552,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "75",
-                    "done",
                     "",
                     "",
                     "0"
@@ -4328,10 +3566,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "149-150",
-                    "done",
                     "",
                     "",
                     "1"
@@ -4345,10 +3580,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "75",
-                    "done",
                     "",
                     "",
                     "1"
@@ -4362,10 +3594,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "75",
-                    "done",
                     "",
                     "",
                     "1"
@@ -4379,10 +3608,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "75",
-                    "done",
                     "",
                     "",
                     "0"
@@ -4396,10 +3622,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "75, 82",
-                    "done",
                     "",
                     "",
                     "1"
@@ -4413,10 +3636,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "82",
-                    "done",
                     "",
                     "",
                     "1"
@@ -4430,10 +3650,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "82",
-                    "done",
                     "",
                     "",
                     "1"
@@ -4450,9 +3667,6 @@
                     "",
                     "",
                     "",
-                    "done",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4465,9 +3679,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done",
                     "",
                     "",
                     "x"
@@ -4484,9 +3695,6 @@
                     "",
                     "",
                     "",
-                    "done",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4498,10 +3706,7 @@
                     "related to, and maybe equivalent to, HG 206-207 (not equivalent if verbal negation is being treated separately from clausal negation)",
                     "yes",
                     "",
-                    "",
-                    "",
                     "81",
-                    "done",
                     "",
                     "",
                     "1"
@@ -4515,10 +3720,7 @@
                     "related to, and maybe equivalent to, HG 203 (not equivalent if verbal negation is being treated separately from clausal negation)",
                     "yes",
                     "",
-                    "",
-                    "",
                     "81",
-                    "done",
                     "",
                     "",
                     "1"
@@ -4532,10 +3734,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "77",
-                    "done",
                     "",
                     "",
                     "1"
@@ -4549,10 +3748,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "75",
-                    "done",
                     "",
                     "",
                     "0"
@@ -4566,10 +3762,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "77",
-                    "done",
                     "",
                     "",
                     "0"
@@ -4583,10 +3776,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "77",
-                    "done",
                     "",
                     "",
                     "0"
@@ -4600,10 +3790,7 @@
                     "=yes to any of HG 188-190; not necessarily; e.g. YN has a reflexive marker but it doesn\u2019t go on the verb.",
                     "yes",
                     "",
-                    "",
-                    "",
                     "80",
-                    "done",
                     "",
                     "",
                     "1"
@@ -4617,10 +3804,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "80",
-                    "done",
                     "",
                     "",
                     "0"
@@ -4634,10 +3818,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "80",
-                    "done",
                     "",
                     "",
                     "0"
@@ -4654,9 +3835,6 @@
                     "",
                     "",
                     "",
-                    "done",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -4668,10 +3846,7 @@
                     "",
                     "no info",
                     "",
-                    "",
-                    "",
                     "79",
-                    "done",
                     "",
                     "",
                     "x"
@@ -4685,10 +3860,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "77",
-                    "done",
                     "",
                     "",
                     "0"
@@ -4705,9 +3877,6 @@
                     "",
                     "",
                     "",
-                    "done",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4720,9 +3889,6 @@
                     "no info",
                     "",
                     "",
-                    "",
-                    "",
-                    "done",
                     "",
                     "",
                     "x"
@@ -4739,9 +3905,6 @@
                     "",
                     "",
                     "",
-                    "done",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4753,10 +3916,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "77",
-                    "done",
                     "",
                     "",
                     "0"
@@ -4770,10 +3930,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "80",
-                    "done",
                     "",
                     "",
                     "0"
@@ -4787,10 +3944,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "81",
-                    "done",
                     "",
                     "",
                     "0"
@@ -4804,10 +3958,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "104, 139",
-                    "done",
                     "",
                     "",
                     "0"
@@ -4821,10 +3972,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "85",
-                    "done",
                     "",
                     "",
                     "0"
@@ -4838,10 +3986,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "78",
-                    "done",
                     "",
                     "",
                     "1"
@@ -4855,10 +4000,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "83",
-                    "done",
                     "",
                     "",
                     "1"
@@ -4872,10 +4014,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "77",
-                    "done",
                     "",
                     "",
                     "0"
@@ -4889,10 +4028,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "77",
-                    "done",
                     "",
                     "",
                     "0"
@@ -4909,9 +4045,6 @@
                     "",
                     "",
                     "",
-                    "done",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4923,10 +4056,7 @@
                     "That is, are the words which designate kinship relations such as \u2018mother\u2019 and \u2018father\u2019 verbs in the language?",
                     "no",
                     "",
-                    "",
-                    "",
                     "108, 123",
-                    "done",
                     "",
                     "",
                     "0"
@@ -4940,10 +4070,7 @@
                     "",
                     "no info",
                     "",
-                    "",
-                    "",
                     "71",
-                    "done",
                     "",
                     "",
                     "x"
@@ -4960,9 +4087,6 @@
                     "",
                     "",
                     "",
-                    "done",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4974,10 +4098,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "84",
-                    "done",
                     "",
                     "",
                     "1"
@@ -4994,9 +4115,6 @@
                     "",
                     "",
                     "",
-                    "done",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -5008,10 +4126,7 @@
                     "Pronominal subjects are clitics that can attach to verbs, nominal constituents, etc.",
                     "yes",
                     "",
-                    "",
-                    "",
                     "77",
-                    "done",
                     "",
                     "",
                     "1"
@@ -5025,10 +4140,7 @@
                     "list which segments in the \u2018form\u2019 column",
                     "no",
                     "",
-                    "",
-                    "",
                     "66",
-                    "done",
                     "",
                     "",
                     "0"

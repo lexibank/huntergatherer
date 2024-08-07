@@ -8,11 +8,8 @@
                 "Grammatical Feature",
                 "Grammatical Feature: Notes",
                 "Feature Status",
-                "Phonemicized Form",
-                "Orthographic Form",
                 "Grammatical Notes",
                 "Source",
-                "Created By",
                 "Etymology Notes",
                 "General Notes",
                 "Phylogenetic Code"
@@ -30,9 +27,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -47,9 +41,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -61,10 +52,7 @@
                     "Phonemic contrast",
                     "yes",
                     "",
-                    "/\u025f/ and /\u0272/",
-                    "",
                     "19",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -81,9 +69,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -98,9 +83,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -112,10 +94,7 @@
                     "Onset consists of more than one consonant phoneme",
                     "no",
                     "",
-                    "",
-                    "",
                     "22",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -129,10 +108,7 @@
                     "*(C)VC [no also equals highly constrained]",
                     "no",
                     "",
-                    "",
-                    "",
                     "22",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -146,10 +122,7 @@
                     "Do all syllables end in a consonant?",
                     "no",
                     "",
-                    "",
-                    "",
                     "22",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -166,9 +139,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -180,10 +150,7 @@
                     "Does stress occur on different syllables with meaning difference?",
                     "no",
                     "",
-                    "",
-                    "",
                     "35",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -200,9 +167,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -217,9 +181,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -231,10 +192,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "31",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -248,10 +206,7 @@
                     "Verb combines two or more categories (tense, aspect, mood, person, number, etc.) in portmanteau morphemes{ [ignore proclitics unless they are fused with values other than person/number]",
                     "yes",
                     "",
-                    "",
-                    "",
                     "123, 127",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -265,10 +220,7 @@
                     "Stem change, tone",
                     "no",
                     "",
-                    "",
-                    "",
                     "45",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -282,10 +234,7 @@
                     "Morphological complexity in verbs - multiple inflectional affixes in a single verb word",
                     "yes",
                     "",
-                    "",
-                    "",
                     "87",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -299,10 +248,7 @@
                     "There are many more prefixes than suffixes",
                     "no",
                     "",
-                    "",
-                    "",
                     "57",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -316,10 +262,7 @@
                     "There are many more suffixes than prefixes",
                     "yes",
                     "",
-                    "",
-                    "",
                     "57, 60",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -333,10 +276,7 @@
                     "The numbers of suffixes and prefixes are not notably different",
                     "no",
                     "",
-                    "",
-                    "",
                     "57",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -350,10 +290,7 @@
                     "The full morpheme is reduplicated",
                     "yes",
                     "",
-                    "",
-                    "",
                     "24",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -367,10 +304,7 @@
                     "Only part of the morpheme is reduplicated",
                     "yes",
                     "",
-                    "",
-                    "",
                     "87",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -384,10 +318,7 @@
                     "Noun compounds created from two noun phrases are common and systematically produced",
                     "yes",
                     "",
-                    "",
-                    "",
                     "24, 63",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -404,9 +335,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "1"
                 ],
                 [
@@ -418,10 +346,7 @@
                     "Serial verb constructions involve chaining of roots together in one morphophonological word",
                     "no",
                     "",
-                    "",
-                    "",
                     "97, 101",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -438,9 +363,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -455,9 +377,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -469,10 +388,7 @@
                     "Verb contains nominal segment",
                     "no",
                     "",
-                    "",
-                    "",
                     "100",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -489,9 +405,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -503,10 +416,7 @@
                     "Nouns are organized into sets with distinct morphological treatment; usually affects all nouns and involves agreement within the NP",
                     "no",
                     "",
-                    "",
-                    "",
                     "123",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -523,9 +433,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -538,9 +445,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -557,9 +461,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -572,9 +473,6 @@
                     "n/a",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -591,9 +489,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -606,9 +501,6 @@
                     "n/a",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -625,9 +517,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -640,9 +529,6 @@
                     "n/a",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -659,9 +545,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -674,9 +557,6 @@
                     "n/a",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -693,9 +573,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -707,10 +584,7 @@
                     "Often occurs in a small subset of nouns if a single entity is referred to, e.g. insects that normally occur in groups",
                     "no",
                     "",
-                    "",
-                    "",
                     "55",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -724,10 +598,7 @@
                     "",
                     "yes",
                     "",
-                    "/-ga\u027ea/ for kinship plural; /-bulal/ for dual",
-                    "",
                     "55-6",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -741,10 +612,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "55",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -758,10 +626,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "55",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -775,10 +640,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "55",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -792,10 +654,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "55",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -809,10 +668,7 @@
                     "Pronouns use a nominal plural affix not specific to pronouns",
                     "n/a",
                     "",
-                    "",
-                    "",
                     "74",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -826,10 +682,7 @@
                     "e.g. 'John and his associates', 'John and them'",
                     "no",
                     "",
-                    "",
-                    "",
                     "55",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -846,9 +699,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -861,9 +711,6 @@
                     "n/a",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -880,9 +727,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -894,10 +738,7 @@
                     "Inclusive  =us + you, exclusive = us but not you",
                     "yes",
                     "",
-                    "",
-                    "",
                     "73",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -914,9 +755,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -928,10 +766,7 @@
                     "Note the number of distances in the demonstrative system",
                     "yes",
                     "",
-                    "",
-                    "",
                     "83",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -948,9 +783,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -962,10 +794,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "74",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -979,10 +808,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "74",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -996,10 +822,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "74",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -1013,10 +836,7 @@
                     "Polite pronominal variants or differential avoidance of pronouns",
                     "no",
                     "",
-                    "",
-                    "",
                     "74",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -1033,9 +853,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -1050,9 +867,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -1064,10 +878,7 @@
                     "Note the number of grammatical relations that may be morphologically marked on the noun",
                     "yes",
                     "",
-                    "absolutive, ergative, instrumental, dative, locative, ablative, abessive, perlative",
-                    "",
                     "45",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -1084,9 +895,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -1098,10 +906,7 @@
                     "All NPs marked if in appropriate syntactic relation; no distinction in marking based on semantics (type of entity)",
                     "yes",
                     "",
-                    "",
-                    "",
                     "50",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -1118,9 +923,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -1133,9 +935,6 @@
                     "yes",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -1152,9 +951,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -1167,9 +963,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -1186,9 +979,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -1203,9 +993,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -1217,10 +1004,7 @@
                     "Same marking for 'with a person' and 'with an instrument'",
                     "no",
                     "",
-                    "",
-                    "",
                     "192",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -1234,10 +1018,7 @@
                     "At least some part of the system involves base-2",
                     "yes",
                     "",
-                    "",
-                    "",
                     "65",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -1251,10 +1032,7 @@
                     "At least some part of the system involves base-5",
                     "no",
                     "",
-                    "",
-                    "",
                     "65",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -1268,10 +1046,7 @@
                     "At least some part of the system involves base-10",
                     "no",
                     "",
-                    "",
-                    "",
                     "65",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -1285,10 +1060,7 @@
                     "4, 20, etc.",
                     "no",
                     "",
-                    "",
-                    "",
                     "65",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -1302,10 +1074,7 @@
                     "e.g. two = 'eye-quantity'",
                     "no",
                     "",
-                    "",
-                    "",
                     "65",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -1319,10 +1088,7 @@
                     "'Many' or some other non-exact term used",
                     "yes",
                     "",
-                    "",
-                    "",
                     "65",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -1336,10 +1102,7 @@
                     "'Many' or some other non-exact term used",
                     "no",
                     "",
-                    "",
-                    "",
                     "65",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -1356,9 +1119,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -1371,9 +1131,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -1390,9 +1147,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -1407,9 +1161,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -1421,10 +1172,7 @@
                     "e.g. 'the boy-'s dog'",
                     "yes",
                     "",
-                    "",
-                    "",
                     "52",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -1438,10 +1186,7 @@
                     "e.g. 'the boy his-dog'",
                     "no",
                     "",
-                    "",
-                    "",
                     "52",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -1458,9 +1203,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -1472,10 +1214,7 @@
                     "Where inalienable possession differs from alienable, the former takes a morphological marker (may include an associated free particle/pronoun)",
                     "yes",
                     "",
-                    "",
-                    "",
                     "51",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -1489,10 +1228,7 @@
                     "Where inalienable possession differs from alienable, the latter takes a morphological marker (may include an associated free particle/pronoun)",
                     "yes",
                     "",
-                    "",
-                    "",
                     "51",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -1509,9 +1245,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1523,10 +1256,7 @@
                     "'my-father' but *father",
                     "no",
                     "",
-                    "",
-                    "",
                     "185",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -1540,10 +1270,7 @@
                     "'my-leg' but *leg",
                     "yes",
                     "",
-                    "",
-                    "",
                     "51",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -1560,9 +1287,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1575,9 +1299,6 @@
                     "yes",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -1594,9 +1315,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -1611,9 +1329,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1625,10 +1340,7 @@
                     "There is a morpheme which derives an agent or subject from a verb",
                     "yes",
                     "",
-                    "/-\u0272V/",
-                    "",
                     "57",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -1645,9 +1357,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -1659,10 +1368,7 @@
                     "There is a morpheme which derives a verb from a noun or adjective",
                     "yes",
                     "",
-                    "/mal/",
-                    "",
                     "89",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -1676,10 +1382,7 @@
                     "'John and Mary went to market' is marked differently from 'John went to market with Mary'",
                     "yes",
                     "",
-                    "",
-                    "",
                     "53",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -1693,10 +1396,7 @@
                     "Past tense is regularly morphologically marked on the verb or elsewhere",
                     "yes",
                     "",
-                    "",
-                    "",
                     "92",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -1710,10 +1410,7 @@
                     "e.g. distant vs. recent past",
                     "no",
                     "",
-                    "",
-                    "",
                     "92",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -1727,10 +1424,7 @@
                     "e.g. imminent vs. distant future",
                     "no",
                     "",
-                    "",
-                    "",
                     "93",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -1744,10 +1438,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "93",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -1761,10 +1452,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "93",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -1778,10 +1466,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "92",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -1798,9 +1483,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -1812,10 +1494,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "93",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -1829,10 +1508,7 @@
                     "There is a special morpheme (or morphemes, or a bare verb root where inflection is normally expected) used to signal imperative (command) mood",
                     "yes",
                     "",
-                    "/-(null)/, /-j/, or /-ga/",
-                    "",
                     "93",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -1846,10 +1522,7 @@
                     "There is a distinct morpheme for polite imperative constructions (specify if it has other functions in the language)",
                     "no",
                     "",
-                    "",
-                    "",
                     "93, 195",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -1863,10 +1536,7 @@
                     "There are different strategies for marking negation in imperative and declarative clauses",
                     "no",
                     "",
-                    "",
-                    "",
                     "93",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -1880,10 +1550,7 @@
                     "as opposed to imperative; the person in control of desired state of affairs is not the addressee; ex: 'Let's sing' / 'Let him sing'",
                     "no",
                     "",
-                    "",
-                    "",
                     "93",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -1900,9 +1567,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -1915,9 +1579,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -1934,9 +1595,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -1949,9 +1607,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -1968,9 +1623,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -1983,9 +1635,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -2002,9 +1651,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2017,9 +1663,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -2036,9 +1679,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2050,10 +1690,7 @@
                     "There is a single morpheme or verb form to mean '(be careful lest) X happens'",
                     "yes",
                     "",
-                    "/-\u0272\u025fi/",
-                    "",
                     "95",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -2067,10 +1704,7 @@
                     "There are dedicated morpheme(s) for realis/irrealis 'actualized/unactualized events'",
                     "yes",
                     "",
-                    "/-\u0272agu/ (irrealis)",
-                    "",
                     "95",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -2087,9 +1721,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2101,10 +1732,7 @@
                     "There are grammaticalized elements indicating movement away, toward, there and back, etc.",
                     "no",
                     "",
-                    "",
-                    "",
                     "68",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -2121,9 +1749,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2136,9 +1761,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -2155,9 +1777,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2170,9 +1789,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -2189,9 +1805,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2204,9 +1817,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -2223,9 +1833,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2238,9 +1845,6 @@
                     "n/a",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -2257,9 +1861,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2272,9 +1873,6 @@
                     "n/a",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -2291,9 +1889,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2308,9 +1903,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2322,10 +1914,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "139",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -2339,10 +1928,7 @@
                     "Verb precedes subject",
                     "yes",
                     "",
-                    "",
-                    "",
                     "140",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -2356,10 +1942,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "140",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -2373,10 +1956,7 @@
                     "Verb precedes object",
                     "yes",
                     "",
-                    "",
-                    "",
                     "140",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -2390,10 +1970,7 @@
                     "Object precedes subject",
                     "yes",
                     "",
-                    "",
-                    "",
                     "140",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -2407,10 +1984,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "135",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -2424,10 +1998,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "135",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -2441,10 +2012,7 @@
                     "Possessive phrase composed of a free possessor and its possessum has possessor first (e.g. John's book)",
                     "yes",
                     "",
-                    "",
-                    "",
                     "121",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -2458,10 +2026,7 @@
                     "Possessive phrase composed of a free possessor and its possessum has possessum first (e.g. 'book of John')",
                     "yes",
                     "",
-                    "",
-                    "",
                     "121",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -2475,10 +2040,7 @@
                     "Adjective precedes the noun",
                     "no",
                     "",
-                    "",
-                    "",
                     "120",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -2492,10 +2054,7 @@
                     "Adjective follows the noun",
                     "yes",
                     "",
-                    "",
-                    "",
                     "120",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -2509,10 +2068,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "54, 120",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -2526,10 +2082,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "120",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -2543,10 +2096,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "120",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -2560,10 +2110,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "120",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -2577,10 +2124,7 @@
                     "Relative clause follows noun that it modifies",
                     "no info",
                     "",
-                    "",
-                    "",
                     "181",
-                    "Done-Jessica",
                     "",
                     "",
                     "x"
@@ -2594,10 +2138,7 @@
                     "Relative clause precedes noun that it modifies",
                     "no info",
                     "",
-                    "",
-                    "",
                     "181",
-                    "Done-Jessica",
                     "",
                     "",
                     "x"
@@ -2611,10 +2152,7 @@
                     "e.g. 'the dog cat chased-NMZR got away' ('the cat that the dog chased got away')",
                     "no info",
                     "",
-                    "",
-                    "",
                     "181",
-                    "Done-Jessica",
                     "",
                     "",
                     "x"
@@ -2628,10 +2166,7 @@
                     "e.g. 'what is running, the dog chased that cat'",
                     "no info",
                     "",
-                    "",
-                    "",
                     "181",
-                    "Done-Jessica",
                     "",
                     "",
                     "x"
@@ -2645,10 +2180,7 @@
                     "'what', 'who', etc. come first in interrogative clause",
                     "yes",
                     "",
-                    "",
-                    "",
                     "140",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -2665,9 +2197,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2680,9 +2209,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -2699,9 +2225,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "1"
                 ],
                 [
@@ -2714,9 +2237,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -2733,9 +2253,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2747,10 +2264,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "72",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -2764,10 +2278,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "72",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -2781,10 +2292,7 @@
                     "yes, no, mixed, other",
                     "no",
                     "",
-                    "",
-                    "",
                     "72",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -2798,10 +2306,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "72",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -2815,10 +2320,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "72",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -2835,9 +2337,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2850,9 +2349,6 @@
                     "n/a",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -2869,9 +2365,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2884,9 +2377,6 @@
                     "n/a",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -2903,9 +2393,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2918,9 +2405,6 @@
                     "yes",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -2937,9 +2421,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2952,9 +2433,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -2971,9 +2449,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -2988,9 +2463,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -3002,10 +2474,7 @@
                     "Intransitive verbs take person-marking clitics/affixes",
                     "yes",
                     "",
-                    "/-\u027ei-/",
-                    "",
                     "105",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -3022,9 +2491,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -3037,9 +2503,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -3056,9 +2519,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -3071,9 +2531,6 @@
                     "n/a",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -3090,9 +2547,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -3105,9 +2559,6 @@
                     "n/a",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -3124,9 +2575,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -3138,10 +2586,7 @@
                     "In ditransitives (e.g. 'John gives a book to Bill'), the theme (book) is treated in the same way as are objects of transitives, while the recipient/beneficiary (Bill) is treated differently",
                     "yes",
                     "",
-                    "",
-                    "",
                     "134",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -3155,10 +2600,7 @@
                     "In ditransitives (e.g. 'John gives Bill a book'), both the theme (book) and the recipient/beneficiary (Bill) is treated in the same way as are objects of transitives",
                     "no",
                     "",
-                    "",
-                    "",
                     "134",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -3172,10 +2614,7 @@
                     "In ditransitives, the recipient/beneficiary is treated in the same way as are objects of transitives, while the theme (book) is treated differently",
                     "no",
                     "",
-                    "",
-                    "",
                     "134",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -3189,10 +2628,7 @@
                     "Verb becomes reciprocal through use of reciprocal morpheme associated with the verb (may be attached to the verb root). This morpheme is only used to mean reciprocal.",
                     "yes",
                     "",
-                    "/-wa-/",
-                    "",
                     "103",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -3206,10 +2642,7 @@
                     "Verb becomes reflexive through use of reflexive morpheme associated with the verb (may be attached to the verb root). This morpheme is used only to mean reflexive. ",
                     "yes",
                     "",
-                    "/-\u025fi-/",
-                    "",
                     "104, 145",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -3226,9 +2659,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -3240,10 +2670,7 @@
                     "Passive voice usually involves a change to the verb, while the object of the active voice verb is promoted to subject in the passive voice, and the former subject is deleted/demoted",
                     "yes",
                     "",
-                    "",
-                    "",
                     "147",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -3257,10 +2684,7 @@
                     "Like passive, but deletes or demotes the object of a transitive verb; usually found in ergative languages",
                     "yes",
                     "",
-                    "",
-                    "",
                     "151",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -3274,10 +2698,7 @@
                     "There is/are some other mechanism(s) for reducing valency",
                     "yes",
                     "",
-                    "",
-                    "",
                     "140, 145",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -3294,9 +2715,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -3311,9 +2729,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -3325,10 +2740,7 @@
                     "Causative is morphological and is attached before the root of the verb",
                     "no",
                     "",
-                    "",
-                    "",
                     "97",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -3342,10 +2754,7 @@
                     "Causative is morphological and is attached after the root of the verb",
                     "yes",
                     "",
-                    "/-bu\u014ba-l/ or /-ga\u014ba-l/ for \"state causative\" and /-mani-l/ for \"action causative\"",
-                    "",
                     "97",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -3359,10 +2768,7 @@
                     "Morphological causative other than simple prefix/suffix",
                     "no",
                     "",
-                    "",
-                    "",
                     "97",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -3376,10 +2782,7 @@
                     "Causative construction that involves periphrasis or serialization",
                     "no",
                     "",
-                    "",
-                    "",
                     "97",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -3393,10 +2796,7 @@
                     "Indicates that the causer does not directly cause the action of the verb to be realized, but does so by inducing someone else to carry out the action, e.g. 'John had the house painted.'",
                     "no",
                     "",
-                    "",
-                    "",
                     "97",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -3410,10 +2810,7 @@
                     "Indicates that causer participates in event",
                     "no",
                     "",
-                    "",
-                    "",
                     "97",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -3430,9 +2827,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -3444,10 +2838,7 @@
                     "Clausal negator is a preposed element",
                     "yes",
                     "",
-                    "",
-                    "",
                     "197",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -3461,10 +2852,7 @@
                     "Clausal negator is a postposed element",
                     "no",
                     "",
-                    "",
-                    "",
                     "197",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -3481,9 +2869,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -3495,10 +2880,7 @@
                     "Negatives: particle",
                     "yes",
                     "",
-                    "/ka\u027ei/ and /balu/",
-                    "",
                     "113",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -3515,9 +2897,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -3530,9 +2909,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -3549,9 +2925,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -3566,9 +2939,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -3580,10 +2950,7 @@
                     "Yes/no questions distinguished from declaratives by interrogative particle",
                     "no",
                     "",
-                    "",
-                    "",
                     "195",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -3597,10 +2964,7 @@
                     "Yes/no questions distinguished from declaratives by interrogative verb morphology ",
                     "no",
                     "",
-                    "",
-                    "",
                     "195",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -3614,10 +2978,7 @@
                     "Yes/no questions distinguished from declaratives by word order (esp. subject-verb inversion) ",
                     "no",
                     "",
-                    "",
-                    "",
                     "195",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -3631,10 +2992,7 @@
                     "Yes/no questions distinguished from declaratives by intonation only",
                     "yes",
                     "",
-                    "",
-                    "",
                     "195",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -3648,10 +3006,7 @@
                     "Content questions distinguished from declaratives by word order (esp. subject-verb inversion) as well as by presence of Q-word (who, what, etc.)",
                     "no",
                     "",
-                    "",
-                    "",
                     "195",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -3665,10 +3020,7 @@
                     "Adjectives act like verbs in predicative position",
                     "yes",
                     "",
-                    "",
-                    "",
                     "138",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -3682,10 +3034,7 @@
                     "Adjectives act like nouns in predicative position",
                     "no",
                     "",
-                    "",
-                    "",
                     "138",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -3699,10 +3048,7 @@
                     "Predicate nominals may occur without a copula (i.e. grammatical in some circumstances, if not all)",
                     "yes",
                     "",
-                    "",
-                    "",
                     "137",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -3716,10 +3062,7 @@
                     "Compare Eng 'the one that fell' (but in Eng 'one' could be considered a head)",
                     "no info",
                     "",
-                    "",
-                    "",
                     "181",
-                    "Done-Jessica",
                     "",
                     "",
                     "x"
@@ -3733,10 +3076,7 @@
                     "Relative clauses that form a constituent with a head noun (in a single noun phrase) are rare or nonexistent; some descriptions may refer to adjoined or correlative clauses.",
                     "no info",
                     "",
-                    "",
-                    "",
                     "181",
-                    "Done-Jessica",
                     "",
                     "",
                     "x"
@@ -3750,10 +3090,7 @@
                     "It may be unclear whether the classifier is the nominal head of the construction or is an agreement marker on the relative clause",
                     "no info",
                     "",
-                    "",
-                    "",
                     "181",
-                    "Done-Jessica",
                     "",
                     "",
                     "x"
@@ -3767,10 +3104,7 @@
                     "",
                     "no info",
                     "",
-                    "",
-                    "",
                     "181",
-                    "Done-Jessica",
                     "",
                     "",
                     "x"
@@ -3784,10 +3118,7 @@
                     "The same morpheme marks a relative clause and is a nominalizer on verbs (and/or other word classes)",
                     "no info",
                     "",
-                    "",
-                    "",
                     "181",
-                    "Done-Jessica",
                     "",
                     "",
                     "x"
@@ -3801,10 +3132,7 @@
                     "Indicates that the subject desires to carry out the action denoted by the verb (distinct from verb 'want', but may be grammaticalized from it)",
                     "no",
                     "",
-                    "/-ngV/ ",
-                    "",
                     "95",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -3821,9 +3149,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -3838,9 +3163,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -3852,10 +3174,7 @@
                     "Morphology (usually on verb) distinguishes between clauses denoting events that occur at the same time or in sequence",
                     "no",
                     "",
-                    "",
-                    "",
                     "156",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -3869,10 +3188,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "106",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -3886,10 +3202,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "55",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -3903,10 +3216,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "98",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -3923,9 +3233,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -3938,9 +3245,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -3957,9 +3261,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -3974,9 +3275,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -3988,10 +3286,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "61",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -4005,10 +3300,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "45",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -4025,9 +3317,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -4040,9 +3329,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -4059,9 +3345,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -4076,9 +3359,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "1"
                 ],
                 [
@@ -4090,10 +3370,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "96, 161",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -4110,9 +3387,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4125,9 +3399,6 @@
                     "yes",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -4144,9 +3415,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -4161,9 +3429,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -4175,10 +3440,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "55",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -4192,10 +3454,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "55",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -4212,9 +3471,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4227,9 +3483,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -4246,9 +3499,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -4260,10 +3510,7 @@
                     "yes to any of HG 173-175 entails yes to this; not necessarily? - CB",
                     "no",
                     "",
-                    "",
-                    "",
                     "73",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -4280,9 +3527,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -4294,10 +3538,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "73",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -4311,10 +3552,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "73",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -4328,10 +3566,7 @@
                     "",
                     "yes",
                     "",
-                    "who = /wa\u0272a/, what =/wa\u0272u/",
-                    "",
                     "78",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -4345,10 +3580,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "72",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -4362,10 +3594,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "72",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -4379,10 +3608,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "72",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -4396,10 +3622,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "72",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -4413,10 +3636,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "72",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -4430,10 +3650,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "74",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -4450,9 +3667,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -4464,10 +3678,7 @@
                     "include the position in the \u2018form\u2019 notes",
                     "yes",
                     "",
-                    "sentence-initial",
-                    "",
                     "209",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -4481,10 +3692,7 @@
                     "include the position in the \u2018form\u2019 notes",
                     "yes",
                     "",
-                    "sentence-initial",
-                    "",
                     "150",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -4501,9 +3709,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -4515,10 +3720,7 @@
                     "related to, and maybe equivalent to, HG 203 (not equivalent if verbal negation is being treated separately from clausal negation)",
                     "yes",
                     "",
-                    "",
-                    "",
                     "113",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -4535,9 +3737,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -4550,9 +3749,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -4569,9 +3765,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -4583,10 +3776,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "196",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -4600,10 +3790,7 @@
                     "=yes to any of HG 188-190; not necessarily; e.g. YN has a reflexive marker but it doesn\u2019t go on the verb.",
                     "yes",
                     "",
-                    "",
-                    "",
                     "103",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -4617,10 +3804,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "103",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -4637,9 +3821,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -4654,9 +3835,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4668,10 +3846,7 @@
                     "",
                     "yes",
                     "",
-                    "/-ma-l/ or /-mani\u025fi-j/ ",
-                    "",
                     "101",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -4685,10 +3860,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "93",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -4702,10 +3874,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "98, 103",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -4722,9 +3891,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -4737,9 +3903,6 @@
                     "n/a",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -4756,9 +3919,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -4770,10 +3930,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "93",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -4787,10 +3944,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "93",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -4807,9 +3961,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -4822,9 +3973,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -4841,9 +3989,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -4858,9 +4003,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -4872,10 +4014,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "89",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -4892,9 +4031,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -4906,10 +4042,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "191",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -4926,9 +4059,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "x"
                 ],
                 [
@@ -4943,9 +4073,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -4957,10 +4084,7 @@
                     "",
                     "yes",
                     "",
-                    "",
-                    "",
                     "119",
-                    "Done-Jessica",
                     "",
                     "",
                     "1"
@@ -4974,10 +4098,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "119",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -4991,10 +4112,7 @@
                     "",
                     "no",
                     "",
-                    "",
-                    "",
                     "139",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"
@@ -5011,9 +4129,6 @@
                     "",
                     "",
                     "",
-                    "Done-Jessica",
-                    "",
-                    "",
                     "0"
                 ],
                 [
@@ -5026,9 +4141,6 @@
                     "no",
                     "",
                     "",
-                    "",
-                    "",
-                    "Done-Jessica",
                     "",
                     "",
                     "0"

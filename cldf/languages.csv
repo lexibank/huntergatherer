@@ -266,21 +266,21 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 408,Caquinte,caqu1242,Caquinte,cot,South America,-11.4812,-73.4451,Arawakan
 409,Nomatsigenga,noma1263,Nomatsiguenga,not,South America,-11.5349,-74.4371,Arawakan
 410,Iñapari,inap1242,Iñapari,inp,South America,-12.46525,-69.30827,Arawakan
-411,Manxineri,,,mpd,,,,
+411,Manxineri,mach1268,Machinere,mpd,South America,-10.661655,-70.208108,Arawakan
 412,Jarawara,jara1276,Jarawara,jaa,South America,,,Arawan
-413,Dení,,,dny,,,,
+413,Dení,deni1241,Deni,dny,South America,-6.74962,-67.5029,Arawan
 414,Kulina,kuli1255,Kulina Pano,cul,South America,-6.17715,-72.0438,Pano-Tacanan
-415,Paumarí,,,pad,,,,
-416,Soruahá,,,,,,,
+415,Paumarí,paum1247,Paumari,pad,South America,-5.78403,-64.2803,Arawan
+416,Soruahá,suru1263,Suruahá,,South America,-6.82525,-66.3146,Arawan
 417,Tsafiki,colo1256,Tsafiki,cof,South America,-0.21181,-79.2347,Barbacoan
-418,Awa Pit,,,kwi,,,,
+418,Awa Pit,awac1239,Awa-Cuaiquer,kwi,South America,1.21652,-78.3401,Barbacoan
 419,Shawi,chay1248,Shawi,cbt,South America,-5.63764,-76.8252,Cahuapanan
 420,Jebero,jebe1250,Jebero,jeb,South America,-5.40317,-76.4103,Cahuapanan
-421,Kariña,,,car,,,,
-422,Maquiritari,,,mch,,,,
-423,Trió,,,tri,,,,
+421,Kariña,gali1262,Galibi Carib,car,South America,5.83772,-56.8323,Cariban
+422,Maquiritari,maqu1238,Ye'kwana,mch,South America,4.70705,-64.3877,Cariban
+423,Trió,trio1238,Trió,tri,South America,2.53616,-55.7599,Cariban
 424,Panare,enap1235,Panare,pbh,South America,6.95035,-65.8483,Cariban
-425,Moré,,,ite,,,,
+425,Moré,moss1236,Mossi,ite,Africa,11.95,-1.32,Atlantic-Congo
 426,Tapakura,kite1238,,,,,,
 427,Kitemoka,kite1237,Kitemoka,,South America,-16.0,-62.75,Chapacuran
 428,Pech,pech1241,Pech,pay,North America,15.8033,-85.558,Chibchan
@@ -293,18 +293,18 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 438,Omurano,omur1241,Omurano,omu,South America,-4.09028,-76.01,Omurano
 439,Aikanã,aika1237,Aikanã,tba,South America,-12.6695,-60.5353,Aikanã
 440,Kanoê,kano1245,Kanoê,kxo,South America,-12.1789,-64.5812,Kanoê
-441,Yurakare,,,yuz,,,,
+441,Yurakare,yura1255,Yuracaré,yuz,South America,-16.7479,-65.1224,Yuracaré
 442,Kanamarí,kana1291,Katukína-Kanamarí,knm,South America,-6.45399,-68.7678,Katukinan
 444,Arikapu,arik1265,Arikapú,ark,South America,-12.4878,-62.7261,Nuclear-Macro-Je
 445,Sabane,saba1268,Sabanê,sae,South America,-12.9857,-60.335,Nambiquaran
-451,Amawaka,,,amc,,,,
-452,Mako,,,wpc,,,,
+451,Amawaka,amah1246,Amahuaca,amc,South America,-10.2012,-72.3208,Pano-Tacanan
+452,Mako,maco1239,Maco,wpc,South America,4.5621,-66.5813,Saliban
 453,Kueretu,cure1236,Kueretu,,South America,-1.045978,-70.305862,Tucanoan
 454,Gavião,gavi1247,Gavião,gvo,South America,,,Tupian
 455,Mundurukú,mund1330,Mundurukú,myu,South America,-8.41095,-57.691,Tupian
 456,Aruá,arua1261,Aruá (Rondonia State),arx,South America,-12.1186,-62.4357,Tupian
 457,Akuntsu,akun1241,Akuntsu,aqz,South America,-12.8322,-60.9716,Tupian
-458,Mekéns,,,skf,,,,
+458,Mekéns,saki1248,Mekens,skf,South America,-13.054,-62.0927,Tupian
 459,Wayoro,wayo1238,Wayoró,wyr,South America,-12.6945,-61.3064,Tupian
 460,Tupari,tupa1250,Tuparí,tpr,South America,-11.8884,-62.2544,Tupian
 461,Makuráp,maku1278,Makuráp,mpu,South America,-11.8701,-64.3201,Tupian
@@ -312,14 +312,14 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 463,Puruborá,puru1264,Puruborá,pur,South America,-11.4226,-62.4358,Tupian
 464,Mawé,sate1243,Sateré-Mawé,mav,South America,-3.63897,-56.8749,Tupian
 465,Parintintin,pari1258,Parintintín,paf,South America,,,Tupian
-466,Urubu-Ka'apor,,,urb,,,,
-468,Pauserna,,,psm,,,,
+466,Urubu-Ka'apor,urub1250,Urubú-Kaapor,urb,South America,-2.46455,-46.2204,Tupian
+468,Pauserna,pasu1244,,psm,,,,
 469,Guarayu,guar1292,Guarayu,gyr,South America,-15.8247,-61.6934,Tupian
 470,Tupinamba,tupi1273,Tupinambá,tpn,South America,-22.807778,-42.106389,Tupian
 471,Arabela,arab1268,Arabela,arl,South America,-1.96126,-75.0612,Zaparoan
 473,Warekena do Xié,ware1255,Warekena do San Miguel,gae,South America,2.904099,-67.092099,Arawakan
 474,Bahuana,bahu1238,Bahuanaic,xir,,,,Arawakan
 475,Banawa,bana1307,Banawa,jaa,South America,-6.741,-64.89624,Arawan
-476,Guatuso,,,gut,,,,
+476,Guatuso,male1297,Maléku Jaíka,gut,North America,10.7485,-84.7318,Chibchan
 478,Shuar,shua1257,Shuar,jiv,South America,-3.45136,-78.1892,Chicham
-480,A'ɨwa,,,ash,,,,
+480,A'ɨwa,abis1238,Aewa,ash,South America,-1.284096,-75.084405,Aewa
