@@ -1,4 +1,7 @@
 Grapheme	IPA
+vmvn	ʊ m ʊ n
+ntv	n t ʊ
+G_instr_pref	NULL
 !	NULL
 $	NULL
 $h	h
@@ -254,7 +257,7 @@ Ys	y s
 ^V́	v
 ^W	w
 ^X	ʂ
-^Y	j
+^Y	y
 ^_	NULL
 ^_-	NULL
 ^a	a
@@ -464,7 +467,7 @@ Ys	y s
 ^xw	xʷ
 ^xʃ	x ʃ
 ^xʷ	xʷ
-^y	j
+^y	y
 ^y$	y
 ^y:	yː
 ^y:$	yː
@@ -1133,9 +1136,9 @@ xw	x w
 xʃ	x ʃ
 xʷ	xʷ
 xʸ	xʲ
-y	j
+y	y
 y!	NULL
-y$	j
+y$	y
 y:	yː
 y:$	yː
 yy	yː
